@@ -1,7 +1,10 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+My name is Lee Cattarin. I use he or ze pronouns, or 
+<a href="https://en.pronouns.page/@lee.cattarin" target="_blank">most neopronouns</a>.
+
+I'm a programmer (backend, K8s/devOps), crafter - knitting, spinning yarn, stamp carving/printmaking, cardmaking & papercrafts, and lately playing w/ bookbinding - and occasional artist, bread baker, guitar player, and probably a lot of other things.

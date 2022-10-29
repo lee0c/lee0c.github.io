@@ -1,5 +1,5 @@
 .footer {
-  background: white;
+  background: #2e303e;
   color: $brand-color;
   text-align: center;
   min-height: 56px;
@@ -13,7 +13,7 @@
 }
 @media (max-width: $container-width) {
   .footer {
-    background: white;
+    background: #2e303e;
     color: $brand-color;
     text-align: center;
     min-height: 56px;
@@ -24,6 +24,6 @@
 .footer-description {
   display: block;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #d5d8da;
   font-size:0.8rem;
 }
