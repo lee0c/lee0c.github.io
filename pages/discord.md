@@ -4,4 +4,4 @@ title: discord
 permalink: /discord
 ---
 
-reach me on discord at inherentlee#5139.
+reach me on discord at inherentlee#5139
