@@ -9,38 +9,33 @@
   }
 }
 
-.fa-circle-o {
+.fa-ravelry {
   padding: 5px;
-  @include social-media-icon($ravelry-color, $icon-transition-time);
+  @include social-media-icon($red, $icon-transition-time);
 }
 
 .fa-github {
   padding: 5px;
-  @include social-media-icon($github-color, $icon-transition-time);
+  @include social-media-icon($orange, $icon-transition-time);
 }
 
-.fa-code-fork {
+.fa-discord {
   padding: 5px;
-  @include social-media-icon($code-color, $icon-transition-time);
+  @include social-media-icon($yellow, $icon-transition-time);
 }
 
 .fa-envelope {
   padding: 5px;
-  @include social-media-icon($envelope-color, $icon-transition-time);
+  @include social-media-icon($green, $icon-transition-time);
 }
 
 .fa-twitter {
   padding: 5px;
-  @include social-media-icon($twitter-color, $icon-transition-time);
+  @include social-media-icon($blue, $icon-transition-time);
 }
 
 .fa-instagram {
   padding: 5px;
-  @include social-media-icon($instagram-color, $icon-transition-time);
-}
-
-.fa-rss-square {
-  padding: 5px;
-  @include social-media-icon($rss-color, $icon-transition-time);
+  @include social-media-icon($purple, $icon-transition-time);
 }
 

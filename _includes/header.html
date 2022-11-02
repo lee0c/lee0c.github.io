@@ -1,13 +1,13 @@
 <header class="site-header">
   <h3 class="site-title">
-    <a href="{{ site.github.url }}/" title="hello hello hello hello">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/" title="{{ site.title }}" aria-label="{{ site.title }}"><i class="fa fa-solid fa-crow"></i></a>
   </h3>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
     {% endfor %}
     {% for item in site.data.settings.social %}
-      <a href="{{ item.link }}" title="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+      <a href="{{ item.link }}" title="{{ item.mouseover }}" aria-label="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }} fa-{{ item.class }}" aria-hidden="true"></i></a>
     {% endfor %}
   </nav>
   <div class="dropdown">
@@ -17,7 +17,7 @@
         <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" title="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        <a href="{{ item.link }}" title="{{ item.mouseover }}" aria-label="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }} fa-{{ item.class }}" aria-hidden="true"></i></a>
       {% endfor %}
     </div>
   </div>

@@ -1,6 +1,11 @@
 <footer class="footer">
   {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" title="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+    <a href="{{ item.link }}" title="{{ item.mouseover }}" aria-label="{{ item.mouseover }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }} fa-{{ item.class }}" aria-hidden="true"></i></a>
   {% endfor %}
-  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} from {{ site.author }} in 2022</a>|<a href="attribution">attribution</a></div>
+  <div class="footer-description">
+    <a href="todo" title="todo" aria-label="to do"><i class="fa fa-solids fa-list" aria-hidden="true"></i></a>
+    <a href="https://github.com/lee0c/lee0c.github.io" title="src" aria-label="source"><i class="fa fa-solids fa-code-branch" aria-hidden="true"></i></a>
+    |<a href="{{ site.github.url }}/">{{ site.title }} from {{ site.author }} in 2022</a>
+    |<a href="attribution">attribution</a>
+  </div>
 </footer>
