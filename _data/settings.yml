@@ -23,8 +23,4 @@ pagination:
   next_page: 'next >'
   previous_page: '< prev'
 
-# sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'related:'
-
 post_date_prefix: 'last updated'
