@@ -2,6 +2,7 @@
 google-ID: ''
 
 menu:
+- {name: 'project gallery', url: 'gallery'}
 - {name: 'ready to ship', url: 'ready-to-ship'}
 - {name: 'on demand', url: 'on-demand'}
 - {name: 'shop FAQ', url: 'shop'}
