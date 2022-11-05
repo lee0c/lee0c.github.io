@@ -4,6 +4,12 @@ title: shop FAQ
 permalink: /shop
 ---
 
+## quick guide
+
+- **project gallery:** unavailable finished items
+- **ready to ship:** available unique finished items
+- **on demand:** available made-on-demand items
+
 ## payment?
 
 Nope! Any items up for grabs operate on an honor system donate-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I'll have a list of charity recommendations up eventually, but I always prefer that people give to a charity they care about.
