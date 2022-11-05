@@ -2,5 +2,5 @@
 layout: category
 title: ready to ship
 category: readytoship
-permalink: /ready-ship
+permalink: /ready-to-ship
 ---
