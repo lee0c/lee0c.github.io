@@ -1,6 +1,6 @@
 ---
 layout: category
 title: ready to ship
-category: readyship
+category: readytoship
 permalink: /ready-ship
 ---
