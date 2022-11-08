@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- make categories way more transparent!!
 - charity recommendations for donate-what-you-want
 - color options for patches/prints
 - ~~3 categories for art items~~
