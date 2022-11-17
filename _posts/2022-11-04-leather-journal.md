@@ -1,7 +1,7 @@
 ---
 layout: post
 title: blue and brown leather journal
-categories: readytoship
+categories: gallery
 image:
     name: bluebrownleatherjournal.jpg
     alt: 'A three panel collage showcasing a blue and brown leather-covered journal.'
