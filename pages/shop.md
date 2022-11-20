@@ -34,7 +34,22 @@ I ship via USPS to the United States. International shipping is evaluated on a c
 
 ### patches and prints
 
-Color options coming soon.
+Here's some representations of the ink colors I have:
+
+![A piece of fabric stamped with skulls in varying colors](../assets/img/patchcolors1.jpg)
+
+- Top row: Habanero, Satin Red, Crimson Red
+- 2nd row: Spanish Moss, Vintage Sepia, Imperial Purple
+- 3rd row: Olympia Green, Deep Lagoon, Majestic Blue
+- 4th row: Smokey Grey, Golden Glitz, Rose Gold
+- Bottom row: Silver Shimmer, Champagne, Pink Shimmer
+
+![A piece of fabric stamped with scarab beetles in varying colors](../assets/img/patchcolors2.jpg)
+
+- Leftmost column, top to bottom: Silver Shimmer, Pink Shimmer, Rose Gold, Golden Glitz
+- 2nd column: Smokey Gray, Onyx Black, Vintage Sepia, Champagne 
+- 3rd column: Imperial Purple, Crimson Red, Satin Red, Habanero
+- Rightmost column: Majestic Blue, Deep Lagoon, Olympia Green, Spanish Moss
 
 ### knitwear
 
