@@ -8,7 +8,8 @@ permalink: /todo
 - fuxk w/ code syntax css :grimace:
 - ~~maybe condense to a contact page?~~
 - add more projects
-  - socks
+  - ~~socks~~
+  - knitting highlights
   - leather keychains?
   - trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)
 - go through [friend name]'s suggestions and implement them!
