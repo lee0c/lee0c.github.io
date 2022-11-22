@@ -12,7 +12,7 @@ permalink: /todo
   - art pages need structural help to be screen reader friendly - heading is nested fairly far down and link needs aria-label
   - ~~add aria-label to next/prev~~
   - text should always be in a `<p>` or `<h#>` - `<span>` is meaningless to screenreaders
-    - does this include things like pagination buttons?
+    - ~~does this include things like pagination buttons?~~
 - make categories way more transparent!!
 - charity recommendations for donate-what-you-want
 - ~~color options for patches/prints~~

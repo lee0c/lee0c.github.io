@@ -35,9 +35,6 @@
 .pagination {
   text-align: center;
 }
-.pagination a {
-  text-decoration: none;
-}
 .pagination-button {
   color: #232530;
   border: 1px solid #25b0bc;
@@ -47,6 +44,7 @@
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
+  line-height: 1;
 }
 .pagination-active {
   color: #d5d8da;
