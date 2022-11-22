@@ -11,14 +11,13 @@
   margin: 0;
   padding: 10px;
   position: absolute;
+  opacity: .85;
 }
 .featured-post h2 span {
   display: inline-block;
   color: #d5d8da;
   font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
-  background: #2e303e; /* fallback color */
-  background: rgba(46, 48, 62, 0.7);
   padding: 10px;
 }
 .featured-post span a {

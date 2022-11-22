@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- ~~opacity for "featured post" items~~
 - fuxk w/ code syntax css :grimace:
 - ~~maybe condense to a contact page?~~
 - add more old projects
