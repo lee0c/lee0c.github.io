@@ -10,7 +10,7 @@ permalink: /todo
 - go through [friend name]'s suggestions and implement them!
   - ~~h3 in header should be h1~~
   - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)~~
-  - art pages need structural help to be screen reader friendly - heading is nested fairly far down and link needs aria-label
+  - ~~art pages need structural help to be screen reader friendly - heading is nested fairly far down and link needs aria-label~~
   - ~~add aria-label to next/prev~~
   - text should always be in a `<p>` or `<h#>` - `<span>` is meaningless to screenreaders
     - ~~does this include things like pagination buttons?~~

@@ -4,7 +4,7 @@ title: gender?
 categories: reference
 image:
     name: gendernotes1.png
-    alt: 'A page of handwritten notes with some loosely drawn charts, described further below.'
+    alt: 'A page of handwritten notes with some loosely drawn charts, described further in the post.'
 ---
 
 # transcription
