@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- fuxk w/ code syntax css :grimace:
 - ~~maybe condense to a contact page?~~
 - add more old projects
 - go through [friend name]'s suggestions and implement them!
