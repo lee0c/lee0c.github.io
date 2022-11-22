@@ -8,34 +8,7 @@ menu:
 - {name: 'shop FAQ', url: 'shop'}
 - {name: 'reference', url: 'reference'}
 - {name: 'about', url: 'about'}
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- icon: 'ravelry'
-  class: 'brands'
-  link: 'https://www.ravelry.com/people/inherentlee'
-  mouseover: 'inherentlee on ravelry (basically yarn facebook)'
-- icon: 'github'
-  class: 'brands'
-  link: 'https://github.com/lee0c'
-  mouseover: 'lee0c on github'
-- icon: 'discord'
-  class: 'brands'
-  link: 'discord'
-  mouseover: 'inherentlee#5139 on discord'
-- icon: 'envelope'
-  class: 'solid'
-  link: 'mailto:lee.cattarin@gmail.com'
-  mouseover: 'email me at lee dot cattarin at gmail dot com'
-- icon: 'twitter'
-  class: 'brands'
-  link: 'https://twitter.com/inherentlee'
-  mouseover: 'inherentlee on twitter'
-- icon: 'instagram'
-  class: 'brands'
-  link: 'instagram'
-  mouseover: 'inherentlee on instagram'
-
+- {name: 'contact me', url: 'contact'}
 
 # Customize site text
 pagination:

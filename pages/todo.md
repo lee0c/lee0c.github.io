@@ -4,7 +4,7 @@ title: todo
 permalink: /todo
 ---
 
-- maybe condense to a contact page?
+- ~~maybe condense to a contact page?~~
 - add more old projects
 - go through [friend name]'s suggestions and implement them!
   - ~~h3 in header should be h1~~
