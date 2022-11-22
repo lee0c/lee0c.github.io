@@ -7,7 +7,10 @@ permalink: /todo
 - ~~opacity for "featured post" items~~
 - fuxk w/ code syntax css :grimace:
 - ~~maybe condense to a contact page?~~
-- add more old projects
+- add more projects
+  - socks
+  - leather keychains?
+  - trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)
 - go through [friend name]'s suggestions and implement them!
   - ~~h3 in header should be h1~~
   - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)~~
