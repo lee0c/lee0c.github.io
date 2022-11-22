@@ -4,8 +4,10 @@ title: todo
 permalink: /todo
 ---
 
+- resize photos to more web-friendly sizes
+- what's up with the domain messing w/ CSS huh?
 - HTTPS properly configured
-- correct domain for full site
+- ~~correct domain for full site~~
 - ~~opacity for "featured post" items~~
 - fuxk w/ code syntax css :grimace:
 - ~~maybe condense to a contact page?~~
