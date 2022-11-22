@@ -6,9 +6,9 @@ permalink: /shop
 
 ## quick guide
 
-- **project gallery:** unavailable finished items
 - **ready to ship:** available unique finished items
 - **on demand:** available made-on-demand items
+- **project gallery:** unavailable finished items
 
 ## payment?
 
