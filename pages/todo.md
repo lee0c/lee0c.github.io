@@ -8,7 +8,7 @@ permalink: /todo
 - add more old projects
 - go through [friend name]'s suggestions and implement them!
   - ~~h3 in header should be h1~~
-  - change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)
+  - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)~~
   - art pages need structural help to be screen reader friendly - heading is nested fairly far down and link needs aria-label
 - make categories way more transparent!!
 - charity recommendations for donate-what-you-want

@@ -31,6 +31,14 @@
 .menu-list {
   line-height: $header-thickness;
   float: right;
+  ul {
+    margin: 0;
+    li {
+      margin: 0;
+      list-style: none;
+      display: inline-block;
+    }
+  }
 }
 .menu-link {
   padding: 5px 10px;
@@ -75,6 +83,13 @@
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    ul {
+      margin: 0;
+      li {
+        margin: 0;
+        list-style: none;
+      }
+    }
   }
   .dropdown-content a {
     color: #d5d8da;
