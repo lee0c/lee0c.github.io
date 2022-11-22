@@ -14,9 +14,8 @@ on github, I'm
 <a href="https://github.com/lee0c">lee0c</a>
 
 I'm inherentlee on 
-<a href="https://www.ravelry.com/people/inherentlee" target="_blank">ravelry</a>
-
-<a href="https://twitter.com/inherentlee" target="_blank">twitter</a>
+<a href="https://www.ravelry.com/people/inherentlee" target="_blank">ravelry</a>,
+<a href="https://twitter.com/inherentlee" target="_blank">twitter</a>, and
 <a href="https://instagram.com/inherentlee" target="_blank">instagram</a>
 
 on mastodon, I'm 
