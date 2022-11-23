@@ -1,6 +1,6 @@
 ---
 layout: category
-title: project gallery
+title: gallery
 category: gallery
 permalink: /gallery
 ---
