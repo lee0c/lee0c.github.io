@@ -5,7 +5,7 @@ permalink: /todo
 ---
 
 - friend suggestions
-  - next and previous are swapped from standard
+  - ~~next and previous are swapped from standard~~
   - inactive pagination buttons are hard to read
   - maybe include the "how to order" section from the FAQ on the bottom of each item (I was confused trying to figure out how the shop worked until I found the FAQ)
   - it's not totally clear to me what's a project and what's an item available to order, different templates might help --> make categories way more transparent

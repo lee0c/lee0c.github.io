@@ -10,9 +10,4 @@ menu:
 - {name: 'about', url: 'about'}
 - {name: 'contact me', url: 'contact'}
 
-# Customize site text
-pagination:
-  next_page: 'next >'
-  previous_page: '< prev'
-
 post_date_prefix: 'last updated'
