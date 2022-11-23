@@ -4,10 +4,10 @@ title: todo
 permalink: /todo
 ---
 
-- friend suggestions
+- ~~friend suggestions~~
   - ~~next and previous are swapped from standard~~
   - ~~inactive pagination buttons are hard to read~~
-  - maybe include the "how to order" section from the FAQ on the bottom of each item (I was confused trying to figure out how the shop worked until I found the FAQ)
+  - ~~maybe include the "how to order" section from the FAQ on the bottom of each item (I was confused trying to figure out how the shop worked until I found the FAQ)~~
   - ~~it's not totally clear to me what's a project and what's an item available to order, different templates might help~~ --> make categories way more transparent
 - resize photos to more web-friendly sizes
 - ~~what's up with the domain messing w/ CSS huh?~~
