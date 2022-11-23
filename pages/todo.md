@@ -28,6 +28,7 @@ permalink: /todo
   - ~~add aria-label to next/prev~~
   - text should always be in a `<p>` or `<h#>` - `<span>` is meaningless to screenreaders
     - ~~does this include things like pagination buttons?~~
+    - ~~post date~~
 - make categories way more transparent!!
 - charity recommendations for donate-what-you-want
 - ~~color options for patches/prints~~
