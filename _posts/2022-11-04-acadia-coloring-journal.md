@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Acadia coloring journal
-categories: gallery
+category: gallery
 image:
     name: acadiacoloringjournal.jpg
     alt: 'A five panel collage showcasing a book that is part graph papers of various sizes, and part coloring pages based on Acadia National Park.'
