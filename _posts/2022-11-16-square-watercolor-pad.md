@@ -1,7 +1,7 @@
 ---
 layout: post
 title: square watercolor pad
-category: readytoship
+category: ready-to-ship
 image:
     name: squarewatercolorpad.jpg
     alt: 'A two panel collage showing a square book with a tan cover and blue and gold endpapers.'
