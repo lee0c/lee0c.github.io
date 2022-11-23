@@ -1,6 +1,6 @@
 ---
 layout: category
 title: available on demand
-category: ondemand
+category: on-demand
 permalink: /on-demand
 ---
