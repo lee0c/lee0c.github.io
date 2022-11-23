@@ -8,7 +8,7 @@ permalink: /shop
 
 - **ready to ship:** available unique finished items
 - **on demand:** available made-on-demand items
-- **project gallery:** unavailable finished items
+- **gallery:** unavailable finished items
 
 ## payment?
 
