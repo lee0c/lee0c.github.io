@@ -11,7 +11,7 @@ permalink: /todo
   - ~~it's not totally clear to me what's a project and what's an item available to order, different templates might help~~ --> make categories way more transparent
 - resize photos to more web-friendly sizes
 - ~~what's up with the domain messing w/ CSS huh?~~
-- HTTPS properly configured
+- ~~HTTPS properly configured~~
 - ~~correct domain for full site~~
 - ~~opacity for "featured post" items~~
 - fuxk w/ code syntax css :grimace:
