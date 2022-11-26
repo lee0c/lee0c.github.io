@@ -17,4 +17,13 @@ layout: default
   <article>
     {{ content }}
   </article>
+  <hr>
+  {% if page.category == 'on-demand' or page.category == 'readytoship' %}
+    <p>
+      this item is available! <a href="shop">check the FAQ</a> for more info on ordering.
+    </p>
+  {% endif %}
+  <p>
+    category: <a href="{{ page.category }}">{{ page.category }}</a>
+  </p>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: orange journal
-categories: gallery
+category: gallery
 image:
     name: orangejournal.jpg
     alt: 'A three panel collage showcasing a small book with foldout pages and a bright orange cover.'
