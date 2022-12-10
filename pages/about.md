@@ -4,8 +4,7 @@ title: about
 permalink: /about
 ---
 
-My name is Lee Cattarin. I use he or ze pronouns, or 
-<a href="https://en.pronouns.page/@lee.cattarin" target="_blank">most neopronouns</a>. Just have fun.
+My name is Lee Cattarin. I use he or ze pronouns, or [most neopronouns](https://en.pronouns.page/@lee.cattarin){:target="_blank"}. Just have fun.
 
 I'm a programmer (backend, K8s/devOps, learning about accessibility), crafter - knitting, spinning yarn, stamp carving/printmaking, cardmaking & papercrafts, and lately playing w/ bookbinding - and artist, bread baker, guitar player, and probably a lot of other things.
 
