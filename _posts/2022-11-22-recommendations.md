@@ -7,12 +7,15 @@ image:
     alt: 'Photo unrelated to content of post. A metal sculpture rises up and curls into itself, with similar sculptures around it. Looking through the very center of the curve, an any-gender bathroom sign is visible.'
 ---
 
-## Articles and blogs
+## Articles
 
-### pronouns aren't gender; please get better at looking at birds
+- [pronouns aren't gender; please get better at looking at birds](https://kconrod.medium.com/pronouns-arent-gender-please-get-better-at-looking-at-birds-8e6310ef455a){:target="_blank"} by Kirby Conrod
+- [Critic of the Dawn](http://raggededgemagazine.com/0501/0501cov.htm){:target="_blank"} by Cal Montgomery
 
-by Kirby Conrod: <a href="https://kconrod.medium.com/pronouns-arent-gender-please-get-better-at-looking-at-birds-8e6310ef455a" target="_blank">link</a>
+## Books
 
-### Critic of the Dawn
+- [Laziness Does Not Exist](https://bookshop.org/p/books/laziness-does-not-exist-devon-price/14871468){:target="_blank"} by Devon Price, PhD
 
-by Cal Montgomery: <a href="http://raggededgemagazine.com/0501/0501cov.htm" target="_blank">link</a>
+## Comics
+
+- [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe
