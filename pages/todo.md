@@ -4,7 +4,7 @@ title: todo
 permalink: /todo
 ---
 
-- add linked in
+- ~~add linkedin~~
 - ~~friend suggestions~~
   - ~~next and previous are swapped from standard~~
   - ~~inactive pagination buttons are hard to read~~
