@@ -36,6 +36,7 @@ permalink: /todo
 - make categories way more transparent!!
   - ~~starter progress on this, probably need more~~
 - charity recommendations for donate-what-you-want
+  - ~~started on this~~
 - ~~color options for patches/prints~~
 - ~~3 categories for art items~~
   - ~~project gallery (unavailable finished items)~~
