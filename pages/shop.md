@@ -12,7 +12,7 @@ permalink: /shop
 
 ## payment?
 
-Nope! Any items up for grabs operate on an honor system donate-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I'll have a list of charity recommendations up eventually, but I always prefer that people give to a charity they care about.
+Nope! Any items up for grabs operate on an honor system donate-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about.
 
 ## how to order
 

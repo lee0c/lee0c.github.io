@@ -17,7 +17,7 @@ This is a non-exhaustive list of charities I donate to, in case you want suggest
 - [Planned Parenthood](https://www.plannedparenthood.org/){:target="_blank"}
 - [A Tiny Home for Good](https://www.atinyhomeforgood.org/){:target="_blank"}
 - [Vera House](https://www.verahouse.org/){:target="_blank"}
-- [Washington Building Leaders of Change (WA-BLOCK)](https://www.wa-bloc.org/){:target="_blank"}
+- [Washington Building Leaders of Change (WA-BLOC)](https://www.wa-bloc.org/){:target="_blank"}
 
 <!--
 - [](){:target="_blank"}
