@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- **skip to main content link**
 - ~~add linkedin~~
 - ~~friend suggestions~~
   - ~~next and previous are swapped from standard~~
