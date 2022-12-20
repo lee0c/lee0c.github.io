@@ -4,7 +4,8 @@ title: todo
 permalink: /todo
 ---
 
-- add thank yous to friends on attribution page!
+- ~~add thank yous to friends on attribution page!~~
+  - add LN's personal site once up
 - accessibility insights test errors
   - ~~pagination button color contrast~~
   - ~~missing lang attribute~~
