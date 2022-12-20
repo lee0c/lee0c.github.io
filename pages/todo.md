@@ -5,7 +5,7 @@ permalink: /todo
 ---
 
 - accessibility insights test errors
-  - pagination button color contrast
+  - ~~pagination button color contrast~~
   - ~~missing lang attribute~~
 - **skip to main content link**
 - ~~add linkedin~~
