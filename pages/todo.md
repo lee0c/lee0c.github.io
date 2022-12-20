@@ -7,10 +7,10 @@ permalink: /todo
 - accessibility insights run full assessment
 - ~~add thank yous to friends on attribution page!~~
   - add LN's personal site once up
-- accessibility insights test errors - fastpass
+- ~~accessibility insights test errors - fastpass~~
   - ~~pagination button color contrast~~
   - ~~missing lang attribute~~
-  - indicate links w/ more than color change
+  - ~~indicate links w/ more than color change~~
 - ~~**skip to main content link**~~
 - ~~add linkedin~~
 - ~~friend suggestions~~
