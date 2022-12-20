@@ -107,3 +107,30 @@
     background-color: #25b0bc;
   }
 }
+
+/* Skip navigation link */
+
+.skip-nav {
+  left: -999px;
+  position: absolute;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: -999;
+}
+
+.skip-nav:focus {
+  left: auto;
+  top: auto;
+  width: 20%;
+  height: auto;
+  overflow: auto;
+  margin: 10px 10%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 3px solid $brand-color;
+  text-align: center;
+  font-size: 1.2em;
+  z-index: 999;
+}
