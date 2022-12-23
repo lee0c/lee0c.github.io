@@ -12,7 +12,7 @@ permalink: /contact
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> mastodon</dt>
-    <dd><a href="https://hachyderm.io/@inherentlee" target="_blank" rel="me">@inherentlee@hachyderm.io</a></dd>
+    <dd><a rel="me" href="https://hachyderm.io/@inherentlee" target="_blank">@inherentlee@hachyderm.io</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
     <dd>inherentlee#5139</dd>
 </dl>
