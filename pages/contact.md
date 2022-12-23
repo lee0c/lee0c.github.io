@@ -14,7 +14,7 @@ email me at [lee dot cattarin at gmail dot com](mailto:lee.cattarin@gmail.com)
 
 I'm [inherentlee on ravelry](https://www.ravelry.com/people/inherentlee){:target="_blank"}
 
-on mastodon, I'm [@inherentlee@hachyderm.io](https://hachyderm.io/@inherentlee){:target="_blank"}
+on mastodon, I'm [@inherentlee@hachyderm.io](https://hachyderm.io/@inherentlee){:target="_blank" rel="me"}
 
 I rarely use linkedin, but you can still [add me on linkedin](https://www.linkedin.com/in/lee-cattarin-5a0b39128/)
 
