@@ -15,6 +15,8 @@ permalink: /contact
     <dd><a rel="me" href="https://hachyderm.io/@inherentlee" target="_blank">@inherentlee@hachyderm.io</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
     <dd>inherentlee#5139</dd>
+    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
+    <dd>seven seven four, two four nine, zero five eight six</dd>
 </dl>
 
 ### i might be slow to respond
@@ -22,8 +24,6 @@ permalink: /contact
 <dl>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
-    <dd>seven seven four, two four nine, zero five eight six</dd>
 </dl>
 
 ### not online or online unreliably
