@@ -32,8 +32,8 @@ permalink: /todo
   - leather keychains?
   - trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)
   - add other stamps
-  - add flocked book
-  - add brooke's book
+  - ~~add flocked book~~
+  - ~~add brooke's book~~
 - friend suggestions re a11y
   - ~~h3 in header should be h1~~
   - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)~~
