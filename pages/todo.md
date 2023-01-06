@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- fix hamburger menu for smaller screens - should open on `enter` or `space`
 - maybe make focus more visible when skipping to main content
 - accessibility insights run full assessment
 - ~~add thank yous to friends on attribution page!~~
