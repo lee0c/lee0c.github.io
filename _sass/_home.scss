@@ -15,7 +15,7 @@
 }
 .featured-post h2 span {
   display: inline-block;
-  color: #d5d8da;
+  color: $font-color;
   font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
   padding: 10px;
@@ -46,7 +46,7 @@
   line-height: 1;
 }
 .pagination-active {
-  color: #d5d8da;
+  color: $font-color;
 }
 .pagination-active:hover {
   color: #25b0bc;

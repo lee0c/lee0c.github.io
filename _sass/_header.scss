@@ -65,7 +65,7 @@
   }
   .dropbtn {
     background-color: #2e303e;
-    color: #d5d8da;
+    color: $font-color;
     padding: 16px;
     margin-top: 4px;
     font-size: 16px;
@@ -92,7 +92,7 @@
     }
   }
   .dropdown-content a {
-    color: #d5d8da;
+    color: $font-color;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
