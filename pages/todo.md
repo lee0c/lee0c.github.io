@@ -5,12 +5,15 @@ permalink: /todo
 ---
 
 - add `aria-current` to indicate active page
-- put dropdown in nav
+- ~~put dropdown in nav~~
 - list-style: none might break some screen readers? investigate
 - ~~better contrast for highlighted items in hamburger menu~~
 - remove underlines on next/prev buttons
 - ~~fix hamburger menu for smaller screens - should open on `enter` or `space`~~
   - now just opens when there's focus on the icon, which maybe isn't ideal?
+  - it would be better to make it opt-in
+  - also, being able to exit via esc would be good
+  - i think both of those require js so that will be An Adventure
 - maybe make focus more visible when skipping to main content
 - accessibility insights run full assessment
 - ~~add thank yous to friends on attribution page!~~
