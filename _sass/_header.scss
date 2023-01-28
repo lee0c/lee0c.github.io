@@ -98,13 +98,24 @@
     display: block;
   }
   .dropdown-content a:hover {
-    background-color: #25b0bc;
+    background-color: $brand-color;
+    color: #303030;
   }
   .dropdown:hover .dropdown-content {
     display: block;
   }
   .dropdown:hover .dropbtn {
-    background-color: #25b0bc;
+    background-color: $brand-color;
+  }
+  .dropdown-content a:focus-visible {
+    background-color: $brand-color;
+    color: #303030;
+  }
+  .dropdown:focus-within .dropdown-content {
+    display: block;
+  }
+  .dropdown:focus-within .dropbtn {
+    background-color: $brand-color;
   }
 }
 

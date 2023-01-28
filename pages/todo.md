@@ -4,9 +4,9 @@ title: todo
 permalink: /todo
 ---
 
-- better contrast for highlighted items in hamburger menu
+- ~~better contrast for highlighted items in hamburger menu~~
 - remove underlines on next/prev buttons
-- fix hamburger menu for smaller screens - should open on `enter` or `space`
+- ~~fix hamburger menu for smaller screens - should open on `enter` or `space`~~
 - maybe make focus more visible when skipping to main content
 - accessibility insights run full assessment
 - ~~add thank yous to friends on attribution page!~~
