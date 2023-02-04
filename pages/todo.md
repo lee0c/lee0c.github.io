@@ -8,7 +8,7 @@ permalink: /todo
 - ~~put dropdown in nav~~
 - list-style: none might break some screen readers? investigate
 - ~~better contrast for highlighted items in hamburger menu~~
-- remove underlines on next/prev buttons
+- ~~remove underlines on next/prev buttons~~
 - ~~fix hamburger menu for smaller screens - should open on `enter` or `space`~~
   - now just opens when there's focus on the icon, which maybe isn't ideal?
   - it would be better to make it opt-in
