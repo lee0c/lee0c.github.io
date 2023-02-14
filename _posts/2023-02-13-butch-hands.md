@@ -37,6 +37,7 @@ With larger needles and bulky yarn, CO 28 (N) stitches and join to work in the r
 ### Back of hand
 
 Remove BOR marker. Turn to work WS.
+
 p15 (N/2 + 1) stitches. Place a locking stitch marker into the first and last stitches of this row for a reference point later. Turn to work RS.
 
 Back of hand repeat:
@@ -49,7 +50,7 @@ Thread a piece of waste yarn through all back of hand stitches. This is used as 
 
 ### Mitten top
 
-At the end of a RS row, place a BOR marker, then make 13 (N/2 - 1) stitches using the backwards loop cast on or your preferred method. Join to work in the round.
+At the end of a RS row, place a BOR marker, then make 13 (N/2 -1) stitches using the backwards loop cast on or your preferred method. Join to work in the round.
 
 Establish a ribbed cuff on the palm side of the mitten top while leaving the back of the hand in stockinette:
 - (k1, p1) x7, k1 (15 stitches in rib)
@@ -70,6 +71,42 @@ Place first 7 stitches onto one needle and second 7 stitches on to another. Graf
 
 You can alternately begin the decreases on the pinky side of the hand earlier than on the pointer side - this will make the mitten top fit the hand closer.
 
-### Palm and thumb gusset
+### Establishing the palm
+
+You will now start to work with the other stitches left by the cuff, on the RS. 
+
+Start by making 1 from the yarn between the back of hand (BOH) stitches and your first stitch. Then kfb (or your preferred increase) across all remaining cuff stitches. Make 1 more stitch from the yarn between your stitches and the BOH. You should have 28 (N) stitches.
+
+At the end of your RS row, pick up the selvedge stich *below* the stitch we marked earlier. Then turn your work.
+
+k2tog - the selvedge stitch and your last stitch. purl across to the last stitch in the row, then ssk that stitch together with, again, the selvedge stitch *below* the marked stitch. Turn your work.
+
+Palm repeat:
+
+- RS: sl1 wyif, knit to last stitch, sl1 wyif, pick up next selvedge stitch
+- WS: k2tog (selvedge stitch and last stitch), purl to last stitch, ssk (last stitch and picked up selvedge stitch)
+
+You only need to do this one or two times before starting the thumb gusset.
+
+### Thumb gusset
+
+I diverge slightly from the Podster Gloves pattern here in that there is only one line of increases going up this thumb, and so we increase more frequently.
+
+#### Right hand thumb
+
+- RS: sl1 wyif, k2, knit all added gusset stitches, m1R, knit to end according to Palm
+- WS: follow Palm instructions
+
+If you would like to place a marker for the increases, I recommend setting that up as follows:
+
+- RS: sl1 wyif, k2, [knit 0 gusset stitches,] m1R, k1, place marker, ...
+
+and then on future RS:
+
+- RS: sl1 wyif, knit to one stitch before marker, m1R, k1, slip marker, ...
+
+This ensures that you are not doing your make ones with a marker in the way. But I generally don't use the marker and just knit all the "new" stitches before doing the m1R.
+
+#### Left hand thumb
 
 To be continued...
