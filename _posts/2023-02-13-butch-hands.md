@@ -11,15 +11,15 @@ This pattern is a **Work in Progress** and will be updated with more information
 
 ## Authorship and attribution
 
-Created: 12 March 2021
-Last updated: 13 February 2023
+- Created: 12 March 2021
+- Last updated: 13 February 2023
 
 This pattern was built on the [Podster Gloves pattern](https://www.ravelry.com/patterns/library/podster-gloves) by Glenna C. on Ravelry. I highly recommend reading and following that pattern to fill in gaps with this one.
 
 ## Materials and tools
 
-- Color A – bulky yarn
-- Color B – fingering yarn
+- bulky yarn
+- fingering yarn
 - Needles: size 8 DPNs, size 1.5 DPNs
 
 ## Outline
@@ -73,7 +73,7 @@ You can alternately begin the decreases on the pinky side of the hand earlier th
 
 ### Establishing the palm
 
-You will now start to work with the other stitches left by the cuff, on the RS. 
+You will now start to work with the other stitches left by the cuff, on the RS. Use smaller needles and fingering weight yarn.
 
 Start by making 1 from the yarn between the back of hand (BOH) stitches and your first stitch. Then kfb (or your preferred increase) across all remaining cuff stitches. Make 1 more stitch from the yarn between your stitches and the BOH. You should have 28 (N) stitches.
 
@@ -91,6 +91,8 @@ You only need to do this one or two times before starting the thumb gusset.
 ### Thumb gusset
 
 I diverge slightly from the Podster Gloves pattern here in that there is only one line of increases going up this thumb, and so we increase more frequently.
+
+Follow right or left hand instructions accordingly until you have added 16-20 stitches depending on thumb size.
 
 #### Right hand thumb
 
