@@ -18,7 +18,7 @@ permalink: /todo
 - maybe make focus more visible when skipping to main content
 - accessibility insights run full assessment
 - ~~add thank yous to friends on attribution page!~~
-  - add LN's personal site once up
+  - ~~add Lenny's personal site once up~~
 - ~~accessibility insights test errors - fastpass~~
   - ~~pagination button color contrast~~
   - ~~missing lang attribute~~

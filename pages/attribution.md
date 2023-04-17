@@ -8,5 +8,5 @@ This site is based on [Millennial](https://lenpaul.github.io/Millennial/){:targe
 
 Thank you to some lovely friends for their feedback and help with the site! You should hire them. Yes, you.
 
-- LN (personal site TBA), especially for their HTML/CSS and accessibility expertise
+- [Lenny](http://www.wondra.codes/), especially for their HTML/CSS and accessibility expertise
 - [Shir](https://shirgoldberg.com/)
