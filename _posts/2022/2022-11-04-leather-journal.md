@@ -5,6 +5,8 @@ category: gallery
 image:
     name: bluebrownleatherjournal.jpg
     alt: 'A three panel collage showcasing a blue and brown leather-covered journal.'
+tags:
+    - book
 ---
 
 A two-tone blue and brown leather journal closed by a button. The inside front cover has a small pocket.

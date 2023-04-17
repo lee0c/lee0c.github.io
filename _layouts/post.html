@@ -26,4 +26,13 @@ layout: default
   <p>
     category: <a href="{{ page.category }}">{{ page.category }}</a>
   </p>
+  {% if page.tags.size > 0 %}
+    <hr>
+    <p>
+      see more
+    {% for tag in page.tags %}
+      <a href="tag/{{ tag }}">{{ tag }}s</a>
+    {% endfor %}
+    </p>
+  {% endif %}
 </div>

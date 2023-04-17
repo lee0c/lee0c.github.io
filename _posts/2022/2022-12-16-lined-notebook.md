@@ -5,6 +5,8 @@ category: gallery
 image:
     name: linednotebook.jpg
     alt: 'A three panel collage showing a the endpapers, cover, and pages of a small hardbound notebook.'
+tags:
+    - book
 ---
 
 A hardcover book with lined pages.

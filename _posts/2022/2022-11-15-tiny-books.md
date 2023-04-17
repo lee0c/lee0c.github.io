@@ -5,6 +5,8 @@ category: ready-to-ship
 image:
     name: tinybook.jpg
     alt: 'A three panel collage showing a book held in the palm of a hand.'
+tags:
+    - book
 ---
 
 Tiny leather-wrapped books in various colorations.
