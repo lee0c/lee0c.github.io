@@ -5,6 +5,8 @@ category: gallery
 image:
     name: brookenotebook.jpg
     alt: 'A six panel collage showing the covers, endpapers, and some of the pages of a notebook.'
+tags:
+    - book
 ---
 
 A collage book full of different paper, art, and more.

@@ -5,6 +5,8 @@ category: gallery
 image:
     name: acadiacoloringjournal.jpg
     alt: 'A five panel collage showcasing a book that is part graph papers of various sizes, and part coloring pages based on Acadia National Park.'
+tags:
+    - book
 ---
 
 A green journal with a blue leather spine. The coloring pages are from the book [Color Acadia](https://www.ellsworthamerican.com/living/arts-a-living/color-acadia/) with art by Katie Dube and Keri Kimura.

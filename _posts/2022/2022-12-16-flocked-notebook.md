@@ -5,6 +5,8 @@ category: gallery
 image:
     name: flockednotebook.jpg
     alt: 'A two panel collage showing the cover and endpapers of a thick notebook.'
+tags:
+    - book
 ---
 
 A landscape-oriented notebook with black paper and a fuzzy cover. yes. it's fuzzy.

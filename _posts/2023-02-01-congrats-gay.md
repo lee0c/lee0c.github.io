@@ -5,6 +5,11 @@ category: on-demand
 image: 
     name: congratsonthegay.jpg
     alt: "A greeting card reading, in black. 'Congrats on the,' and then, in rainbow, 'Gay!'"
+tags:
+    - stamp
+    - print
+    - patch
+    - card
 ---
 
 A variation on my [congrats on the autism/adhd cards](congrats-ND).

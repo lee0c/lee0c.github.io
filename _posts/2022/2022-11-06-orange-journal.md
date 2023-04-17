@@ -5,6 +5,8 @@ category: gallery
 image:
     name: orangejournal.jpg
     alt: 'A three panel collage showcasing a small book with foldout pages and a bright orange cover.'
+tags:
+    - book
 ---
 
 A small highlighter-orange journal with blank fold-out pages and floral coloring pages, including flocked pages, from [BLOOM](https://www.bluestarpress.com/product/bloom-a-coloring-book/) by Alli Koch.

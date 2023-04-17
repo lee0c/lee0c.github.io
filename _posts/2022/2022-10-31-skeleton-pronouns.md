@@ -5,6 +5,11 @@ category: on-demand
 image: 
     name: pronounpatch.jpg
     alt: "Rows of the same design, a skull with a speech bubble announcing varied pronoun sets, repeat in multiple colors along a stretch of off-white fabric."
+tags:
+    - stamp
+    - print
+    - patch
+    - card
 ---
 
 Hand carved modular stamps for when you want a chatty skeleton to yell your pronouns.

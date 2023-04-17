@@ -18,7 +18,7 @@ layout: default
     {{ content }}
   </article>
   <hr>
-  {% if page.category == 'on-demand' or page.category == 'readytoship' %}
+  {% if page.category == 'on-demand' or page.category == 'ready-to-ship' %}
     <p>
       this item is available! <a href="shop">check the FAQ</a> for more info on ordering.
     </p>
@@ -26,4 +26,13 @@ layout: default
   <p>
     category: <a href="{{ page.category }}">{{ page.category }}</a>
   </p>
+  {% if page.tags.size > 0 %}
+    <hr>
+    <p>
+      see more
+    {% for tag in page.tags %}
+      <a href="tag/{{ tag }}">{{ tag }}s</a>
+    {% endfor %}
+    </p>
+  {% endif %}
 </div>

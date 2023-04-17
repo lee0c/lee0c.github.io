@@ -5,6 +5,8 @@ category: gallery
 image:
     name: squarewatercolorpad.jpg
     alt: 'A two panel collage showing a square book with a tan cover and blue and gold endpapers.'
+tags:
+    - book
 ---
 
 A book of watercolor paper with an open spine and coptic stitching in light blue.
