@@ -4,6 +4,7 @@ title: todo
 permalink: /todo
 ---
 
+- add tags
 - add `aria-current` to indicate active page
 - ~~put dropdown in nav~~
 - list-style: none might break some screen readers? investigate
