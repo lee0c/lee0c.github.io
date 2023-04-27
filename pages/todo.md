@@ -4,6 +4,8 @@ title: todo
 permalink: /todo
 ---
 
+- redirect mastodon contact link
+- remove 's' from tags
 - ~~add tags~~
 - add `aria-current` to indicate active page
 - ~~put dropdown in nav~~
