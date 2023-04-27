@@ -4,6 +4,9 @@ title: todo
 permalink: /todo
 ---
 
+- update payment information
+  - add pay what you want policy for certain work
+  - add payment app contacts
 - ~~redirect mastodon contact link~~
 - ~~remove 's' from tags~~
 - ~~add tags~~
