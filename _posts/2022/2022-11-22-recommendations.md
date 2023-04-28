@@ -19,3 +19,7 @@ image:
 ## Comics
 
 - [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe
+
+## Videos
+
+- [The Kronk Effect](https://www.youtube.com/watch?v=5Sz40XPPtKQ){:target="_blank"} by CJ the X
