@@ -3,8 +3,8 @@ layout: post
 title: block printing transfer method
 category: reference
 image: 
-    name: 
-    alt:
+    name: transfer-wip.jpg
+    alt: "A pink block of carving material with a printed design of a bird attached to it. The paper has been partially rubbed away (process described in this post) to reveal the inked design on the carving material."
 ---
 
 ## materials
