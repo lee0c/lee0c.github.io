@@ -12,7 +12,7 @@ permalink: /shop
 
 ## payment?
 
-Nope! Any items up for grabs operate on an honor system donate-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about.
+optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I can give pricing recommendations on request.
 
 ## how to order
 
@@ -28,7 +28,7 @@ I ship via USPS to the United States. International shipping is evaluated on a c
 
 **Ready to ship items** will generally get into the mail within a week or two, depending on when I get to the post office.
 
-**On demand items** have no promised timeline. I do this for fun and am not going to put more deadlines on myself than I already have. Patches or other simple items will be quicker than larger or more complex tasks.
+**On demand items** have no promised timeline. I do this for fun and am not going to put more deadlines on myself than I already have. Patches, prints, or other simple items will be quicker than larger or more complex tasks.
 
 ## customization and custom orders
 
