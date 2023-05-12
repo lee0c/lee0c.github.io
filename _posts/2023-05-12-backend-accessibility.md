@@ -4,7 +4,7 @@ title: backend accessibility
 category: reference
 image: 
     name: gitautocorrect.jpg
-    alt: "A screenshot of my terminal showing the command 'git psuh', and the git autocorrect response message saying 'Warning: You called a git command named 'psuh', which does not exist. Continuing in 1.0 seconds, assuming you meant 'push'."
+    alt: "A screenshot of my terminal showing the command 'git psuh', and the git autocorrect response message saying - Warning You called a git command named 'psuh', which does not exist. Continuing in 1.0 seconds, assuming you meant 'push'."
 ---
 
 > These notes are from a talk I gave at work. If you think something is missing or incorrect, please let me know!
