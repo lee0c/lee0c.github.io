@@ -3,7 +3,7 @@ layout: post
 title: flocked notebook
 category: gallery
 image:
-    name: flockednotebook.jpg
+    name: flocked-notebook.jpg
     alt: 'A two panel collage showing the cover and endpapers of a thick notebook.'
 tags:
     - book

@@ -3,7 +3,7 @@ layout: post
 title: brooke's socks
 category: gallery
 image:
-    name: brookesocks.jpg
+    name: brooke-socks.jpg
     alt: 'Feet in a pair of colorful socks. They are identically striped and quickly vary between yellow, green, blue, white, and gray.'
 tags:
     - knit

@@ -3,7 +3,7 @@ layout: post
 title: brooke's notebook
 category: gallery
 image:
-    name: brookenotebook.jpg
+    name: brooke-notebook.jpg
     alt: 'A six panel collage showing the covers, endpapers, and some of the pages of a notebook.'
 tags:
     - book

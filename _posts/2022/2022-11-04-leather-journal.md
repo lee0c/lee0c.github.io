@@ -3,7 +3,7 @@ layout: post
 title: blue and brown leather journal
 category: gallery
 image:
-    name: bluebrownleatherjournal.jpg
+    name: blue-brown-leather-journal.jpg
     alt: 'A three panel collage showcasing a blue and brown leather-covered journal.'
 tags:
     - book

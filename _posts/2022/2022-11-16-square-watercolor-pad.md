@@ -3,7 +3,7 @@ layout: post
 title: square watercolor pad
 category: gallery
 image:
-    name: squarewatercolorpad.jpg
+    name: square-watercolor-pad.jpg
     alt: 'A two panel collage showing a square book with a tan cover and blue and gold endpapers.'
 tags:
     - book

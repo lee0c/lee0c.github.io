@@ -3,7 +3,7 @@ layout: post
 title: butch hands pattern
 category: reference
 image: 
-    name: butchhands.jpg
+    name: butch-hands.jpg
     alt: "Hands wearing a pair of pink and grey gloves with convertable mitten tops."
 tags:
     - knit

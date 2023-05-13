@@ -36,7 +36,7 @@ I ship via USPS to the United States. International shipping is evaluated on a c
 
 Here's some representations of the ink colors I have:
 
-![A piece of fabric stamped with skulls in varying colors](assets/img/patchcolors1.jpg)
+![A piece of fabric stamped with skulls in varying colors](assets/img/patch-colors1.jpg)
 
 - Top row: Habanero, Satin Red, Crimson Red
 - 2nd row: Spanish Moss, Vintage Sepia, Imperial Purple
@@ -44,7 +44,7 @@ Here's some representations of the ink colors I have:
 - 4th row: Smokey Grey, Golden Glitz, Rose Gold
 - Bottom row: Silver Shimmer, Champagne, Pink Shimmer
 
-![A piece of fabric stamped with scarab beetles in varying colors](assets/img/patchcolors2.jpg)
+![A piece of fabric stamped with scarab beetles in varying colors](assets/img/patch-colors2.jpg)
 
 - Leftmost column, top to bottom: Silver Shimmer, Pink Shimmer, Rose Gold, Golden Glitz
 - 2nd column: Smokey Gray, Onyx Black, Vintage Sepia, Champagne 

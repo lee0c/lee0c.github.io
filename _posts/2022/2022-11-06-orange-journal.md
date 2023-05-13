@@ -3,7 +3,7 @@ layout: post
 title: orange journal
 category: gallery
 image:
-    name: orangejournal.jpg
+    name: orange-journal.jpg
     alt: 'A three panel collage showcasing a small book with foldout pages and a bright orange cover.'
 tags:
     - book

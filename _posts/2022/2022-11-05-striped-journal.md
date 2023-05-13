@@ -3,7 +3,7 @@ layout: post
 title: striped journal
 category: ready-to-ship
 image:
-    name: stripedjournal.jpg
+    name: striped-journal.jpg
     alt: 'A three panel collage showcasing a journal with a striped cover.'
 tags:
     - book

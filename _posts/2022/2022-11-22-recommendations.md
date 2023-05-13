@@ -3,7 +3,7 @@ layout: post
 title: recommendations & favorites
 category: reference
 image:
-    name: metalcurl.jpg
+    name: metal-curl.jpg
     alt: 'Photo unrelated to content of post. A metal sculpture rises up and curls into itself, with similar sculptures around it. Looking through the very center of the curve, an any-gender bathroom sign is visible.'
 ---
 

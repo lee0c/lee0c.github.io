@@ -3,7 +3,7 @@ layout: post
 title: congrats on the gay
 category: on-demand
 image: 
-    name: congratsonthegay.jpg
+    name: congrats-on-the-gay.jpg
     alt: "A greeting card reading, in black. 'Congrats on the,' and then, in rainbow, 'Gay!'"
 tags:
     - stamp
