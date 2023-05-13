@@ -34,6 +34,8 @@ I ship via USPS to the United States. International shipping is evaluated on a c
 
 ### patches and prints
 
+I will take print/patch commissions if I am interested in the subject material.
+
 Here's some representations of the ink colors I have:
 
 ![A piece of fabric stamped with skulls in varying colors](assets/img/patch-colors1.jpg)
