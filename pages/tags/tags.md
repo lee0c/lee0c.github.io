@@ -12,4 +12,5 @@ list of all existing tags
 - [patch](tag/patch)
 - [print](tag/print)
 - [stamp](tag/stamp)
+- [sticker](tag/sticker)
 - [yarn](tag/yarn)
