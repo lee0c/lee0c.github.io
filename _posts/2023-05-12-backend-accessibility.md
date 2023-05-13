@@ -3,7 +3,7 @@ layout: post
 title: backend accessibility
 category: reference
 image: 
-    name: gitautocorrect.jpg
+    name: seagull-yelling.jpg
     alt: "Image unrelated to post. A seagull with eir beak open, looking like ey are yelling in the ear of the seagull next to them."
 ---
 
