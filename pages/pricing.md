@@ -22,7 +22,7 @@ A print design can take 2-8 hours to create and another 2-8 hours to carve, base
 ### stamps
 
 - 6" square of speedy-carve: $10.75
-- paper: 
+- paper: $0.20
 - fabric:
 - fusible interfacing:
 
