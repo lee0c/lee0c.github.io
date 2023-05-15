@@ -33,6 +33,8 @@ permalink: /contact
     <dd><a href="https://www.linkedin.com/in/lee-cattarin-5a0b39128/" target="_blank">Lee Cattarin</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-instagram"></i> instagram</dt>
     <dd><a href="https://instagram.com/inherentlee" target="_blank">inherentlee</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-facebook"></i> facebook</dt>
+    <dd><a href="https://www.facebook.com/lee.cattarin.50/" target="_blank">Lee Cattarin</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-twitter"></i> twitter</dt>
     <dd><a href="https://twitter.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
