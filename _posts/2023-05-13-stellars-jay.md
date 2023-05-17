@@ -1,6 +1,6 @@
 ---
 layout: post
-title: stellar's jay stamp
+title: stellar's jay stamps
 category: on-demand
 image: 
     name: stellars-jay-print.jpg
@@ -12,7 +12,7 @@ tags:
     - card
 ---
 
-Hand carved stamp of a smiling skull celebrating trans rights. Available soon as clear and holographic stickers!
+Hand carved set of stamps depicting a stellar's jay about to take off. Based on a photo from [birdpixel](birdpixel.com).
 
 ## details
 
