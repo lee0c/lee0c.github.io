@@ -27,4 +27,4 @@ default: black, blue, and brown as pictured
 
 ### available as
 
-patch, print, greeting card
+patch, print, greeting card, shirt
