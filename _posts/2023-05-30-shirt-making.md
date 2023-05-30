@@ -32,6 +32,7 @@ image:
 1. press with iron on the highest appropriate heat setting
   - avoid moving the iron a lot as this can smudge ink
   - my rule of thumb has been to press until the image is uniformly hot to the touch
+  - I am going to try next time to use parchment paper to avoid any ink smudginess
 1. dab some water on the water-soluble pencil and rub gently to erase
 
 ## other notes
