@@ -6,7 +6,9 @@ permalink: pricing
 
 ## design cost
 
-A print design can take 2-8 hours to create and another 2-8 hours to carve, based on size and complexity.
+A print design based on a photograph can take 2-8 hours to create and another 2-8 hours to carve, based on size and complexity.
+
+A logo or ex libris stamp depends on if you have an existing design and want it carved or not. I can design it for you otherwise, which takes a variable amount of time, but carving is usually quick as these tend to be smaller.
 
 ## materials cost
 
