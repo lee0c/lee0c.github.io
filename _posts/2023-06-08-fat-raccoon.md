@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fat raccoon
+title: fat raccoon stamp
 category: on-demand
 image: 
     name: fat-raccoon-print.jpg
@@ -13,6 +13,7 @@ tags:
     - shirt
 ---
 
+A friendly neighborhood visitor.
 
 ## details
 
