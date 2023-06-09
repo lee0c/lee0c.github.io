@@ -13,7 +13,7 @@ tags:
     - sticker
 ---
 
-Hand carved stamp of a smiling skull celebrating trans rights. Available soon as clear and holographic stickers!
+Hand carved stamp of a smiling skull celebrating trans rights. Available now as clear and holographic stickers!
 
 ## details
 

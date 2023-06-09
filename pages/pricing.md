@@ -14,15 +14,15 @@ A print design can take 2-8 hours to create and another 2-8 hours to carve, base
 
 - envelope: negligible
 - forever stamp: $0.63
-- global forever stamp: $1.45
+- global stamp: $1.45
 - rigid mailer: $1.77
 - nonmachinable stamp: $1.03
-- larger orders often ship with retail parcel pricing, which is generally ~$5
+- larger orders often ship with retail parcel pricing, which is generally ~$6
 
 ### stamps
 
 - 6" square of speedy-carve: $10.75
-- paper: $0.20
+- paper: 
 - fabric:
 - fusible interfacing:
 
