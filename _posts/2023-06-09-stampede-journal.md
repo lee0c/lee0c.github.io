@@ -1,7 +1,7 @@
 ---
 layout: post
 title: stampede journal
-category: on-demand
+category: ready-to-ship
 image:
     name: stampede-journal.jpg
     alt: "A 4-part collage of a hardcover book, showing a coloring page with 'stampede!' written across it."
