@@ -1,6 +1,6 @@
 ---
 layout: post
-title: spotted towhee
+title: spotted towhee stamp
 category: on-demand
 image: 
     name: spoted-towhee-print.jpg
