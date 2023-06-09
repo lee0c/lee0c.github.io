@@ -17,11 +17,6 @@ permalink: /contact
     <dd>inherentlee#5139</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
     <dd>seven seven four, two four nine, zero five eight six</dd>
-</dl>
-
-### i might be slow to respond
-
-<dl>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
 </dl>
