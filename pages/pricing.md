@@ -4,31 +4,57 @@ title: pricing
 permalink: pricing
 ---
 
-## design cost
+everything available is sliding scale, and negotiable on request.
 
-A print design based on a photograph can take 2-8 hours to create and another 2-8 hours to carve, based on size and complexity.
+## commissions
+
+A print design based on a photograph can take 1-4 hours to create and another 2-6 hours to carve, based on size and complexity.
 
 A logo or ex libris stamp depends on if you have an existing design and want it carved or not. I can design it for you otherwise, which takes a variable amount of time, but carving is usually quick as these tend to be smaller.
 
-## materials cost
+## available items
 
-### shipping
+### [books](tag/book)
 
-- envelope: negligible
-- forever stamp: $0.63
-- global stamp: $1.45
-- rigid mailer: $1.77
-- nonmachinable stamp: $1.03
-- larger orders often ship with retail parcel pricing, which is generally ~$6
+$50 - $65 - $80 - $100
 
-### stamps
+- shipping: $8-10
 
-- 6" square of speedy-carve: $10.75
-- paper: 
-- fabric:
-- fusible interfacing:
+### [cards](tag/card)
 
-### stickers
+tbd
 
-- clear stickers: $0.52
-- holographic stickers: $0.39
+### [knits](tag/knit)
+
+tbd
+
+### [patches](tag/patch)
+
+$2 - $5 - $10 - $15
+
+- shipping: $1.50
+
+### [prints](tag/print)
+
+$15 - $30 - $50 - $80
+
+- shipping (no mat, standard envelope): $1.50
+- shipping (no mat, rigid mailer): $3
+- shipping (matted, rigid mailer): $15
+
+### [stickers](tag/sticker)
+
+$1 - $2 - $3 - $5
+
+- shipping (amounts under ~25): $1
+- shipping (amounts over ~25): $5?
+
+### [shirts](tag/shirt)
+
+$22 - $30 - $38 - $48 (for shirt base cost of $10, so this will vary))
+
+- shipping: $6 (add $1 for each shirt after the first)
+
+### [yarn](tag/yarn)
+
+tbd
