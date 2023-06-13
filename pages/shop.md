@@ -11,7 +11,7 @@ permalink: /shop
 
 ## payment?
 
-optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I've written up some pricing information that I can direct you to.
+optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I've written up some [pricing guidelines](pricing).
 
 ## how to order
 
