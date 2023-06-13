@@ -10,4 +10,4 @@ menu:
 - {name: 'about', url: 'about'}
 - {name: 'contact me', url: 'contact'}
 
-post_date_prefix: 'last updated'
+post_date_prefix: 'posted on'

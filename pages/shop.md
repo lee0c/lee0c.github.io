@@ -12,7 +12,7 @@ permalink: /shop
 
 ## payment?
 
-optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I can give pricing recommendations on request.
+optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I've written up some pricing information that I can direct you to.
 
 ## how to order
 
@@ -24,13 +24,14 @@ yes! please do so within reason.
 
 ## shipping
 
-I ship via USPS to the United States. International shipping is evaluated on a case-by-case basis - just reach out and ask and I'll see what I can do.
+I ship via USPS to the United States. International shipping is absolutely doable, but will be more expensive unfortunately.
 
-**Ready to ship items** will generally get into the mail within a week or two, depending on when I get to the post office.
-
-**On demand items** have no promised timeline. I do this for fun and am not going to put more deadlines on myself than I already have. Patches, prints, or other simple items will be quicker than larger or more complex tasks.
-
+I will get your item(s) into the mail when I can. No promises on speed, especially for made-on-demand items.
 ## customization and custom orders
+
+### ex libris or logo stamps
+
+I can create simple designs or recreate existing ones.
 
 ### patches and prints
 
