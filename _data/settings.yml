@@ -2,8 +2,7 @@
 google-ID: ''
 
 menu:
-- {name: 'ready to ship', url: 'ready-to-ship'}
-- {name: 'on demand', url: 'on-demand'}
+- {name: 'available', url: 'available'}
 - {name: 'shop FAQ', url: 'shop'}
 - {name: 'gallery', url: 'gallery'}
 - {name: 'reference', url: 'reference'}

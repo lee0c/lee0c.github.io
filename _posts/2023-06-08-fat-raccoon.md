@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fat raccoon stamp
-category: on-demand
+category: available
 image: 
     name: fat-raccoon-print.jpg
     alt: "A block print in black ink of a rotund raccoon raising a welcoming paw towards the viewer."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: trans wrongs skull stamp
-category: on-demand
+category: available
 image: 
     name: trans-wrongs-print.jpg
     alt: "A smiling skull with devil horns and a little spiked tail, and a speech bubble reading 'trans wrongs!'"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spotted towhee stamp
-category: on-demand
+category: available
 image: 
     name: spotted-towhee-print.jpg
     alt: "A block print of a spotted towhee mid-leap."

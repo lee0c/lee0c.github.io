@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chanterelle stamp
-category: on-demand
+category: available
 image: 
     name: chanterelle-print.jpg
     alt: "A print of two chanterelle mushrooms inked in a dark-to-light yellow gradient."

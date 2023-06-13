@@ -1,7 +1,7 @@
 ---
 layout: post
 title: stellar's jay stamps
-category: on-demand
+category: available
 image: 
     name: stellars-jay-print.jpg
     alt: "A print of a stellar's jay, a beautiful black and blue bird, about to take off from a branch"

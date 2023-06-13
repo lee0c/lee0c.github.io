@@ -1,7 +1,7 @@
 ---
 layout: post
 title: leather keychains
-category: on-demand
+category: available
 image: 
     name: leather-keychains.jpg
     alt: "A picture of multiple leather keychains sitting on a wood table. Many of them are simple rectangle shapes with stitching around the edge; a few are odd wavy or geometric shapes. A few say things like 'MOM' or 'EGG'."
