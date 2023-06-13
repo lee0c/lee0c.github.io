@@ -18,6 +18,8 @@ A logo or ex libris stamp depends on if you have an existing design and want it 
 
 $50 - $65 - $80 - $100
 
+book commissions with specific paper requests will have higher materials costs that will raise the total price
+
 - shipping: $8-10
 
 ### [cards](tag/card)
