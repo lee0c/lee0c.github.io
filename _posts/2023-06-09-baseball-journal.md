@@ -5,6 +5,8 @@ category: gallery
 image:
     name: baseball-journal.jpg
     alt: "A 3-part collage of a leather-covered book with baseball-style stitching across the spine."
+tags:
+    - book
 ---
 
 Baseball stitched book!

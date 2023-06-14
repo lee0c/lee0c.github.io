@@ -5,6 +5,8 @@ category: available
 image:
     name: stampede-journal.jpg
     alt: "A 4-part collage of a hardcover book, showing a coloring page with 'stampede!' written across it."
+tags:
+    - book
 ---
 
 Includes coloring pages from [Animorphia by Kerby Rosanes](https://kerbyrosanes.com/animorphia).
