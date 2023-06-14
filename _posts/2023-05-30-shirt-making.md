@@ -22,6 +22,7 @@ image:
 1. for a multi-layer design:
   1. line up an un-inked stamp, face up
   1. with water soluble pencil, outline 1 corner and mark out at least one other alignment spot. I found I could make marks about an inch long and get decent alignment just from that, rather than outlining the whole stamp (which ime gets similar alignment)
+  1. alternately you can use a carpenters square or similar tool to line up the stamps - just make sure not to move it!!
 1. ink stamp thoroughly (lay stamp faceup and daub with ink pads)
 1. lay stamp into position (for multi-layer design, align with existing marks)
 1. press across the stamp with the brayer, being careful not to move the stamp
