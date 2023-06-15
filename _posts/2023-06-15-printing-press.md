@@ -29,3 +29,4 @@ I've accomplished multi-layer prints in two ways thus far:
 - as mentioned, the working area is slightly smaller than the stated 6" x 8" area
 - corners of the press are cut metal and can be slightly sharp. I put some washi tape on the corners to help avoid scratching myself
 - placing the block ink down on the paper, as opposed to placing the paper on top of an inked block, does appear to be more effective
+- compared to using a brayer, this dramatically improves consistency and ink evenness for each print! I highly recommend it if only to cut down on misprints or mistakes
