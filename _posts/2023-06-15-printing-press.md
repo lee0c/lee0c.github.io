@@ -7,6 +7,10 @@ image:
     alt: "An open Speedball Model B printing press, which uses a lever handle to put even pressure on a 6 by 8 inch top plate."
 ---
 
+## specs
+
+Speedball Model B printing press. Goes for ~$100 - I got it through Blick
+
 ## usage
 
 1. cut or tear paper to fit the press - the usable pressing surface is slightly smaller than 6" x 8", with a bit of margin space that won't be effectively pressed
