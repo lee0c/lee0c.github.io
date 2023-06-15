@@ -40,9 +40,10 @@ $2 - $5 - $10 - $15
 
 $15 - $30 - $50 - $80
 
-- shipping (no mat, standard envelope): $1.50
-- shipping (no mat, rigid mailer): $3
-- shipping (matted, rigid mailer): $15
+- shipping (no backing board or mat, standard envelope): $1.50
+- shipping (no backing board or mat, rigid mailer): $3
+- shipping (backing board, rigid mailer): $5
+- shipping (backing board, matted, rigid mailer): on request, varies
 
 ### [stickers](tag/sticker)
 
