@@ -4,7 +4,7 @@ title: pricing
 permalink: pricing
 ---
 
-everything available is sliding scale, and negotiable on request.
+> everything available is sliding scale, and **negotiable on request. if you want art, I want to give you art.**
 
 ## commissions
 
