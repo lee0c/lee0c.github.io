@@ -1,0 +1,29 @@
+---
+layout: post
+title: swallowtail on snowdrops stamp
+category: available
+image: 
+    name: swallowtail-on-snowdrops-print.jpg
+    alt: "A block print of a tiger swallowtail butterfly dangling from Japanese snowdrops, a white drooping flower."
+tags:
+    - stamp
+    - print
+    - patch
+    - card
+---
+
+Photographed in the backyard.
+
+## details
+
+### dimensions
+
+6" x 8"
+
+### coloration
+
+default: black and green with yellow accents
+
+### available as
+
+patch, print, greeting card
