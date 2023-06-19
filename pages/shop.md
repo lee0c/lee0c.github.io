@@ -15,7 +15,7 @@ optional! Any items up for grabs operate on an honor system donate-what-you-want
 
 ## how to order
 
-Contact me via any of the options linked on this site. Let me know what you're interested in getting (in as much detail as possible please!) and a mailing address.
+Contact me via any of the options linked on [my contact page](contact). Let me know what you're interested in getting (in as much detail as possible please!) and a mailing address.
 
 ### can I order multiples?
 

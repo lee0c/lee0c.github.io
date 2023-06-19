@@ -6,6 +6,16 @@ permalink: pricing
 
 > everything available is sliding scale, and **negotiable on request. if you want art, I want to give you art.**
 
+## payment methods
+
+<dl>
+    <dt><i aria-hidden="true" class="fa-brands fa-venmo"></i> venmo (preferred)</dt>
+    <dd><a href="https://www.venmo.com/u/lee-cattarin" target="_blank">lee-cattarin</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-paypal"></i> paypal</dt>
+    <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
+</dl>
+
+
 ## commissions
 
 A print design based on a photograph can take 1-4 hours to create and another 2-6 hours to carve, based on size and complexity.
