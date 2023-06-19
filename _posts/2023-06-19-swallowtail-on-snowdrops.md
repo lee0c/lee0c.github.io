@@ -10,6 +10,7 @@ tags:
     - print
     - patch
     - card
+    - shirt
 ---
 
 Photographed in the backyard.
@@ -26,4 +27,4 @@ default: black and green with yellow accents
 
 ### available as
 
-patch, print, greeting card
+patch, print, greeting card, shirt
