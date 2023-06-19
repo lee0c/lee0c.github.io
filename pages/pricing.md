@@ -40,10 +40,10 @@ $2 - $5 - $10 - $15
 
 $15 - $30 - $50 - $80
 
-- shipping (no backing board or mat, standard envelope): $1.50
-- shipping (no backing board or mat, rigid mailer): $3
-- shipping (backing board, rigid mailer): $5
-- shipping (backing board, matted, rigid mailer): on request, varies
+- mounting on 8x8, 8x10, or 8x5 backing board: $5
+- matting: on request
+- shipping (standard envelope): $1.50
+- shipping (rigid mailer - required if mounted or matted): $3
 
 ### [stickers](tag/sticker)
 
