@@ -11,7 +11,19 @@ permalink: /shop
 
 ## payment?
 
-optional! Any items up for grabs operate on an honor system donate-what-you-want/pay-what-you-want model - if you would like to pay for any gifts I send out, I recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about. If you would like to pay me directly instead of or in addition to that, I've written up some [pricing guidelines](pricing).
+3 methods...
+
+### 1: charity/mutual aid
+
+if you would like to pay for any gifts I send out, I first recommend you divert it to a charitable org you care about or to mutual aid. I have the beginnings of a [list of charities](give) to give you ideas, but I always prefer that people give to a charity they care about.
+
+### 2: direct payment
+
+if you would like to pay me directly instead of or in addition to charity, I've written up some [pricing guidelines](pricing).
+
+### 3: art trade!
+
+I am always up for a good art trade. message me to discuss!
 
 ## how to order
 
@@ -26,6 +38,7 @@ yes! please do so within reason.
 I ship via USPS to the United States. International shipping is absolutely doable, but will be more expensive unfortunately.
 
 I will get your item(s) into the mail when I can. No promises on speed, especially for made-on-demand items.
+
 ## customization and custom orders
 
 ### ex libris or logo stamps
