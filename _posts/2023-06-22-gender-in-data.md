@@ -30,6 +30,7 @@ image:
     - [Using gender as a proxy for pronouns](#using-gender-as-a-proxy-for-pronouns)
 - [Patterns and solutions](#patterns-and-solutions)
     - [Decline to specify](#decline-to-specify)
+    - [Not listed here](#not-listed-here)
     - [Allow for changes](#allow-for-changes)
     - [Two- or multi- step approach](#two--or-multi--step-approach)
     - [Organ inventory](#organ-inventory)
@@ -127,6 +128,8 @@ Drupal's gender field includes the following guidance in its description:
 
 [(Spicknall, 2019)](https://medium.com/@SorenSpicknall/protecting-queer-communities-through-data-4707ae0cb562)
 
+If you do collect gender data, inform the user what it is used for and who it will be shared with.
+
 ## Anti-patterns
 
 ### Legal gender markers
@@ -174,6 +177,8 @@ While these can be appealing for the choice they afford users, they come with no
 
 This approach provides much of the benefits of an expansive list, and removes the drawbacks discussed above. However, it comes at the cost of making data storage and analysis more expensive, challenging, and time-consuming. It may additionally still contribute to user confusion for anyone who is uncertain where or how the information will be used or whether there are expected responses.
 
+For smaller projects, this is still an option however. Or you can offer this to a small subset of users who find that the available options don't fit - see [Not listed here](#not-listed-here).
+
 ### Assumptions that a single term will fully encompass gender, especially in a more exhaustive list of options
 
 Especially when providing expansive lists or allowing write in fields, ensure that terms that are not mutually exclusive must be chosen as though they are. This is the reasoning behind guidance for a two-step approach, described in more detail in [Two- or multi- step approach](#two--or-multi--step-approach), which "measures assigned sex at birth and self-reported gender identity at the time of the survey" [(Park, 2016)](https://williamsinstitute.law.ucla.edu/publications/data-collection-sogi/)
@@ -201,6 +206,10 @@ Gender isn’t one-to-one with pronouns (or terms of address). If you want to kn
 ### Decline to specify
 
 Including "decline to specify" or a similar opt-out response is always a positive addition unless the information is actually necessary. However, as mentioned above, don't use this as a replacement for the inclusion of terms that actually match the identity of the individual. Opting out should be a choice, not forced due to lack of other options.
+
+### Not listed here
+
+Including "gender not listed here" or a similar response provides an out for anyone who does not feel represented by the available options. You could follow this up with a free text entry field.
 
 ### Allow for changes
 
