@@ -15,6 +15,8 @@ permalink: /contact
     <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
     <dd>inherentlee#5139</dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-kofi"></i> kofi</dt>
+    <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
     <dd>seven seven four, two four nine, zero five eight six</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
