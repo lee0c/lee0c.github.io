@@ -19,7 +19,7 @@ permalink: /contact
     <dd>seven seven four, two four nine, zero five eight six</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mailbox"></i> snail mail</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> snail mail</dt>
     <dd>message me for address!</dd>
 </dl>
 
