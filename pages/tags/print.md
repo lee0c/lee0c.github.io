@@ -5,4 +5,7 @@ tag: print
 permalink: /tag/print
 ---
 
-Prints arrive un-matted in a standard envelope. If you would like them shipped in a rigid mailer, or additionally matted, let me know and I can figure out any additional costs associated with that.
+To know more about my printmaking process, check out the following posts:
+
+- [block printing transfer method](carving-transfer)
+- [printing press notes](printing-press)

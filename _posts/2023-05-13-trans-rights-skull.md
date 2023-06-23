@@ -6,7 +6,6 @@ image:
     name: trans-rights-print.jpg
     alt: "A print in mostly black ink of a smiling skull with a speech bubble. In pink and blue, the speech bubble reads 'trans rights!'"
 tags:
-    - stamp
     - print
     - patch
     - card

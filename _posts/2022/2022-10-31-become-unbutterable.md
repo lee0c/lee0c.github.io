@@ -6,7 +6,6 @@ image:
     name: become-unbutterable.jpg
     alt: "3 copies of the same stamp in orange ink are spread out next to the hand carved rubber stamp they were made from. They show a cat lying on his back with paws curled, holding a butter knife in his mouth. Text around the cat reads, in all caps, 'become unbutterable.'"
 tags:
-    - stamp
     - print
     - patch
     - card

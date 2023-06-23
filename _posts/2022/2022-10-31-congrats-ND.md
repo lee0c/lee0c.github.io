@@ -6,7 +6,6 @@ image:
     name: congrats-on-the.jpg
     alt: "4 greeting cards propped up on a keyboard. On the right hand side, two cards read 'Congrats on the Autism'; one in rainbow ink and one in black ink with a glittery gold shadow. On the left, two cards read 'Congrats on the ADHD'; one in red and one in black, both with glittery pink shadows."
 tags:
-    - stamp
     - print
     - patch
     - card

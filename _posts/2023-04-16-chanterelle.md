@@ -6,7 +6,6 @@ image:
     name: chanterelle-print.jpg
     alt: "A print of two chanterelle mushrooms inked in a dark-to-light yellow gradient."
 tags:
-    - stamp
     - print
     - patch
     - card

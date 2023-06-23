@@ -6,7 +6,6 @@ image:
     name: swallowtail-on-snowdrops-print.jpg
     alt: "A block print of a tiger swallowtail butterfly dangling from Japanese snowdrops, a white drooping flower."
 tags:
-    - stamp
     - print
     - patch
     - card

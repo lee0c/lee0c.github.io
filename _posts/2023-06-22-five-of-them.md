@@ -6,7 +6,6 @@ image:
     name: five-of-them-print.jpg
     alt: "A block print of five mule deer grazing in a dark green field. The deer are partially negative space and partially brown ink detailing."
 tags:
-    - stamp
     - print
     - patch
     - card

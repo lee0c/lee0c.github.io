@@ -6,7 +6,6 @@ image:
     name: spotted-towhee-print.jpg
     alt: "A block print of a spotted towhee mid-leap."
 tags:
-    - stamp
     - print
     - patch
     - card
