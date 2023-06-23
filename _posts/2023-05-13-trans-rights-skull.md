@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trans rights skull stamp
+title: trans rights skull
 category: available
 image: 
     name: trans-rights-print.jpg

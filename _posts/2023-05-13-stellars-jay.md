@@ -1,6 +1,6 @@
 ---
 layout: post
-title: stellar's jay stamps
+title: stellar's jay
 category: available
 image: 
     name: stellars-jay-print.jpg

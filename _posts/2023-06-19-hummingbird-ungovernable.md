@@ -1,6 +1,6 @@
 ---
 layout: post
-title: hummingbird become ungovernable stamp
+title: hummingbird become ungovernable
 category: available
 image: 
     name: hummingbird-ungovernable-print.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: geese/trans wrongs stamp
+title: geese/trans wrongs
 category: available
 image: 
     name: trans-wrongs-geese-print.jpg

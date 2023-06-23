@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trans wrongs skull stamp
+title: trans wrongs skull
 category: available
 image: 
     name: trans-wrongs-print.jpg

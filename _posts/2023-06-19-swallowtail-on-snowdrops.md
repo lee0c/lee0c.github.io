@@ -1,6 +1,6 @@
 ---
 layout: post
-title: swallowtail on snowdrops stamp
+title: swallowtail on snowdrops
 category: available
 image: 
     name: swallowtail-on-snowdrops-print.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: five of them stamps
+title: five of them
 category: available
 image: 
     name: five-of-them-print.jpg

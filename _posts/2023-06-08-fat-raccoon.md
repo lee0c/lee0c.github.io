@@ -1,6 +1,6 @@
 ---
 layout: post
-title: fat raccoon stamp
+title: fat raccoon
 category: available
 image: 
     name: fat-raccoon-print.jpg

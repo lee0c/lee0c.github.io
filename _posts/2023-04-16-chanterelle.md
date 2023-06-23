@@ -1,6 +1,6 @@
 ---
 layout: post
-title: chanterelle stamp
+title: chanterelle
 category: available
 image: 
     name: chanterelle-print.jpg
