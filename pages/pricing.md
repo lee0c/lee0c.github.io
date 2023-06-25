@@ -34,7 +34,11 @@ book commissions with specific paper requests will have higher materials costs t
 
 ### [cards](tag/card)
 
-tbd
+3.5"x5" original print cards (each): $3 - $4.50 - $6 - $7.50
+
+5"x7" reproduction cards (each): $4 - $5 - $6 - $7
+
+5"x7" reproduction cards (set of six): $20 - $25 - $30 - $35
 
 ### [knits](tag/knit)
 
