@@ -12,6 +12,7 @@ image:
 ### for transfer
 
 - [speedy-carve](https://www.dickblick.com/products/speedball-speedy-carve-blocks/)
+  - I have since also used [moo carve](https://www.dickblick.com/products/moo-carve-professional-carving-blocks/) and been successful
 - laserjet printed or xerox'd image, preferably something with high contrast
 - acrylic gel medium - I use [Golden Soft Gel Matte](https://www.dickblick.com/items/golden-soft-acrylic-gel-medium-matte-16-oz-jar/)
 - paintbrush
