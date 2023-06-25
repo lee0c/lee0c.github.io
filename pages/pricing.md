@@ -40,6 +40,9 @@ book commissions with specific paper requests will have higher materials costs t
 
 5"x7" reproduction cards (set of six): $20 - $25 - $30 - $35
 
+- shipping (single card): $3
+- shipping (three or more cards): $6
+
 ### [knits](tag/knit)
 
 tbd
