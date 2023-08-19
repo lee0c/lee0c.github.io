@@ -49,7 +49,9 @@ I can create simple designs or recreate existing ones.
 
 I will take print/patch commissions if I am interested in the subject material.
 
-Here's some representations of the ink colors I have:
+*to be added:* color representations for my newer ink, which is speedball fabric block printing ink.
+
+Here's some representations of the older set of ink colors I have:
 
 ![A piece of fabric stamped with skulls in varying colors](assets/img/patch-colors1.jpg)
 
