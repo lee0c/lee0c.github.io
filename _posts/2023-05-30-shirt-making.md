@@ -11,8 +11,10 @@ image:
 
 - bella & canvas tee shirts (light tones, standard fabrics - no fleece, suede, ribbing, etc)
 - cutproof mat (optional, can be subbed out for any firm surface to slide into the shirt)
-- water-soluble pencil for fabric marking
-- versaFine ink pads
+- water-soluble pencil for fabric marking (optional)
+- (edit 18 Sep 2023) ~~versaFine ink pads~~
+- speedball fabric print ink
+- inkwell
 - brayer
 
 ## steps

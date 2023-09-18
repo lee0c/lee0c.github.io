@@ -26,6 +26,7 @@ image:
 ### for printing
 
 - my favorite stamping ink at current is [VersaFine](https://www.tsukineko.co.jp/english/detail/versafine/index.html)
+- (edit 18 Sep 2023) I have since used [Speedball fabric block printink inks](https://www.dickblick.com/products/speedball-fabric-paper-block-printing-ink/). Preferable for fabric.
 
 ## process
 
