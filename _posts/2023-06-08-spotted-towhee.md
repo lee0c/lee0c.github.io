@@ -7,9 +7,7 @@ image:
     alt: "A block print of a spotted towhee mid-leap."
 tags:
     - print
-    - patch
     - card
-    - shirt
 ---
 
 A spotted towhee mid-leap.
