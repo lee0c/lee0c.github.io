@@ -5,6 +5,6 @@ tag: shirt
 permalink: /tag/shirt
 ---
 
-see my post on [shirts](shirts) for more details.
+see my post on [shirts](https://leecat.art/shirts) for more details.
 
-to know more about my shirt making process, check out [this writeup on shirt stamping](shirt-making).
+to know more about my shirt making process, check out [this writeup on shirt stamping](https://leecat.art/shirt-making).
