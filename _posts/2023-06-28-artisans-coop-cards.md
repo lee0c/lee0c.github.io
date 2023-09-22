@@ -13,3 +13,5 @@ tags:
 Learn more about [Artisans Cooperative](https://artisans.coop/), a new platform for makers and supporters.
 
 I've joined the "coop" and have made these cards/prints to support their mutual aid fundraiser.
+
+[Buy them on Artisans Cooperative's new marketplace](https://artisans.coop/products/coop-logo-greeting-card).
