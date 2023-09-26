@@ -15,6 +15,6 @@ Learn more about [Artisans Cooperative](https://artisans.coop/), a new platform 
 
 I've joined the "coop" and will be making shirts to support their fundraiser.
 
-Link TBA: Buy them on Artisans Cooperative's new marketplace.
+[Buy them on Artisans Cooperative's new marketplace](https://artisans.coop/products/coop-tee).
 
 [Buy them via my order form](https://form.jotform.com/232606628152050).
