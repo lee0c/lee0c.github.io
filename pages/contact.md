@@ -7,20 +7,20 @@ permalink: /contact
 ### please find me on...
 
 <dl>
+    <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
+    <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
+    <dd>inherentlee#5139</dd>
+    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
+    <dd>seven seven four, two four nine, zero five eight six</dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> mastodon</dt>
+    <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> mastodon</dt>
-    <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
-    <dd>inherentlee#5139</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi</dt>
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or SMS</dt>
-    <dd>seven seven four, two four nine, zero five eight six</dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
-    <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> snail mail</dt>
     <dd>message me for address!</dd>
 </dl>
