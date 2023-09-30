@@ -11,6 +11,8 @@ image:
 
 using this. clunky. variants are unintuitive.
 
+allows me to set alt text for images.
+
 ## Etsy
 
 fuck etsy mxn
@@ -38,6 +40,8 @@ this is my current preference.
 has a free tier! pay per transaction rather than monthly.
 
 only irritation point so far: managing shipping myself actually costs me money? there's a fee for *not* using Square's integrated shipping.
+
+does not support alt text
 
 ## WooCommerce
 
