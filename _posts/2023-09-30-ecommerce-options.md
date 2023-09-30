@@ -7,7 +7,7 @@ image:
     alt: "Image unrelated to post. A loon rearing up with eir wings spread on a calm lake."
 ---
 
-## Artisans Cooperative
+## [Artisans Cooperative](https://artisans.coop/pages/seller-profile/riverside-refuge-studio)
 
 using this. clunky. variants are unintuitive.
 
@@ -17,7 +17,7 @@ allows me to set alt text for images.
 
 fuck etsy mxn
 
-## Kofi
+## [Kofi](https://ko-fi.com/inherentlee)
 
 using this currently, but it has a strict no-NSFW policy.
 
@@ -33,7 +33,7 @@ open source! hosting is a bit of a pain
 
 $30/month minimum after a few free months.
 
-## Square
+## [Square](https://riverside-refuge.square.site/)
 
 this is my current preference.
 
