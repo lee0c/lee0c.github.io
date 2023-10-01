@@ -9,40 +9,40 @@ image:
 
 ## [Artisans Cooperative](https://artisans.coop/pages/seller-profile/riverside-refuge-studio)
 
-using this. clunky. variants are unintuitive.
-
-allows me to set alt text for images.
+- using this. clunky. variants are unintuitive.
+- allows me to set alt text for images.
+- points for being a cooperative model
 
 ## Etsy
 
-fuck etsy mxn
+- fuck etsy mxn
 
 ## [Kofi](https://ko-fi.com/inherentlee)
 
-using this currently, but it has a strict no-NSFW policy.
+- using this currently, but it has a strict no-NSFW policy.
 
 ## nopCommerce
 
-open source! hosting is a bit of a pain
+- open source! hosting is a bit of a pain
+- has an Azure hosting option that was easy enough to spin up
 
 ## PrestaShop
 
-open source! hosting is a bit of a pain
+- open source! hosting is a bit of a pain
 
 ## Shopify
 
-$30/month minimum after a few free months.
+- $30/month minimum after a few free months.
 
 ## [Square](https://riverside-refuge.square.site/)
 
-this is my current preference.
-
-has a free tier! pay per transaction rather than monthly.
-
-only irritation point so far: managing shipping myself actually costs me money? there's a fee for *not* using Square's integrated shipping.
-
-does not support alt text
+- this is my current preference.
+- has a free tier! pay per transaction rather than monthly.
+- only irritation point so far: managing shipping myself actually costs me money? there's a fee for *not* using Square's integrated shipping.
+- does not support alt text for background images or product images
+- keyboard navigation of the main menu fails when there are nested categories below any menu item - focus lands on each category without expanding the menu item
+- support blows
 
 ## WooCommerce
 
-WordPress only.
+- WordPress only.
