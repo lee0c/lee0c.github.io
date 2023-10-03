@@ -71,7 +71,7 @@ $1 - $2 - $3 - $5
 
 ### [shirts](tag/shirt)
 
-$22 - $30 - $38 - $48 (for shirt base cost of $10, so this will vary))
+$22 - $30 - $38 - $48
 
 - shipping: $6 (add $1 for each shirt after the first)
 
