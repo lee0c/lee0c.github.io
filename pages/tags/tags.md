@@ -9,6 +9,7 @@ list of all existing tags
 - [book](tag/book)
 - [card](tag/card)
 - [knit](tag/knit)
+- [leather](tag/leather)
 - [patch](tag/patch)
 - [print](tag/print)
 - [shirt](tag/shirt)
