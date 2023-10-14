@@ -55,7 +55,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 ### riveting, snapping, etc
 
 - for any given size/brand of rivets, you can usually buy a [setter](https://www.buckleguy.com/bg-rivet-setter-9-2mm-concave-end/) and [anvil](https://www.buckleguy.com/bg-rivet-setter-base-for-9-2-11-13mm-cap-rivets/) for maybe $25 together
-    - also I have one extra of both of those items, so if you're short on cash lmk and I will ship em to ya - since I have switched over to the next option
+    - also I have one extra of both of those specific linked items, so if you're short on cash lmk and I will ship em to ya - since I have switched over to the next option
 - however, if you think you might get really into leatherworking, or if you think you will be getting multiple sizes of rivets, attaching snaps, attaching other types of rivet-style clasps, whatever, I would highly recommend [this setter post and base](https://www.buckleguy.com/bg-setter-post-base-for-screw-in-dies/) and [a rivet setter die](https://www.buckleguy.com/bg-rivet-setter-die-multiple-sizes-requires-hand-tool-post-base-or-bg-hand-press/) or whichever setter die you need for your specific thing
     - these dies also work with [larger presses](https://www.buckleguy.com/bg-180-convertible-hand-or-foot-press/) and make it much more possible to transition from a hand press to a full press without having to re-buy all your dies
     - according to Corter Leather at the very least (I don't really have the experience to make a full comparison) this system is much more reliable for well-balanced, well-rounded rivets, snaps, etc
