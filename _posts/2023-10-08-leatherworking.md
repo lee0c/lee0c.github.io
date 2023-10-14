@@ -38,6 +38,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
     - tokonole can even burnish chrome tan leather and flesh side of veg tan
 - (nice to have) [wooden edge burnishing tool](https://www.buckleguy.com/leather-edge-slicker-burnishing-tool-beech-wood/) but tbh I find myself just using canvas instead of my burnishing tool
     - you can also use wooden tool handles, if you have for example an edge beveler with a wooden handle sitting around
+- (nice to have/need to have if you don't get tokonole) beeswax
 
 ### punching
 
