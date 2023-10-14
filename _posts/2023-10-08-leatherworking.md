@@ -39,6 +39,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - (nice to have) [wooden edge burnishing tool](https://www.buckleguy.com/leather-edge-slicker-burnishing-tool-beech-wood/) but tbh I find myself just using canvas instead of my burnishing tool
     - you can also use wooden tool handles, if you have for example an edge beveler with a wooden handle sitting around
 - (nice to have/need to have if you don't get tokonole) beeswax
+- (nice to have) [micro spatula](https://www.dickblick.com/items/lineco-micro-spatula-flat/) - I bought this for bookbinding but I find it useful for applying tokonole or doing other odd lil jobs
 
 ### punching
 
@@ -69,6 +70,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
     - technically you could just buy a diamond awl or a 1-tooth chisel and poke each hole individually and that *would* be cheaper but oh my god love yourself
 - (nice to have, any needles will do but oh my god these are pretty hashtag worth) [cs osborne harness needles, blunt tip](https://www.buckleguy.com/517-harness-needles-for-hand-sewing-blunt-tip-5-needles/)
 - (need to have) thread - I am using [Ritza 25 Tiger Thread](https://www.buckleguy.com/ritza-25-tiger-thread/) (currently I have the 1.0mm size. I find it a little large and will probably size down when I order other colors) and have also used [MeiSi Superfine Linen Thread](https://threadsofmeisi.com/collections/meisi-superfine-linen-threads) but polyester threads are easier to seal off with a lighter
+- (nice to have) some kind of [silicone needle puller](https://www.joann.com/needle-pullers-3-pkg/3500295.html) for gripping needles. or just use the back of a mousepad
 
 ## tool care
 
