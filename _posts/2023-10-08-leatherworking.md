@@ -18,6 +18,8 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - (need to have) some kind of scratch awl for marking
 - (need to have) cutproof mat
 - (need to have basically whenever you are using a mallet) ["poundo board" or cutting board](https://www.buckleguy.com/cutting-board-multiple-sizes/) (this is just an example, I got mine elsewhere) - importantly, this is distinct from your cutproof mat. you *can* use this in place of your cutproof mat but it tends to pick up a lot of punctures which can leave indents in your leather with pressure - so I only use mine for mallet-ing and otherwise use my cutproof mat
+- (nice to have) [pattern plastic](https://www.weaverleathersupply.com/products/pattern-sheet-24-x-45) - but like I said above you can use non-corrugated cardboard
+- (nice to have) [acrylic leather thickness gauge](https://www.buckleguy.com/bg-acrylic-tool-leather-thickness-gauge/) - but you can also just use a ruler or calipers, or learn to gauge by eye/feel
 
 ### cutting
 
@@ -48,6 +50,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
     - get an [oblong punch](https://www.buckleguy.com/151-bag-punch-multiple-sizes/). shaped punches are *expensive as shit* but if you're doing more than a few buckles this is worth it.
 - another shaped punch: the [english point strap end punch](https://www.buckleguy.com/0150-strap-end-punch-english-point-multiple-sizes-1/). I don't own this yet but am heavily considering it if I am going to make more harnesses (and I am). you don't specifically need english point - there's other strap end styles - but having *a* strap end punch in the size of your choosing is useful for harnesses, belts, anything with a lot of straps.
     - with strap end punches, you can use a larger punch on a smaller strap (for an imperfect result, tbf) but not vice versa
+    - there are also strap end acrylic templates out there on several retailers sites - I have a tandy one
 
 ### riveting, snapping, etc
 
