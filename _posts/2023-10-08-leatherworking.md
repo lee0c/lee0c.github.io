@@ -65,17 +65,21 @@ If I have linked a tool, I really like that specific tool and find it stands out
 ### stitching
 
 - (nice to have) wing divider for drawing stitching lines
-- (need to have) stitching chisels! if you want to save some money, you mostly need the 6-tooth and the 2-tooth - 6 for straightaways, 2 for curves. I occasionally use my 4-tooth and *very* occasionally use my 1-tooth.
+- (need to have) stitching chisels! if you want to save some money, you mostly need the 6-tooth and the 2-tooth - 6 for straightaways, 2 for curves. I occasionally use my 4-tooth and *very* occasionally use my 1-tooth (except for zippers. if you wanna do zippers get a 1-tooth).
     - my stitching chisels are 4mm spacing. I picked this pretty arbitrarily :)
     - technically you could just buy a diamond awl or a 1-tooth chisel and poke each hole individually and that *would* be cheaper but oh my god love yourself
 - (nice to have, any needles will do but oh my god these are pretty hashtag worth) [cs osborne harness needles, blunt tip](https://www.buckleguy.com/517-harness-needles-for-hand-sewing-blunt-tip-5-needles/)
 - (need to have) thread - I am using [Ritza 25 Tiger Thread](https://www.buckleguy.com/ritza-25-tiger-thread/) (currently I have the 1.0mm size. I find it a little large and will probably size down when I order other colors) and have also used [MeiSi Superfine Linen Thread](https://threadsofmeisi.com/collections/meisi-superfine-linen-threads) but polyester threads are easier to seal off with a lighter
-- (nice to have) some kind of [silicone needle puller](https://www.joann.com/needle-pullers-3-pkg/3500295.html) for gripping needles. or just use the back of a mousepad
+- (nice to have) some kind of [silicone needle puller](https://www.joann.com/needle-pullers-3-pkg/3500295.html) (I don't actually have this one, I was having trouble finding what I have - little pink finger covers that are all grippy) for gripping needles. or just use the back of a mousepad? or something?
 
-## tool care
+### tool care
 
 - (need to have for certain blades such as skiving knife) jeweler's rouge for stropping
     - I am not an expert here so I am not making firm recommendations. I got mine from Springfield Leather
+
+### zippers
+
+- okay so I bought them because they are pretty but these [rainbow zippers](https://www.buckleguy.com/riri-zipper-continuous-chain-combi-eloxal-teeth-elox/) actually make it so much easier because you can differentiate each tooth from the next!!!
 
 ## resources
 
