@@ -4,7 +4,7 @@ title: double bill pocket bifold
 category: available
 image: 
     name: double-bill-pocket-bifold.jpg
-    alt: "A hand holds a bifold wallet open, showing the layer of goatskin that bisects the bill pocket to split it into two pockets."
+    alt: "A 3-picture collage showing a hand-stitched leather wallet in plum and light natural leather, with a double bill pocket."
 tags:
     - leather
 ---
