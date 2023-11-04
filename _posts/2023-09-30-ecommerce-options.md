@@ -13,6 +13,8 @@ image:
 - allows me to set alt text for images.
 - points for being a cooperative model
 
+## bigCartel
+
 ## Etsy
 
 - fuck etsy mxn
