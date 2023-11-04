@@ -44,6 +44,7 @@ image:
 - does not support alt text for background images or product images
 - keyboard navigation of the main menu fails when there are nested categories below any menu item - focus lands on each category without expanding the menu item
 - support blows
+- legal name only policy apparently which ewwwww
 
 ## WooCommerce
 
