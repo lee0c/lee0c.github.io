@@ -3,7 +3,7 @@ layout: post
 title: gender?
 category: reference
 image:
-    name: gender-notes1.png
+    name: gender-notes.png
     alt: 'A page of handwritten notes with some loosely drawn charts, described further in the post.'
 ---
 
