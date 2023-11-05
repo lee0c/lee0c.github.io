@@ -28,6 +28,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - (nice to have for harnesses, belts) strap cutter
 - (nice to have for small objects with a lot of layers at the seams, like wallets) skiving knife of some kind. there's a lot of different types out there. I have a CS Osborne leather knife and I don't love it, but idk if that's just because I am still learning how to skive.
     - you're supposed to skive on a fucken [rock](https://www.weaverleathersupply.com/products/marble-tooling-slab) so as not to absolutely wreck your cutproof mat. I haven't got my rock yet but I haven't ruined my mat yet either.
+    - ok so I got a [skiving knife](https://www.weaverleathersupply.com/products/flat-leather-knife) from Weaver and it *definitely* beats out the CS Osborne leather knife
 
 ### edging and burnishing
 
