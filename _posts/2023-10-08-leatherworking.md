@@ -85,6 +85,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 ## resources
 
 - [Corter Leather on YouTube](https://www.youtube.com/@Corter)
+- [Leodis Leather on YouTube](https://www.youtube.com/@Leodis.Leather)
 
 ## retailers
 
