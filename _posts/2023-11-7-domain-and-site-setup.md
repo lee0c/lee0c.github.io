@@ -3,8 +3,8 @@ layout: post
 title: domain and site setup
 category: reference
 image: 
-    name: 
-    alt: ""
+    name: crinkly-mushrooms.jpg
+    alt: "Picture unrelated to post. Some crinkly brown-orange mushrooms in vibrant green grass."
 ---
 
 In this writeup, I will walk through one (of many!) ways to set up and utilize a custom domain and website.
