@@ -85,7 +85,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - (need to have) a beveler. I have a smooth beveler at the moment, but am waiting on a checked beveler in the mail as I think I will like that look better
 - (need to have) as mentioned previously, mallet or maul
 - (nice to have) literally any other stamps i guess
-- (nice to have) templates! it really helps to start out with some designs made for swivel knife. I got a few from [dadhands](https://www.dadhands.ca/)
+- (nice to have) templates! it really helps to start out with some designs made for swivel knife. I got a few (both free and paid) from [dadhands](https://www.dadhands.ca/)
 
 ### zippers
 
