@@ -10,6 +10,7 @@ tags:
     - patch
     - card
     - sticker
+    - pin
 ---
 
 Hand carved stamp of a smiling skull celebrating trans rights. Available now as clear and holographic stickers!
@@ -28,4 +29,4 @@ prints/cards: black with blue and pink letters
 
 ### available as
 
-patch, print, greeting card, sticker
+patch, print, greeting card, sticker, pin

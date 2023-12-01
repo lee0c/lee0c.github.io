@@ -11,6 +11,7 @@ tags:
     - sticker
     - shirt
     - card
+    - pin
 ---
 
 my therapist's idea
@@ -27,4 +28,4 @@ default: black
 
 ### available as
 
-patch, print, sticker, shirt, card
+patch, print, sticker, shirt, card, pin

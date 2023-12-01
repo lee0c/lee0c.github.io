@@ -10,6 +10,7 @@ tags:
     - patch
     - card
     - sticker
+    - pin
 ---
 
 A complement to [trans rights skull](trans-rights-skull).
@@ -26,4 +27,4 @@ default: black
 
 ### available as
 
-patch, print, greeting card, sticker
+patch, print, greeting card, sticker, pin
