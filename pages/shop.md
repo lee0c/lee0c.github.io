@@ -19,7 +19,7 @@ if you would like to pay for any gifts I send out, I first recommend you divert 
 
 ### 2: direct payment
 
-if you would like to pay me directly instead of or in addition to charity, I've written up some [pricing guidelines](pricing).
+if you would like to pay me directly instead of or in addition to charity, I've written up some [pricing guidelines](pricing). There are also several storefront options listed on my [contact page](contact) where you can buy direct with less hassle (though also less ability to customize things).
 
 ### 3: art trade!
 

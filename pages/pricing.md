@@ -15,7 +15,6 @@ permalink: pricing
     <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
 </dl>
 
-
 ## commissions
 
 A print design based on a photograph can take 1-4 hours to create and another 2-6 hours to carve, based on size and complexity.
