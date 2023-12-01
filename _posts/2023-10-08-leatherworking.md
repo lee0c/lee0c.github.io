@@ -45,6 +45,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
 ### punching
 
 - (need to have) a mallet or something for hitting things. yes there are $100 mauls you can buy. idk a shitty mallet is working fine for me so far
+    - alright i splurged on a maul and it was worth it. dammit.
 - (nice to have) [japanese push drill](https://www.talasonline.com/Japanese-Push-Drill) and [bits](https://www.talasonline.com/Japanese-Push-Drill-Replacement-Bits)
 - if you don't want to go in on a $50 push drill, start with just some simple [single-hole punches](https://www.buckleguy.com/245-belt-punch-multiple-sizes/) or a [rotary punch](https://www.buckleguy.com/223-revolving-punch/). rotary punches are pretty heavily recommended since they come with a range of punch sizes; I avoid them like the plague because I have small shitty hands and I think those would pair poorly with a rotary punch.
 - if you're going to be attaching buckles, you'll need oblong holes for the buckle tongue. two options:
@@ -70,7 +71,7 @@ If I have linked a tool, I really like that specific tool and find it stands out
     - my stitching chisels are 4mm spacing. I picked this pretty arbitrarily :)
     - technically you could just buy a diamond awl or a 1-tooth chisel and poke each hole individually and that *would* be cheaper but oh my god love yourself
 - (nice to have, any needles will do but oh my god these are pretty hashtag worth) [cs osborne harness needles, blunt tip](https://www.buckleguy.com/517-harness-needles-for-hand-sewing-blunt-tip-5-needles/)
-- (need to have) thread - I am using [Ritza 25 Tiger Thread](https://www.buckleguy.com/ritza-25-tiger-thread/) (currently I have the 1.0mm size. I find it a little large and will probably size down when I order other colors) and have also used [MeiSi Superfine Linen Thread](https://threadsofmeisi.com/collections/meisi-superfine-linen-threads) but polyester threads are easier to seal off with a lighter
+- (need to have) thread - I am using [Ritza 25 Tiger Thread](https://www.buckleguy.com/ritza-25-tiger-thread/) (currently I have the 1.0mm size. I find it a little large and will probably size down when I order other colors - update, sized down to .8 and even have some .6 - much preferable) and have also used [MeiSi Superfine Linen Thread](https://threadsofmeisi.com/collections/meisi-superfine-linen-threads) but polyester threads are easier to seal off with a lighter
 - (nice to have) some kind of [silicone needle puller](https://www.joann.com/needle-pullers-3-pkg/3500295.html) (I don't actually have this one, I was having trouble finding what I have - little pink finger covers that are all grippy) for gripping needles. or just use the back of a mousepad? or something?
 
 ### tool care
@@ -78,9 +79,18 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - (need to have for certain blades such as skiving knife) jeweler's rouge for stropping
     - I am not an expert here so I am not making firm recommendations. I got mine from Springfield Leather
 
+### tooling
+
+- (need to have) swivel knife
+- (need to have) a beveler. I have a smooth beveler at the moment, but am waiting on a checked beveler in the mail as I think I will like that look better
+- (need to have) as mentioned previously, mallet or maul
+- (nice to have) literally any other stamps i guess
+- (nice to have) templates! it really helps to start out with some designs made for swivel knife. I got a few from [dadhands](https://www.dadhands.ca/)
+
 ### zippers
 
 - okay so I bought them because they are pretty but these [rainbow zippers](https://www.buckleguy.com/riri-zipper-continuous-chain-combi-eloxal-teeth-elox/) actually make it so much easier because you can differentiate each tooth from the next!!!
+- (nice to have) tape such as [ted's tape](https://www.buckleguy.com/double-sided-tape/)
 
 ## resources
 
@@ -94,3 +104,4 @@ If I have linked a tool, I really like that specific tool and find it stands out
 - [springfield leather](https://www.springfieldleather.com/)
 - [tandy](https://tandyleather.com/)
 - [weaver leather supply](https://www.weaverleathersupply.com/)
+- [longview leather (canada)](https://www.longviewleather.com/)
