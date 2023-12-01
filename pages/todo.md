@@ -4,9 +4,9 @@ title: todo
 permalink: /todo
 ---
 
-- update payment information
-  - add pay what you want policy for certain work
-  - add payment app contacts
+- ~~update payment information~~
+  - ~~add pay what you want policy for certain work~~
+  - ~~add payment app contacts~~
 - ~~redirect mastodon contact link~~
 - ~~remove 's' from tags~~
 - ~~add tags~~
@@ -45,9 +45,9 @@ permalink: /todo
 - add more projects
   - ~~socks~~
   - knitting highlights
-  - leather keychains?
-  - trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)
-  - add other stamps
+  - ~~leather keychains?~~
+  - ~~trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)~~
+  - ~~add other stamps~~
   - ~~add flocked book~~
   - ~~add brooke's book~~
 - friend suggestions re a11y
