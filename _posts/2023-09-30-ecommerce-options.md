@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ecommerce options notes
+title: ecommerce options
 category: reference
 image: 
     name: loon.jpg
