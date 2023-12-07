@@ -24,7 +24,7 @@ permalink: /contact
     <dd><a href="https://riverside-refuge.square.site/" target="_blank">Riverside Refuge Studio</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-egg"></i> artisans cooperative</dt>
     <dd><a href="https://artisans.coop/pages/seller-profiles/riverside-refuge-studio" target="_blank">Riverside Refuge Studio</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (no longer updated with new items)</dt>
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
