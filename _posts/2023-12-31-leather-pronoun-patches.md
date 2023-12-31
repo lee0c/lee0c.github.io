@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tooled leather patches
-category: available
+category: gallery
 image: 
     name: pronoun-patch-scroll.jpg
     alt: "two tooled leather patches. they have scrolls tooled on them that read various pronoun sets."

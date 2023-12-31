@@ -1,7 +1,7 @@
 ---
 layout: post
 title: coming out
-category: available
+category: gallery
 image: 
     name: coming-out-card-print.jpg
     alt: "A card and print in the same design - a chick and a broken eggshell, and a simple font reading 'congrats on coming out of your shell'"

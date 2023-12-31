@@ -1,7 +1,7 @@
 ---
 layout: post
 title: anarchy autism
-category: available
+category: gallery
 image: 
     name: anarchy-autism-rainbow-print.jpg
     alt: "A print in rainbow ink that says autism with the anarchy A."

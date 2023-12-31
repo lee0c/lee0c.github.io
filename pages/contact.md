@@ -19,6 +19,8 @@ permalink: /contact
 
 ### shops
 
+if pricing is an issue for you, reach out and we can work out sliding scale options.
+
 <dl>
     <dt><i aria-hidden="true" class="fa-regular fa-square"></i> square</dt>
     <dd><a href="https://riverside-refuge.square.site/" target="_blank">Riverside Refuge Studio</a></dd>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: congrats on the gay
-category: available
+category: gallery
 image: 
     name: congrats-on-the-gay.jpg
     alt: "A greeting card reading, in black. 'Congrats on the,' and then, in rainbow, 'Gay!'"

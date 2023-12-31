@@ -1,7 +1,7 @@
 ---
 layout: post
 title: trans wrongs skull
-category: available
+category: gallery
 image: 
     name: trans-wrongs-print.jpg
     alt: "A smiling skull with devil horns and a little spiked tail, and a speech bubble reading 'trans wrongs!'"

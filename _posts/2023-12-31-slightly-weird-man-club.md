@@ -1,7 +1,7 @@
 ---
 layout: post
 title: slightly weird man club
-category: available
+category: gallery
 image: 
     name: slightly-weird-man-club-print.jpg
     alt: "A print that reads 'slightly weird man club' in a nonbinary flag colored gradient"

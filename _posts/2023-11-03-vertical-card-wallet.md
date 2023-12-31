@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vertical card wallet
-category: available
+category: gallery
 image: 
     name: vertical-card-wallet.jpg
     alt: "A collage showing a hand-stitched leather card wallet with 3 card pockets and 1 interior pocket."
