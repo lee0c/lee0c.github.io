@@ -1,7 +1,7 @@
 ---
 layout: post
 title: trans the world
-category: available
+category: gallery
 image: 
     name: trans-the-world-print.jpg
     alt: "A print that reads 'trans the world' surrounding an image of a globe and a trans symbol. It's in a ping-to-blue gradient."

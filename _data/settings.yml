@@ -2,8 +2,6 @@
 google-ID: ''
 
 menu:
-- {name: 'available', url: 'available'}
-- {name: 'shop FAQ', url: 'shop'}
 - {name: 'gallery', url: 'gallery'}
 - {name: 'reference', url: 'reference'}
 - {name: 'about', url: 'about'}

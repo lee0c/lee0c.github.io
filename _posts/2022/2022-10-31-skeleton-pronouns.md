@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pronoun patches
-category: available
+category: gallery
 image: 
     name: pronoun-patch.jpg
     alt: "Rows of the same design, a skull with a speech bubble announcing varied pronoun sets, repeat in multiple colors along a stretch of off-white fabric."

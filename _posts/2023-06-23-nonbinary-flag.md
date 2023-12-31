@@ -1,7 +1,7 @@
 ---
 layout: post
 title: nonbinary flag
-category: available
+category: gallery
 image: 
     name: nonbinary-flag-print.jpg
     alt: "A print of a nonbinary flag waving, with yellow, white (uninked), purple, and black stripes."

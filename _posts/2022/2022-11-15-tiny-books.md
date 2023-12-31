@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tiny books
-category: available
+category: gallery
 image:
     name: tiny-book.jpg
     alt: 'A three panel collage showing a book held in the palm of a hand.'

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: orange green journal
-category: available
+category: gallery
 image:
     name: orange-green-journal.jpg
     alt: "A 4-part collage of a slim handbound book."

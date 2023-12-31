@@ -1,7 +1,7 @@
 ---
 layout: post
 title: double bill pocket bifold
-category: available
+category: gallery
 image: 
     name: double-bill-pocket-bifold.jpg
     alt: "A 3-picture collage showing a hand-stitched leather wallet in plum and light natural leather, with a double bill pocket."

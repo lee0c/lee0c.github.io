@@ -1,7 +1,7 @@
 ---
 layout: post
 title: eight pocket bifold
-category: available
+category: gallery
 image: 
     name: eight-pocket-bifold.jpg
     alt: "A 3-picture collage showing a hand stitched full grain leather bifold wallet in dark plum leather. It has a main bill pocket and a asymmetrical interior with a hidden pocket and 3 card pockets on the right, and a hidden pocket and 2 card pockets on the left. The left front pocket has a small naturally occuring hole."

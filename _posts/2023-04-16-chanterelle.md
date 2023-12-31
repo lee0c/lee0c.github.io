@@ -1,7 +1,7 @@
 ---
 layout: post
 title: chanterelle
-category: available
+category: gallery
 image: 
     name: chanterelle-print.jpg
     alt: "A print of two chanterelle mushrooms inked in a dark-to-light yellow gradient."

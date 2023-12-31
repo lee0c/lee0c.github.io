@@ -1,7 +1,7 @@
 ---
 layout: post
 title: artists conk!
-category: available
+category: gallery
 image: 
     name: artists-conk-leatherworking.jpg
     alt: "A hand holding a mushroom with a whitish surface. Scratched into the surface and showing up as brown lines is an illustration of many leatherworking tools."
