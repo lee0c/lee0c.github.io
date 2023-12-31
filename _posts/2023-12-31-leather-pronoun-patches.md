@@ -1,0 +1,12 @@
+---
+layout: post
+title: tooled leather patches
+category: available
+image: 
+    name: pronoun-patch-scroll.jpg
+    alt: "two tooled leather patches. they have scrolls tooled on them that read various pronoun sets."
+tags:
+    - leather
+---
+
+Limited number available for free in my [square shop](https://riverside-refuge.square.site/product/tooled-leather-pronoun-patch/91) with the code "FREEPATCH"
