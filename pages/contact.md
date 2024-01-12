@@ -19,7 +19,7 @@ permalink: /contact
 
 ### shops
 
-if pricing is an issue for you, reach out and we can work out sliding scale options or an art trade.
+if pricing is an issue for you, reach out and we can work out sliding scale options - or an art trade!
 
 <dl>
     <dt><i aria-hidden="true" class="fa-regular fa-square"></i> square</dt>
