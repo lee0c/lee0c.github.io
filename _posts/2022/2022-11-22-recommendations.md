@@ -22,5 +22,5 @@ image:
 
 ## Videos
 
-- [Did feminism FAIL men?](https://www.youtube.com/watch?v=UOhs9jxe4lM){:target="_blank"} by Alexander Avila
 - [The Kronk Effect](https://www.youtube.com/watch?v=5Sz40XPPtKQ){:target="_blank"} by CJ the X
+- [Did feminism FAIL men?](https://www.youtube.com/watch?v=UOhs9jxe4lM){:target="_blank"} by Alexander Avila
