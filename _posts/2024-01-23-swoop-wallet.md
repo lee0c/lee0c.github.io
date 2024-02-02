@@ -4,9 +4,9 @@ title: swoop wallet
 category: gallery
 image: 
     name: swoop-wallet.jpg
-    alt: "A collage showing 3 pictures of a blue and purple leather wallet. There are two pockets, one layer which folds around from the back and one that is sandwiched in between. The pockets are very nicely curvy."
+    alt: "A collage showing 3 pictures of a red and brown leather card wallet. The red pocket separator folds around to the back to become a fetching curlicue."
 tags:
     - leather
 ---
 
-Prototype of a card wallet.
+A card wallet.
