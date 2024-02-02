@@ -6,6 +6,10 @@
       {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
+  {% if page.image %}
+    <meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image.name }}" />
+    <meta property="og:image:alt" content="{{ page.image.alt }}" />
+  {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <link rel="stylesheet" href="../assets/css/main.css">
