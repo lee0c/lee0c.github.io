@@ -41,7 +41,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
-## payment methods
+### payment methods
 
 <dl>
     <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo (preferred)</dt>
