@@ -4,7 +4,7 @@ title: contact me
 permalink: /contact
 ---
 
-### contact me
+## contact me
 
 <dl>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
@@ -17,7 +17,7 @@ permalink: /contact
     <dd>message me for address!</dd>
 </dl>
 
-### shops
+## shops
 
 if pricing is an issue for you, reach out and we can work out sliding scale options - or an art trade!
 
@@ -30,7 +30,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
-### socials
+## socials
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
@@ -41,7 +41,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
-### payment methods
+## payment methods
 
 <dl>
     <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo (preferred)</dt>
@@ -50,7 +50,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
 </dl>
 
-### not online or online unreliably
+## not online or online unreliably
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-linkedin"></i> linkedin</dt>
