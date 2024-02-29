@@ -6,7 +6,7 @@ permalink: /about
 
 My name is Lee Cattarin. I use he or ze pronouns, or [most neopronouns](https://en.pronouns.page/@lee.cattarin){:target="_blank"}. Just have fun.
 
-I'm a programmer (backend, K8s/devOps, learning about accessibility), crafter - knitting, spinning yarn, stamp carving/printmaking, cardmaking & papercrafts, bookbinding, and lately playing w/ leatherworking - and artist, bread baker, guitar player, and probably a lot of other things.
+I'm a programmer (backend, K8s/devOps, learning about accessibility), artist&crafter - knitting, spinning yarn, stamp carving/printmaking, cardmaking & papercrafts, bookbinding, and lately playing w/ leatherworking - and bread baker, guitar player, and probably a lot of other things.
 
 As of November 2023, my wife Brooke Osment and I have a business: Riverside Refuge Studio. You can find various store links, or other ways to connect, on my [contact page](contact).
 
