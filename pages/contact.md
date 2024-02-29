@@ -30,6 +30,15 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
+### payment methods
+
+<dl>
+    <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo (preferred)</dt>
+    <dd><a href="https://www.venmo.com/u/lee-cattarin" target="_blank">lee-cattarin</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-paypal"></i> paypal</dt>
+    <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
+</dl>
+
 ## socials
 
 <dl>
@@ -39,15 +48,6 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
-</dl>
-
-## payment methods
-
-<dl>
-    <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo (preferred)</dt>
-    <dd><a href="https://www.venmo.com/u/lee-cattarin" target="_blank">lee-cattarin</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-paypal"></i> paypal</dt>
-    <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
 </dl>
 
 ## not online or online unreliably
