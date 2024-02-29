@@ -9,4 +9,8 @@ tags:
     - leather
 ---
 
-Made a few variations of this; check out [the shop](https://riverside-refuge.square.site/product/o-ring-bracelet-custom/102) for more details and options.
+Made a few variations of this; check out the shop for more details and options:
+
+- [fixed o-ring bracelet](https://riverside-refuge.square.site/product/fixed-o-ring-bracelet/108)
+- [swappable o-ring bracelet](https://riverside-refuge.square.site/product/swappable-o-ring-bracelet/102)
+- [premade o-ring bracelets](https://riverside-refuge.square.site/product/premade-o-ring-bracelets/106)
