@@ -9,6 +9,8 @@ image:
 
 [Look through a scan of the zine.](assets/pdf/gender-as-a-proxy-variable.pdf)
 
+[Get print copies.](https://riverside-refuge.square.site/product/gender-as-a-proxy-variable-print-zine/113)
+
 The below material is a web page reproduction of my zine **Gender as a Proxy Variable**.
 
 ---
