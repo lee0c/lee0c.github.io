@@ -239,3 +239,4 @@ Lee Cattarin is a transgender software developer and artist based out of Vashon,
 
 Get in touch with hir via any of the methods listed on [https://leecat.art/contact](contact)
 
+![A small stamp depicting Lee's face next to a speech bubble in handwritten text that reads 'Thanks for reading!'. Below that, the word 'editors' in quotes, and stamps of a fluffy dog and 6 variously-patterned ducklings](assets/img/gender-zine-stamps.png)
