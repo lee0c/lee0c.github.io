@@ -69,13 +69,12 @@ What pronouns should we use for you? (pick any)
 - other *(write-in)*: *ze/hir/hirs*
 
 Worried about parsing that free text field? Try:
-|  |  |
-| --- | --- |
-| subjective: | *she* |
-| objective: | *her* |
-| possessive (adj): |	*her* |
-| possessive (prn): |	*hers* |
-| reflexive: | *herself* |
+
+- subjective: *she*
+- objective: *her*
+- possessive (adj):	*her*
+- possessive (prn):	*hers*
+- reflexive: *herself*
 
 ## ...Title or prefix
 
