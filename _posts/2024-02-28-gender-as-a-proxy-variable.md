@@ -72,8 +72,8 @@ Worried about parsing that free text field? Try:
 
 - subjective: *she*
 - objective: *her*
-- possessive (adj):	*her*
-- possessive (prn):	*hers*
+- possessive (adj): *her*
+- possessive (prn): *hers*
 - reflexive: *herself*
 
 ## ...Title or prefix
@@ -235,7 +235,7 @@ Linked in that blog post are numerous sources; the most heavily relied on here w
 
 ## Author
 
-Lee Cattarin is a transgender software developer and artist based out of Vashon, WA, USA. All hir creative work can be found at [https://leecat.art]()
+Lee Cattarin is a transgender software developer and artist based out of Vashon, WA, USA. All hir creative work can be found at [https://leecat.art](/)
 
 Get in touch with hir via any of the methods listed on [https://leecat.art/contact](contact)
 
