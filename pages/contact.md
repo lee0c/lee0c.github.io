@@ -33,7 +33,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 ### payment methods
 
 <dl>
-    <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo (preferred)</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-comment-dollar"></i> venmo</dt>
     <dd><a href="https://www.venmo.com/u/lee-cattarin" target="_blank">lee-cattarin</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-paypal"></i> paypal</dt>
     <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
