@@ -107,7 +107,7 @@ Do you require private facilities for breastfeeding or other health and wellness
 Which style of shirt would you prefer? (pick one)
 
 - straight cut
-- fitted
+- fitted *(edit: a reader has suggested "curvy" or "flared" as alternatives)*
 
 ## ...Bathroom use
 
