@@ -29,19 +29,29 @@ Cataloguing paper I have worked with and any notes.
 
 #### Kitakata
 
-- Too yellow-toned for my liking.
+- Too yellow-toned for my liking
 
 #### Kinwashi
 
-- More fragile than I want.
+- More fragile than I want
 
 ### Rives
 
-- Tears really nicely. I like the lightweight paper.
+[Lightweight Rives Printmaking Paper, Cream](https://www.dickblick.com/items/bfk-rives-printmaking-paper-19-x-26-cream-115-gsm-light-sheet/)
+
+- Tears really nicely
+- I like the lightweight paper
 
 ### Somerset
 
 - I used 250 gsm, velvet finish
-- Heavier than I am looking for.
-- Tears well.
+- Heavier than I am looking for
+- Tears well
 
+### Hahnemühle Ingres
+
+[Hahnemühle Ingres Paper](https://www.dickblick.com/products/hahnemuhle-ingres-paper/)
+
+- comes in a lot of colors
+- tears well
+- good textured surface
