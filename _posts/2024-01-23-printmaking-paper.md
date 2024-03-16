@@ -41,6 +41,7 @@ Cataloguing paper I have worked with and any notes.
 
 - Tears really nicely
 - I like the lightweight paper
+- i like both cream and cream-white
 
 ### Somerset
 
@@ -55,3 +56,8 @@ Cataloguing paper I have worked with and any notes.
 - comes in a lot of colors
 - tears well
 - good textured surface
+- really like this one
+
+### Arches Cover
+
+- thicker than I want
