@@ -33,13 +33,13 @@ where analysis based in traditional sexism takes the gender binary as fact and a
 
 now what does this have to do with FD's video? Well, I would characterize his analysis as grounded in, among many other things, an understanding of traditional sexism. He talks about the ways boys learn about maleness and masculinity and its dominence over femaleness and femininity, but never questions the existence of the category "boy" in opposition to "girl".
 
-And I think we have to! we can't just examine misogyny and toxic masculinity while unconsciously accepting the creation of binary gender, because the creation of and pressure on binary gender helps create misogyny and toxic masculinity. When boys are continuously told they are wildly different from girls, when they are continuously split up and separated, when girls are portrayed as almost a different species, we invite attitudes about women and girls that are less than healthy.
+And I think we have to! we can't just examine misogyny and toxic masculinity while unconsciously accepting the creation of binary gender, because the creation of and pressure on binary gender helps create misogyny and toxic masculinity. When boys are continuously told they are wildly different from girls, when they are continuously split up and separated, when girls are portrayed as almost a different species, we invite unhealthy attitudes about women and girls.
 
-this is of course hypothetical - we live in a society and can't escape it - but if instead we stressed that all children are human, that they are part of a unified group, i can't help but imagine that we would have much healthier attitudes towards sex and dating than we do now.
+this is of course hypothetical - we live in a society and can't escape it - but if instead we stressed that all children are human, that they are part of a unified group, i can't help but imagine that we would have much healthier attitudes towards sex and dating.
 
 ## how this affects us all
 
-now, obviously, the deconstruction of misogyny is enough reason to use this for analysis. we want to minimize misogyny and toxic masculinity, and this supports that goal. but let's also talk about the way bioessentialism and binary gender roles foster and support other biases.
+now, obviously, the deconstruction of misogyny is enough reason to use this for analysis. we want to minimize misogyny and toxic masculinity, and this supports that goal. but let's also talk about the way bioessentialism and binary gender roles foster other biases.
 
 transphobia and particularly anti-nonbinary sentiments are probably the most obvious ones propped up by this, but there's also:
 
