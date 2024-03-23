@@ -7,7 +7,7 @@ image:
     alt: "Image unrelated to post. A mama sheep with two babies curled up next to her in a grassy field."
 ---
 
-This is in response to an F.D. Signifier video, [How to get RICH off weak men!](https://www.youtube.com/watch?v=1QNjwM2a87g) (go follow him!). It is written as a response video and the script has not been changed to fit this format.
+This is in response to an F.D Signifier video, [How to get RICH off weak men!](https://www.youtube.com/watch?v=1QNjwM2a87g) (go follow him!). It is written as a response video and the script has not been changed to fit this format.
 
 As much as it's a response video, I think the content should also stand on its own.
 
