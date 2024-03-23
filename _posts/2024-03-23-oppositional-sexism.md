@@ -19,9 +19,9 @@ Now, overall, fucking excellent, you're great FD, you're very much someone I loo
 
 ## oppositional sexism
 
-what we're going to start and end with today is a concept called OPPOSITIONAL SEXISM. This comes from Julia Serano writing in Whipping Girl.
+what we're going to start and end with today is a concept called **oppositional sexism**. This comes from Julia Serano writing in Whipping Girl.
 
-In addition to TRADITIONAL SEXISM, where men are better than women and masculinity better than femininity, Serano argues that we also experience and propagate oppositional sexism, where men are seen as women's opposites. from Whipping Girl:
+In addition to **traditional sexism**, where men are better than women and masculinity better than femininity, Serano argues that we also experience and propagate oppositional sexism, where men are seen as women's opposites. from Whipping Girl:
 
 > the belief that female and male are rigid, mutually exclusive categories, each possessing a unique and nonoverlapping set of attributes, aptitudes, abilities, and desires
 
