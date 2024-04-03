@@ -17,6 +17,17 @@ permalink: /contact
     <dd>message me for address!</dd>
 </dl>
 
+## socials
+
+<dl>
+    <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
+    <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
+    <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
+    <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
+    <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
+</dl>
+
 ## shops
 
 if pricing is an issue for you, reach out and we can work out sliding scale options - or an art trade!
@@ -41,16 +52,25 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://paypal.me/leecattarin?country.x=US&locale.x=en_US" target="_blank">leecattarin</a></dd>
 </dl>
 
-## socials
+---
 
-<dl>
-    <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
-    <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
-    <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
-    <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
-</dl>
+## in physical stores!
+
+### Seattle
+
+- [Push/Pull](https://www.pushpullseattle.com/): stickers, pins, cards
+- [Standard Goods Ballard](https://thestandardgoods.com/pages/ballard): stickers
+- [Standard Goods Capitol Hill](https://thestandardgoods.com/pages/capitol-hill): stickers
+
+### Tacoma
+
+- Anna's Anomalies
+
+### Vashon
+
+- [SAW: Starving Artist Works (facebook)](https://www.facebook.com/SawStarvingArtistWorks/): stickers, cards, prints, wallets, handbound books, yarn
+- [Standard Goods Vashon](https://thestandardgoods.com/pages/vashon): stickers
+- [Vashon Pharmacy](https://vashonpharmacy.com/): cards
 
 ---
 
