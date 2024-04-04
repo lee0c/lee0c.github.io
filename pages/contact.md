@@ -64,7 +64,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 
 ### Tacoma
 
-- Anna's Anomalies
+- Anna's Anomalies (Sanford and Sons Antiques, 743 Broadway, Tacoma, WA, 98402): stickers, pins, cards, prints
 
 ### Vashon
 
