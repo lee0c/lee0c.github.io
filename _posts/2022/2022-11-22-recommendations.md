@@ -15,6 +15,7 @@ image:
 ## Books
 
 - [Laziness Does Not Exist](https://bookshop.org/p/books/laziness-does-not-exist-devon-price/14871468){:target="_blank"} by Devon Price, PhD
+- [Whipping Girl](https://bookshop.org/p/books/whipping-girl-lib-e-a-transsexual-woman-on-sexism-and-the-scapegoating-of-femininity-julia-serano/12413169){:target="_blank"} by Julia Serano
 
 ## Comics
 
