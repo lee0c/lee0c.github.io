@@ -25,3 +25,4 @@ image:
 
 - [The Kronk Effect](https://www.youtube.com/watch?v=5Sz40XPPtKQ){:target="_blank"} by CJ the X
 - [Did feminism FAIL men?](https://www.youtube.com/watch?v=UOhs9jxe4lM){:target="_blank"} by Alexander Avila
+- (Playlist) [The Alt-Right Playbook](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ){:target="_blank"} by Innuendo Studios
