@@ -28,6 +28,8 @@ permalink: /contact
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
+---
+
 ## shops
 
 if pricing is an issue for you, reach out and we can work out sliding scale options - or an art trade!
@@ -56,21 +58,33 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 
 ## in physical stores!
 
-### Seattle
+### Oregon
 
-- [Push/Pull](https://www.pushpullseattle.com/): stickers, pins, cards
-- [Standard Goods Ballard](https://thestandardgoods.com/pages/ballard): stickers
-- [Standard Goods Capitol Hill](https://thestandardgoods.com/pages/capitol-hill): stickers
+#### Beaverton
 
-### Tacoma
+- [Forager Vintage](https://foragervintage.com/){:target="_blank"}: stickers, pins, cards
+
+### Washington
+
+#### Port Orchard
+
+- [Aphrodisia Boutique](https://www.aphrodisia.boutique/){:target="_blank"}: stickers, pins, cards, prints, leather goods (impact toys, cuffs, potentially harnesses)
+
+#### Seattle
+
+- [Push/Pull](https://www.pushpullseattle.com/){:target="_blank"}: stickers, pins, cards
+- [Standard Goods Ballard](https://thestandardgoods.com/pages/ballard){:target="_blank"}: stickers
+- [Standard Goods Capitol Hill](https://thestandardgoods.com/pages/capitol-hill){:target="_blank"}: stickers
+
+#### Tacoma
 
 - Anna's Anomalies (Sanford and Sons Antiques, 743 Broadway, Tacoma, WA, 98402): stickers, pins, cards, prints
 
-### Vashon
+#### Vashon
 
-- [SAW: Starving Artist Works (facebook)](https://www.facebook.com/SawStarvingArtistWorks/): stickers, cards, prints, wallets, handbound books, yarn
-- [Standard Goods Vashon](https://thestandardgoods.com/pages/vashon): stickers
-- [Vashon Pharmacy](https://vashonpharmacy.com/): cards
+- [Vashon Made (formerly Starving Artist Works) (facebook)](https://www.facebook.com/SawStarvingArtistWorks/){:target="_blank"}: stickers, cards, prints, wallets, handbound books, yarn
+- [Standard Goods Vashon](https://thestandardgoods.com/pages/vashon){:target="_blank"}: stickers
+- [Vashon Pharmacy](https://vashonpharmacy.com/){:target="_blank"}: cards
 
 ---
 
