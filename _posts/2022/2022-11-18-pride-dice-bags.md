@@ -7,6 +7,7 @@ image:
     alt: "Several knitted drawstring dice bags sit in front of a bookshelf. They are in different pride flag colors; from right to left (skipping a few duplicates) bisexual, lesbian, nonbinary, trans, and genderqueer. The trans-colored dice bag in the center opens towards the camera, showing a variety of colorful dice inside."
 tags:
     - knit
+    - gender
 ---
 
 Knitted dice bags in pride flag patterns.

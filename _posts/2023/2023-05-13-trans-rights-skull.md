@@ -11,6 +11,7 @@ tags:
     - card
     - sticker
     - pin
+    - gender
 ---
 
 Hand carved stamp of a smiling skull celebrating trans rights. Available now as clear and holographic stickers!

@@ -7,6 +7,7 @@ image:
     alt: "A brown leather wallet with a subtle trans flag stitching across the top."
 tags:
     - leather
+    - gender
 ---
 
 Designed for my dad.

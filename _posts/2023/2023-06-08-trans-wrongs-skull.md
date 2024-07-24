@@ -11,6 +11,7 @@ tags:
     - card
     - sticker
     - pin
+    - gender
 ---
 
 A complement to [trans rights skull](trans-rights-skull).

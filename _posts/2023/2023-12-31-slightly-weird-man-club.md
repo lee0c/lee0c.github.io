@@ -9,6 +9,7 @@ tags:
     - print
     - patch
     - shirt
+    - gender
 ---
 
 from a discussion on being a nonbinary man

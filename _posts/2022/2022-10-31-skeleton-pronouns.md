@@ -9,6 +9,7 @@ tags:
     - print
     - patch
     - card
+    - gender
 ---
 
 Hand carved modular stamps for when you want a chatty skeleton to yell your pronouns.

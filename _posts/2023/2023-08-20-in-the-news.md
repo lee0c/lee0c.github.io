@@ -5,6 +5,8 @@ category: reference
 image: 
     name: shrimp-knitting.jpg
     alt: "Picture unrelated to post. Lee, sitting in a chair and seen in profile, looks up and smiles. Ze is holding a partially knit shrimp."
+tags:
+    - gender 
 ---
 
 ## topic: Artisans Cooperative
