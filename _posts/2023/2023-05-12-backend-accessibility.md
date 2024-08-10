@@ -65,7 +65,7 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 - [Accessibility guidelines and requirements - Microsoft style guide](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements)
 - [Write accessible documentation - Google docs style guide](https://developers.google.com/style/accessibility)
 - [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546)
-- [How to Write Alt Text and Image Descriptions for the visually impaired](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
+- [How to write alt text and image descriptions for the visually impaired - Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
 - [Alt Text as Poetry](https://alt-text-as-poetry.net/)
 
 
