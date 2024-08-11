@@ -51,6 +51,7 @@ will be an online art sale and fundraiser.
   - [If shipping is per-item, why bother having it listed as shipping? Just bundle it.](#if-shipping-is-per-item-why-bother-having-it-listed-as-shipping-just-bundle-it)
 - [DEADLINE???](#deadline)
 - [I’m not an artist but I want to help!](#im-not-an-artist-but-i-want-to-help)
+- [So how are you actually building this?](#so-how-are-you-actually-building-this)
 
 ### What type of art?
 
@@ -182,3 +183,7 @@ Help out!! Here’s some actions, ranging in skills required, level of effort, a
 - Work with me to design “logistics” - software/apps, data flow, etc
 - Work with me and the artists to lay out a sticker sheet
 - Work with me to help support artists and buyers with questions over email or fedi.
+
+### So how are you actually building this?
+
+I have 3 different potential plans at current, and I’m going to do some testing before saying further. 
