@@ -100,6 +100,8 @@ one of:
 
 I want to expand on the “single item or set” thing - this lets different types of crafts shine differently and allows us to price things reasonably and at many price points. It also means not everything will be one-and-gone!
 
+**You may also submit only a sticker design.** However, be aware (as you read the next question) that I am not able to set artist commission rates on sales of the sticker sheets, only individual artistic creations. The sticker sheets will be too collaborative to realistically apply all artists’ commissions in a meaningful way.
+
 ### How is pricing determined? Are artists paid?
 
 This is *very* tentative at current, but here’s my thoughts:
