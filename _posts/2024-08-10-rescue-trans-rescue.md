@@ -63,6 +63,7 @@ Special focus on a planned collaborative sticker sheet as a major small-dollar i
 #### Can I offer one of my commission slots?
 
 *[Note: I use the term “commission” heavily when discussing pricing schema later in this document. Understand that a “commission slot” is distinct from the artist’s “commission rate” in the pricing schema.]*
+
 Art must be able to be paid in full up front, and artists should feel confident in their ability to deliver on what they promise. If you’re comfortable with those boundaries, you may offer a commission or otherwise buyer-customizable piece of art. Customization can be something simple that requires a single text field question (in which case it will be worked into the platform and the answer provided to you on purchase), or it may be complex enough to require that you get in touch with the buyer after purchase.
 I encourage you to set strict guidelines that allow you to set a firm price up front that you’re confident in; the fundraiser is not responsible for following through with buyers if you later feel you need more funds to deliver.
 
