@@ -117,11 +117,7 @@ Artists will therefore at a minimum take home (Base price \* Commission + Shippi
 
 ---
 
-For any item in the exhibit, a buyer may choose to pay beyond base price. **Decision point**: I am uncertain whether this should be considered a flat donation to TR on top, or whether the artist’s commission should apply to this too. Prospective artists please give me your thoughts!!
-
----
-
-On further reflection: I am leaning towards artist’s commission applying to any overhead pay on a piece of art.
+For any item in the exhibit, a buyer may choose to pay beyond base price. The artist’s commission will be applied to this as well.
 
 Here’s why:
 
