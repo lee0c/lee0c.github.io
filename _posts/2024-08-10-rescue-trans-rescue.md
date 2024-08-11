@@ -39,6 +39,7 @@ will be an online art sale and fundraiser. There will be a method of signing up 
 ## FAQs
 
 - [What type of art?](#what-type-of-art)
+  - [Can I offer one of my commission slots?](#can-i-offer-one-of-my-commission-slots)
 - [Must it be created for this exhibit?](#must-it-be-created-for-this-exhibit)
 - [Is there a theme?](#is-there-a-theme)
 - [Who are the artists?](#who-are-the-artists)
@@ -58,6 +59,12 @@ will be an online art sale and fundraiser. There will be a method of signing up 
 All mediums. Content restrictions may be imposed at Trans Rescue’s discretion (will talk to them about this). Physical and digital are both allowed (digital will be displayed in the exhibit with a watermark). Art can range from “fine art” to “craft” to “merch” as long as it is your artistic creation. Let your definition of art be as expansive as your definition of trans.
 
 Special focus on a planned collaborative sticker sheet as a major small-dollar item. Ideally *all* artists contribute to this and it includes the Trans Rescue logo.
+
+#### Can I offer one of my commission slots?
+
+*[Note: I use the term “commission” heavily when discussing pricing schema later in this document. Understand that a “commission slot” is distinct from the artist’s “commission rate” in the pricing schema.]*
+Art must be able to be paid in full up front, and artists should feel confident in their ability to deliver on what they promise. If you’re comfortable with those boundaries, you may offer a commission or otherwise buyer-customizable piece of art. Customization can be something simple that requires a single text field question (in which case it will be worked into the platform and the answer provided to you on purchase), or it may be complex enough to require that you get in touch with the buyer after purchase.
+I encourage you to set strict guidelines that allow you to set a firm price up front that you’re confident in; the fundraiser is not responsible for following through with buyers if you later feel you need more funds to deliver.
 
 ### Must it be created for this exhibit?
 
