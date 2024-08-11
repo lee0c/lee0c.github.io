@@ -75,7 +75,9 @@ I am open to opinions here. My current thoughts are: no, but it’s preferred th
 
 ### Is there a theme?
 
-TBD. Will talk to TR about this and come back to you.
+From TR:
+
+> We help people escape. That’s something that appeals outside the trans community.  I just got off a call with a guy who had never met a trans person before. He thought what we were doing was so cool he’s volunteering with us. Freedom, escape, rebirth, slavery, captivity, …
 
 ### Who are the artists?
 
