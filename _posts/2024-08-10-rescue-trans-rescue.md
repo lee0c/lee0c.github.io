@@ -8,7 +8,7 @@ image:
 tags:
 ---
 
-Updated 10 Aug 2024
+Updated 11 Aug 2024
 
 This is the complete evolving details for the fediverse-centered [\#rescueTransRescue](https://strangeobject.space/tags/rescueTransRescue) fundraising exhibit.
 
@@ -32,7 +32,7 @@ and
 
 ## The Exhibit
 
-will be an online art sale and fundraiser.
+will be an online art sale and fundraiser. There will be a method of signing up for TR’s email list and a method for direct donation as well as sales.
 
 ---
 
