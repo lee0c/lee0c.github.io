@@ -175,6 +175,7 @@ You can always buy from the exhibit and donate, or…
 Help out!! I don’t need every skill in the book - no catering, sorry - but there’s def a few useful ones:
 
 - **Advertising.** At its simplest level, talk up the event. Use the hashtag and get it trending. Or you can help me work with Trans Rescue to design promotional material. I haven’t quite decided if this needs it’s own website - I’m not much a web dev myself - so if you are, well…
+- **Digital design.** In addition to the general skills that could be needed above, I mentioned a sticker sheet earlier. I have the software and ability to lay that out! But I’m not an expert and if you are, come chat with me :)
 - **Logistics.** Ok, I’ll admit it, big logistics nerd here, so I’m almost rarin’ to put all the right pieces together for this…but I can probably use some help. If you’ve got a brain for systems and some technical knowledge of spreadsheets and forms, maybe hit me up.
 - **Support.** Artists might need help. Buyers might need help. I don’t know if I can keep up with all that on my own!
 
