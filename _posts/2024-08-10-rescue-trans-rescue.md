@@ -113,7 +113,7 @@ For an original work, artists set the following:
 3. Commission: % of the base price they would like to take home, up to 50% inclusive.
 4. Shipping: shipping fees grouped by regional categories (yes I will lay this out clearer)
 
-Artists will therefore at a minimum take home (Base price * Commission + Shipping) * Sold Inventory. This gives them the ability to ensure they are paid what they consider adequate for charity work.
+Artists will therefore at a minimum take home (Base price \* Commission + Shipping) \* Sold Inventory. This gives them the ability to ensure they are paid what they consider adequate for charity work.
 
 ---
 
