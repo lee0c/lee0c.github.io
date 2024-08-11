@@ -43,6 +43,7 @@ will be an online art sale and fundraiser. There will be a method of signing up 
 - [Must it be created for this exhibit?](#must-it-be-created-for-this-exhibit)
 - [Is there a theme?](#is-there-a-theme)
 - [Who are the artists?](#who-are-the-artists)
+- [Can we collaborate?](#can-we-collaborate)
 - [How many works per artist?](#how-many-works-per-artist)
 - [How is pricing determined? Are artists paid?](#how-is-pricing-determined-are-artists-paid)
   - [Example: Alyx](#example-alyx)
@@ -65,6 +66,7 @@ Special focus on a planned collaborative sticker sheet as a major small-dollar i
 *[Note: I use the term “commission” heavily when discussing pricing schema later in this document. Understand that a “commission slot” is distinct from the artist’s “commission rate” in the pricing schema.]*
 
 Art must be able to be paid in full up front, and artists should feel confident in their ability to deliver on what they promise. If you’re comfortable with those boundaries, you may offer a commission or otherwise buyer-customizable piece of art. Customization can be something simple that requires a single text field question (in which case it will be worked into the platform and the answer provided to you on purchase), or it may be complex enough to require that you get in touch with the buyer after purchase.
+
 I encourage you to set strict guidelines that allow you to set a firm price up front that you’re confident in; the fundraiser is not responsible for following through with buyers if you later feel you need more funds to deliver.
 
 ### Must it be created for this exhibit?
@@ -78,6 +80,12 @@ TBD. Will talk to TR about this and come back to you.
 ### Who are the artists?
 
 Trans and gender expansive/diverse people who wish to help. If you are unsure whether this includes you: it does.
+
+### Can we collaborate?
+
+Sure, but only one of you is responsible for being the “point” person for any one piece of art. This is to keep my signup forms and email lists straightforward.
+
+Obviously, credit all artists who participate in creating a piece.
 
 ### How many works per artist?
 
