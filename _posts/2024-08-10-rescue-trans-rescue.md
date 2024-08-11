@@ -54,7 +54,7 @@ will be an online art sale and fundraiser.
 
 ### What type of art?
 
-All mediums. Content restrictions may be imposed at Trans Rescue’s discretion (will talk to them about this). Physical and digital are both allowed (digital will be displayed in the exhibit with a watermark). Art can range from “fine art” to “craft” to “merch” as long as it is your artistic creation.
+All mediums. Content restrictions may be imposed at Trans Rescue’s discretion (will talk to them about this). Physical and digital are both allowed (digital will be displayed in the exhibit with a watermark). Art can range from “fine art” to “craft” to “merch” as long as it is your artistic creation. Let your definition of art be as expansive as your definition of trans.
 
 Special focus on a planned collaborative sticker sheet as a major small-dollar item. Ideally *all* artists contribute to this and it includes the Trans Rescue logo.
 
