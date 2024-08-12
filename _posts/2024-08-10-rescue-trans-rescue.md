@@ -95,8 +95,6 @@ Obviously, credit all artists who participate in creating a piece.
 
 ### How many works per artist?
 
-I am open to opinions here. My current thoughts are:
-
 one of:
 
 - 1 original work (this may mean a single item, or for something like a print, it may mean a set of similar items) that is able to be digitally included on the sticker sheet as well as sold on its own.
