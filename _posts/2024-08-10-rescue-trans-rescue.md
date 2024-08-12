@@ -40,11 +40,11 @@ will be an online art sale and fundraiser. There will be a method of signing up 
 
 If you find this format of information inaccessible, reach out to me and I can explain over call or text.
 
+- [Who are the artists?](#who-are-the-artists)
 - [What type of art?](#what-type-of-art)
   - [Can I offer one of my commission slots?](#can-i-offer-one-of-my-commission-slots)
 - [Must it be created for this exhibit?](#must-it-be-created-for-this-exhibit)
 - [Is there a theme?](#is-there-a-theme)
-- [Who are the artists?](#who-are-the-artists)
 - [Can we collaborate?](#can-we-collaborate)
 - [How many works per artist?](#how-many-works-per-artist)
 - [How is pricing determined? Are artists paid?](#how-is-pricing-determined-are-artists-paid)
@@ -56,6 +56,10 @@ If you find this format of information inaccessible, reach out to me and I can e
 - [DEADLINE???](#deadline)
 - [I’m not an artist but I want to help!](#im-not-an-artist-but-i-want-to-help)
 - [So how are you actually building this?](#so-how-are-you-actually-building-this)
+
+### Who are the artists?
+
+Trans and gender expansive/diverse people who wish to help. If you are unsure whether this includes you: it does.
 
 ### What type of art?
 
@@ -82,10 +86,6 @@ From TR:
 > We help people escape. That’s something that appeals outside the trans community.  I just got off a call with a guy who had never met a trans person before. He thought what we were doing was so cool he’s volunteering with us. Freedom, escape, rebirth, slavery, captivity, …
 
 Basically, be inspired by what TR does :)
-
-### Who are the artists?
-
-Trans and gender expansive/diverse people who wish to help. If you are unsure whether this includes you: it does.
 
 ### Can we collaborate?
 
