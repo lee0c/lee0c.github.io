@@ -81,6 +81,8 @@ From TR:
 
 > We help people escape. That’s something that appeals outside the trans community.  I just got off a call with a guy who had never met a trans person before. He thought what we were doing was so cool he’s volunteering with us. Freedom, escape, rebirth, slavery, captivity, …
 
+Basically, be inspired by what TR does :)
+
 ### Who are the artists?
 
 Trans and gender expansive/diverse people who wish to help. If you are unsure whether this includes you: it does.
