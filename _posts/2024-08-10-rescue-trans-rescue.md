@@ -38,6 +38,8 @@ will be an online art sale and fundraiser. There will be a method of signing up 
 
 ## FAQs
 
+If you find this format of information inaccessible, reach out to me and I can explain over call or text.
+
 - [What type of art?](#what-type-of-art)
   - [Can I offer one of my commission slots?](#can-i-offer-one-of-my-commission-slots)
 - [Must it be created for this exhibit?](#must-it-be-created-for-this-exhibit)
