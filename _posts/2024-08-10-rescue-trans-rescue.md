@@ -106,8 +106,6 @@ I want to expand on the “single item or set” thing - this lets different typ
 
 ### How is pricing determined? Are artists paid?
 
-This is *very* tentative at current, but here’s my thoughts:
-
 For an original work, artists set the following:
 
 1. Inventory: number of pieces of the work
