@@ -12,4 +12,4 @@ Updated 11 Aug 2024
 
 The content previously found on this page is now hosted on a standalone site.
 
-[Visit the site](https://rescue-trans-rescue.glitch.me)
+[Visit the site](https://rescue-trans-rescue.glitch.me).
