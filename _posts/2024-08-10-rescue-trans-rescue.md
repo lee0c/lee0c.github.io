@@ -8,8 +8,10 @@ image:
 tags:
 ---
 
-Updated 11 Aug 2024
+Updated 13 Aug 2024
 
 The content previously found on this page is now hosted on a standalone site.
 
 [Visit the site](https://rescue-trans-rescue.glitch.me).
+
+(Site down? Not loading? [Check for issues with Glitch, our hosting provider](https://status.glitch.com/).)
