@@ -14,11 +14,12 @@ image:
 
 ## Books
 
+- [Camp Damascus](https://bookshop.org/p/books/camp-damascus-chuck-tingle/18738983){:target="_blank"} by Chuck Tingle
+- [How We Get Free](https://bookshop.org/p/books/how-we-get-free-black-feminism-and-the-combahee-river-collective-keeanga-yamahtta-taylor/8203276?ean=9781608468553){:target="_blank"} ed. by Keeanga-Yamahtta Taylor
 - [Laziness Does Not Exist](https://bookshop.org/p/books/laziness-does-not-exist-devon-price/14871468){:target="_blank"} by Devon Price, PhD
 - [The Soul of a New Machine](https://bookshop.org/p/books/the-soul-of-a-new-machine-tracy-kidder/113845){:target="_blank"} by Tracy Kidder
 - [Stone Butch Blues](https://www.lesliefeinberg.net/){:target="_blank"} by Leslie Feinberg
 - [Whipping Girl](https://bookshop.org/p/books/whipping-girl-lib-e-a-transsexual-woman-on-sexism-and-the-scapegoating-of-femininity-julia-serano/12413169){:target="_blank"} by Julia Serano
-- [How We Get Free](https://bookshop.org/p/books/how-we-get-free-black-feminism-and-the-combahee-river-collective-keeanga-yamahtta-taylor/8203276?ean=9781608468553){:target="_blank"} ed. by Keeanga-Yamahtta Taylor
 
 ## Comics
 
@@ -29,4 +30,4 @@ image:
 - (Playlist) [The Alt-Right Playbook](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ){:target="_blank"} by Innuendo Studios
 - [Did feminism FAIL men?](https://www.youtube.com/watch?v=UOhs9jxe4lM){:target="_blank"} by Alexander Avila
 - [The Kronk Effect](https://www.youtube.com/watch?v=5Sz40XPPtKQ){:target="_blank"} by CJ the X
-- (Playlist) [Pretty Good](https://www.youtube.com/playlist?list=PLUXSZMIiUfFSCYW1o-4whWtepyVlsfuCC) by Jon Bois and Secret Base
+- (Playlist) [Pretty Good](https://www.youtube.com/playlist?list=PLUXSZMIiUfFSCYW1o-4whWtepyVlsfuCC){:target="_blank"} by Jon Bois and Secret Base
