@@ -18,6 +18,7 @@ image:
 - [The Soul of a New Machine](https://bookshop.org/p/books/the-soul-of-a-new-machine-tracy-kidder/113845){:target="_blank"} by Tracy Kidder
 - [Stone Butch Blues](https://www.lesliefeinberg.net/){:target="_blank"} by Leslie Feinberg
 - [Whipping Girl](https://bookshop.org/p/books/whipping-girl-lib-e-a-transsexual-woman-on-sexism-and-the-scapegoating-of-femininity-julia-serano/12413169){:target="_blank"} by Julia Serano
+- [How We Get Free](https://bookshop.org/p/books/how-we-get-free-black-feminism-and-the-combahee-river-collective-keeanga-yamahtta-taylor/8203276?ean=9781608468553){:target="_blank"} ed. by Keeanga-Yamahtta Taylor
 
 ## Comics
 
