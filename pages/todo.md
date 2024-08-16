@@ -34,17 +34,17 @@ permalink: /todo
   - ~~next and previous are swapped from standard~~
   - ~~inactive pagination buttons are hard to read~~
   - ~~maybe include the "how to order" section from the FAQ on the bottom of each item (I was confused trying to figure out how the shop worked until I found the FAQ)~~
-  - ~~it's not totally clear to me what's a project and what's an item available to order, different templates might help~~ --> make categories way more transparent
+  - ~~it's not totally clear to me what's a project and what's an item available to order, different templates might help --> make categories way more transparent~~
 - ~~resize photos to more web-friendly sizes~~
 - ~~what's up with the domain messing w/ CSS huh?~~
 - ~~HTTPS properly configured~~
 - ~~correct domain for full site~~
 - ~~opacity for "featured post" items~~
-- fuxk w/ code syntax css :grimace:
+- ~~fuxk w/ code syntax css :grimace:~~
 - ~~maybe condense to a contact page?~~
-- add more projects
+- ~~add more projects~~
   - ~~socks~~
-  - knitting highlights
+  - ~~knitting highlights~~
   - ~~leather keychains?~~
   - ~~trans rights skeleton (pronoun patches have a post but just "trans rights!" patch does not)~~
   - ~~add other stamps~~
@@ -58,9 +58,9 @@ permalink: /todo
   - text should always be in a `<p>` or `<h#>` - `<span>` is meaningless to screenreaders
     - ~~does this include things like pagination buttons?~~
     - ~~post date~~
-- make categories way more transparent!!
+- ~~make categories way more transparent!!~~
   - ~~starter progress on this, probably need more~~
-- charity recommendations for donate-what-you-want
+- ~~charity recommendations for donate-what-you-want~~
   - ~~started on this~~
 - ~~color options for patches/prints~~
 - ~~3 categories for art items~~
