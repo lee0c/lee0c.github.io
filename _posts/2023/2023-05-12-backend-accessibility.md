@@ -69,5 +69,6 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 - [Alt Text as Poetry](https://alt-text-as-poetry.net/)
 - [Is it accessible? — Adrian Roselli](https://adrianroselli.com/2024/08/things-to-do-before-asking-is-this-accessible.html)
 - [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/)
+- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161)
 
 
