@@ -1,7 +1,0 @@
-menu:
-- {name: 'gallery', url: 'gallery'}
-- {name: 'reference', url: 'reference'}
-- {name: 'about', url: 'about'}
-- {name: 'contact/shops', url: 'contact'}
-
-post_date_prefix: 'posted on'
