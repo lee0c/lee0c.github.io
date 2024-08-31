@@ -1,0 +1,160 @@
+:root {
+    --font-family: 'Atkinson Hyperlegible', sans-serif;
+    --font-family-code: 'Source Code Pro', monospace;
+    --color-dark: #2e303e;
+    --color-blue-dark: #18737b;
+    --color-blue-light: #25b0bc;
+    --color-light: #ebeeef;
+	--height-header: 50px;
+}
+
+.light {
+    --color-font: var(--color-dark);
+    --color-bg: var(--color-light);
+    --color-accent: var(--color-blue-dark);
+}
+
+.dark {
+    --color-font: var(--color-light);
+    --color-bg: var(--color-dark);
+    --color-accent: var(--color-blue-light);
+}
+
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+  color: var(--color-font);
+  background-color: var(--color-bg);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: bold;
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
+    color: var(--color-accent);
+}
+
+h1 {
+    font-size: 2rem;
+}
+h2 {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    scroll-margin-top: 56px;
+}
+h3 {
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
+    scroll-margin-top: 56px;
+}
+h4, h5, h6 {
+    margin-top: 1rem;
+    font-size: 1rem;
+    scroll-margin-top: 56px;
+}
+
+/* Body */
+body {
+    font-family: var(--font-family);
+}
+body img {
+    margin: 5px auto auto auto;
+    display: block;
+    max-width: 600px;
+}
+
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 1.65;
+    font-family: var(--font-family);
+}
+
+/* Lists */
+ul, ol, dl {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 1.5rem;
+	font-family: var(--font-family);
+}
+
+ol li {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+}
+
+li {
+    margin-bottom: .5rem;
+}
+
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-bottom: .5rem;
+}
+
+/*
+  Links
+*/
+
+a {
+	color: var(--color-accent);
+}
+
+/*
+Blockquote
+*/
+
+blockquote {
+	margin: 10px 20px 10px;
+	padding: 0px 15px;
+	border-left: 0.25em solid var(--color-accent);
+	color: var(--color-bg);
+	line-height: 1.5;
+}
+
+/**
+* Tables
+*/
+table {
+	border-collapse: collapse;
+	margin-bottom: 30px;
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid var(--color-font);
+}
+th, td {
+	padding: 15px;
+	text-align: left;
+}
+
+/*
+Site container
+*/
+
+.container {
+	width: 95vw;
+    height: 100vh;
+	margin: auto;
+}
+.content-wrapper {
+    position: relative;
+	top: 56px;
+	margin: auto;
+	display: block;
+	width: 95vw;
+}
+.content-wrapper h1 {
+	margin: 20px 0px 5px;
+}
