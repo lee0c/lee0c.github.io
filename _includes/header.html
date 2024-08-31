@@ -1,23 +1,28 @@
 <header class="site-header">
   <a class="skip-nav" href="#main">Skip to content</a>
-  <h1 class="site-title">
+  <h1 id="site-title">
     <a href="{{ site.github.url }}/" title="{{ site.title }}" aria-label="{{ site.title }}"><i class="fa fa-solid fa-crow"></i></a>
   </h1>
-  <nav class="menu-list">
+  <nav id="menu">
     <ul>
-    {% for item in site.data.settings.menu %}
-      <li><a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a></li>
-    {% endfor %}
-    </ul>
+      <li><button id="alignment" title="toggle left/right navbar alignment" aria-label="toggle left/right navbar alignment" class="menu-link">
+        <!-- autopopulated by nav.js -->
+      </button></li>
+      <li><a href="{{ site.github.url }}/gallery" title="art gallery" aria-label="art gallery" class="menu-link">
+        <i class="fa-regular fa-images" aria-hidden="true"></i>
+      </a></li>
+      <li><a href="{{ site.github.url }}/reference" title="reference" aria-label="reference" class="menu-link">
+        <i class="fa-regular fa-folder-open" aria-hidden="true"></i>
+      </a></li>
+      <li><a href="{{ site.github.url }}/about" title="about Lee" aria-label="about Lee" class="menu-link">
+        <i class="fa-regular fa-user" aria-hidden="true"></i>
+      </a></li>
+      <li><a href="{{ site.github.url }}/contact" title="contact/shops" aria-label="contact/shops" class="menu-link">
+        <i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
+      </a></li>
+      <li><button id="theme" title="toggle light/dark mode" aria-label="toggle light/dark mode" class="menu-link">
+        <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
+      </button></li>
+  </ul>
   </nav>
-  <div class="dropdown">
-    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
-    <nav class="dropdown-content">
-      <ul>
-      {% for item in site.data.settings.menu %}
-        <li><a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a></li>
-      {% endfor %}
-      </ul>
-    </nav>
-  </div>
 </header>
