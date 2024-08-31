@@ -1,0 +1,26 @@
+---
+---
+
+$base-font-family: 'Atkinson Hyperlegible', sans-serif;
+$body-font-family: 'Atkinson Hyperlegible', sans-serif;
+$code-font-family: "Source Code Pro", monospace;
+
+$background-color: #2e303e;
+$brand-color: #25b0bc;
+$font-color: #ebeeef;
+
+$container-width: 1100px;
+$tablet-width: 600px;
+$phone-width: 480px;
+
+$header-thickness: 50px;
+
+$icon-transition-time: 1.0s;
+$red: #e95678;
+$orange: #fab795;
+$yellow: #fbe6bc;
+$green: #29d398;
+$blue: #26bbd9;
+$purple: #b877db;
+
+@import "-sections-dir";

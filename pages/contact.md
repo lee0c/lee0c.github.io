@@ -22,7 +22,7 @@ permalink: /contact
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
     <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
-    <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i> twitch</dt>
+    <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i>twitch</dt>
     <dd><a href="https://www.twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
