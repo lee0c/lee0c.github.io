@@ -1,7 +1,7 @@
 .site-header {
 	top: 0px;
 	min-height: 56px;
-	width: 95%;
+	width: 96%;
 	position: fixed;
 	background-color: var(--color-bg);
 	box-shadow: 0 5px 6px -6px rgba(0,0,0,0.2);
