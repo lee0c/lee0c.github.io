@@ -31,3 +31,60 @@ function toggleTheme() {
 }
   
 themeToggle.addEventListener("mouseup", toggleTheme);
+
+/* Navbar alignment */
+const ALIGN = "alignment";
+const LEFT = "left";
+const RIGHT = "right";
+
+const LEFT_ICON = '<i class="fa-regular fa-hand-point-left" aria-hidden="true"></i>';
+const RIGHT_ICON = '<i class="fa-regular fa-hand-point-right" aria-hidden="true"></i>';
+
+let align = localStorage.getItem(ALIGN);
+let alignToggle = document.getElementById(ALIGN);
+
+let title = document.getElementById("site-title");
+let menu = document.getElementById("menu");
+let menuList = menu.getElementsByTagName("ul")[0];
+let themeListItem = themeToggle.parentElement;
+let alignListItem = alignToggle.parentElement;
+
+function setAlignLeft() {
+    alignToggle.innerHTML = RIGHT_ICON;
+    title.style.float = RIGHT;
+    menu.style.float = LEFT;
+    menuList.prepend(themeListItem);
+    menuList.append(alignListItem);
+}
+
+function setAlignRight() {
+    alignToggle.innerHTML = LEFT_ICON;
+    title.style.float = LEFT;
+    menu.style.float = RIGHT;
+    menuList.append(themeListItem);
+    menuList.prepend(alignListItem);
+}
+
+function changeAlign(align) {
+    switch (align) {
+        case LEFT:
+            setAlignLeft();
+            break;
+        case null:
+            align = RIGHT;
+        case RIGHT:
+            setAlignRight();
+            break;
+    }
+    localStorage.setItem(ALIGN, align);
+}
+
+changeAlign(align);
+
+function toggleAlign() {
+    if (align === LEFT) align = RIGHT;
+    else if (align === RIGHT) align = LEFT;
+    changeAlign(align);
+}
+
+alignToggle.addEventListener("click", toggleAlign);
