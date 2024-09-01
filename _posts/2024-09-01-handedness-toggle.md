@@ -17,6 +17,8 @@ And then I thought about left-handed people - left handed tablet or touchscreen 
 
 Ok, let's make a toggle!
 
+(Want to just see the outcome? Head on down the page the [summary](#summary).)
+
 ## the button
 
 First we'll need some HTML for our button. I added this to my menu:
@@ -156,7 +158,7 @@ function setAlignRight() {
 function setAlignLeft() {
 	alignToggle.innerHTML = RIGHT_ICON;
 	navbar.style.justifyContent = "flex-start";
-	navbar.append(alignToggle); 
+	navbar.append(alignToggle);
 }
 ```
 
@@ -208,3 +210,85 @@ Now we should only replace visible focus for keyboard interactions.
 ## thanks for reading
 
 Want to see further changes? Found a bug with this implementation? [Contact me](/contact)!
+
+---
+
+## summary
+
+Here's the referenced HTML, JS, and CSS in full:
+
+### HTML
+
+```html
+<button id="alignment"
+		title="toggle left/right navbar alignment"
+		aria-label="toggle left/right navbar alignment"
+		class="menu-link">
+	<!-- autopopulated by nav.js -->
+</button>
+```
+
+### CSS
+
+```css
+#navbar {
+	position: sticky;
+	top: 0 px;
+	width: 100%;
+	/* nav.js handles justify-content instead */
+	/* justify-content: flex-end; */
+}
+```
+
+### JS
+
+```js
+const ALIGN = "alignment"
+const LEFT = "left"
+const RIGHT = "right"
+
+const LEFT_ICON = '<i class="fa-regular fa-hand-point-left" aria-hidden="true"></i>';
+const RIGHT_ICON = '<i class="fa-regular fa-hand-point-right" aria-hidden="true"></i>';
+
+let align = localStorage.getItem(ALIGN);
+let alignToggle = document.getElementById(ALIGN);
+
+function setAlignRight() {
+	alignToggle.innerHTML = LEFT_ICON;
+	navbar.style.justifyContent = "flex-end";
+	navbar.prepend(alignToggle);
+}
+
+function setAlignLeft() {
+	alignToggle.innerHTML = RIGHT_ICON;
+	navbar.style.justifyContent = "flex-start";
+	navbar.append(alignToggle);
+}
+
+function changeAlign(align) {
+	switch (align) {
+		case LEFT:
+			setAlignLeft();
+			break;
+		case null:
+			align = RIGHT;
+		case RIGHT:
+			setAlignRight();
+			break;
+	}
+	localStorage.setItem(ALIGN, align);
+}
+
+changeAlign();
+
+function toggleAlign() {
+	if (align === LEFT) align = RIGHT;
+	else align = LEFT;
+
+	changeAlign(align);
+
+	if (event.detail === 0) alignToggle.focus();
+}
+
+alignToggle.addEventListener("click", toggleAlign);
+```
