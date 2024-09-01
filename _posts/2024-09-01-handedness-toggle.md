@@ -216,7 +216,7 @@ Want to see further changes? Found a bug with this implementation? [Contact me](
 
 ## summary
 
-Here's the referenced HTML, JS, and CSS in full:
+Here's the referenced HTML, CSS, and JS in full:
 
 ### HTML
 
