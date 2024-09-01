@@ -17,6 +17,8 @@ And then I thought about left-handed people - left handed tablet or touchscreen 
 
 Ok, let's make a toggle!
 
+## the button
+
 First we'll need some HTML for our button. I added this to my menu, which is a `<ul>`:
 
 ```html
@@ -26,6 +28,8 @@ First we'll need some HTML for our button. I added this to my menu, which is a `
 ```
 
 It's important to note here that I added it to the *beginning* of the menu list. I want it to be the first item in the list so that it points over the left side of the screen with nothing obstructing it.
+
+## nav.js
 
 Now let's move to `nav.js` and define some consts for ease of use. We're going to use [Font Awesome icons](https://fontawesome.com/icons){:target="_blank"} for this button, so we'll go grab their HTML for the left and right pointing hands.
 
@@ -49,6 +53,8 @@ and we'll grab the button we defined in HTML:
 ```js
 let alignToggle = document.getElementById(ALIGN);
 ```
+
+### setting icons
 
 Next, let's structure out some functions. We'll fill them in more as we figure out what we need.
 
@@ -98,6 +104,8 @@ alignToggle.addEventListener("click", toggleAlign);
 
 So that gets us the basic functionality of changing the icon when the toggle is clicked. However, it does nothing for the navbar alignment. What do we need for that?
 
+### alignment
+
 Well, that depends on your navbar CSS. For this, let's run through the simplest possible version: your navbar is a flexbox and all items are treated equally. Maybe your CSS looks sorta like this:
 
 ```css
@@ -131,6 +139,8 @@ function setAlignLeft() {
 
 Now, the menu should re-orient itself when we interact with the toggle. However, you'll notice that the left-aligned menu shows up in the same order as the right aligned menu: handedness toggle first, then the rest of the menu.
 
+### moving the button
+
 I don't want that; I want the handedness toggle to always point, unobstructed, to the side of the screen it moves things to. So let's move it around when we set alignment. It'll need to be the first item in the menu list for right-handed alignment, and the last item for left-handed. We can do that with `prepend()` and `append()`.
 
 ```js
@@ -148,6 +158,8 @@ function setAlignLeft() {
 ```
 
 Cool! Now we have a menu that re-aligns itself *and* repositions the alignment button.
+
+### keyboard navigation
 
 Oooh, but wait: keyboard navigation is broken.
 
@@ -169,6 +181,8 @@ function toggleAlign() {
 
 Ok, now focus is maintained... but it also shows up after a mouse click, not just a keyboard interaction. That's a little irritating. How do we fix that?
 
+### managing focus
+
 `toggleAlign()` is an event handler, which means it can optionally take an `event` var. For "click" events, that `event` var includes a field `detail` which provides the *click count*. This can be used to disambiguate single vs double clicks, *or* it can be used to test for keyboard interaction, which creates *zero clicks*.
 
 Let's add that in:
@@ -187,5 +201,7 @@ function toggleAlign(event) {
 ```
 
 Now we should only replace visible focus for keyboard interactions.
+
+## thanks for reading
 
 Want to see further changes? Found a bug with this implementation? [Contact me](/contact)!
