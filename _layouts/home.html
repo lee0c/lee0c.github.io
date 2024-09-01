@@ -9,14 +9,14 @@ title: Home
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="next - newer posts">&lt; next</a>
-  {% else %}
-    <p class="pagination-button">&lt; next</p>
-  {% endif %}
   {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="previous - older posts">prev &gt;</a>
+    <a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="older posts">&lt; older</a>
   {% else %}
-    <p class="pagination-button">prev &gt;</p>
+    <p class="pagination-button">&lt; older</p>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="newer posts">newer &gt;</a>
+  {% else %}
+    <p class="pagination-button">newer &gt;</p>
   {% endif %}
 </div>
