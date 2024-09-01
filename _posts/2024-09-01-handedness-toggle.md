@@ -118,6 +118,7 @@ Well, that depends on your navbar CSS. For this, let's run through the simplest 
 	position: sticky;
 	top: 0 px;
 	width: 100%;
+	display: flex;
 	/* This is the line that matters to us */
 	/* we'll want to swap between flex-start and flex-end */
 	justify-content: flex-end;
@@ -235,6 +236,7 @@ Here's the referenced HTML, JS, and CSS in full:
 	position: sticky;
 	top: 0 px;
 	width: 100%;
+	display: flex;
 	/* nav.js handles justify-content instead */
 	/* justify-content: flex-end; */
 }
