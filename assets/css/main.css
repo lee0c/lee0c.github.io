@@ -199,6 +199,12 @@ Site container
 	display: block;
 	width: 95vw;
 }
+
+@media screen and (min-width: 1200px) {
+    .content-wrapper {
+        width: 65vw;
+    }
+}
 .content-wrapper h1 {
 	margin: 20px 0px 5px;
 }
