@@ -14,6 +14,7 @@ list of all existing tags
 - [patch](tag/patch)
 - [print](tag/print)
 - [shirt](tag/shirt)
+- [software](tag/software)
 - [stamp](tag/stamp)
 - [sticker](tag/sticker)
 - [yarn](tag/yarn)

@@ -5,6 +5,8 @@ category: reference
 image: 
     name: camelCase-print.jpg
     alt: "A carved stamp next to its print. The print reads '#camelCase' in a slightly formal-looking italic font."
+tags:
+    - software
 ---
 
 > These notes are from a talk I gave at work. If you think something is missing or incorrect, please let me know!
