@@ -4,7 +4,7 @@ title: handedness toggle
 category: reference
 image: 
     name: handedness-toggle.png
-    alt: 
+    alt: "A screenshot of the rescue trans rescue navbar centered on a button that shows a hand pointing left."
 tags:
     - software
 ---
