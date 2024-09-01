@@ -55,6 +55,7 @@ function setAlignLeft() {
     menu.style.float = LEFT;
     menuList.prepend(themeListItem);
     menuList.append(alignListItem);
+    menu.after(title);
 }
 
 function setAlignRight() {
@@ -63,6 +64,7 @@ function setAlignRight() {
     menu.style.float = RIGHT;
     menuList.append(themeListItem);
     menuList.prepend(alignListItem);
+    menu.before(title);
 }
 
 function changeAlign(align) {
@@ -81,10 +83,14 @@ function changeAlign(align) {
 
 changeAlign(align);
 
-function toggleAlign() {
+function toggleAlign(event) {
     if (align === LEFT) align = RIGHT;
     else if (align === RIGHT) align = LEFT;
+
     changeAlign(align);
+
+    /* 0 clicks === keyboard user; make sure focus gets reset on right element */
+    if (event.detail === 0) alignToggle.focus();
 }
 
 alignToggle.addEventListener("click", toggleAlign);

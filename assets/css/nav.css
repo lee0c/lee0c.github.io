@@ -9,14 +9,15 @@
 }
 .site-header a {
 	text-decoration: none;
+	border-radius: 1rem;
+	padding: 0 10px;
 }
 #site-title {
-	font-size: 26px;
+	font-size: 2rem;
 	font-weight: 400;
 	line-height: 56px;
 	margin-bottom: 0;
 	margin-top: 0;
-	padding-left: 10px;
 }
 #menu {
 	line-height: var(--height-header);
@@ -25,19 +26,43 @@
     margin: 0;
 }
 #menu ul li {
-    margin: 0;
+	font-size: 1.2rem;
+    margin: .2rem 0;
     list-style: none;
     display: inline-block;
 }
 #menu ul li button {
+	margin: 0;
 	background-color: var(--color-bg);
 	color: var(--color-accent);
+	font-size: 1.2rem;
 	border: none;
 	cursor: pointer;
 }
 .menu-link {
-	padding: 5px 10px;
+	padding: 0 .6rem;
+	border-radius: 1rem;
 }
+
+/* Flip navbar button/link colors when hovered over */
+@media (hover: hover) {
+	.site-header a:hover,
+	.menu-link:hover {
+		background-color: var(--color-primary);
+		color: var(--color-bg);
+	}
+	#menu ul li button:hover {
+		background-color: var(--color-accent);
+		color: var(--color-bg);
+	}
+}
+
+/* Hide the handedness toggle on small screens */
+@media (max-width: 500px) {
+	#alignment {
+	  display: none;
+	}
+  }
 
 /* Skip navigation link */
 
@@ -60,7 +85,7 @@
 	margin: 10px 10%;
 	padding: 5px;
 	border-radius: 5px;
-	border: 3px solid var(--color-accent);
+	border: 3px solid var(--color-primary);
 	text-align: center;
 	font-size: 1.2em;
 	z-index: 999;
@@ -76,9 +101,17 @@
 }
 
 .footer a {
-    color: var(--color-accent);
-    padding: 0px 10px 0px;
+    color: var(--color-primary);
+    padding: 0 10px;
     text-decoration: none;
+	border-radius: 1rem;
+}
+
+@media (hover: hover) {
+	.footer a:hover {
+		background-color: var(--color-primary);
+		color: var(--color-bg);
+	}
 }
 
 .footer-description {
