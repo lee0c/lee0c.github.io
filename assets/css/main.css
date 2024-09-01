@@ -16,12 +16,15 @@
     --color-green-light: #29d398;
     --color-blue-light: #26bbd9;
     --color-purple-light: #b877db;
+    --color-grey-light: #b9c3c6;
+
     --color-red-dark: #991433;
     --color-orange-dark: #883206;
     --color-yellow-dark: #6a4906;
     --color-green-dark: #125940;
     --color-blue-dark: #125663;
     --color-purple-dark: #722999;
+    --color-grey-dark: #4a4b64;
 }
 
 .light {
@@ -35,7 +38,8 @@
     --color-yellow: var(--color-yellow-dark);
     --color-green: var(--color-green-dark);
     --color-blue: var(--color-blue-dark);
-    --color-purple: var(--color-red-dark);
+    --color-purple: var(--color-purple-dark);
+    --color-grey: var(--color-grey-dark);
 }
 
 .dark {
@@ -49,7 +53,8 @@
     --color-yellow: var(--color-yellow-light);
     --color-green: var(--color-green-light);
     --color-blue: var(--color-blue-light);
-    --color-purple: var(--color-red-light);
+    --color-purple: var(--color-purple-light);
+    --color-grey: var(--color-grey-light);
 }
 
 body, h1, h2, h3, h4, h5, h6,
