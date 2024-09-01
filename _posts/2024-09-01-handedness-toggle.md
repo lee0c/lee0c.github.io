@@ -19,12 +19,15 @@ Ok, let's make a toggle!
 
 ## the button
 
-First we'll need some HTML for our button. I added this to my menu, which is a `<ul>`:
+First we'll need some HTML for our button. I added this to my menu:
 
 ```html
-<li><button id="alignment" title="toggle left/right navbar alignment" aria-label="toggle left/right navbar alignment" class="menu-link">
+<button id="alignment"
+		title="toggle left/right navbar alignment"
+		aria-label="toggle left/right navbar alignment"
+		class="menu-link">
 	<!-- autopopulated by nav.js -->
-</button></li>
+</button>
 ```
 
 It's important to note here that I added it to the *beginning* of the menu list. I want it to be the first item in the list so that it points over the left side of the screen with nothing obstructing it.
