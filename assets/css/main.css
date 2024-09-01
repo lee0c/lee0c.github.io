@@ -2,26 +2,54 @@
     --font-family: 'Atkinson Hyperlegible', sans-serif;
     --font-family-code: 'Source Code Pro', monospace;
     --color-dark: #2e303e;
-    --color-blue-dark: #18737b;
-    --color-blue-light: #25b0bc;
-    --color-pink-dark: #94195d;
-    --color-pink-light: #ee9fcb;
+    --color-primary-dark: #18737b;
+    --color-primary-light: #25b0bc;
+    --color-accent-dark: #94195d;
+    --color-accent-light: #ee9fcb;
     --color-light: #ebeeef;
 	--height-header: 50px;
+
+    /* Used for syntax highlighting */
+    --color-red-light: #e95678;
+    --color-orange-light: #fab795;
+    --color-yellow-light: #fbe6bc;
+    --color-green-light: #29d398;
+    --color-blue-light: #26bbd9;
+    --color-purple-light: #b877db;
+    --color-red-dark: #991433;
+    --color-orange-dark: #883206;
+    --color-yellow-dark: #6a4906;
+    --color-green-dark: #125940;
+    --color-blue-dark: #125663;
+    --color-purple-dark: #722999;
 }
 
 .light {
     --color-font: var(--color-dark);
     --color-bg: var(--color-light);
-    --color-primary: var(--color-blue-dark);
-    --color-accent: var(--color-pink-dark);
+    --color-primary: var(--color-primary-dark);
+    --color-accent: var(--color-accent-dark);
+
+    --color-red: var(--color-red-dark);
+    --color-orange: var(--color-orange-dark);
+    --color-yellow: var(--color-yellow-dark);
+    --color-green: var(--color-green-dark);
+    --color-blue: var(--color-blue-dark);
+    --color-purple: var(--color-red-dark);
 }
 
 .dark {
     --color-font: var(--color-light);
     --color-bg: var(--color-dark);
-    --color-primary: var(--color-blue-light);
-    --color-accent: var(--color-pink-light);
+    --color-primary: var(--color-primary-light);
+    --color-accent: var(--color-accent-light);
+
+    --color-red: var(--color-red-light);
+    --color-orange: var(--color-orange-light);
+    --color-yellow: var(--color-yellow-light);
+    --color-green: var(--color-green-light);
+    --color-blue: var(--color-blue-light);
+    --color-purple: var(--color-red-light);
 }
 
 body, h1, h2, h3, h4, h5, h6,
