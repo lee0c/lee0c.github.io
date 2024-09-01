@@ -2,7 +2,7 @@
 layout: post
 title: rescue Trans Rescue
 category: reference
-image: 
+image:
     name: wood-ducks.jpg
     alt: “Picture unrelated to post. A male and female wood duck in summer ‘eclipse’ plumage have a little tiff while standing on a log. to the right, the male has his neck extended and beak open; on the left, the female has a wing extended upwards.“
 tags:
