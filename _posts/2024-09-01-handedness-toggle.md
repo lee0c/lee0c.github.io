@@ -34,6 +34,20 @@ First we'll need some HTML for our button. I added this to my menu:
 
 It's important to note here that I added it to the *beginning* of the menu list. I want it to be the first item in the list so that it points over the left side of the screen with nothing obstructing it.
 
+### handling narrow screens
+
+Let's quickly take a moment to ensure that the toggle only shows up on wider screens with a bit of CSS:
+
+```css
+@media (max-width: 500px) {
+	#alignment {
+		display: none;
+	}
+}
+```
+
+Now users on phones won't have an unhelpful button taking screen space.
+
 ## nav.js
 
 Now let's move to `nav.js` and define some consts for ease of use. We're going to use [Font Awesome icons](https://fontawesome.com/icons){:target="_blank"} for this button, so we'll go grab their HTML for the left and right pointing hands.
@@ -239,6 +253,13 @@ Here's the referenced HTML, CSS, and JS in full:
 	display: flex;
 	/* nav.js handles justify-content instead */
 	/* justify-content: flex-end; */
+}
+
+/* Remove the handedness toggle on narrow screens */
+@media (max-width: 500px) {
+	#alignment {
+		display: none;
+	}
 }
 ```
 
