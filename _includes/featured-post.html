@@ -1,7 +1,7 @@
 <article>
   <a href="{{ site.github.url }}{{ post.url }}" aria-label="A post titled {{ post.title }} with the header image: {{ post.image.alt }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.name }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+      <h2>{{ post.title }}</h2>
     </div>
   </a>
 </article>

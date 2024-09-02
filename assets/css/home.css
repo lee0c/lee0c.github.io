@@ -12,21 +12,25 @@
 	padding: 10px;
 	position: absolute;
 	opacity: .85;
-}
-.featured-post h2 span {
 	display: inline-block;
 	color: var(--color-font);
 	font: bold 24px/45px var(--font-family);
-	letter-spacing: -1px;
-	padding: 10px;
-}
-.featured-post span a {
-	color: var(--color-bg);
-}
-.featured-post h1 {
-	margin: 10px;
+	text-decoration: underline;
+	text-decoration-thickness: 1px;
+	transition: text-decoration-thickness .3s ease-out;
 }
 
+a:focus .featured-post h2 {
+	text-decoration: underline;
+	text-decoration-thickness: 5px;
+}
+
+@media (hover: hover) {
+	a:hover .featured-post h2 {
+		text-decoration: underline;
+		text-decoration-thickness: 5px;
+	}
+}
 /*
 Pagination
 */
