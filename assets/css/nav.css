@@ -1,6 +1,6 @@
 .site-header {
 	top: 0px;
-	min-height: 56px;
+	min-height: var(--height-header);
 	width: 96%;
 	position: fixed;
 	background-color: var(--color-bg);
@@ -15,7 +15,7 @@
 #site-title {
 	font-size: 2rem;
 	font-weight: 400;
-	line-height: 56px;
+	line-height: var(--height-header);
 	margin-bottom: 0;
 	margin-top: 0;
 }
@@ -79,7 +79,7 @@
 
 .footer {
 	position: relative;
-	top: 56px;
+	top: var(--height-header);
     text-align: center;
     min-height: 56px;
     line-height: 45px;

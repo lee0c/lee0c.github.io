@@ -7,7 +7,7 @@
 	--color-accent-dark: #94195d;
 	--color-accent-light: #ee9fcb;
 	--color-light: #ebeeef;
-	--height-header: 50px;
+	--height-header: 56px;
 
 	/* Used for syntax highlighting */
 	--color-red-light: #e95678;
@@ -81,17 +81,17 @@ h1 {
 h2 {
 	margin-top: 1rem;
 	font-size: 1.5rem;
-	scroll-margin-top: 56px;
+	scroll-margin-top: var(--height-header);
 }
 h3 {
 	margin-top: 1.5rem;
 	font-size: 1.25rem;
-	scroll-margin-top: 56px;
+	scroll-margin-top: var(--height-header);
 }
 h4, h5, h6 {
 	margin-top: 1rem;
 	font-size: 1rem;
-	scroll-margin-top: 56px;
+	scroll-margin-top: var(--height-header);
 }
 
 /* Body */
@@ -229,7 +229,7 @@ Site container
 }
 .content-wrapper {
 	position: relative;
-	top: 56px;
+	top: var(--height-header);
 	margin: auto;
 	display: block;
 	width: 95vw;
@@ -241,5 +241,5 @@ Site container
 	}
 }
 .content-wrapper h1 {
-	margin: 20px 0px 5px;
+	margin: 20px 0px 20px;
 }
