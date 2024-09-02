@@ -56,6 +56,7 @@ function setAlignLeft() {
 	menuList.prepend(themeListItem);
 	menuList.append(alignListItem);
 	menu.after(title);
+	title.classList.add("fa-flip-horizontal");
 }
 
 function setAlignRight() {
@@ -65,6 +66,7 @@ function setAlignRight() {
 	menuList.append(themeListItem);
 	menuList.prepend(alignListItem);
 	menu.before(title);
+	title.classList.remove("fa-flip-horizontal");
 }
 
 function changeAlign(align) {
