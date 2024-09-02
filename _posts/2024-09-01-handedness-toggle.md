@@ -304,7 +304,7 @@ function changeAlign(align) {
 
 changeAlign();
 
-function toggleAlign() {
+function toggleAlign(event) {
 	if (align === LEFT) align = RIGHT;
 	else align = LEFT;
 
