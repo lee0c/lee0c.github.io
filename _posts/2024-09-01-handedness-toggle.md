@@ -17,7 +17,7 @@ And then I thought about left-handed people - left handed tablet or touchscreen 
 
 Ok, let's make a toggle!
 
-(Want to just see the outcome? Head on down the page the [summary](#summary).)
+(Want to just see the outcome? Head on down the page to the [summary](#summary).)
 
 ## the button
 
