@@ -144,6 +144,8 @@ dd {
 */
 a {
 	color: var(--color-primary);
+	border-radius: 5px;
+	margin: 0 2px; /* This stops the focus outlining from overlapping surrounding words */
 }
 
 @media (hover: hover) {
@@ -165,7 +167,6 @@ a:focus {
 }
 
 /* Buttons */
-
 button {
 	color: var(--color-accent);
 	background-color: var(--color-bg);
