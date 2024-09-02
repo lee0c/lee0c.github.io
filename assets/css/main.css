@@ -1,60 +1,60 @@
 :root {
-    --font-family: 'Atkinson Hyperlegible', sans-serif;
-    --font-family-code: 'Source Code Pro', monospace;
-    --color-dark: #2e303e;
-    --color-primary-dark: #18737b;
-    --color-primary-light: #25b0bc;
-    --color-accent-dark: #94195d;
-    --color-accent-light: #ee9fcb;
-    --color-light: #ebeeef;
+	--font-family: 'Atkinson Hyperlegible', sans-serif;
+	--font-family-code: 'Source Code Pro', monospace;
+	--color-dark: #2e303e;
+	--color-primary-dark: #18737b;
+	--color-primary-light: #25b0bc;
+	--color-accent-dark: #94195d;
+	--color-accent-light: #ee9fcb;
+	--color-light: #ebeeef;
 	--height-header: 50px;
 
-    /* Used for syntax highlighting */
-    --color-red-light: #e95678;
-    --color-orange-light: #fab795;
-    --color-yellow-light: #fbe6bc;
-    --color-green-light: #29d398;
-    --color-blue-light: #26bbd9;
-    --color-purple-light: #b877db;
-    --color-grey-light: #b9c3c6;
+	/* Used for syntax highlighting */
+	--color-red-light: #e95678;
+	--color-orange-light: #fab795;
+	--color-yellow-light: #fbe6bc;
+	--color-green-light: #29d398;
+	--color-blue-light: #26bbd9;
+	--color-purple-light: #b877db;
+	--color-grey-light: #b9c3c6;
 
-    --color-red-dark: #991433;
-    --color-orange-dark: #883206;
-    --color-yellow-dark: #6a4906;
-    --color-green-dark: #125940;
-    --color-blue-dark: #125663;
-    --color-purple-dark: #722999;
-    --color-grey-dark: #4a4b64;
+	--color-red-dark: #991433;
+	--color-orange-dark: #883206;
+	--color-yellow-dark: #6a4906;
+	--color-green-dark: #125940;
+	--color-blue-dark: #125663;
+	--color-purple-dark: #722999;
+	--color-grey-dark: #4a4b64;
 }
 
 .light {
-    --color-font: var(--color-dark);
-    --color-bg: var(--color-light);
-    --color-primary: var(--color-primary-dark);
-    --color-accent: var(--color-accent-dark);
+	--color-font: var(--color-dark);
+	--color-bg: var(--color-light);
+	--color-primary: var(--color-primary-dark);
+	--color-accent: var(--color-accent-dark);
 
-    --color-red: var(--color-red-dark);
-    --color-orange: var(--color-orange-dark);
-    --color-yellow: var(--color-yellow-dark);
-    --color-green: var(--color-green-dark);
-    --color-blue: var(--color-blue-dark);
-    --color-purple: var(--color-purple-dark);
-    --color-grey: var(--color-grey-dark);
+	--color-red: var(--color-red-dark);
+	--color-orange: var(--color-orange-dark);
+	--color-yellow: var(--color-yellow-dark);
+	--color-green: var(--color-green-dark);
+	--color-blue: var(--color-blue-dark);
+	--color-purple: var(--color-purple-dark);
+	--color-grey: var(--color-grey-dark);
 }
 
 .dark {
-    --color-font: var(--color-light);
-    --color-bg: var(--color-dark);
-    --color-primary: var(--color-primary-light);
-    --color-accent: var(--color-accent-light);
+	--color-font: var(--color-light);
+	--color-bg: var(--color-dark);
+	--color-primary: var(--color-primary-light);
+	--color-accent: var(--color-accent-light);
 
-    --color-red: var(--color-red-light);
-    --color-orange: var(--color-orange-light);
-    --color-yellow: var(--color-yellow-light);
-    --color-green: var(--color-green-light);
-    --color-blue: var(--color-blue-light);
-    --color-purple: var(--color-purple-light);
-    --color-grey: var(--color-grey-light);
+	--color-red: var(--color-red-light);
+	--color-orange: var(--color-orange-light);
+	--color-yellow: var(--color-yellow-light);
+	--color-green: var(--color-green-light);
+	--color-blue: var(--color-blue-light);
+	--color-purple: var(--color-purple-light);
+	--color-grey: var(--color-grey-light);
 }
 
 body, h1, h2, h3, h4, h5, h6,
@@ -68,50 +68,50 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-    margin-bottom: .5rem;
-    font-weight: bold;
-    line-height: 1.25;
-    text-rendering: optimizeLegibility;
-    color: var(--color-primary);
+	margin-bottom: .5rem;
+	font-weight: bold;
+	line-height: 1.25;
+	text-rendering: optimizeLegibility;
+	color: var(--color-primary);
 }
 
 h1 {
-    font-size: 2rem;
+	font-size: 2rem;
 }
 h2 {
-    margin-top: 1rem;
-    font-size: 1.5rem;
-    scroll-margin-top: 56px;
+	margin-top: 1rem;
+	font-size: 1.5rem;
+	scroll-margin-top: 56px;
 }
 h3 {
-    margin-top: 1.5rem;
-    font-size: 1.25rem;
-    scroll-margin-top: 56px;
+	margin-top: 1.5rem;
+	font-size: 1.25rem;
+	scroll-margin-top: 56px;
 }
 h4, h5, h6 {
-    margin-top: 1rem;
-    font-size: 1rem;
-    scroll-margin-top: 56px;
+	margin-top: 1rem;
+	font-size: 1rem;
+	scroll-margin-top: 56px;
 }
 
 /* Body */
 body {
-    font-family: var(--font-family);
+	font-family: var(--font-family);
 }
 body img {
-    margin: 5px auto auto auto;
-    display: block;
-    max-width: 600px;
+	margin: 5px auto auto auto;
+	display: block;
+	max-width: 600px;
 }
 
 p {
-    display: block;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    line-height: 1.65;
-    font-family: var(--font-family);
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 0;
+	margin-right: 0;
+	line-height: 1.65;
+	font-family: var(--font-family);
 }
 
 /* Lists */
@@ -123,20 +123,20 @@ ul, ol, dl {
 }
 
 ol li {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1.5rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 1.5rem;
 }
 
 li {
-    margin-bottom: .5rem;
+	margin-bottom: .5rem;
 }
 
 dt {
-    font-weight: bold;
+	font-weight: bold;
 }
 dd {
-    margin-bottom: .5rem;
+	margin-bottom: .5rem;
 }
 
 /*
@@ -147,12 +147,46 @@ a {
 }
 
 @media (hover: hover) {
-    a:hover {
-        color: var(--color-bg);
-        background-color: var(--color-primary);
-        text-decoration: none;
-    }
+	a:hover {
+		color: var(--color-bg);
+		background-color: var(--color-primary);
+		text-decoration: none;
+		outline: solid var(--color-accent);
+		outline-offset: 2px;
+	}
 }
+
+a:focus {
+	color: var(--color-bg);
+	background-color: var(--color-primary);
+	text-decoration: none;
+	outline: solid var(--color-accent);
+	outline-offset: 2px;
+}
+
+/* Buttons */
+
+button {
+	color: var(--color-accent);
+	background-color: var(--color-bg);
+}
+
+@media (hover: hover) {
+	button:hover {
+		color: var(--color-bg);
+		background-color: var(--color-accent);
+		outline: solid var(--color-primary);
+		outline-offset: 2px;
+	}
+}
+
+button:focus {
+	color: var(--color-bg);
+	background-color: var(--color-accent);
+	outline: solid var(--color-primary);
+	outline-offset: 2px;
+}
+
 
 /*
 Blockquote
@@ -189,11 +223,11 @@ Site container
 
 .container {
 	width: 95vw;
-    height: 100vh;
+	height: 100vh;
 	margin: auto;
 }
 .content-wrapper {
-    position: relative;
+	position: relative;
 	top: 56px;
 	margin: auto;
 	display: block;
@@ -201,9 +235,9 @@ Site container
 }
 
 @media screen and (min-width: 1200px) {
-    .content-wrapper {
-        width: 65vw;
-    }
+	.content-wrapper {
+		width: 65vw;
+	}
 }
 .content-wrapper h1 {
 	margin: 20px 0px 5px;

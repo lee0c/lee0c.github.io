@@ -33,8 +33,6 @@
 }
 #menu ul li button {
 	margin: 0;
-	background-color: var(--color-bg);
-	color: var(--color-accent);
 	font-size: 1.2rem;
 	border: none;
 	cursor: pointer;
@@ -42,19 +40,6 @@
 .menu-link {
 	padding: 0 .6rem;
 	border-radius: 1rem;
-}
-
-/* Flip navbar button/link colors when hovered over */
-@media (hover: hover) {
-	.site-header a:hover,
-	.menu-link:hover {
-		background-color: var(--color-primary);
-		color: var(--color-bg);
-	}
-	#menu ul li button:hover {
-		background-color: var(--color-accent);
-		color: var(--color-bg);
-	}
 }
 
 /* Hide the handedness toggle on small screens */
@@ -101,17 +86,9 @@
 }
 
 .footer a {
-    color: var(--color-primary);
     padding: 0 10px;
     text-decoration: none;
 	border-radius: 1rem;
-}
-
-@media (hover: hover) {
-	.footer a:hover {
-		background-color: var(--color-primary);
-		color: var(--color-bg);
-	}
 }
 
 .footer-description {
@@ -120,4 +97,3 @@
     color: var(--font-color);
     font-size:0.8rem;
 }
-  
