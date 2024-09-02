@@ -28,7 +28,7 @@ permalink: /contact
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
     <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-rss"> rss</i></dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-rss"></i> rss</dt>
     <dd><a href="https://leecat.art/feed.xml" target="_blank">link to feed</a></dd>
 </dl>
 
