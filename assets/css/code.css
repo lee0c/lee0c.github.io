@@ -96,6 +96,8 @@ pre {
   word-wrap: break-word;
   background-color: transparent;
   tab-size: 4;
+  border: thin solid var(--color-grey);
+  border-radius: 1rem;
 }
 pre code {
   padding: 0;
