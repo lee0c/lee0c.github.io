@@ -5,19 +5,24 @@
     padding: 0px 10px 10px;
     color: var(--color-font);
 }
-  
+
+.page-content img {
+    max-width: 100%;
+}
+
 .post-content {
     width: 60vw;
     display: block;
     margin: 10px auto 10px;
 }
+
 .post-date {
     display: block;
     margin-bottom: 1rem;
-    margin-top: 0rem;
+    margin-top: 0;
     font-weight: unset;
-    color: var(--color-font);
-    font-size:0.8rem;
+    color: var(--color-grey);
+    font-size: 1rem;
 }
 .featured-image img {
     margin: 5px auto 25px;
