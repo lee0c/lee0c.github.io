@@ -24,11 +24,13 @@
     color: var(--color-grey);
     font-size: 1rem;
 }
+
 .featured-image img {
     margin: 5px auto 25px;
     display: block;
     max-width: 60vw;
 }
+
 @media (max-width: 600px) {
     .post-content {
         width: 95vw;
