@@ -9,6 +9,16 @@
 	width: 100%;
 }
 
+@media (hover: hover) {
+	.featured-post:hover {
+		outline-width: thick;
+	}
+}
+
+.featured-post:focus {
+	outline-width: thick;
+}
+
 .featured-post h2 {
 	bottom: 0;
 	margin: 0;
