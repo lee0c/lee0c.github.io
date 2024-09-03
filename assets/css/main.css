@@ -102,7 +102,7 @@ body {
 body img {
 	margin: 5px auto auto auto;
 	display: block;
-	max-width: 600px;
+	max-width: 800px;
 }
 
 p {
@@ -236,7 +236,7 @@ Site container
 	width: 95vw;
 }
 
-@media screen and (min-width: 1200px) {
+@media (min-width: 1200px) {
 	.content-wrapper {
 		width: 65vw;
 	}
