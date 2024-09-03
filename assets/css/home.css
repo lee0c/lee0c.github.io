@@ -1,11 +1,11 @@
 .featured-post {
 	height: 400px;
-	margin: 5px 0;
+	margin: 1rem 0;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-	display: inline-block;
+	display: block;
 	width: 100%;
 }
 
