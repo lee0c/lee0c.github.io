@@ -16,7 +16,6 @@ function changeTheme(theme) {
 			theme = DARK;
 		}
 	}
-	console.log("changing theme to", theme);
 	document.body.className = theme;
 	localStorage.setItem(THEME, theme);
 }
