@@ -79,7 +79,7 @@
 
 .footer {
 	position: relative;
-	top: var(--height-header);
+	top: var(--height-header-offset);
     text-align: center;
     min-height: 56px;
     line-height: 45px;
