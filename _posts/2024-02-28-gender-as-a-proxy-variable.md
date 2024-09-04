@@ -9,7 +9,7 @@ tags:
     - gender 
 ---
 
-[Look through a scan of the zine.](assets/pdf/gender-as-a-proxy-variable.pdf)
+[Look through a scan of the zine.](assets/pdf/gender-as-a-proxy-variable.pdf) (Be aware that the PDF is not as up to date as the web version below.)
 
 [Get print copies.](https://riverside-refuge.square.site/product/gender-as-a-proxy-variable-print-zine/113)
 
@@ -29,7 +29,7 @@ August - December 2023 -> February 2024
 
 --	Nikki Stevens, quoted in “How to Make Your Software More Trans-Inclusive,” emphasis mine
 
-\* *pro tip: just say "pronouns" and drop the "preferred"*
+\**pro tip: just say "pronouns" and drop the "preferred"*
 
 ---
 
@@ -150,6 +150,8 @@ What is your legal sex as marked on government-issued identification? (pick one)
 - F
 - X
 
+*Explain where this information will be used. If you need something more specific than **any** legal identification, say so: "This is used for insurance purposes and must match your gender on insurance paperwork."*
+
 ## ...Medical
 
 What is your gender? (pick any)
@@ -165,7 +167,7 @@ What sex were you assigned at birth? (pick one)
 - female
 - other *(write-in)*:
 
-*An organ inventory and/or surgical history may also be a useful tool.*
+*An organ inventory and/or surgical history is a useful tool.*
 
 ---
 
@@ -184,9 +186,8 @@ enough?
 
 Maybe not! **Probably not, in fact!** But what are our other options?
 
-**Expansive lists** can be overwhelming to users, fall quickly out of date, and are prone to significant localization issues.
-
-**Free text entry** removes many of the downsides of expansive lists but introduces new problems with data storage and analysis.
+- **Expansive lists** can be overwhelming to users, fall quickly out of date, and are prone to significant localization issues.
+- **Free text entry** removes many of the downsides of expansive lists but introduces new problems with data storage and analysis.
 
 Having **a few primary options and a write-in**, as shown above, is a good balance!
 
