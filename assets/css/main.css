@@ -95,6 +95,9 @@ h4, h5, h6 {
 	scroll-margin-top: var(--height-header-offset);
 }
 
+h2 a, h3 a, h4 a, h5 a, h6 a {
+	font-size: 80%;
+}
 /* Body */
 body {
 	font-family: var(--font-family);
