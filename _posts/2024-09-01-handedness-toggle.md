@@ -3,7 +3,7 @@ layout: post
 title: handedness toggle
 category: reference
 image: 
-    name: handedness-toggle.png
+    name: handedness-toggle-0.png
     alt: "A screenshot of the rescue trans rescue navbar centered on a button that shows a hand pointing left."
 tags:
     - software
@@ -159,6 +159,10 @@ function setAlignLeft() {
 
 Now, the menu should re-orient itself when we interact with the toggle. However, you'll notice that the left-aligned menu shows up in the same order as the right aligned menu: handedness toggle first, then the rest of the menu.
 
+(Forgive the lack of continuity with the header image.)
+
+![the navbar of this site in dark mode. from left to right, there's pink and blue icons of: a hand pointing right, images, file folder, user/person, opened mail, and a lightbulb.](assets/img/handedness-toggle-1.png)
+
 ### moving the button
 
 I don't want that; I want the handedness toggle to always point, unobstructed, to the side of the screen it moves things to. So let's move it around when we set alignment. It'll need to be the first item in the menu list for right-handed alignment, and the last item for left-handed. We can do that with `prepend()` and `append()`.
@@ -178,6 +182,8 @@ function setAlignLeft() {
 ```
 
 Cool! Now we have a menu that re-aligns itself *and* repositions the alignment button.
+
+![The same navbar, now with elements reordered. The hand pointing right now lands at the end of the menu. Incidentally, the theme button has also been swapped and is at the start of the menu but that's not relevant.](assets/img/handedness-toggle-2.png)
 
 ### keyboard navigation
 
@@ -221,6 +227,8 @@ function toggleAlign(event) {
 ```
 
 Now we should only replace visible focus for keyboard interactions.
+
+![Navbar showing handedness toggle in focus, pointing right. It has a bright blue outline, pink background, and dark icon image.](assets/img/handedness-toggle-3.png)
 
 ## thanks for reading
 
