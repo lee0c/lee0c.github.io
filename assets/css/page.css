@@ -18,6 +18,8 @@
 
 .post-content img {
     max-width: 100%;
+    border: thin solid var(--color-grey);
+    border-radius: .3rem;
 }
 
 .post-date {
