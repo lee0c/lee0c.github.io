@@ -12,6 +12,18 @@ As of November 2023, my wife Brooke Osment and I have a business: Riverside Refu
 
 ![A koi pond in fall afternoon light. A person in a knitted dark teal sweater crouches in front of the pond and extends hir hand towards the surface of the water. Several curious koi are arriving to see what the matter is, and one white koi has stuck its face a bit out of the water to reach toward hir hand.](assets/img/koi-pond.jpg)
 
+## pets
+
+We have a dog...
+
+![4 collaged pictures of Kestrel the Malinois mutt, a big tan dog with a thick ruff and half floppy, half pointy ears. In the pictures, he rolls on his back in the grass, looks snobbily at the camera with one ear flopping, looks off to one side, and sleeps in a big leather chair.](assets/img/kestrel.png)
+
+...and six ducks.
+
+![2 pictures that show all six ducks, each duck labeled with their name. In the first image, Sparrow (Golden 300, a light brown breed that looks similar to female mallards) and Puffin (Swedish Black, black with a white bib and beautiful iridescence) come up to eat from my hand. In the second image, Chickadee (Magpie, black and white splotched) is up front looking to one side, and behind her are Dodo (Silver Runner, white and grey), Emu (Fawn & White Runner, white and pale tan), and Kiwi (Chocolate Runner, dark brown all over), with Sparrow and Puffin partially visible behind.](assets/img/duckies.png)
+
+(I snagged these pictures from a presentation on myself I put together for work, then [posted on fedi for fun](https://strangeobject.space/@inherentlee/112797316612804536){:target="_blank"} in case you want to know more about me.)
+
 ## webring
 
 This site is a member of the [CSS Joy webring](https://cs.sjoy.lol/). Navigate through the webring:
