@@ -12,40 +12,8 @@ tags:
 
 <!-- TOC -->
 
-- [Context and problem](#context-and-problem)
-- [Known limitations](#known-limitations)
-- [Where do we need help?](#where-do-we-need-help)
-- [Scope](#scope)
-    - [Out of scope](#out-of-scope)
-- [Core definitions](#core-definitions)
-- [Data on the transgender community](#data-on-the-transgender-community)
-- [Issues and considerations](#issues-and-considerations)
-    - [Do you need gender data?](#do-you-need-gender-data)
-    - [Safety and prevention of abuse](#safety-and-prevention-of-abuse)
-- [Anti-patterns](#anti-patterns)
-    - [Legal gender markers](#legal-gender-markers)
-    - [Biological sex](#biological-sex)
-    - ["Other" or similarly named categories](#other-or-similarly-named-categories)
-    - [Expansive lists](#expansive-lists)
-    - [Free text entry](#free-text-entry)
-    - [Assumptions that a single term will fully encompass gender, especially in a more exhaustive list of options](#assumptions-that-a-single-term-will-fully-encompass-gender-especially-in-a-more-exhaustive-list-of-options)
-    - [Automatic detection of gender](#automatic-detection-of-gender)
-    - [Using gender as a proxy for pronouns](#using-gender-as-a-proxy-for-pronouns)
-- [Patterns and solutions](#patterns-and-solutions)
-    - [Decline to specify](#decline-to-specify)
-    - [Not listed here](#not-listed-here)
-    - [Allow for changes](#allow-for-changes)
-    - [Two- or multi- step approach](#two--or-multi--step-approach)
-    - [Organ inventory](#organ-inventory)
-    - [Differentiate with ‘cis’ and ‘trans’](#differentiate-with-cis-and-trans)
-- [Healthcare or legal systems](#healthcare-or-legal-systems)
-- [Examples in existing systems](#examples-in-existing-systems)
-    - [WPATH guidelines on EMR](#wpath-guidelines-on-emr)
-    - [Facebook](#facebook)
-    - [Drupal](#drupal)
-    - [Salesforce Health Cloud](#salesforce-health-cloud)
-    - [Adobe XDM](#adobe-xdm)
-    - [Epic Healthcare EMR](#epic-healthcare-emr)
+* toc
+{:toc}
 
 <!-- /TOC -->
 
