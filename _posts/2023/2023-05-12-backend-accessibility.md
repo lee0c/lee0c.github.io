@@ -64,14 +64,14 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 
 ## References
 
-- [Accessibility guidelines and requirements — Microsoft style guide](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements)
-- [Write accessible documentation — Google docs style guide](https://developers.google.com/style/accessibility)
-- [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546)
-- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/)
-- [Alt Text as Poetry](https://alt-text-as-poetry.net/)
-- [Is it accessible? — Adrian Roselli](https://adrianroselli.com/2024/08/things-to-do-before-asking-is-this-accessible.html)
-- [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/)
-- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161)
-- [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/)
+- [Accessibility guidelines and requirements — Microsoft style guide](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements){:target="_blank"}
+- [Write accessible documentation — Google docs style guide](https://developers.google.com/style/accessibility){:target="_blank"}
+- [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546){:target="_blank"}
+- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"}
+- [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"}
+- [Is it accessible? — Adrian Roselli](https://adrianroselli.com/2024/08/things-to-do-before-asking-is-this-accessible.html){:target="_blank"}
+- [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/){:target="_blank"}
+- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
+- [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
 
 

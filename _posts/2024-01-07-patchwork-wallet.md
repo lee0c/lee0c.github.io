@@ -9,4 +9,4 @@ tags:
     - leather
 ---
 
-inspired by [this YouTube video](https://www.youtube.com/watch?v=t36dAp1s2NQ)
+inspired by [this YouTube video](https://www.youtube.com/watch?v=t36dAp1s2NQ){:target="_blank"}

@@ -11,7 +11,7 @@ tags:
 
 [Look through a scan of the zine.](assets/pdf/gender-as-a-proxy-variable.pdf) (Be aware that the PDF is not as up to date as the web version below.)
 
-[Get print copies.](https://riverside-refuge.square.site/product/gender-as-a-proxy-variable-print-zine/113)
+[Get print copies.](https://riverside-refuge.square.site/product/gender-as-a-proxy-variable-print-zine/113){:target="_blank"}
 
 The below material is a web page reproduction of my zine **Gender as a Proxy Variable**.
 

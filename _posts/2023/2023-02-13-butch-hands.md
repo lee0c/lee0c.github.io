@@ -16,7 +16,7 @@ This pattern is a **Work in Progress** and will be updated with more information
 - Created: 12 March 2021
 - Last updated: 13 February 2023
 
-This pattern was built on the [Podster Gloves pattern](https://www.ravelry.com/patterns/library/podster-gloves) by Glenna C. on Ravelry. I highly recommend reading and following that pattern to fill in gaps with this one.
+This pattern was built on the [Podster Gloves pattern](https://www.ravelry.com/patterns/library/podster-gloves){:target="_blank"} by Glenna C. on Ravelry. I highly recommend reading and following that pattern to fill in gaps with this one.
 
 ## Materials and tools
 

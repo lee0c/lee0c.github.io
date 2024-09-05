@@ -11,6 +11,6 @@ tags:
 
 Made a few variations of this; check out the shop for more details and options:
 
-- [fixed o-ring bracelet](https://riverside-refuge.square.site/product/fixed-o-ring-bracelet/108)
-- [swappable o-ring bracelet](https://riverside-refuge.square.site/product/swappable-o-ring-bracelet/102)
-- [premade o-ring bracelets](https://riverside-refuge.square.site/product/premade-o-ring-bracelets/106)
+- [fixed o-ring bracelet](https://riverside-refuge.square.site/product/fixed-o-ring-bracelet/108){:target="_blank"}
+- [swappable o-ring bracelet](https://riverside-refuge.square.site/product/swappable-o-ring-bracelet/102){:target="_blank"}
+- [premade o-ring bracelets](https://riverside-refuge.square.site/product/premade-o-ring-bracelets/106){:target="_blank"}

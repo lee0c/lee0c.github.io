@@ -10,5 +10,5 @@ The font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont){:targ
 
 Thank you to some lovely friends for their feedback and help with the site! You should hire them. Yes, you.
 
-- [Lenny](http://www.wondra.codes/), especially for their HTML/CSS and accessibility expertise
-- [Shir](https://shirgoldberg.com/)
+- [Lenny](http://www.wondra.codes/){:target="_blank"}, especially for their HTML/CSS and accessibility expertise
+- [Shir](https://shirgoldberg.com/){:target="_blank"}

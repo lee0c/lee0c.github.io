@@ -10,4 +10,4 @@ tags:
     - gender
 ---
 
-Limited number available for free in my [square shop](https://riverside-refuge.square.site/product/tooled-leather-pronoun-patch/91) with the code "FREEPATCH"
+Limited number available for free in my [square shop](https://riverside-refuge.square.site/product/tooled-leather-pronoun-patch/91){:target="_blank"} with the code "FREEPATCH"

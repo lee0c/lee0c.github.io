@@ -9,7 +9,7 @@ tags:
     - book
 ---
 
-A small highlighter-orange journal with blank fold-out pages and floral coloring pages, including flocked pages, from [BLOOM](https://www.bluestarpress.com/product/bloom-a-coloring-book/) by Alli Koch.
+A small highlighter-orange journal with blank fold-out pages and floral coloring pages, including flocked pages, from [BLOOM](https://www.bluestarpress.com/product/bloom-a-coloring-book/){:target="_blank"} by Alli Koch.
 
 ## details
 

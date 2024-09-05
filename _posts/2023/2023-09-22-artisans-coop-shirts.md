@@ -11,10 +11,10 @@ tags:
     - patch
 ---
 
-Learn more about [Artisans Cooperative](https://artisans.coop/), a new platform for makers and supporters.
+Learn more about [Artisans Cooperative](https://artisans.coop/){:target="_blank"}, a new platform for makers and supporters.
 
 I've joined the "coop" and will be making shirts to support their fundraiser.
 
-[Buy them on Artisans Cooperative's new marketplace](https://artisans.coop/products/coop-tee).
+[Buy them on Artisans Cooperative's new marketplace](https://artisans.coop/products/coop-tee){:target="_blank"}.
 
-[Buy them via my order form](https://form.jotform.com/232606628152050).
+~~Buy them via my order form~~. (Sep 2024: No longer accepting orders via this method)

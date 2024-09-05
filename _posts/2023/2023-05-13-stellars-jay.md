@@ -12,7 +12,7 @@ tags:
     - shirt
 ---
 
-Hand carved set of stamps depicting a stellar's jay about to take off. Based on a photo from [birdpixel](birdpixel.com).
+Hand carved set of stamps depicting a stellar's jay about to take off. Based on a photo from [birdpixel](birdpixel.com){:target="_blank"}.
 
 ## details
 

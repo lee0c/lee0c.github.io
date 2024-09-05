@@ -12,6 +12,6 @@ Updated 13 Aug 2024
 
 The content previously found on this page is now hosted on a standalone site.
 
-[Visit the site](https://rescue-trans-rescue.glitch.me).
+[Visit the site](https://rescue-trans-rescue.glitch.me){:target="_blank"}.
 
-(Site down? Not loading? [Check for issues with Glitch, our hosting provider](https://status.glitch.com/).)
+(Site down? Not loading? [Check for issues with Glitch, our hosting provider](https://status.glitch.com/){:target="_blank"}.)

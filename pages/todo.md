@@ -52,7 +52,7 @@ permalink: /todo
   - ~~add brooke's book~~
 - friend suggestions re a11y
   - ~~h3 in header should be h1~~
-  - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/)~~
+  - ~~change nav bar to an unordered list [ref](https://www.w3.org/WAI/tutorials/menus/structure/){:target="_blank"}~~
   - ~~art pages need structural help to be screen reader friendly - heading is nested fairly far down and link needs aria-label~~
   - ~~add aria-label to next/prev~~
   - text should always be in a `<p>` or `<h#>` - `<span>` is meaningless to screenreaders

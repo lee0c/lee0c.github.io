@@ -26,10 +26,10 @@ We have a dog...
 
 ## webring
 
-This site is a member of the [CSS Joy webring](https://cs.sjoy.lol/). Navigate through the webring:
+This site is a member of the [CSS Joy webring](https://cs.sjoy.lol/){:target="_blank"}. Navigate through the webring:
 
 <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/previous?via=https://leecat.art">&lt; prev</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/random?via=https://leecat.art">rand</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/next?via=https://leecat.art">next &gt;</a>
+    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/previous?via=https://leecat.art" target="_blank">&lt; prev</a>|
+    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/random?via=https://leecat.art" target="_blank">rand</a>|
+    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/next?via=https://leecat.art" target="_blank">next &gt;</a>
 </div>

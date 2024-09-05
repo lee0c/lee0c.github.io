@@ -9,7 +9,7 @@ tags:
     - book
 ---
 
-Includes coloring pages from [Animorphia by Kerby Rosanes](https://kerbyrosanes.com/animorphia).
+Includes coloring pages from [Animorphia by Kerby Rosanes](https://kerbyrosanes.com/animorphia){:target="_blank"}.
 
 ## details
 

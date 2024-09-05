@@ -9,7 +9,7 @@ tags:
     - book
 ---
 
-A green journal with a blue leather spine. The coloring pages are from the book [Color Acadia](https://www.ellsworthamerican.com/living/arts-a-living/color-acadia/) with art by Katie Dube and Keri Kimura.
+A green journal with a blue leather spine. The coloring pages are from the book [Color Acadia](https://www.ellsworthamerican.com/living/arts-a-living/color-acadia/){:target="_blank"} with art by Katie Dube and Keri Kimura.
 
 ## details
 

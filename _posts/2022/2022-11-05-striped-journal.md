@@ -9,7 +9,7 @@ tags:
     - book
 ---
 
-A leather spine journal with a striped front cover and navy back cover. It includes both blank pages and fold-out coloring pages from [Fantastic Cities](https://bookshop.org/p/books/fantastic-cities-a-coloring-book-of-amazing-places-real-and-imagined-adult-coloring-books-city-coloring-books-coloring-books-for-adu-steve-mcdonald/7572265?ean=9781452149578) by Steve McDonald.
+A leather spine journal with a striped front cover and navy back cover. It includes both blank pages and fold-out coloring pages from [Fantastic Cities](https://bookshop.org/p/books/fantastic-cities-a-coloring-book-of-amazing-places-real-and-imagined-adult-coloring-books-city-coloring-books-coloring-books-for-adu-steve-mcdonald/7572265?ean=9781452149578){:target="_blank"} by Steve McDonald.
 
 ## details
 

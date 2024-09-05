@@ -15,7 +15,7 @@ Cataloguing paper I have worked with and any notes.
 
 ### Japanese paper 10 sheet assortment
 
-- [Japanese paper 10 sheet assortment](https://www.dickblick.com/products/japanese-paper-10-sheet-assortment/)
+- [Japanese paper 10 sheet assortment](https://www.dickblick.com/products/japanese-paper-10-sheet-assortment/){:target="_blank"}
 - Contains:
   - Kinwashi - 25"x37"
   - Kitakata - 16"x20"
@@ -37,7 +37,7 @@ Cataloguing paper I have worked with and any notes.
 
 ### Rives
 
-[Lightweight Rives Printmaking Paper, Cream](https://www.dickblick.com/items/bfk-rives-printmaking-paper-19-x-26-cream-115-gsm-light-sheet/)
+[Lightweight Rives Printmaking Paper, Cream](https://www.dickblick.com/items/bfk-rives-printmaking-paper-19-x-26-cream-115-gsm-light-sheet/){:target="_blank"}
 
 - Tears really nicely
 - I like the lightweight paper
@@ -51,7 +51,7 @@ Cataloguing paper I have worked with and any notes.
 
 ### Hahnemühle Ingres
 
-[Hahnemühle Ingres Paper](https://www.dickblick.com/products/hahnemuhle-ingres-paper/)
+[Hahnemühle Ingres Paper](https://www.dickblick.com/products/hahnemuhle-ingres-paper/){:target="_blank"}
 
 - comes in a lot of colors
 - tears well

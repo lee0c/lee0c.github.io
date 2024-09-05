@@ -9,4 +9,4 @@ tags:
     - knit
 ---
 
-My first pair of socks, knit with [Seattle Sky Dyeworks](https://seattleskydyeworks.com/) Temporum yarn in colorway Salmon Run.
+My first pair of socks, knit with [Seattle Sky Dyeworks](https://seattleskydyeworks.com/){:target="_blank"} Temporum yarn in colorway Salmon Run.
