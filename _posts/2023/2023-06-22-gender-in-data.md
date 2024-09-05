@@ -212,6 +212,8 @@ This may also be expanded to a multi-step approach, with questions covering some
 
 Refer to the reference linked above for detailed examples of organ or surgical history inventories.
 
+Additional reference (added Sep 2024): [(Bourns, 2023)](https://www.rainbowhealthontario.ca/wp-content/uploads/2021/09/Guidelines-FINAL-4TH-EDITION-With-2023-Updates.pdf)
+
 ### Differentiate with ‘cis’ and ‘trans’
 
 Avoid questions that contrast ‘male’ and ‘trans male’ or any parallel set of terms. Either contrast ‘cis male’ and ‘trans male,' or allow respondents to choose multiple responses.
