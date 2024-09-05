@@ -1,26 +1,25 @@
 <header class="site-header">
-  <a class="skip-nav" href="#main">Skip to content</a>
+  <a id="skip-nav" href="#main" title="skip to main content" aria-label="skip to main content">
+    skip <i class="fa-solid fa-forward" aria-hidden="true"></i>
+  </a>
+  <a id="site-title" href="{{ site.github.url }}/" title="home" aria-label="home">
+    <i class="fa fa-solid fa-crow" aria-hidden="true"></i>
+  </a>
   <nav id="menu">
     <ul>
-      <li><a id="site-title" href="{{ site.github.url }}/" title="home" aria-label="home">
-        <i class="fa fa-solid fa-crow" aria-hidden="true"></i>
-      </a></li>
-      <li><button id="alignment" title="toggle left/right navbar alignment" aria-label="toggle left/right navbar alignment" class="menu-link">
-        <!-- autopopulated by nav.js -->
-      </button></li>
-      <li><a href="/gallery" title="art gallery" aria-label="art gallery" class="menu-link">
+      <li><a href="/gallery" title="art gallery" aria-label="art gallery">
         <i class="fa-regular fa-images" aria-hidden="true"></i>
       </a></li>
-      <li><a href="/reference" title="reference" aria-label="reference" class="menu-link">
+      <li><a href="/reference" title="reference" aria-label="reference">
         <i class="fa-regular fa-folder-open" aria-hidden="true"></i>
       </a></li>
-      <li><a href="/about" title="about Lee" aria-label="about Lee" class="menu-link">
+      <li><a href="/about" title="about Lee" aria-label="about Lee">
         <i class="fa-regular fa-user" aria-hidden="true"></i>
       </a></li>
-      <li><a href="/contact" title="contact/shops" aria-label="contact/shops" class="menu-link">
+      <li><a href="/contact" title="contact/shops" aria-label="contact/shops">
         <i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
       </a></li>
-      <li><button id="theme" title="toggle light/dark mode" aria-label="toggle light/dark mode" class="menu-link">
+      <li><button id="theme" title="toggle light/dark mode" aria-label="toggle light/dark mode">
         <i class="fa-solid fa-lightbulb" aria-hidden="true"></i>
       </button></li>
   </ul>

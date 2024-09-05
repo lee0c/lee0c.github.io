@@ -1,46 +1,40 @@
 .site-header {
 	top: 0px;
+	left: 0px;
 	min-height: var(--height-header);
-	width: 96%;
+	width: 100%;
 	position: fixed;
 	background-color: var(--color-bg);
-	box-shadow: 0 5px 6px -6px rgba(0,0,0,0.2);
-	z-index: 100;
+	box-shadow: 0 5px 6px -6px rgba(0,0,0,0.8);
+	z-index: 10;
 }
-.site-header a {
+.site-header a,
+.site-header button {
 	text-decoration: none;
 	border-radius: 1rem;
-	padding: 0 10px;
+	margin: auto auto;
+	padding: 0 .8rem;
+	font-size: 1.2rem;
+	border: none;
+	cursor: pointer;
 }
 #site-title {
 	font-size: 2rem;
-	font-weight: 400;
-	line-height: var(--height-header);
-	margin-bottom: 0;
-	margin-top: 0;
+	margin-top: 12px;
+	margin-left: 1rem;
 }
 
 #menu {
 	line-height: var(--height-header);
 }
 #menu ul {
-    margin: 0;
+    margin: 0 1rem;
 }
 #menu ul li {
 	font-size: 1.2rem;
     margin: .2rem 0;
     list-style: none;
     display: inline-block;
-}
-#menu ul li button {
-	margin: 0;
-	font-size: 1.2rem;
-	border: none;
-	cursor: pointer;
-}
-.menu-link {
-	padding: 0 .6rem;
-	border-radius: 1rem;
 }
 
 /* Hide the handedness toggle on small screens */
@@ -51,21 +45,22 @@
   }
 
 /* Skip navigation link */
-
-.skip-nav {
+#skip-nav {
 	left: -999px;
 	position: absolute;
 	top: auto;
 	width: 1px;
 	height: 1px;
 	overflow: hidden;
-	z-index: -999;
+	z-index: -99;
+
 }
 
-.skip-nav:focus {
+#skip-nav:focus {
+	display: inline-block;
 	left: auto;
 	top: auto;
-	width: 20%;
+	width: auto;
 	height: auto;
 	overflow: auto;
 	margin: 10px 10%;

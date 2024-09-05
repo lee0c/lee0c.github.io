@@ -23,13 +23,12 @@ function changeTheme(theme) {
 changeTheme(theme);
 
 function toggleTheme() {
-	"hit theme toggle"
 	if (theme === LIGHT) theme = DARK;
 	else if (theme === DARK) theme = LIGHT;
 	changeTheme(theme);
 }
   
-themeToggle.addEventListener("mouseup", toggleTheme);
+themeToggle.addEventListener("click", toggleTheme);
 
 /* Navbar alignment */
 const ALIGN = "alignment";
@@ -40,13 +39,20 @@ const LEFT_ICON = '<i class="fa-regular fa-hand-point-left" aria-hidden="true"><
 const RIGHT_ICON = '<i class="fa-regular fa-hand-point-right" aria-hidden="true"></i>';
 
 let align = localStorage.getItem(ALIGN);
-let alignToggle = document.getElementById(ALIGN);
 
-let title = document.getElementById("site-title");
+let alignListItem = document.createElement("li");
+let alignToggle = document.createElement("button");
+alignListItem.appendChild(alignToggle);
+
+alignToggle.id = ALIGN;
+alignToggle.title = "toggle left/right navbar alignment";
+alignToggle.ariaLabel = "toggle left/right navbar alignment";
+
 let menu = document.getElementById("menu");
 let menuList = menu.getElementsByTagName("ul")[0];
+
+let title = document.getElementById("site-title");
 let themeListItem = themeToggle.parentElement;
-let alignListItem = alignToggle.parentElement;
 
 function setAlignLeft() {
 	alignToggle.innerHTML = RIGHT_ICON;
