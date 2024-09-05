@@ -65,9 +65,8 @@
 	overflow: auto;
 	margin: 10px 10%;
 	padding: 5px;
-	border-radius: 5px;
+	border-radius: 1rem;
 	border: 3px solid var(--color-primary);
-	text-align: center;
 	font-size: 1.2em;
 	z-index: 999;
 }
