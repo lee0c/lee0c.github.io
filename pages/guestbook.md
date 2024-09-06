@@ -6,11 +6,18 @@ permalink: /guestbook
 
 guestbook entries are manually added and moderated :)
 
+## write
+
 if the embed below is not working for you, you can [open the guestbook form in a new tab](https://airtable.com/app1YuM4uE4sRTYgh/pag4JzOylrLoLy4AS/form){:target="_blank"} or just [contact me any way you want](/contact) with your desired message
 
 yeah, i wish i could make this support dark mode too :(
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/app1YuM4uE4sRTYgh/pag4JzOylrLoLy4AS/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## read
+
+handmade ghost on <time datetime="2024-09-06">6 September 2024</time>
+> Everything Lee makes is a gift to the world--just knowing ze made something new brings me joy and sends me scrambling to this site!
 
 [jay](jaygrant.us){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>
 > EGG
