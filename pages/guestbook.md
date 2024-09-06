@@ -6,6 +6,8 @@ permalink: /guestbook
 
 guestbook entries are manually added and moderated :)
 
+yes, you may sign again even if you've been here before - just no spamming please :)
+
 ## write
 
 if the embed below is not working for you, you can [open the guestbook form in a new tab](https://airtable.com/app1YuM4uE4sRTYgh/pag4JzOylrLoLy4AS/form){:target="_blank"} or just [contact me any way you want](/contact) with your desired message
