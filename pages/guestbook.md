@@ -16,43 +16,46 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
-Olive on <time datetime="2024-09-06">6 September 2024</time>
+Fén (Spirits) on <time datetime="2024-09-06">6 September 2024</time>:
+> Hi you make really good art and crafts and have been awesome to get to know ^^ Keep on keeping on~
+
+Olive on <time datetime="2024-09-06">6 September 2024</time>:
 > Hi! You're cool :))
 
-Fern (Rainbow) on <time datetime="2024-09-06">6 September 2024</time>
+Fern (Rainbow) on <time datetime="2024-09-06">6 September 2024</time>:
 > I think you're awesome and this is really impressive 🥺
 
-handmade ghost on <time datetime="2024-09-06">6 September 2024</time>
+handmade ghost on <time datetime="2024-09-06">6 September 2024</time>:
 > Everything Lee makes is a gift to the world--just knowing ze made something new brings me joy and sends me scrambling to this site!
 
-[jay](jaygrant.us){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>
+[jay](jaygrant.us){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>:
 > EGG
 
-pqqq on <time datetime="2024-09-06">6 September 2024</time>
+pqqq on <time datetime="2024-09-06">6 September 2024</time>:
 > Hello from Fedi! Your site is absolutely wonderful, and I love that you're adding a guestbook, too!!
 
-Morgan on <time datetime="2024-09-06">6 September 2024</time>
+Morgan on <time datetime="2024-09-06">6 September 2024</time>:
 > You make good art and good takes on gender 💜
 
-[Lisa](@mycrowgirl@mastodon.social){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>
+[Lisa](@mycrowgirl@mastodon.social){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>:
 > Ask not for whom the snoot is booped. It is booped for weevils.
 
-nathanlovestrees on <time datetime="2024-09-06">6 September 2024</time>
+nathanlovestrees on <time datetime="2024-09-06">6 September 2024</time>:
 > honk!
 
-[✨pencilears✨](https://pencilears.eternalaugust.net/comic/){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>
+[✨pencilears✨](https://pencilears.eternalaugust.net/comic/){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>:
 > Hello! I'm glad we're still doing guest books on websites.
 
-[brhfl](https://brhfl.com){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>
+[brhfl](https://brhfl.com){:target="_blank"} on <time datetime="2024-09-06">6 September 2024</time>:
 > hey hi! just giving you some test data and also basking in the nostalgia of a guestbook :)
 
-Eedlipherus C. Bigribs on <time datetime="2024-09-06">6 September 2024</time>
+Eedlipherus C. Bigribs on <time datetime="2024-09-06">6 September 2024</time>:
 > Signing the guestbook so you have data to format on the page lyao.
 >
 > And this is a second paragraph, because, honestly, this is more interesting than the QA I get paid to do, so I'll just make this bit long enough to wrap for a few lines, yep, maybe a little bit more, uh huh, that's right, eat your heart out, Lorem Ipsum.
 
-jade on <time datetime="2024-09-06">6 September 2024</time>
+jade on <time datetime="2024-09-06">6 September 2024</time>:
 > Hi Lee!
 
-alex tax1a on <time datetime="2024-09-06">6 September 2024</time>
+alex tax1a on <time datetime="2024-09-06">6 September 2024</time>:
 > Hi!! signing the guestbook, so you have at least one datum.
