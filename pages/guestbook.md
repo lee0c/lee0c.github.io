@@ -16,6 +16,9 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
+Olive on <time datetime="2024-09-06">6 September 2024</time>
+> Hi! You're cool :))
+
 Fern (Rainbow) on <time datetime="2024-09-06">6 September 2024</time>
 > I think you're awesome and this is really impressive 🥺
 
