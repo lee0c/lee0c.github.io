@@ -13,7 +13,7 @@
 	text-decoration: none;
 	border-radius: 1rem;
 	margin: auto auto;
-	padding: 0 .8rem;
+	padding: 0 .6rem;
 	font-size: 1.2rem;
 	border: none;
 	cursor: pointer;
@@ -21,6 +21,12 @@
 #site-title {
 	font-size: 2rem;
 	margin: 12px 1rem 0;
+}
+
+@media (max-width: 500px) {
+	#site-title {
+		margin: 12px .2rem 0;
+	}
 }
 
 #menu {
@@ -34,6 +40,12 @@
     margin: .2rem 0;
     list-style: none;
     display: inline-block;
+}
+
+@media (max-width: 500px) {
+	#menu ul {
+		margin: 0 .2rem;
+	}
 }
 
 /* Hide the handedness toggle on small screens */
