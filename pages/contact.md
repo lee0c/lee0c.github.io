@@ -15,6 +15,8 @@ permalink: /contact
     <dd>inherentlee#5139</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> snail mail</dt>
     <dd>message me for address!</dd>
+    <dt><i aria-hidden="true" class="fa-solid fa-signature"></i> guestbook?</dt>
+    <dd><a href="guestbook">guestbook.</a></dd>
 </dl>
 
 ## socials
