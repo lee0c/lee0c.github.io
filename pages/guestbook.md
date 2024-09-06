@@ -16,6 +16,9 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
+Fern (Rainbow) on <time datetime="2024-09-06">6 September 2024</time>
+> I think you're awesome and this is really impressive 🥺
+
 handmade ghost on <time datetime="2024-09-06">6 September 2024</time>
 > Everything Lee makes is a gift to the world--just knowing ze made something new brings me joy and sends me scrambling to this site!
 
