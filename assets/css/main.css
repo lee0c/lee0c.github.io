@@ -198,11 +198,16 @@ Blockquote
 */
 
 blockquote {
-	margin: 10px 20px 10px;
+	margin: 10px 20px;
 	padding: 0px 15px;
-	border-left: 0.25em solid var(--color-primary);
-	color: var(--color-bg);
+	border-radius: 1rem;
 	line-height: 1.5;
+}
+
+blockquote,
+blockquote p {
+	color: var(--color-bg);
+	background-color: var(--color-primary);
 }
 
 /**
@@ -220,6 +225,13 @@ table, th, td {
 th, td {
 	padding: 15px;
 	text-align: left;
+}
+
+/**
+* Times
+*/
+time {
+	color: var(--color-grey);
 }
 
 /*
