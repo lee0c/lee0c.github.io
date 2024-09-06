@@ -6,7 +6,7 @@ permalink: /guestbook
 
 guestbook entries are manually added and moderated :)
 
-yes, you may sign again even if you've been here before - just no spamming please :)
+yes, you may sign again even if you've been here before - just no spamming please!
 
 ## write
 
