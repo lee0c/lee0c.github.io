@@ -23,15 +23,15 @@ permalink: /contact
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
-    <dd><a rel="me" href="https://strangeobject.space/@inherentlee" target="_blank">@inherentlee@strangeobject.space</a></dd>
+    <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i> twitch</dt>
-    <dd><a href="https://www.twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
+    <dd><a href="https://twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
-    <dd><a href="https://www.ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
+    <dd><a href="https://ravelry.com/people/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-rss"></i> rss</dt>
-    <dd><a href="https://leecat.art/rss-feed.xml" target="_blank">link to feed</a></dd>
+    <dd><a href="https://leecat.art/rss-feed.xml" target="_blank">feed</a></dd>
 </dl>
 
 ---
@@ -47,7 +47,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://artisans.coop/pages/seller-profiles/riverside-refuge-studio" target="_blank">Riverside Refuge Studio</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-store"></i> faire (wholesale)</dt>
     <dd><a href="https://faire.com/direct/riversiderefugestudio" target="_blank">Riverside Refuge Studio</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (no longer updated with new items)</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (now the home of <a href="https://rescue-trans-rescue.glitch.me" target="_blank">Rescue Trans Rescue</a>)</dt>
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
