@@ -18,6 +18,9 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
+hello on <time datetime="2024-12-01">1 December 2024</time>:
+> thanks for being gay and weird pal
+
 Fén (Spirits) on <time datetime="2024-09-06">6 September 2024</time>:
 > Hi you make really good art and crafts and have been awesome to get to know ^^ Keep on keeping on~
 
