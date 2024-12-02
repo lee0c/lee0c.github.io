@@ -18,6 +18,9 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
+Jack on <time datetime="2024-12-01">1 December 2024</time>:
+> All the things you make and do are so cool and I feel so lucky every time I get to see them (including the ones that now live in my home!)
+
 hello on <time datetime="2024-12-01">1 December 2024</time>:
 > thanks for being gay and weird pal
 
