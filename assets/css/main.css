@@ -59,8 +59,7 @@
 }
 
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+p, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
   color: var(--color-font);
@@ -205,9 +204,26 @@ blockquote {
 }
 
 blockquote,
-blockquote p {
+blockquote p,
+blockquote ol,
+blockquote ul {
 	color: var(--color-bg);
 	background-color: var(--color-primary);
+}
+
+blockquote a {
+	color: var(--color-bg);
+}
+
+@media (hover: hover) {
+	blockquote a:hover {
+		color: var(--color-primary);
+		background-color: var(--color-bg);
+	}
+}
+blockquote a:focus {
+	color: var(--color-primary);
+	background-color: var(--color-bg);
 }
 
 /**
