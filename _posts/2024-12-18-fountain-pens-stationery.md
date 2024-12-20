@@ -8,6 +8,8 @@ image:
 tags:
 ---
 
+Wax seals pictured from [boygirlparty](https://hello.boygirlparty.com){:target="_blank"}.
+
 ## Excellent
 
 - [Saturn Press](https://www.saturnpress.us){:target="_blank"}
