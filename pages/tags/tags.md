@@ -11,6 +11,7 @@ list of all existing tags
 - [gender](tag/gender)
 - [knit](tag/knit)
 - [leather](tag/leather)
+- [lettering](tag/lettering)
 - [patch](tag/patch)
 - [print](tag/print)
 - [shirt](tag/shirt)
