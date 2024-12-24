@@ -25,6 +25,10 @@ image:
 
 - [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe
 
+## Short fiction
+
+- [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/){:target="_blank"} by Isabel J. Kim 
+
 ## Videos
 
 - (Playlist) [The Alt-Right Playbook](https://www.youtube.com/playlist?list=PLJA_jUddXvY7v0VkYRbANnTnzkA_HMFtQ){:target="_blank"} by Innuendo Studios
