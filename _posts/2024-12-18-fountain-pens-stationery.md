@@ -15,6 +15,7 @@ Wax seals pictured from [boygirlparty](https://hello.boygirlparty.com){:target="
 - [Saturn Press](https://www.saturnpress.us){:target="_blank"}
 - [Alexa Pulitzer](https://alexapulitzer.com){:target="_blank"}
 - [Noat](https://noat.co){:target="_blank"}
+- [Shaven Raven Designs](https://www.shavenravendesigns.com){:target="_blank"}
 
 ## Mediocre
 
