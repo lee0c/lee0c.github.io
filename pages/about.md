@@ -22,8 +22,6 @@ We have a dog...
 
 ![2 pictures that show all six ducks, each duck labeled with their name. In the first image, Sparrow (Golden 300, a light brown breed that looks similar to female mallards) and Puffin (Swedish Black, black with a white bib and beautiful iridescence) come up to eat from my hand. In the second image, Chickadee (Magpie, black and white splotched) is up front looking to one side, and behind her are Dodo (Silver Runner, white and grey), Emu (Fawn & White Runner, white and pale tan), and Kiwi (Chocolate Runner, dark brown all over), with Sparrow and Puffin partially visible behind.](assets/img/duckies.png)
 
-(I snagged these pictures from a presentation on myself I put together for work, then [posted on fedi for fun](https://strangeobject.space/@inherentlee/112797316612804536){:target="_blank"} in case you want to know more about me.)
-
 ## webring
 
 This site is a member of the [CSS Joy webring](https://cs.sjoy.lol/){:target="_blank"}. Navigate through the webring:
