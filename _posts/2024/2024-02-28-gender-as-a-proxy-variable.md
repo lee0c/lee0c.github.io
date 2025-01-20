@@ -6,7 +6,8 @@ image:
     name: gender-zine-cover.png
     alt: "Part of a scan of the cover of my zine, Gender as a Proxy Variable. It shows the title and a bit of handsewn binding."
 tags:
-    - gender 
+    - gender
+    - zine
 ---
 
 [Look through a scan of the zine.](assets/pdf/gender-as-a-proxy-variable.pdf) (Be aware that the PDF is not as up to date as the web version below.)

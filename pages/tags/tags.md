@@ -19,3 +19,4 @@ list of all existing tags
 - [stamp](tag/stamp)
 - [sticker](tag/sticker)
 - [yarn](tag/yarn)
+- [zine](tag/zine)
