@@ -1,6 +1,6 @@
 ---
 layout: post
-title: happy solstice 2025
+title: kestrel zine
 category: gallery
 image:
     name: kestrel-zine.jpg
