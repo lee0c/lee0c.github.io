@@ -56,6 +56,10 @@ If you are listed here and would like to be removed, just [get in touch with me]
 
 - [hyperfollow/LukeOrion](https://hyperfollow.com/LukeOrion){:target="_blank"}
 
+### Pixel
+
+- [liberapay/Pixouls](https://liberapay.com/Pixouls/){:target="_blank"}
+
 ## Credit
 
 Thank you to these wonderful folks (and many more who chose to remain uncredited) for the links/orgs:
