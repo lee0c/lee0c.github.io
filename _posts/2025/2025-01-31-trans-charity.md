@@ -60,6 +60,10 @@ If you are listed here and would like to be removed, just [get in touch with me]
 
 - [liberapay/Pixouls](https://liberapay.com/Pixouls/){:target="_blank"}
 
+### Taj
+
+- [ko-fi/erosdiscordia](https://ko-fi.com/erosdiscordia){:target="_blank"}
+
 ## Credit
 
 Thank you to these wonderful folks (and many more who chose to remain uncredited) for the links/orgs:
