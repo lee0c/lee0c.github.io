@@ -33,6 +33,7 @@ For reference, I also have a list set up at [/give](/give) that lists a number o
 - [Trans Justice Funding Project](https://www.transjusticefundingproject.org/){:target="_blank"} - also worth looking at their **grantees** for further ideas
 - [Trans Lifeline](https://translifeline.org/){:target="_blank"}
 - [Trans Rescue](https://transrescue.org){:target="_blank"}
+- [Trans Youth Emergency Project](https://southernequality.org/tyep/){:target="_blank"}
 - [TransFamily Support Services](https://transfamilysos.org){:target="_blank"}
 - [Transgender Law Center](https://transgenderlawcenter.org){:target="_blank"}
 - [True Colors United](https://truecolorsunited.org){:target="_blank"}
