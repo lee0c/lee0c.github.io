@@ -73,5 +73,6 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 - [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/){:target="_blank"}
 - [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
 - [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
+- [An attempted guide to writing effective alt and descriptive text for art](https://mannequinrentals.help/2024/03/21/an-attempted-guide-to-writing-effective-alt-and-descriptive-text-for-art/){:target="_blank"}
 
 
