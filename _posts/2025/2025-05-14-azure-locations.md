@@ -126,7 +126,6 @@ We can't just stop there. We need to search each module in turn. Using `dirname`
 
 ```sh
 get_resources () {
-
   # ... grep, cut, etc ...
   
   directory=$(dirname "$file")
@@ -160,7 +159,7 @@ get_resources () {
 
   for module in "${modules[@]}"
   do
-    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
+    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
   done
   
   for resource in "${resources[@]}"; do; echo "$resource"; done 
