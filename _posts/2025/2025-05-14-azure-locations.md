@@ -23,7 +23,7 @@ Let's dig in. (Want just the outcome? Check the [summary](#summary).)
 
 For example, a minimal Bicep file that creates a resource group might look like this:
 
-```
+```bicep
 param resourceGroupName string = 'myResourceGroup'
 param location string = "westus2"
 
