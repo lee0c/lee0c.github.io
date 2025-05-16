@@ -40,8 +40,8 @@ grep "'d" tempest.md
 ```
 
 ```txt
-As if you were dismay**'d**: be cheerful, sir.
-The cloud-capp**'d** towers, the gorgeous palaces,
+As if you were dismay'd: be cheerful, sir.
+The cloud-capp'd towers, the gorgeous palaces,
 ```
 
 ## redirect
@@ -55,8 +55,8 @@ grep "'d" - < tempest.md
 ```
 
 ```txt
-As if you were dismay**'d**: be cheerful, sir.
-The cloud-capp**'d** towers, the gorgeous palaces,
+As if you were dismay'd: be cheerful, sir.
+The cloud-capp'd towers, the gorgeous palaces,
 ```
 
 ## re-redirect
@@ -68,8 +68,8 @@ grep "'d" - < <(cat tempest.md)
 ```
 
 ```txt
-As if you were dismay**'d**: be cheerful, sir.
-The cloud-capp**'d** towers, the gorgeous palaces,
+As if you were dismay'd: be cheerful, sir.
+The cloud-capp'd towers, the gorgeous palaces,
 ```
 
 (In this case, you could substitute `cat tempest.md | grep "'d" -` but `<(command)` is handy for cases where commands don't take `stdin`, or need to take in multiple files (such as [`comm`](/azure-locations#comm))
@@ -85,8 +85,8 @@ grep "'d" < <(cat - < tempest.md)
 ```
 
 ```txt
-As if you were dismay**'d**: be cheerful, sir.
-The cloud-capp**'d** towers, the gorgeous palaces,
+As if you were dismay'd: be cheerful, sir.
+The cloud-capp'd towers, the gorgeous palaces,
 ```
 
 ## conclusion
