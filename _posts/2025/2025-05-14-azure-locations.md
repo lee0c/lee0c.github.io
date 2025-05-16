@@ -74,7 +74,7 @@ Okay, let's backtrack. From a given Bicep file, we want:
 
 1. All referenced resource types
 1. All referenced modules
- 
+
 ### grep
 
 Resources and modules both have patterns in how they are declared. Thankfully, they're pretty simple regexes. `grep` will spit out lines in a file that match a given regex.
@@ -163,7 +163,7 @@ get_resources () {
     mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
   done
   
-  for resource in "${resources[@]"; do; echo "$resource"; done 
+  for resource in "${resources[@]}"; do; echo "$resource"; done 
 }
 ```
 
@@ -311,7 +311,7 @@ get_resources () {
     mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
   done
   
-  for resource in "${resources[@]"; do echo "$resource"; done 
+  for resource in "${resources[@]}"; do echo "$resource"; done 
 }
 
 # Execution starts here
