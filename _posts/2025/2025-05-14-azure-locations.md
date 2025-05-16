@@ -142,6 +142,8 @@ A lot just happened there besides `dirname`. `{modules[@]}` is all the array ele
 
 Additionally, `mapfile` usually writes from index 0 onwards. But with the `-O` argument, we can specify an **o**rigin. By setting the starting point to the length of the array, we append to the array rather than writing over existing data.
 
+Finally, we got some recursion going! `get_resources` calls `get_resources` for every module found.
+
 ### the get_resources function
 
 So far, our code looks like this:
@@ -165,7 +167,7 @@ get_resources () {
 }
 ```
 
-That last one-liner just returns our results. Note that we don't just `echo ${resources[@]}` - this results in a space-delimited string and it'll be helpful later to have a newline-delimited string.
+That last one-liner just returns our results. Note that we don't just `echo "${resources[@]}"` - this results in a space-delimited string and it'll be helpful later to have a newline-delimited string.
 
 ## finding locations
 
@@ -177,13 +179,13 @@ mapfile -t resources < <(get_resources "main.bicep")
 
 ### sort
 
-Does sorting matter? Not really, but `sort` has a useful feature - `-u` which returns **u**nique items, aka, it deduplicates. Looking up the same resource type twice slows us down.
+Does sorting matter? Not really, but `sort` has a useful feature, `-u`, which returns **u**nique items (aka, it deduplicates). Looking up the same resource type twice slows us down.
 
 ```sh
 mapfile -t resources < <(get_resources "main.bicep" | sort -u)
 ```
 
-`sort` is the reason it helps to have newlines as delimiters - it expects that.
+`sort` is one reason it helps to have newlines as delimiters - it expects that.
 
 ### az
 
@@ -226,17 +228,19 @@ Okay, we can get locations. How do we handle finding their intersection?
 
 `comm` to the rescue. It finds **comm**on lines between two *sorted* files. Its default output is three columns - lines only in file 1, lines only in file 2, and lines common to both. We can suppress the first two columns with `-12`.
 
-`comm` expects files, so we'll reuse `< <(someCommand)` from earlier.
+`comm` expects files, so we'll reuse our redirection `< <(someCommand)` from earlier.
 
 ```sh
 mapfile -t locations < <(comm -12 \
   <(for location in "${locations[@]}"; do echo "$location"; done) \
-  <(for location in "${newLocations[@]}"; do echo "$location"; done) )z
+  <(for location in "${newLocations[@]}"; do echo "$location"; done) ) 
 ```
+
+`comm` also likes newline-delimited lists, so we're looping through again.
 
 ### catching errors
 
-With functionality as it is, many deployments will come back with *0* locations available. Turns out some basic resource types, like role assignments, don't have locations. So let's filter those.
+With functionality as it is, many deployments will come back with 0 locations available. Turns out some basic resource types, like role assignments, don't have locations. So let's filter those.
 
 ```sh
 if [[ ${#newLocations[@]} -eq 0 ]]
@@ -307,7 +311,7 @@ get_resources () {
     mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
   done
   
-  for resource in "${resources[@]"; do; echo "$resource"; done 
+  for resource in "${resources[@]"; do echo "$resource"; done 
 }
 
 # Execution starts here
