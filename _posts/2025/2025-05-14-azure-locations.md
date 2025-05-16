@@ -203,7 +203,7 @@ mapfile -t newLocations < <(az provider show --namespace "$namespace" \
   --out tsv)
 ```
 
-`--out tsv` means we will get a list with no decoration whatsoever - it's vital for programmatic handling of `az` command output. 
+`--out tsv` means we will get a list with no decoration whatsoever - it's vital for programmatic handling of `az` command output.
 
 ### cut (again)
 
