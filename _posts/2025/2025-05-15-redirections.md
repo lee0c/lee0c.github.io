@@ -28,12 +28,7 @@ Ye all which it inherit, shall dissolve
 And, like this insubstantial pageant faded,
 Leave not a rack behind. We are such stuff
 As dreams are made on, and our little life
-Is rounded with a sleep. Sir, I am vex'd;
-Bear with my weakness; my, brain is troubled:
-Be not disturb'd with my infirmity:
-If you be pleased, retire into my cell
-And there repose: a turn or two I'll walk,
-To still my beating mind.
+Is rounded with a sleep.
 ```
 
 ## direct
@@ -45,10 +40,8 @@ grep "'d" tempest.md
 ```
 
 ```txt
-As if you were dismay'd: be cheerful, sir.
-The cloud-capp'd towers, the gorgeous palaces,
-Is rounded with a sleep. Sir, I am vex'd;
-Be not disturb'd with my infirmity:
+As if you were dismay**'d**: be cheerful, sir.
+The cloud-capp**'d** towers, the gorgeous palaces,
 ```
 
 ## redirect
@@ -62,8 +55,8 @@ grep "'d" - < tempest.md
 ```
 
 ```txt
-As if you were dismay'd: be cheerful, sir.
-...
+As if you were dismay**'d**: be cheerful, sir.
+The cloud-capp**'d** towers, the gorgeous palaces,
 ```
 
 ## re-redirect
@@ -75,8 +68,8 @@ grep "'d" - < <(cat tempest.md)
 ```
 
 ```txt
-As if you were dismay'd: be cheerful, sir.
-...
+As if you were dismay**'d**: be cheerful, sir.
+The cloud-capp**'d** towers, the gorgeous palaces,
 ```
 
 (In this case, you could substitute `cat tempest.md | grep "'d" -` but `<(command)` is handy for cases where commands don't take `stdin`, or need to take in multiple files (such as [`comm`](/azure-locations#comm))
@@ -92,8 +85,8 @@ grep "'d" < <(cat - < tempest.md)
 ```
 
 ```txt
-As if you were dismay'd: be cheerful, sir.
-...
+As if you were dismay**'d**: be cheerful, sir.
+The cloud-capp**'d** towers, the gorgeous palaces,
 ```
 
 ## conclusion
