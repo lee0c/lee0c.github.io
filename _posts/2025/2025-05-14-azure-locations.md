@@ -133,7 +133,7 @@ get_resources () {
 
   for module in "${modules[@]}"
   do
-    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
+    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
   done
 }
 ```
