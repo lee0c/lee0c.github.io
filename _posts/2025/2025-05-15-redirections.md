@@ -72,7 +72,7 @@ As if you were dismay'd: be cheerful, sir.
 The cloud-capp'd towers, the gorgeous palaces,
 ```
 
-(In this case, you could substitute `cat tempest.md | grep "'d" -` but `<(command)` is handy for cases where commands don't take `stdin`, or need to take in multiple files (such as [`comm`](/azure-locations#comm))
+(In this case, you could substitute `cat tempest.md | grep "'d" -` but `<(command)` is handy for cases where commands don't take `stdin`, or need to take in multiple files (such as [`comm`](/azure-locations#comm)).
 
 ## re-re-redirect
 
