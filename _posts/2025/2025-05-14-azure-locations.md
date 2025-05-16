@@ -19,9 +19,9 @@ Let's dig in. (Want just the outcome? Check the [summary](#summary).)
 
 ### bicep
 
-[Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep) is a language for describing Azure resources. A Bicep file sets out a set of resources with pre-set or parameterized properties and can be used to deploy the described Azure resources.
+[Bicep](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep) is a language for describing Azure resources. A Bicep file sets out a series of resources with preset or parameterized properties in order to deploy said resources.
 
-For example, a minimal Bicep file that creates a resource group might look like this:
+A minimal Bicep file that creates a resource group might look like this:
 
 ```bicep
 param resourceGroupName string = 'myResourceGroup'
@@ -43,7 +43,7 @@ When working with large deployments, certain resources may be needed more than o
 
 Let's say this is our file structure. Ignore the lack of parameter files or READMEs, this is just an example.
 
-```sh
+```txt
 .
 |--infra
    |--env
@@ -235,7 +235,7 @@ mapfile -t locations < <(comm -12 \
   <(for location in "${newLocations[@]}"; do echo "$location"; done) ) 
 ```
 
-`comm` also likes newline-delimited lists, so we're looping through again.
+`comm` also likes newline-delimited input, so we're again looping through the array rather than echoing all values at once.
 
 ### catching errors
 
