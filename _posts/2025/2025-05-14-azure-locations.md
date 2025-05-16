@@ -11,7 +11,7 @@ tags:
 
 ## context
 
-Azure is Microsoft's cloud offering. Each possible resource that can be deployed in Azure has  a location it's deployed in, such as "East US" or "Italy." While some resources can be deployed in all locations, other resources have location constraints.
+Azure is Microsoft's cloud offering. Each possible resource that can be deployed in Azure has a location it's deployed in, such as "East US" or "Italy." While some resources can be deployed in all locations, other resources have location constraints.
 
 It's common, when deploying, to have a whole ecosystem of resources that will work together. However, this introduces a problem: which locations work for all resources in a deployment?
 
