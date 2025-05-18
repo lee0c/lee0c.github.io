@@ -46,7 +46,7 @@ The cloud-capp'd towers, the gorgeous palaces,
 
 ## redirect
 
-If there's no files, or if `-` is passed as an argument, `grep` reads from standard input. `<` reads a file into standard input. (this is shorthand for `0<`, `0` being the file descriptor of `stdin`)
+If there's no files, or if `-` is passed as an argument, `grep` reads from standard input. `<` reads a file into standard input (this is shorthand for `0<`, `0` being the file descriptor of `stdin`).
 
 ```sh
 grep "'d" < tempest.md
