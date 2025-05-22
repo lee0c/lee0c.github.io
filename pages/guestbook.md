@@ -18,6 +18,9 @@ yeah, i wish i could make this support dark mode too :(
 
 ## read
 
+J'myle Koretz on <time datetime="2025-05-21">21 May 2025</time>:
+> It was delightful to meet you at the Vashon art walk a couple weekends back. Kestrel was awesome, and your [Brooke's] jackets were so cool!
+
 Jack on <time datetime="2024-12-01">1 December 2024</time>:
 > All the things you make and do are so cool and I feel so lucky every time I get to see them (including the ones that now live in my home!)
 
