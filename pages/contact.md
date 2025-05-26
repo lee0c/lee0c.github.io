@@ -47,7 +47,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
     <dd><a href="https://artisans.coop/pages/seller-profiles/riverside-refuge-studio" target="_blank">Riverside Refuge Studio</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-store"></i> faire (wholesale)</dt>
     <dd><a href="https://faire.com/direct/riversiderefugestudio" target="_blank">Riverside Refuge Studio</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (now the home of <a href="httos://fedizinefest.glitch.me">FediZineFest 2025</a> and <a href="https://rescue-trans-rescue.glitch.me" target="_blank">Rescue Trans Rescue</a>)</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (now the home of <a href="httos://fedizinefest.fyi">FediZineFest 2025</a> and <a href="https://rescue-trans-rescue.glitch.me" target="_blank">Rescue Trans Rescue</a>)</dt>
     <dd><a href="https://ko-fi.com/inherentlee" target="_blank">inherentlee</a></dd>
 </dl>
 
