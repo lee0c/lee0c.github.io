@@ -11,7 +11,7 @@ tags:
 
 ## abbreviations
 
-|     |     |
+| abbr | term |
 | --- | --- |
 | **MC** | main color (light in swatch shown) |
 | **CC** | contrast color (dark in swatch shown) |
@@ -36,7 +36,7 @@ when you pick up a float, you want it to sit **in front of the worked stitch, an
 
 knit flat, the pattern repeat uses 6n + 1 stitches. In the swatch shown, I cast on 29 stitches - 2 on each side for selvedge, then 25 -- 6 \* 4 + 1. To simplify things, I'll write the pattern for the swatch, selvedge and all - but please adapt as you see fit.
 
-with MC cast on 29 stitches.
+with MC, cast on 29 stitches.
 
 ### establish the pattern
 
@@ -72,7 +72,7 @@ with MC cast on 29 stitches.
     - [with CC, k1 and leave working yarn on RS; with MC, p5] \* 4, then with CC, k1 and bring working yarn back to WS
     - with MC, p1, sl1 wyif
 
-### closing the pattern
+### close the pattern
 
 end after rows 5 or 9 of the pattern repeat. replace row 6 or 10 with the following:
 
@@ -88,4 +88,50 @@ end after rows 5 or 9 of the pattern repeat. replace row 6 or 10 with the follow
 to end my swatch, I did the following:
 
 - **row (WS):** k1, purl to last stitch, sl1 wyif
-- **row (RS):** bind off 
+- **row (RS):** bind off
+
+## knit in the round
+
+### cast on
+
+with MC, cast on a multiple of 6 stitches. knit in plain stockinette until you are ready to start the pattern.
+
+### establish the pattern
+
+- **row 1:**
+    - [with CC, k1; with MC, k5] repeat to last 6 stitches
+    - with CC, k1 and leave working yarn on RS; with MC, k5
+- **row 2:**
+    - [with CC, p1 and leave working yarn on RS; with MC, k5] repeat to last 6 stitches
+    - with CC, p1 and move working yarn to WS; with MC, k5
+
+### pattern repeat
+
+- **rows 3-4:** with MC, knit all stitches
+- **row 5:**
+    - with MC, k3
+    - [with CC, k1 into the float from 3 rows below; with MC, k5] repeat to last 3 stitches
+    - with CC, k1 and leave working yarn on RS; with MC, k2
+- **row 6:**
+    - with MC, k3
+    - [with CC, p1 and leave working yarn on RS; with MC, k5] repeat to last 3 stitches
+    - with CC, p1 and moving working yarn to WS; with MC, k2
+- **rows 7-8:** repeat rows 3-4
+- **row 9:**
+    - [with CC, k1 into the float from 3 rows below; with MC, k5] repeat to last 6 stitches
+    - with CC, k1 into the float from 3 rows below and leave working yarn on RS; with MC, k5
+- **rows 10:**
+    - [with CC, p1 and leave working yarn on RS; with MC, k5] repeat to last 6 stitches
+    - with CC, p1 and move working yarn to WS; with MC, k5
+
+### close the pattern
+
+end after rows 5 or 9 of the pattern repeat. replace row 6 or 10 with the following:
+
+- **row 6 alteration:**
+    - with MC, k3
+    - [with CC, p1; with MC, k5] repeat to last 3 stitches
+    - with CC, p1; with MC, k2
+- **row 10 alteration:** [with CC, p1; with MC, k5] repeat for all stitches
+
+with MC, knit in plain stockinette until you want to bind off, then bind off.
