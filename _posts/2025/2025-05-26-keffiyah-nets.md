@@ -11,6 +11,8 @@ tags:
 
 ## give
 
+this pattern is offered at no cost, but I highly encourage giving to Palestinian relief work.
+
 - [Palestine Children's Relief Fun](https://www.pcrf.net){:target="_blank"}
 
 ## abbreviations
