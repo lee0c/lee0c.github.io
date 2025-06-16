@@ -93,7 +93,8 @@ end after rows 5 or 9 of the pattern repeat. replace row 6 or 10 with the follow
 
 to end my swatch, I did the following:
 
-- **row (WS):** k1, purl to last stitch, sl1 wyif
+- **row (RS):** with MC, knit to last stitch, sl1 wyif
+- **row (WS):** with MC, k1, purl to last stitch, sl1 wyif
 - **row (RS):** bind off
 
 ## knit in the round
