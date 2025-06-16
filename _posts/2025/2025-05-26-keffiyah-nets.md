@@ -50,7 +50,7 @@ with MC, cast on 29 stitches.
 - **row 1 (RS):**
     - with MC, k2
     - [with CC, k1; with MC, k5] \* 4, then with CC, k1
-    - with MC, k2
+    - with MC, k1, sl1 wyif
 - **row 2 (WS):**
     - with MC, k1, p1
     - [with CC, k1 and leave working yarn on RS; with MC, p5] \* 4, then with CC, k1 and bring working yarn back to WS
@@ -63,7 +63,7 @@ with MC, cast on 29 stitches.
 - **row 5 (RS):**
     - with MC, k5
     - [with CC, k1 into the float from 3 rows below; with MC, k5] \* 4
-    - with MC, k5
+    - with MC, k4, sl1 wyif
 - **row 6 (RS):**
     - with MC, k1, p4
     - [with CC, k1 and leave working yarn on RS; with MC, p5] \* 4 -- on the last repeat, move working yarn back to WS before purling
@@ -72,7 +72,7 @@ with MC, cast on 29 stitches.
 - **row 9 (RS):**
     - with MC, k2
     - [with CC, k1 into the float from 3 rows below; with MC, k5] \* 4, then with CC, k1
-    - with MC, k2
+    - with MC, k1, sl1 wyif
 - **row 10 (WS):**
     - with MC, k1, p1
     - [with CC, k1 and leave working yarn on RS; with MC, p5] \* 4, then with CC, k1 and bring working yarn back to WS
