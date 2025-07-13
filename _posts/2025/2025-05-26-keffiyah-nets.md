@@ -95,7 +95,7 @@ to end my swatch, I did the following:
 
 - **row (RS):** with MC, knit to last stitch, sl1 wyif
 - **row (WS):** with MC, k1, purl to last stitch, sl1 wyif
-- **row (RS):** bind off
+- **row (RS):** with MC, bind off
 
 ## knit in the round
 
