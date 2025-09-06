@@ -8,6 +8,7 @@ image:
 tags:
     - card
     - print
+    - highlight
 ---
 
 Original print greeting cards.

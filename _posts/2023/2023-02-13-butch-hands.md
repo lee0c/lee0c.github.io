@@ -7,6 +7,7 @@ image:
     alt: "Hands wearing a pair of pink and grey gloves with convertable mitten tops."
 tags:
     - knit
+    - highlight
 ---
 
 This pattern is a **Work in Progress** and will be updated with more information as I make a second pair of these.

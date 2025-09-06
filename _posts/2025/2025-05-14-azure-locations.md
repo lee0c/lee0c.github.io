@@ -7,6 +7,7 @@ image:
     alt: "A Linux terminal. There is a fun rainbow flag in ascii art at the top, and then the user has called a command asking Azure for a list of resources applicable to a specific resource type"
 tags:
     - software
+    - highlight
 ---
 
 ## context

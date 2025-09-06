@@ -8,4 +8,5 @@ image:
 tags:
     - print
     - zine
+    - highlight
 ---

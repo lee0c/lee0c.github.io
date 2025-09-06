@@ -7,6 +7,7 @@ image:
     alt: "A leather pouch shaped a bit like a d10 but with eight sides. It has a rainbow zippered opening and a wristlet strap."
 tags:
     - leather
+    - highlight
 ---
 
 he's just a lil guy

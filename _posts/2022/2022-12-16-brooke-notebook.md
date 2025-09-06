@@ -7,6 +7,7 @@ image:
     alt: 'A six panel collage showing the covers, endpapers, and some of the pages of a notebook.'
 tags:
     - book
+    - highlight
 ---
 
 A collage book full of different paper, art, and more.
