@@ -4,11 +4,14 @@ title: tags
 permalink: /tags
 ---
 
-list of all existing tags
+[my current favorite pages.](tag/highlight)
+
+list of all existing tags:
 
 - [book](tag/book)
 - [card](tag/card)
 - [gender](tag/gender)
+- [highlight](tag/highlight)
 - [knit](tag/knit)
 - [leather](tag/leather)
 - [lettering](tag/lettering)
