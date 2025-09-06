@@ -4,8 +4,6 @@ title: tags
 permalink: /tags
 ---
 
-[my current favorite pages.](tag/highlight)
-
 list of all existing tags:
 
 - [book](tag/book)
