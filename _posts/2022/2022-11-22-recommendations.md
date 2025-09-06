@@ -5,6 +5,8 @@ category: reference
 image:
     name: metal-curl.jpg
     alt: 'Photo unrelated to content of post. A metal sculpture rises up and curls into itself, with similar sculptures around it. Looking through the very center of the curve, an any-gender bathroom sign is visible.'
+tags:
+    - highlight 
 ---
 
 ## Articles
@@ -23,11 +25,15 @@ image:
 
 ## Comics
 
-- [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe
+- [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe 
 
 ## Short fiction
 
-- [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/){:target="_blank"} by Isabel J. Kim 
+- [Why Don't We Just Kill the Kid in the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/){:target="_blank"} by Isabel J. Kim
+
+## Social media threads
+
+- [It's 2026 and you wonder what your friends are up to.](https://retro.social/@ifixcoinops/113838462085835742){:target="_blank"} by [@ifixcoinops@retro.social](https://retro.social/@ifixcoinops){:target="_blank"}
 
 ## Videos
 
