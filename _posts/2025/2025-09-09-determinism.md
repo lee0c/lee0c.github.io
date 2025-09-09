@@ -17,11 +17,11 @@ Determinism, in computer science, is a property of a system such that any execut
 
 As we've built further layers of abstraction on abstraction, we've created deterministic systems such that a higher layer of abstraction is accurately transliterated to a lower layer and so on down. The lower layers still exist, but not a lot of people work directly with them anymore.
 
-It's been told to me that AI is a new layer of abstraction on top of prior layers. As we once wrote machine code before moving to FORTRAN, we now move to this new paradigm.
+It's been told to me that generative AI is a new layer of abstraction on top of prior layers. As we once wrote machine code before moving to FORTRAN, we now move to this new paradigm.
 
 If this is the case, where's our determinism?
 
-AI is probabilistic in nature. It doesn't produce a factual, static answer, but rather creates something that *sounds* like an answer - and that soundbite (soundbyte?) is different every time. It'll have patterns, of course, but it's not a 1:1 mapping of input → output. Randomness is inherent in the system.
+Generative AI is probabilistic in nature. It doesn't produce a factual, static answer, but rather creates something that *sounds* like an answer - and that soundbite (soundbyte?) is different every time. It'll have patterns, of course, but it's not a 1:1 mapping of input → output. Randomness is inherent in the system.
 
 ---
 
