@@ -28,3 +28,7 @@ the corners should be stitched before lacing in order to get into tight spaces e
 ## consider v2
 
 even if you won't be making one, what would you do differently? Where does your design fail? Where does it *succeed?*
+
+## take notes
+
+easier said than done.
