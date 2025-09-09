@@ -15,7 +15,7 @@ the first step in any design is small tests. For leatherwork, this usually means
 
 ## build up from basic facts
 
-my grommets, laid out on paper, spaced out cleanly at 1/2" away from edges and 1" apart. My tablet is ~11"x8". I started with these facts.
+my grommets, laid out on paper, spaced out cleanly at 1/2" away from edges and 1" apart. My tablet is ~10"x8". I started with these facts.
 
 ## template, template, template
 
