@@ -1,6 +1,6 @@
 ---
 layout: post
-title: designing a bag: lessons and thoughts
+title: designing a bag - lessons and thoughts
 category: reference
 image:
     name: shoelace-bag.jpg
