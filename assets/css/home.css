@@ -1,6 +1,6 @@
 .featured-post {
 	display: flex;
-	gap: 20px;
+	gap: .5rem;
 	margin: 1rem 0 auto;
 	border: 1px solid var(--color-font);
 	border-radius: 5px;
