@@ -146,9 +146,11 @@ dd {
   Links
 */
 a {
-	color: var(--color-primary);
+	color: var(--color-bg);
+	background-color: var(--color-primary);
 	border-radius: 5px;
 	margin: 0 2px; /* This stops the focus outlining from overlapping surrounding words */
+	padding: 1px 3px;
 }
 
 @media (hover: hover) {
