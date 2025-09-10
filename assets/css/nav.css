@@ -18,6 +18,12 @@
 	border: none;
 	cursor: pointer;
 }
+
+.site-header a {
+	color: var(--color-primary);
+	background-color: var(--color-bg);
+}
+
 #site-title {
 	font-size: 2rem;
 	margin: 12px 1rem 0;
