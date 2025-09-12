@@ -4,6 +4,8 @@ title: resume
 permalink: /resume
 ---
 
+---
+
 <h2 class="centered upper">Lee Cattarin</h2>
 
 <p class="centered">
