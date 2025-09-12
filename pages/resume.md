@@ -45,7 +45,7 @@ Design-oriented platforms/infrastructure engineer with a well-rounded background
 <p class="col2"><time datetime="2018-08">August 2018</time> – <time datetime="2025-07">July 2025</time></p>
 </div>
 
-<h4 class="job-title">Software Development Engineer I & II</h4>
+<h4>Software Development Engineer I & II</h4>
 
 <p>
 Worked on green- and brown-field projects with customers, solving emerging problems in infrastructure, devOps, and LLM/human interaction. Wrote reports on product feedback to relay to product teams and improved documentation.
@@ -70,7 +70,7 @@ Worked on green- and brown-field projects with customers, solving emerging probl
 <p class="col2"><time datetime="2023-10">October 2023</time> – Present</p>
 </div>
 
-<h4 class="job-title">Co-owner and artist</h4>
+<h4>Co-owner and artist</h4>
 
 <p>
 Maintains website, storefront, and inventory for a diverse set of artistic good. Communicates with a range of customers, both digitally and in-person.
@@ -92,7 +92,7 @@ Maintains website, storefront, and inventory for a diverse set of artistic good.
 <p class="col2"><time datetime="2015-09">September 2015</time> – <time datetime="2017-12">December 2017</time></p>
 </div>
 
-<h4 class="job-title">Undergraduate Programming Mentor</h4>
+<h4>Undergraduate Programming Mentor</h4>
 
 <p>
 Helped students debug and develop in Python and learn core programming concepts. Created daily quiz material and graded exams.
@@ -102,14 +102,12 @@ Helped students debug and develop in Python and learn core programming concepts.
 <div class="spacer"></div>
 
 <div class="job">
-
 <div class="two-col job-details">
 <p><b>Microsoft,</b> Redmond, WA</p>
 <p class="col2"><time datetime="2017-06">June 2017</time> – <time datetime="2017-08">August 2017</time></p>
 </div>
 
-<h4 class="job-title">Software Development Engineering Intern</h4>
-
+<h4>Software Development Engineering Intern</h4>
 <p>
 Developed a chatbot add-on for the Azure Android application.
 </p>
@@ -120,8 +118,7 @@ Developed a chatbot add-on for the Azure Android application.
 <h3 class="centered upper">Projects</h3>
 
 <div class="job">
-
-<div class="two-col">
+<div class="two-col job-details">
 <h4>FediZineFest (<a href="https://fedizinefest.fyi">fedizinefest.fyi</a>)</h4>
 <p class="col2"><time datetime="2023-12">December 2023</time> – Present</p>
 </div>
@@ -132,11 +129,11 @@ Developed a chatbot add-on for the Azure Android application.
 <div class="spacer"></div>
 
 <div class="job">
-
-<div class="two-col">
+<div class="two-col job-details">
 <h4>Rescue Trans Rescue</h4>
 <p class="col2"><time datetime="2024">2024</time></p>
 </div>
+
 <p>Created a digital art exhibit and sale to raise money for charity. Coordinated ~30 artists to contribute physical and digital work as well as a collaborative sticker sheet. Raised ~2.3k for Trans Rescue.</p>
 </div>
 

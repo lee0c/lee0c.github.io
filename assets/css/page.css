@@ -46,6 +46,16 @@
     }
 }
 
+.two-col {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.col2 {
+    text-align: right;
+}
+
 /* Resume page only! */
 
 .centered {
@@ -61,26 +71,15 @@
     border-top: solid var(--color-primary);
 }
 
-.job-title {
-    font-weight: bold;
-    margin-top: 0;
-}
-
-.two-col {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-}
-
-.col2 {
-    text-align: right;
-}
-
 .job-details p {
     margin: 0;
 }
 
-.job p,
-.job h4 {
+.job p {
     margin-top: 0;
+}
+
+.job h4 {
+    margin: 0;
+    line-height: 1.65;
 }
