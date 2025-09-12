@@ -20,8 +20,15 @@
 }
 
 .site-header a {
-	color: var(--color-primary);
 	background-color: var(--color-bg);
+	color: var(--color-primary);
+}
+
+@media (hover: hover) {
+	.site-header a:hover {
+		background-color: var(--color-primary);
+		color: var(--color-bg);
+	}
 }
 
 #site-title {
