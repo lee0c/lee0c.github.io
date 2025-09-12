@@ -73,7 +73,7 @@ Worked on green- and brown-field projects with customers, solving emerging probl
 <h4>Co-owner and artist</h4>
 
 <p>
-Maintains website, storefront, and inventory for a diverse set of artistic good. Communicates with a range of customers, both digitally and in-person.
+Maintains website, storefront, and inventory for a diverse set of artistic goods. Communicates with a range of customers, both digitally and in-person.
 </p>
 
 <ul>
