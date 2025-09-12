@@ -4,7 +4,7 @@ title: resume
 permalink: /resume
 ---
 
-[pdf version](assets/pdf/resume.pdf)
+[view the pdf version](assets/pdf/resume.pdf) - there may be small discrepancies in wording between versions
 
 ---
 
