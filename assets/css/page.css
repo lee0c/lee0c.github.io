@@ -45,3 +45,42 @@
         max-width: 95vw;
     }
 }
+
+/* Resume page only! */
+
+.centered {
+    text-align: center;
+}
+
+.upper {
+    text-transform: uppercase;
+}
+
+.spacer {
+    height: 1rem;
+    border-top: solid var(--color-primary);
+}
+
+.job-title {
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.two-col {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.col2 {
+    text-align: right;
+}
+
+.job-details p {
+    margin: 0;
+}
+
+.job p,
+.job h4 {
+    margin-top: 0;
+}

@@ -249,6 +249,11 @@ time {
 	color: var(--color-grey);
 }
 
+hr {
+	color: var(--color-primary);
+	border: thick solid var(--color-primary);
+}
+
 /*
 Site container
 */
