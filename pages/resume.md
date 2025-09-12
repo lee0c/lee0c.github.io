@@ -90,7 +90,7 @@ Maintains website, storefront, and inventory for a diverse set of artistic goods
 <div class="job">
 
 <div class="two-col job-details">
-<p><b>Rensselaer,</b> Troy, NY</p>
+<p><b>Rensselaer Polytechnic Institute,</b> Troy, NY</p>
 <p class="col2"><time datetime="2015-09">September 2015</time> – <time datetime="2017-12">December 2017</time></p>
 </div>
 
