@@ -18,17 +18,18 @@ layout: default
     {{ content }}
   </article>
   <hr>
+  <div class="two-col">
   <p>
     category: <a href="{{ page.category }}">{{ page.category }}</a>
   </p>
   {% if page.tags.size > 0 %}
-    <hr>
-    <p>
+    <p class="col2">
       see more
     {% for tag in page.tags %}
       <a href="tag/{{ tag }}">{{ tag }}</a>
     {% endfor %}
     </p>
   {% endif %}
+  </div>
   <hr>
 </div>
