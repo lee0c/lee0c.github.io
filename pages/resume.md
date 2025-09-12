@@ -33,7 +33,7 @@ Design-oriented platforms/infrastructure engineer with a well-rounded background
 <li>GitHub Actions and other pipelines</li>
 <li>HTML/CSS, Javascript, and UI/UX design</li>
 <li>Languages like Go, C, and Python</li>
-<li>Accessiblity knowldge and thoughtful design</li>
+<li>Accessiblity knowledge and thoughtful design</li>
 </ul>
 
 ---
