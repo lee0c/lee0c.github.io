@@ -4,6 +4,8 @@ title: resume
 permalink: /resume
 ---
 
+[pdf version](assets/pdf/resume.pdf)
+
 ---
 
 <h2 class="centered upper">Lee Cattarin</h2>
