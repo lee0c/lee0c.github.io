@@ -55,7 +55,7 @@ Worked on green- and brown-field projects with customers, solving emerging probl
 
 <ul>
 <li>Contributed UI/UX and algorithm design to a new human-in-the-loop approach to LLM form automation, ensuring both that content was effectively reviewed and that auditing was smooth.</li>
-<li>Deployed and configured Kubernetes for many scenarios, handling monitoring and observability, scaling, traffic routing, security and policy, Windows container support, KEDA implementation and usage, and more.</li>
+<li>Deployed and configured Kubernetes for many scenarios, handling monitoring and observability, scaling, traffic routing, security and policy, Windows container support, and more.</li>
 <li>Maintained team working agreements to ensure team unity and consistency. Shaped team processes and documentation to improve clarity and speed up onboarding.</li>
 <li>Improved Azure and open source documentation with new, updated, and corrected information.</li>
 <li>Coached multiple learning-oriented hackathons to ensure broader community understanding and adoption of Azure services.</li>
