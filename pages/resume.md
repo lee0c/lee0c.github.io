@@ -13,7 +13,7 @@ permalink: /resume
 <p class="centered">
 he/him or ze/hir • Vashon, WA 98070
 <br/>
-<a href="mailto:lee.cattarin@gmail.com">lee.cattarin@gmail.com</a> • <a href="/">leecat.art</a> • <a href="https://linkedin.com/in/lee-cattarin" target="_blank">linkedin.com/lee-cattarin</a>
+<a href="mailto:lee.cattarin@gmail.com">lee.cattarin@gmail.com</a> • <a href="/">leecat.art</a> • <a href="https://linkedin.com/in/lee-cattarin" target="_blank">linkedin.com/in/lee-cattarin</a>
 </p>
 
 <h3 class="centered upper">Platforms Engineer</h3>
