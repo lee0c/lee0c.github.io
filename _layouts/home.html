@@ -5,11 +5,31 @@ title: home
 
 <h1>home</h1>
 
-<p>if you'd like to browse by topic, check out the <a href="/tags">tags list</a>. to see some of my current favorite projects, check out the <a href="/tag/highlight">highlights tag</a>.</p>
+<p>to see some of my current favorite projects, check out the <a href="/tag/highlight">highlights tag</a>.</p>
 
 {% for post in paginator.posts %}
   {% include featured-post.html %}
 {% endfor %}
+
+<br/>
+
+<p><b>all tags:</b>
+  <a href="/tag/book">book</a>
+  <a href="/tag/card">card</a>
+  <a href="/tag/gender">gender</a>
+  <a href="/tag/highlight">highlight</a>
+  <a href="/tag/knit">knit</a>
+  <a href="/tag/leather">leather</a>
+  <a href="/tag/lettering">lettering</a>
+  <a href="/tag/patch">patch</a>
+  <a href="/tag/pin">pin</a>
+  <a href="/tag/print">print</a>
+  <a href="/tag/shirt">shirt</a>
+  <a href="/tag/software">software</a>
+  <a href="/tag/sticker">sticker</a>
+  <a href="/tag/yarn">yarn</a>
+  <a href="/tag/zine">zine</a>
+</p>
 
 <!-- Pagination links -->
 <div class="pagination">

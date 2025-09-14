@@ -12,12 +12,25 @@
 .site-header button {
 	text-decoration: none;
 	border-radius: 1rem;
-	margin: auto auto;
+	margin: auto 2px;
 	padding: 0 .6rem;
 	font-size: 1.2rem;
 	border: none;
 	cursor: pointer;
 }
+
+.site-header a {
+	background-color: var(--color-bg);
+	color: var(--color-primary);
+}
+
+@media (hover: hover) {
+	.site-header a:hover {
+		background-color: var(--color-primary);
+		color: var(--color-bg);
+	}
+}
+
 #site-title {
 	font-size: 2rem;
 	margin: 12px 1rem 0;

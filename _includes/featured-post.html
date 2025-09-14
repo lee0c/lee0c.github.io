@@ -1,8 +1,17 @@
 <article>
-  <a class="featured-post"
-     href="{{ site.github.url }}{{ post.url }}"
-     aria-label="{{ post.title }}. header image: {{ post.image.alt }}"
-     {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.name }})"{% endif %}>
+  <div class="featured-post">
+    <a class="featured-title"
+      href="{{ site.github.url }}{{ post.url }}"
+      aria-label="{{ post.title }}. header image: {{ post.image.alt }}"
+      {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image.name }})"{% endif %}>
     <h2>{{ post.title }}</h2>
   </a>
+  <div class="featured-tags">
+    <p>
+      {% for tag in post.tags %}
+        <a href="tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    </p>
+  </div>
+  </div>
 </article>
