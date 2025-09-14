@@ -13,6 +13,14 @@ tags:
 
 ---
 
+update: in [gender census' 2025 report](https://www.gendercensus.com/results/2025-worldwide/#identity-words){:target="_blank"} the numbers continue to be very similar, sitting at about 62% and 30% respectively.
+
+---
+
+in 2024, ~60% of respondents use "nonbinary." ~29% use "enby."
+
+---
+
 according to [gender census](https://www.gendercensus.com){:target="_blank"}, which surveys "people whose genders are not adequately described, expressed or encompassed by the restrictive gender binary":
 
 - ~64% of respondents use the term "nonbinary"
