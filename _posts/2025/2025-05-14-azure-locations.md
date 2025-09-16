@@ -228,7 +228,7 @@ Okay, we can get locations. How do we handle finding their intersection?
 
 `comm` to the rescue. It finds **comm**on lines between two *sorted* files. Its default output is three columns - lines only in file 1, lines only in file 2, and lines common to both. We can suppress the first two columns with `-12`.
 
-`comm` expects files, so we'll reuse our redirection `< <(someCommand)` from earlier.
+`comm` expects files, so we'll reuse our redirection `<(someCommand)` from earlier.
 
 ```sh
 mapfile -t locations < <(comm -12 \
