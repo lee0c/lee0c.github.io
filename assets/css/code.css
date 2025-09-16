@@ -79,8 +79,8 @@ pre {
 	color: var(--color-font);
 }
 code {
-	padding: .25em .5em;
-	font-size: .8rem;
+	padding: .25em .25em;
+	font-size: .85rem;
 	border-radius: 3px;
 }
 pre {
