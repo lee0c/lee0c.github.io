@@ -22,12 +22,22 @@ We have a dog...
 
 ![2 pictures that show all six ducks, each duck labeled with their name. In the first image, Sparrow (Golden 300, a light brown breed that looks similar to female mallards) and Puffin (Swedish Black, black with a white bib and beautiful iridescence) come up to eat from my hand. In the second image, Chickadee (Magpie, black and white splotched) is up front looking to one side, and behind her are Dodo (Silver Runner, white and grey), Emu (Fawn & White Runner, white and pale tan), and Kiwi (Chocolate Runner, dark brown all over), with Sparrow and Puffin partially visible behind.](assets/img/duckies.png)
 
-## webring
+## webrings
 
-This site is a member of the [CSS Joy webring](https://cs.sjoy.lol/){:target="_blank"}. Navigate through the webring:
+this site is a member of:
+
+- the [CSS Joy webring](https://cs.sjoy.lol/){:target="_blank"}. Navigate through the webring:
 
 <div style="display: flex; justify-content: center; margin-bottom: 2rem;">
     <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/previous?via=https://leecat.art" target="_blank">&lt; prev</a>|
     <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/random?via=https://leecat.art" target="_blank">rand</a>|
     <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/next?via=https://leecat.art" target="_blank">next &gt;</a>
+</div>
+
+- the [No AI webring](https://baccyflap.com/noai/){:target="_blank"}. Navigate through the webring:
+
+<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
+    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?prv&s=lee" target="_blank">&lt; prev</a>|
+    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?rnd" target="_blank">rand</a>|
+    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?nxt&s=lee" target="_blank">next &gt;</a>
 </div>
