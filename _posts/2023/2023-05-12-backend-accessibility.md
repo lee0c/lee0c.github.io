@@ -15,7 +15,7 @@ Backend developers still have users: other developers. We're all human, with hum
 
 ## Documentation
 
-The first thing you can do: document. By this I don't just mean standalone text documentation; I also include code comments, clear variable and file naming (more on this later), and pipeline or script outputs that report success or failure *and give details*.
+The first thing you can do: document. By this I don't just mean standalone text documentation; I also include code comments, clear variable and file naming, and pipeline or script outputs that report success or failure *and give details*.
 
 ## Rely on standards
 
@@ -27,7 +27,7 @@ Rely on existing standards where possible. Style guides, spell checkers, linters
 
 - Abbreviations/initialisms: can stall anyone unfamiliar with them. Spell them out when they're first introduced, and add the abbreviation in parentheses.
 - Jargon: avoid it as much as possible. Keep a friendly tone.
-- Neologisms: tech loves em! Often compound words or portmanteaus. For compound words (or, at times, hashtags), use camelCase or another style that distinguishes between words. This helps visually as well as improving screen reader pronunciation.
+- Neologisms: tech loves em! Often compound words or portmanteaus. For compound words (or, at times, hashtags), use camelCase or another style that distinguishes between words. This helps visually as well as improving screen reader pronunciation. 
 
 ### I want to quickly scan a page for the information I need
 
@@ -51,6 +51,8 @@ A table of contents can be helpful for a broad set of users, from the power user
 
 Alt text/image descriptions for image and transcription/audio descriptions for videos are essential (and not just for screen readers - they're really useful if you've got poor internet connection). The references section of this document will link to  more information on writing good alt text, but in general, focus on why the image/video is there and what it is conveying.
 
+(If you find you are simply transcribing text in an image, remove the image unless it conveys additional detail - images showing text intended to be read are less user-friendly than the same content conveyed as text. If the text is purely decorative and not intended to be read, carry on - just make sure you *don't* transcribe it since it's not meaningful!)
+
 I find this comes up the most in backend as *diagrams*. We love diagrams in place of words! Unfortunately, you'll want those words for some users eventually. Avoid alt text like "diagram of components" or "flow chart showing pipeline" - either write out a more direct explanation that mentions all entities contained in the diagram, or direct the reader to a section of text that covers the same content (e.g. "flow chart of the pipeline described below"). If you're writing a direct explanation, don't feel the need to describe each shape or arrow - focus on describing the relationships and entities those shapes and arrows represent.
 
 ## todo notes
@@ -59,21 +61,25 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 
 - tabs vs spaces (prefer tabs - allows each developer to customize based on eyesight and personal preference)
 - don't use color alone to convey meaning
-- no images of text!!!
 - autocorrects and confirmation prompts
 
 ## References
 
 - [Accessibility guidelines and requirements — Microsoft style guide](https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements){:target="_blank"}
 - [Write accessible documentation — Google docs style guide](https://developers.google.com/style/accessibility){:target="_blank"}
-- [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546){:target="_blank"}
-- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"}
-- [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"}
 - [Is it accessible? — Adrian Roselli](https://adrianroselli.com/2024/08/things-to-do-before-asking-is-this-accessible.html){:target="_blank"}
 - [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/){:target="_blank"}
-- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
-- [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
+- [A11y Coffee](https://a11y.coffee/start-testing/){:target="_blank"} [note: spell out 'accessibility' rather than shortening to 'a11y'!]
+
+### Alt text/image descriptions
+
+- [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546){:target="_blank"}
+- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"} 
 - [An attempted guide to writing effective alt and descriptive text for art](https://mannequinrentals.help/2024/03/21/an-attempted-guide-to-writing-effective-alt-and-descriptive-text-for-art/){:target="_blank"}
+- [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"}  
+- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
+
+### Other specific topics
+
+- [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
 - [Accessible Numbers](https://accessiblenumbers.com){:target="_blank"}
-
-
