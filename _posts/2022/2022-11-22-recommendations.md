@@ -23,6 +23,10 @@ tags:
 - [Stone Butch Blues](https://www.lesliefeinberg.net/){:target="_blank"} by Leslie Feinberg
 - [Whipping Girl](https://bookshop.org/p/books/whipping-girl-lib-e-a-transsexual-woman-on-sexism-and-the-scapegoating-of-femininity-julia-serano/12413169){:target="_blank"} by Julia Serano
 
+## Comedy
+
+- [Douglas](https://www.netflix.com/title/81054700){:target="_blank"} by Hannah Gadsby
+
 ## Comics
 
 - [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe 
