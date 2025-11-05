@@ -69,17 +69,18 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 - [Write accessible documentation — Google docs style guide](https://developers.google.com/style/accessibility){:target="_blank"}
 - [Is it accessible? — Adrian Roselli](https://adrianroselli.com/2024/08/things-to-do-before-asking-is-this-accessible.html){:target="_blank"}
 - [Collected accessibility resources — Marco Salsiccia](https://marconius.com/a11yLinks/){:target="_blank"}
-- [A11y Coffee](https://a11y.coffee/start-testing/){:target="_blank"} [note: spell out 'accessibility' rather than shortening to 'a11y'!]
+- [A11y coffee](https://a11y.coffee/start-testing/){:target="_blank"} [note: spell out 'accessibility' rather than shortening to 'a11y'!]
 
 ### Alt text/image descriptions
 
 - [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546){:target="_blank"}
 - [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"} 
 - [An attempted guide to writing effective alt and descriptive text for art](https://mannequinrentals.help/2024/03/21/an-attempted-guide-to-writing-effective-alt-and-descriptive-text-for-art/){:target="_blank"}
-- [Alt Text as Poetry](https://alt-text-as-poetry.net/){:target="_blank"}  
-- [Writing Alt Text for a Scientific Figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
+- [Alt text as poetry](https://alt-text-as-poetry.net/){:target="_blank"}  
+- [Writing alt text for a scientific figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
+- [My approach to alt text - Adrian Roselli](https://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
 
 ### Other specific topics
 
-- [Tabs vs. Spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
-- [Accessible Numbers](https://accessiblenumbers.com){:target="_blank"}
+- [Tabs vs. spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
+- [Accessible numbers](https://accessiblenumbers.com){:target="_blank"}
