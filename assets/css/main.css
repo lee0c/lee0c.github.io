@@ -1,12 +1,15 @@
 :root {
+	color-scheme: light dark;
+	
 	--font-family: 'Atkinson Hyperlegible', sans-serif;
 	--font-family-code: 'Source Code Pro', monospace;
 	--color-dark: #2e303e;
-	--color-primary-dark: #18737b;
-	--color-primary-light: #25b0bc;
-	--color-accent-dark: #94195d;
-	--color-accent-light: #ee9fcb;
+	--color-teal-dark: #18737b;
+	--color-teal-light: #25b0bc;
+	--color-pink-dark: #94195d;
+	--color-pink-light: #ee9fcb;
 	--color-light: #ebeeef;
+
 	--height-header: 56px;
 	--height-header-offset: calc(var(--height-header) + 10px);
 
@@ -28,42 +31,12 @@
 	--color-grey-dark: #4a4b64;
 }
 
-.light {
-	--color-font: var(--color-dark);
-	--color-bg: var(--color-light);
-	--color-primary: var(--color-primary-dark);
-	--color-accent: var(--color-accent-dark);
-
-	--color-red: var(--color-red-dark);
-	--color-orange: var(--color-orange-dark);
-	--color-yellow: var(--color-yellow-dark);
-	--color-green: var(--color-green-dark);
-	--color-blue: var(--color-blue-dark);
-	--color-purple: var(--color-purple-dark);
-	--color-grey: var(--color-grey-dark);
-}
-
-.dark {
-	--color-font: var(--color-light);
-	--color-bg: var(--color-dark);
-	--color-primary: var(--color-primary-light);
-	--color-accent: var(--color-accent-light);
-
-	--color-red: var(--color-red-light);
-	--color-orange: var(--color-orange-light);
-	--color-yellow: var(--color-yellow-light);
-	--color-green: var(--color-green-light);
-	--color-blue: var(--color-blue-light);
-	--color-purple: var(--color-purple-light);
-	--color-grey: var(--color-grey-light);
-}
-
 body, h1, h2, h3, h4, h5, h6,
 p, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  color: var(--color-font);
-  background-color: var(--color-bg);
+  color: light-dark(var(--color-dark), var(--color-light));
+  background-color: light-dark(var(--color-light), var(--color-dark));
 }
 
 /* Headings */
@@ -72,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 	line-height: 1.25;
 	text-rendering: optimizeLegibility;
-	color: var(--color-primary);
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 h1 {
@@ -143,8 +116,8 @@ dd {
   Links
 */
 a {
-	color: var(--color-bg);
-	background-color: var(--color-primary);
+	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	border-radius: 5px;
 	margin: 0 2px; /* This stops the focus outlining from overlapping surrounding words */
 	padding: 1px 3px;
@@ -152,41 +125,41 @@ a {
 
 @media (hover: hover) {
 	a:hover {
-		color: var(--color-bg);
-		background-color: var(--color-primary);
+		color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 		text-decoration: none;
-		outline: solid var(--color-accent);
+		outline: solid light-dark(var(--color-pink-dark), var(--color-pink-light));
 		outline-offset: 2px;
 	}
 }
 
 a:focus {
-	color: var(--color-bg);
-	background-color: var(--color-primary);
+	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	text-decoration: none;
-	outline: solid var(--color-accent);
+	outline: solid light-dark(var(--color-pink-dark), var(--color-pink-light));
 	outline-offset: 2px;
 }
 
 /* Buttons */
 button {
-	color: var(--color-accent);
-	background-color: var(--color-bg);
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	background-color: light-dark(var(--color-light), var(--color-dark));
 }
 
 @media (hover: hover) {
 	button:hover {
-		color: var(--color-bg);
-		background-color: var(--color-accent);
-		outline: solid var(--color-primary);
+		color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		outline: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 		outline-offset: 2px;
 	}
 }
 
 button:focus {
-	color: var(--color-bg);
-	background-color: var(--color-accent);
-	outline: solid var(--color-primary);
+	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	outline: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 	outline-offset: 2px;
 }
 
@@ -206,23 +179,23 @@ blockquote,
 blockquote p,
 blockquote ol,
 blockquote ul {
-	color: var(--color-bg);
-	background-color: var(--color-primary);
+	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 blockquote a {
-	color: var(--color-bg);
+	color: light-dark(var(--color-light), var(--color-dark));
 }
 
 @media (hover: hover) {
 	blockquote a:hover {
-		color: var(--color-primary);
-		background-color: var(--color-bg);
+		color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+		background-color: light-dark(var(--color-light), var(--color-dark));
 	}
 }
 blockquote a:focus {
-	color: var(--color-primary);
-	background-color: var(--color-bg);
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	background-color: light-dark(var(--color-light), var(--color-dark));
 }
 
 /**
@@ -235,7 +208,7 @@ table {
 }
 
 table, th, td {
-	border: 1px solid var(--color-font);
+	border: 1px solid light-dark(var(--color-dark), var(--color-light));
 }
 th, td {
 	padding: 15px;
@@ -246,12 +219,12 @@ th, td {
 * Times
 */
 time {
-	color: var(--color-grey);
+	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
 }
 
 hr {
-	color: var(--color-primary);
-	border: thick solid var(--color-primary);
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: thick solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 /*

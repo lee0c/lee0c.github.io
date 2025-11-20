@@ -11,8 +11,10 @@ layout: default
   </article>
 </div>
 
-{% for post in site.posts %}
-  {% if post.category == page.category %}
-    {% include featured-post.html %}
-  {% endif %}
-{% endfor %}
+<div id="post-container">
+  {% for post in site.posts %}
+    {% if post.category == page.category %}
+      {% include featured-post.html %}
+    {% endif %}
+  {% endfor %}
+</div>

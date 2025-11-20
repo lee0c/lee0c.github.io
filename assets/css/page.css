@@ -3,7 +3,7 @@
     display: block;
     margin: 10px auto 10px;
     padding: 0px 10px 10px;
-    color: var(--color-font);
+    color: light-dark(var(--color-dark), var(--color-light));
 }
 
 .page-content img {
@@ -18,7 +18,7 @@
 
 .post-content img {
     max-width: 100%;
-    border: thin solid var(--color-grey);
+    border: thin solid light-dark(var(--color-grey-dark), var(--color-grey-light));
     border-radius: .3rem;
 }
 
@@ -27,7 +27,7 @@
     margin-bottom: 1rem;
     margin-top: 0;
     font-weight: unset;
-    color: var(--color-grey);
+    color: light-dark(var(--color-grey-dark), var(--color-grey-light));
     font-size: 1rem;
 }
 
@@ -68,7 +68,7 @@
 
 .spacer {
     height: 1rem;
-    border-top: solid var(--color-primary);
+    border-top: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 .job-details p {

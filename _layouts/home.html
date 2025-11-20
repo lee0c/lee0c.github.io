@@ -7,9 +7,11 @@ title: home
 
 <p>to see some of my current favorite projects, check out the <a href="/tag/highlight">highlights tag</a>.</p>
 
-{% for post in paginator.posts %}
-  {% include featured-post.html %}
-{% endfor %}
+<div id="post-container">
+  {% for post in paginator.posts %}
+    {% include featured-post.html %}
+  {% endfor %}
+</div>
 
 <br/>
 
