@@ -121,7 +121,7 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>FediZineFest (<a href="https://fedizinefest.fyi">fedizinefest.fyi</a>)</h4>
+<h4>FediZineFest (<a href="https://fedizinefest.fyi" target="_blank">fedizinefest.fyi</a>)</h4>
 <p class="col2"><time datetime="2023-12">December 2023</time> – Present</p>
 </div>
 
