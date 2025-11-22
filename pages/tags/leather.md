@@ -7,4 +7,4 @@ permalink: /tag/leather
 
 Check out these notes of mine on leatherworking:
 
-- [leatherworking favorites](https://leecat.art/leatherworking)
+- [leatherworking favorites](/leatherworking)
