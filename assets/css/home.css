@@ -5,7 +5,7 @@
 	margin: 2rem 0;
 	padding: 0;
 	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
-	border-radius: 1rem;
+	border-radius: 1.25rem;
 	box-shadow: .35rem .35rem rgba(0,0,0,0.5);
 	text-decoration: none;
 }
