@@ -1,0 +1,28 @@
+@media print {
+  .content-wrapper {
+    top: 0;
+  }
+
+  a {
+    text-decoration-style: dotted;
+    text-decoration-thickness: 1px;
+  }
+
+  a::after{
+    content: " (" attr(href) ")";
+  }
+
+  .section-anchor {
+    display: none;
+  }
+
+  .tag::after {
+    content: none;
+  }
+
+  header,
+  footer,
+  nav {
+    display: none !important;
+  }
+}
