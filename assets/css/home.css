@@ -1,16 +1,106 @@
-.featured-post,
-.featured-post h2,
-.featured-title,
-.featured-tags {
-	background-color: light-dark(var(--color-dark), var(--color-light));
-	color: light-dark(var(--color-light), var(--color-dark));
+.featured-post {
+	position: relative;
+	display: grid;
+	background-color: light-dark(var(--color-light), var(--color-dark));
+	margin: 2rem 0;
 	padding: 0;
+	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-radius: 1rem;
+	box-shadow: .35rem .35rem rgba(0,0,0,0.5);
+	text-decoration: none;
+}
+
+.featured-post:focus,
+.featured-post:hover {
+	outline: none;
+	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+.featured-post:active {
+	box-shadow: none;
+	top: .2rem;
+	left: .2rem;
+	box-shadow: .15rem .15rem rgba(0,0,0,0.5);
+}
+
+article:nth-child(odd) .featured-post {
+	grid-template-areas:
+		'img h2'
+		'img tags'
+		'img .';
+	grid-template-columns: 45% auto;
+}
+
+article:nth-child(even) .featured-post {
+	grid-template-areas:
+		'h2 img'
+		'tags img'
+		'. img';
+	grid-template-columns: auto 45%;
+}
+
+@media (max-width: 650px) {
+	article:nth-child(n) .featured-post {
+		grid-template-areas:
+			'img'
+			'h2'
+			'tags';
+		grid-template-columns: auto;
+	}
+}
+
+.featured-post h2,
+.featured-post img,
+.featured-post p {
 	margin: 0;
 }
 
-.featured-title img {
+.featured-post h2 {
+	grid-area: h2;
+	padding: .25rem .5rem;
+	text-transform: uppercase;
+	font-size: 1.5rem;
+	border-radius: 1rem 1rem 0 0;
+	border-bottom: .25rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+article:nth-child(even) .featured-post h2 {
+	text-align: right;
+}
+
+.featured-post:focus h2,
+.featured-post:hover h2 {
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+}
+
+.featured-post:focus p,
+.featured-post:hover p {
+	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+.featured-post img {
+	grid-area: img;
 	max-width: 100%;
 }
+
+.featured-tags {
+	grid-area: tags;
+	padding: .5rem;
+}
+
+article:nth-child(odd) .featured-tags {
+	text-align: right;
+}
+
+.featured-tags p {
+	display: inline;
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-light), var(--color-dark));
+	padding: 0 .5rem;
+	border-radius: 1rem;
+}
+
 /*
 Pagination
 */

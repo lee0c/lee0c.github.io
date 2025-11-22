@@ -1,15 +1,11 @@
 <article>
-  <div class="featured-post">
-    <a class="featured-title" href="{{ site.github.url }}{{ post.url }}">
-      <img src="{{ site.github.url }}/assets/img/{{ post.image.name }}" alt="{{ post.image.alt }}">
-      <h2>{{ post.title }}</h2>
-    </a>
+  <a class="featured-post" href="{{ site.github.url }}{{ post.url }}">
+    <img src="{{ site.github.url }}/assets/img/{{ post.image.name }}" alt="{{ post.image.alt }}">
+    <h2>{{ post.title }}</h2>
     <div class="featured-tags">
-      <p>
-        {% for tag in post.tags %}
-          <a href="/tag/{{ tag }}">{{ tag }}</a>
-        {% endfor %}
-      </p>
+      {% for tag in post.tags %}
+        <p>{{ tag }}</p>
+      {% endfor %}
     </div>
-  </div>
+  </a>
 </article>

@@ -1,85 +1,80 @@
 .page-content {
-    max-width: 800px;
-    display: block;
-    margin: 10px auto 10px;
-    padding: 0px 10px 10px;
-    color: light-dark(var(--color-dark), var(--color-light));
+	max-width: 800px;
+	display: block;
+	margin: 10px auto 10px;
+	padding: 0px 10px 10px;
+	color: light-dark(var(--color-dark), var(--color-light));
 }
 
-.page-content img {
-    max-width: 100%;
+.page-content img,
+.post-content img {
+	max-width: 100%;
 }
 
 .post-content {
-    width: 60vw;
-    display: block;
-    margin: 10px auto 10px;
+	width: 60vw;
+	display: block;
+	margin: 10px auto 10px;
 }
 
-.post-content img {
-    max-width: 100%;
-    border: thin solid light-dark(var(--color-grey-dark), var(--color-grey-light));
-    border-radius: .3rem;
+.post-content h1 {
+	margin-bottom: .25rem;
+	border-bottom: .25rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
 .post-date {
-    display: block;
-    margin-bottom: 1rem;
-    margin-top: 0;
-    font-weight: unset;
-    color: light-dark(var(--color-grey-dark), var(--color-grey-light));
-    font-size: 1rem;
+	display: block;
+	margin-bottom: 0;
+	margin-top: .5rem;
+	font-weight: unset;
+	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
+	font-size: .85rem;
+}
+
+.tag-block {
+	text-align: right;
+	margin: 0;
 }
 
 .featured-image img {
-    margin: 5px auto 25px;
-    display: block;
-    max-width: 60vw;
+	margin: 5px auto 25px;
+	display: block;
+	max-width: 60vw;
 }
 
 @media (max-width: 600px) {
-    .post-content {
-        width: 95vw;
-    }
-    .featured-image img {
-        max-width: 95vw;
-    }
-}
-
-.two-col {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-}
-
-.col2 {
-    text-align: right;
+	.post-content {
+		width: 95vw;
+	}
+	.featured-image img {
+		max-width: 95vw;
+	}
 }
 
 /* Resume page only! */
 
 .centered {
-    text-align: center;
+	text-align: center;
 }
 
 .upper {
-    text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 .spacer {
-    height: 1rem;
-    border-top: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	height: 1rem;
+	border-top: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 .job-details p {
-    margin: 0;
+	margin: 0;
 }
 
 .job p {
-    margin-top: 0;
+	margin-top: 0;
 }
 
 .job h4 {
-    margin: 0;
-    line-height: 1.65;
+	margin: 0;
+	line-height: 1.65;
 }

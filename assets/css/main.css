@@ -75,6 +75,7 @@ body img {
 	margin: 5px auto auto auto;
 	display: block;
 	max-width: 800px;
+	border-radius: 1rem;
 }
 
 p {
@@ -116,29 +117,25 @@ dd {
   Links
 */
 a {
-	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	border-radius: 5px;
-	margin: 0 2px; /* This stops the focus outlining from overlapping surrounding words */
-	padding: 1px 3px;
+	color: light-dark(var(--color-dark), var(--color-light));
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-thickness: .25rem;
+  text-decoration-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+  transition: text-decoration-thickness .5s;
+	padding: 0 .2rem; /* These stop the focus outline from covering text */
+	margin: 0 .1rem;
 }
 
-@media (hover: hover) {
-	a:hover {
-		color: light-dark(var(--color-light), var(--color-dark));
-		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-		text-decoration: none;
-		outline: solid light-dark(var(--color-pink-dark), var(--color-pink-light));
-		outline-offset: 2px;
-	}
+a:hover,
+a:active {
+	text-decoration-thickness: .5rem;
 }
 
 a:focus {
-	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	text-decoration: none;
-	outline: solid light-dark(var(--color-pink-dark), var(--color-pink-light));
-	outline-offset: 2px;
+	border-radius: 1rem;
+	outline: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 /* Buttons */
@@ -244,6 +241,12 @@ Site container
 	width: 95vw;
 }
 
+@media (min-width: 800px) {
+	.content-wrapper {
+		width: 80vw;
+	}
+}
+
 @media (min-width: 1200px) {
 	.content-wrapper {
 		width: 65vw;
@@ -251,4 +254,23 @@ Site container
 }
 .content-wrapper h1 {
 	margin: 20px 0px 20px;
+}
+
+
+/*
+Tags
+*/
+
+.tag {
+	text-decoration: none;
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-light), var(--color-dark));
+	padding: 0 .5rem;
+	border-radius: 1rem;
+}
+
+.tag:hover,
+.tag:focus {
+	outline: none;
+	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }

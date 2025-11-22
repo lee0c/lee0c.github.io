@@ -6,6 +6,13 @@ layout: default
   <h1>
     {{ page.title }}
   </h1>
+  {% if page.tags.size > 0 %}
+    <p class="tag-block">
+      {% for tag in page.tags %}
+        <a class="tag" href="/tag/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+    </p>
+  {% endif %}
   {% if site.hide_post_date != true %}
     {% include post-date.html %}
   {% endif %}
@@ -17,19 +24,5 @@ layout: default
   <article>
     {{ content }}
   </article>
-  <hr>
-  <div class="two-col">
-  <p>
-    category: <a href="{{ page.category }}">{{ page.category }}</a>
-  </p>
-  {% if page.tags.size > 0 %}
-    <p class="col2">
-      see more
-    {% for tag in page.tags %}
-      <a href="tag/{{ tag }}">{{ tag }}</a>
-    {% endfor %}
-    </p>
-  {% endif %}
-  </div>
   <hr>
 </div>
