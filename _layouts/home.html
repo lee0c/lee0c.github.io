@@ -13,7 +13,19 @@ title: home
   {% endfor %}
 </div>
 
-<br/>
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="older posts">&lt; older</a>
+  {% else %}
+    <p class="pagination-button">&lt; older</p>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="newer posts">newer &gt;</a>
+  {% else %}
+    <p class="pagination-button">newer &gt;</p>
+  {% endif %}
+</div>
 
 <p><b>all tags:</b>
   <a class="tag" href="/tag/book">book</a>
@@ -33,16 +45,3 @@ title: home
   <a class="tag" href="/tag/zine">zine</a>
 </p>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="older posts">&lt; older</a>
-  {% else %}
-    <p class="pagination-button">&lt; older</p>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="newer posts">newer &gt;</a>
-  {% else %}
-    <p class="pagination-button">newer &gt;</p>
-  {% endif %}
-</div>

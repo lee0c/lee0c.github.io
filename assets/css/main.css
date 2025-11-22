@@ -46,6 +46,11 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.25;
 	text-rendering: optimizeLegibility;
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	scroll-margin-top: var(--height-header-offset);
+}
+
+main {
+	scroll-margin-top: var(--height-header-offset);
 }
 
 h1 {
@@ -53,18 +58,15 @@ h1 {
 }
 h2 {
 	margin-top: 1rem;
-	font-size: 2rem;
-	scroll-margin-top: var(--height-header-offset);
+	font-size: 2em;
 }
 h3 {
 	margin-top: 1.5rem;
-	font-size: 1.5rem;
-	scroll-margin-top: var(--height-header-offset);
+	font-size: 1.6rem;
 }
 h4, h5, h6 {
 	margin-top: 1rem;
-	font-size: 1rem;
-	scroll-margin-top: var(--height-header-offset);
+	font-size: 1.2rem;
 }
 
 /* Body */
@@ -127,15 +129,19 @@ a {
 	margin: 0 .1rem;
 }
 
+a:focus {
+	text-decoration: none;
+	border-radius: 1rem;
+	outline: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+}
+
 a:hover,
 a:active {
 	text-decoration-thickness: .5rem;
 }
 
-a:focus {
-	text-decoration: none;
-	border-radius: 1rem;
-	outline: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+a:active {
+	text-decoration-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
 /* Buttons */
@@ -221,7 +227,7 @@ time {
 
 hr {
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	border: thick solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 /*
@@ -262,15 +268,31 @@ Tags
 */
 
 .tag {
+	position: relative;
 	text-decoration: none;
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	color: light-dark(var(--color-light), var(--color-dark));
 	padding: 0 .5rem;
 	border-radius: 1rem;
+	box-shadow: .15rem .15rem rgba(0,0,0,0.5);
 }
 
 .tag:hover,
 .tag:focus {
 	outline: none;
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+.tag:active {
+	top: .1rem;
+	left: .1rem;
+	box-shadow: .05rem .05rem rgba(0,0,0,0.5);
+}
+
+.section-anchor {
+	font-size: .6em;
+	vertical-align: middle;
+	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-radius: 1rem;
 }

@@ -9,8 +9,10 @@
             html=content
             anchorBody='<i class="fa-solid fa-anchor" aria-hidden="true"></i>'
             anchorClass="section-anchor"
-            anchorTitle="section: %heading%"
-            anchorAttrs='aria-label="permalink to section: %heading%"' %}
+            anchorTitle="permalink to section: %heading%"
+            anchorAttrs='aria-label="permalink to section: %heading%"'
+            beforeHeading=true
+            headerAttrs='class="anchored-header"' %}
       </main>
       {% include footer.html %}
     </div>

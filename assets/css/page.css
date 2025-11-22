@@ -53,6 +53,16 @@
 
 /* Resume page only! */
 
+.two-col {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.col2 {
+	text-align: right;
+}
+
 .centered {
 	text-align: center;
 }

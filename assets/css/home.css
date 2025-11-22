@@ -111,28 +111,33 @@ Pagination
 
 .pagination-button {
 	border-radius: 2rem;
-	border: 1px solid light-dark(var(--color-grey-dark), var(--color-grey-light));
-	padding: 15px 45px;
-	margin: 10px 5px;
+	border: .25rem solid light-dark(var(--color-grey-dark), var(--color-grey-light));
+	padding: .75rem 3rem;
+	margin: .5rem .25rem;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 1rem;
 	font-weight: bold;
 	line-height: 1;
 	text-decoration: none;
+	box-shadow: .25rem .25rem rgba(0,0,0,0.5);
+	position: relative;
 }
 
 .pagination-active {
-	border: 1px solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
-@media (hover: hover) {
-	.pagination-active:hover {
-		color: light-dark(var(--color-light), var(--color-dark));
-		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	}
-}
-
+.pagination-active:hover,
 .pagination-active:focus {
 	color: light-dark(var(--color-light), var(--color-dark));
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	outline: none;
+	border-radius: 2rem;
+}
+
+.pagination-active:active {
+	top: .15rem;
+	left: .15rem;
+	box-shadow: .1rem .1rem rgba(0,0,0,0.5);
 }

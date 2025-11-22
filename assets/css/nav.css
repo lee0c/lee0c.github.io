@@ -8,67 +8,7 @@
 	box-shadow: 0 5px 6px -6px rgba(0,0,0,0.8);
 	z-index: 10;
 }
-.site-header a,
-.site-header button {
-	text-decoration: none;
-	border-radius: 1rem;
-	margin: auto 2px;
-	padding: 0 .6rem;
-	font-size: 1.2rem;
-	border: none;
-	cursor: pointer;
-}
 
-.site-header a {
-	background-color: light-dark(var(--color-light), var(--color-dark));
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-}
-
-@media (hover: hover) {
-	.site-header a:hover {
-		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-		color: light-dark(var(--color-light), var(--color-dark));
-	}
-}
-
-#site-title {
-	font-size: 2rem;
-	margin: 12px 1rem 0;
-}
-
-@media (max-width: 500px) {
-	#site-title {
-		margin: 12px .2rem 0;
-	}
-}
-
-#menu {
-	line-height: var(--height-header);
-}
-#menu ul {
-    margin: 0 1rem;
-}
-#menu ul li {
-	font-size: 1.2rem;
-    margin: .2rem 0;
-    list-style: none;
-    display: inline-block;
-}
-
-@media (max-width: 500px) {
-	#menu ul {
-		margin: 0 .2rem;
-	}
-}
-
-/* Hide the handedness toggle on small screens */
-@media (max-width: 500px) {
-	#alignment {
-	  display: none;
-	}
-  }
-
-/* Skip navigation link */
 #skip-nav {
 	left: -999px;
 	position: absolute;
@@ -77,7 +17,6 @@
 	height: 1px;
 	overflow: hidden;
 	z-index: -99;
-
 }
 
 #skip-nav:focus {
@@ -87,32 +26,113 @@
 	width: auto;
 	height: auto;
 	overflow: auto;
-	margin: 10px 10%;
-	padding: 5px;
+	margin: calc((var(--height-header) - 1.2rem - .5rem) / 2) 10%;
 	border-radius: 1rem;
-	border: 3px solid light-dark(var(--color-teal-dark), var(--color-teal-light));
-	font-size: 1.2em;
 	z-index: 999;
+	outline: none;
+}
+
+#menu ul {
+	display: flex;
+	justify-content: flex-end;
+	gap: 2%;
+	margin: 0 1rem;
+}
+
+#menu ul li {
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	line-height: var(--height-header);
+}
+
+.site-header a {
+	position: relative;
+	border-radius: 1rem;
+	border: .125rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	text-decoration: none;
+	padding: 0 .25rem;
+	box-shadow: .15rem .15rem rgba(0,0,0,0.5);
+	font-size: 1.2rem;
+}
+
+.site-header a:hover,
+.site-header a:focus {
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	outline: none;
+}
+
+.site-header a:active {
+	top: .1rem;
+	left: .1rem;
+	box-shadow: .05rem .05rem rgba(0,0,0,0.5);
+}
+
+.site-header i {
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+.site-header a:hover i,
+.site-header a:focus i {
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+}
+
+@media (max-width: 650px) {
+	.header-text {
+		display: none;
+	}
+	
+	.site-header a {
+		border: none;
+		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	}
+
+	.site-header a:hover,
+	.site-header a:focus {
+		color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	}
+
+	.site-header i {
+		padding: .1rem;
+	}
+
+	.site-header i,
+	.site-header a:hover i,
+	.site-header a:focus i {
+		color: light-dark(var(--color-light), var(--color-dark));
+	}
 }
 
 .footer {
 	position: relative;
 	top: var(--height-header-offset);
-    text-align: center;
-    min-height: 56px;
-    line-height: 45px;
-    width: 100%;
+	text-align: center;
+	line-height: 3rem;
+	width: 100%;
+	min-height: 2rem;
+}
+
+.footer p {
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	font-weight: bold;
 }
 
 .footer a {
-    padding: 0 10px;
-    text-decoration: none;
+	padding: 0 .5rem;
 	border-radius: 1rem;
+	text-decoration-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	text-decoration-thickness: .175rem;
+}
+
+.footer a:hover {
+	text-decoration-thickness: .35rem;
 }
 
 .footer-description {
-    display: block;
-    margin-bottom: 1rem;
-    color: var(--font-color);
-    font-size:0.8rem;
+	display: block;
+	color: light-dark(var(--color-dark), var(--color-light));
+	font-size: 0.8rem;
 }
