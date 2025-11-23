@@ -59,8 +59,9 @@
 
 .site-header a:hover,
 .site-header a:focus {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: light-dark(var(--color-light), var(--color-dark));
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	outline: none;
 }
 
@@ -77,7 +78,7 @@
 
 .site-header a:hover i,
 .site-header a:focus i {
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-light), var(--color-dark));
 }
 
 @media (max-width: 650px) {
@@ -86,25 +87,11 @@
 	}
 	
 	.site-header a {
-		border: none;
-		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 		padding: .15rem .5rem;
-	}
-
-	.site-header a:hover,
-	.site-header a:focus {
-		color: light-dark(var(--color-light), var(--color-dark));
-		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	}
 
 	.site-header i {
 		padding: 0;
-	}
-
-	.site-header i,
-	.site-header a:hover i,
-	.site-header a:focus i {
-		color: light-dark(var(--color-light), var(--color-dark));
 	}
 }
 
