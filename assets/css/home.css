@@ -1,3 +1,8 @@
+#featured-posts-container {
+	position: relative;
+	left: -.175rem;
+}
+
 .featured-post {
 	position: relative;
 	top: 0;
