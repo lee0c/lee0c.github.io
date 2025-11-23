@@ -131,7 +131,8 @@ Pagination
 .pagination-active:hover,
 .pagination-active:focus {
 	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	outline: none;
 	border-radius: 2rem;
 }
