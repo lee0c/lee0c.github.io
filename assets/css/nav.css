@@ -48,6 +48,9 @@
 
 .site-header a {
 	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .05s ease-in, left .05s ease-in;
 	border-radius: 1rem;
 	border: .125rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));

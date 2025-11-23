@@ -270,6 +270,9 @@ Tags
 
 .tag {
 	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .1s ease-in, left .1s ease-in;
 	text-decoration: none;
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	color: light-dark(var(--color-light), var(--color-dark));

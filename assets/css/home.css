@@ -1,5 +1,8 @@
 .featured-post {
 	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .05s ease-in, left .05s ease-in;
 	display: grid;
 	background-color: light-dark(var(--color-light), var(--color-dark));
 	margin: 2rem 0;
@@ -121,6 +124,9 @@ Pagination
 	text-decoration: none;
 	box-shadow: .25rem .25rem var(--color-shadow);
 	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .1s ease-in, left .1s ease-in;
 }
 
 .pagination-active {
