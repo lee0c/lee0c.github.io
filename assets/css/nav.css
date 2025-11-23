@@ -52,8 +52,8 @@
 	left: 0;
 	transition: top .05s ease-in, left .05s ease-in;
 	border-radius: 1rem;
-	border: .125rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: .125rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	text-decoration: none;
 	padding: 0 .25rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
@@ -75,7 +75,7 @@
 }
 
 .site-header i {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	padding-left: .05rem;
 }
 
