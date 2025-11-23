@@ -9,6 +9,7 @@
 	--color-pink-dark: #94195d;
 	--color-pink-light: #ee9fcb;
 	--color-light: #ebeeef;
+	--color-shadow: rgba(2, 10, 40, .25);
 
 	--height-header: 56px;
 	--height-header-offset: calc(var(--height-header) + 10px);
@@ -274,7 +275,7 @@ Tags
 	color: light-dark(var(--color-light), var(--color-dark));
 	padding: 0 .5rem;
 	border-radius: 1rem;
-	box-shadow: .15rem .15rem rgba(0,0,0,0.5);
+	box-shadow: .15rem .15rem var(--color-shadow);
 }
 
 .tag:hover,
@@ -286,7 +287,7 @@ Tags
 .tag:active {
 	top: .1rem;
 	left: .1rem;
-	box-shadow: .05rem .05rem rgba(0,0,0,0.5);
+	box-shadow: .05rem .05rem var(--color-shadow);
 }
 
 .section-anchor {

@@ -53,7 +53,7 @@
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	text-decoration: none;
 	padding: 0 .25rem;
-	box-shadow: .15rem .15rem rgba(0,0,0,0.5);
+	box-shadow: .15rem .15rem var(--color-shadow);
 	font-size: 1.2rem;
 }
 
@@ -67,7 +67,7 @@
 .site-header a:active {
 	top: .1rem;
 	left: .1rem;
-	box-shadow: .05rem .05rem rgba(0,0,0,0.5);
+	box-shadow: .05rem .05rem var(--color-shadow);
 }
 
 .site-header i {
