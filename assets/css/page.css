@@ -51,6 +51,34 @@
 	}
 }
 
+/* anchor links */
+
+.section-anchor {
+	font-size: .6em;
+	vertical-align: middle;
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-radius: 1rem;
+	border: solid .1rem light-dark(var(--color-teal-dark), var(--color-teal-light));
+	box-shadow: .15rem .15rem var(--color-shadow);
+	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .1s ease-in, left .1s ease-in;
+}
+
+.section-anchor:hover,
+.section-anchor:focus {
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-light), var(--color-dark));
+	outline: none;
+}
+
+.section-anchor:active {
+	box-shadow: .05rem .05rem var(--color-shadow);
+	top: .1rem;
+	left: .1rem;
+}
+
 /* Resume page only! */
 
 .two-col {
