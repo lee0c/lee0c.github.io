@@ -72,6 +72,7 @@
 
 .site-header i {
 	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	padding-left: .05rem;
 }
 
 .site-header a:hover i,
@@ -87,6 +88,7 @@
 	.site-header a {
 		border: none;
 		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+		padding: .15rem .5rem;
 	}
 
 	.site-header a:hover,
@@ -96,7 +98,7 @@
 	}
 
 	.site-header i {
-		padding: .1rem;
+		padding: 0;
 	}
 
 	.site-header i,
