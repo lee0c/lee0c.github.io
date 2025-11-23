@@ -274,17 +274,18 @@ Tags
 	left: 0;
 	transition: top .1s ease-in, left .1s ease-in;
 	text-decoration: none;
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-light), var(--color-dark));
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	padding: 0 .5rem;
 	border-radius: 1rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
+	border: .08rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
 .tag:hover,
 .tag:focus {
 	outline: none;
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-light), var(--color-dark));
 }
 
 .tag:active {
