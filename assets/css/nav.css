@@ -58,7 +58,6 @@
 	font-size: 1.2rem;
 }
 
-.site-header a:hover,
 .site-header a:focus {
 	color: light-dark(var(--color-light), var(--color-dark));
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
@@ -66,11 +65,26 @@
 	outline: none;
 }
 
-@media (forced-colors: active) {
-	.site-header a:focus,
+@media (any-hover: hover) {
 	.site-header a:hover {
+		color: light-dark(var(--color-light), var(--color-dark));
+		border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		outline: none;
+	}
+}
+
+@media (forced-colors: active) {
+	.site-header a:focus {
 		outline-offset: .125rem;
 		outline: .125rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.site-header a:hover {
+			outline-offset: .125rem;
+			outline: .125rem solid;
+		}
 	}
 }
 
@@ -85,9 +99,14 @@
 	padding-left: .25rem;
 }
 
-.site-header a:hover i,
 .site-header a:focus i {
 	color: light-dark(var(--color-light), var(--color-dark));
+}
+
+@media (any-hover: hover) {
+	.site-header a:hover i {
+		color: light-dark(var(--color-light), var(--color-dark));
+	}
 }
 
 @media (max-width: 650px) {
@@ -125,8 +144,14 @@
 	text-decoration-thickness: .175rem;
 }
 
-.footer a:hover {
-	text-decoration-thickness: .35rem;
+.footer a:focus {
+	outline-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+@media (any-hover: hover) {
+	.footer a:hover {
+		text-decoration-thickness: .35rem;
+	}
 }
 
 .footer-description {

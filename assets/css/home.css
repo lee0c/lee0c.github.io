@@ -18,16 +18,21 @@
 	text-decoration: none;
 }
 
-.featured-post:focus,
-.featured-post:hover {
+.featured-post:focus{
 	outline: none;
 }
 
 @media (forced-colors: active) {
-	.featured-post:focus,
-	.featured-post:hover {
+	.featured-post:focus {
 		outline-offset: .25rem;
 		outline: .25rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.featured-post:hover {
+			outline-offset: .25rem;
+			outline: .25rem solid;
+		}
 	}
 }
 
@@ -47,9 +52,14 @@ article:nth-child(odd) .featured-post {
 	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
-article:nth-child(odd) .featured-post:hover,
 article:nth-child(odd) .featured-post:focus {
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+}
+
+@media (any-hover: hover) {
+	article:nth-child(odd) .featured-post:hover {
+		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	}
 }
 
 article:nth-child(even) .featured-post {
@@ -61,9 +71,14 @@ article:nth-child(even) .featured-post {
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
-article:nth-child(even) .featured-post:hover,
 article:nth-child(even) .featured-post:focus {
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+@media (any-hover: hover) {
+	article:nth-child(even) .featured-post:hover {
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	}
 }
 
 @media (max-width: 650px) {
@@ -97,18 +112,30 @@ article:nth-child(even) .featured-post h2 {
 	text-align: right;
 }
 
-article:nth-child(odd) .featured-post:focus h2,
-article:nth-child(odd) .featured-post:hover h2 {
+article:nth-child(odd) .featured-post:focus h2 {
 	color: light-dark(var(--color-light), var(--color-dark));
 	border-color: light-dark(var(--color-light), var(--color-dark));
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 }
 
-article:nth-child(even) .featured-post:focus h2,
-article:nth-child(even) .featured-post:hover h2 {
+article:nth-child(even) .featured-post:focus h2 {
 	color: light-dark(var(--color-light), var(--color-dark)); /* Can't dedupe these because of specificity rules */
 	border-color: light-dark(var(--color-light), var(--color-dark));
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+}
+
+@media (any-hover: hover) {
+	article:nth-child(odd) .featured-post:hover h2 {
+		color: light-dark(var(--color-light), var(--color-dark));
+		border-color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	}
+
+	article:nth-child(even) .featured-post:hover h2 {
+		color: light-dark(var(--color-light), var(--color-dark)); /* Can't dedupe these because of specificity rules */
+		border-color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	}
 }
 
 .featured-post img {
@@ -138,22 +165,35 @@ article:nth-child(even) .featured-tags p {
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
-/* also tags just the focus lands on the post obj */
-.featured-post:focus p,
-.featured-post:hover p {
+/* also tags (same as .featured-tags) just the focus lands on the post obj */
+.featured-post:focus p {
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
-article:nth-child(odd) .featured-post:focus p,
-article:nth-child(odd) .featured-post:hover p {
+article:nth-child(odd) .featured-post:focus p {
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	background-color: light-dark(var(--color-light), var(--color-dark));
 }
 
-article:nth-child(even) .featured-post:focus p,
-article:nth-child(even) .featured-post:hover p {
+article:nth-child(even) .featured-post:focus p {
 	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	background-color: light-dark(var(--color-light), var(--color-dark));
+}
+
+@media (any-hover: hover) {
+	.featured-post:hover p {
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	}
+
+	article:nth-child(odd) .featured-post:hover p {
+		color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+		background-color: light-dark(var(--color-light), var(--color-dark));
+	}
+
+	article:nth-child(even) .featured-post:hover p {
+		color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		background-color: light-dark(var(--color-light), var(--color-dark));
+	}
 }
 
 /*
@@ -186,7 +226,6 @@ Pagination
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
-.pagination-active:hover,
 .pagination-active:focus {
 	color: light-dark(var(--color-light), var(--color-dark));
 	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
@@ -195,12 +234,27 @@ Pagination
 	border-radius: 2rem;
 }
 
+@media (any-hover: hover) {
+	.pagination-active:hover {
+		color: light-dark(var(--color-light), var(--color-dark));
+		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		outline: none;
+		border-radius: 2rem;
+	}
+}
 
 @media (forced-colors: active) {
-	.pagination-active:focus,
-	.pagination-active:hover {
+	.pagination-active:focus {
 		outline-offset: .25rem;
 		outline: .25rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.pagination-active:hover {
+			outline-offset: .25rem;
+			outline: .25rem solid;
+		}
 	}
 }
 
