@@ -4,7 +4,7 @@
 	min-height: var(--height-header);
 	width: 100%;
 	position: fixed;
-	background-color: light-dark(var(--color-light), var(--color-dark));
+	background-color: var(--color-bg);
 	box-shadow: 0 .25rem .15rem var(--color-shadow);
 	z-index: 10;
 }
@@ -50,8 +50,8 @@
 	left: 0;
 	transition: top .05s ease-in, left .05s ease-in;
 	border-radius: 1rem;
-	border: .125rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border: .125rem solid var(--color-pink);
+	color: var(--color-pink);
 	text-decoration: none;
 	padding: 0 .25rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
@@ -59,17 +59,17 @@
 }
 
 .site-header a:focus {
-	color: light-dark(var(--color-light), var(--color-dark));
-	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: var(--color-bg);
+	border-color: var(--color-pink);
+	background-color: var(--color-pink);
 	outline: none;
 }
 
 @media (any-hover: hover) {
 	.site-header a:hover {
-		color: light-dark(var(--color-light), var(--color-dark));
-		border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+		color: var(--color-bg);
+		border-color: var(--color-pink);
+		background-color: var(--color-pink);
 		outline: none;
 	}
 }
@@ -95,17 +95,17 @@
 }
 
 .site-header i {
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-teal);
 	padding-left: .25rem;
 }
 
 .site-header a:focus i {
-	color: light-dark(var(--color-light), var(--color-dark));
+	color: var(--color-bg);
 }
 
 @media (any-hover: hover) {
 	.site-header a:hover i {
-		color: light-dark(var(--color-light), var(--color-dark));
+		color: var(--color-bg);
 	}
 }
 
@@ -133,19 +133,19 @@
 }
 
 .footer p {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: var(--color-pink);
 	font-weight: bold;
 }
 
 .footer a {
 	padding: 0 .5rem;
 	border-radius: 1rem;
-	text-decoration-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	text-decoration-color: var(--color-pink);
 	text-decoration-thickness: .175rem;
 }
 
 .footer a:focus {
-	outline-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	outline-color: var(--color-pink);
 }
 
 @media (any-hover: hover) {
@@ -156,6 +156,6 @@
 
 .footer-description {
 	display: block;
-	color: light-dark(var(--color-dark), var(--color-light));
+	color: var(--color-font);
 	font-size: .9rem;
 }

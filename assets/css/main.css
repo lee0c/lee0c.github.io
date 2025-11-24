@@ -4,11 +4,12 @@
 	--font-family: 'Atkinson Hyperlegible', sans-serif;
 	--font-family-code: 'Source Code Pro', monospace;
 	--color-dark: #2e303e;
+	--color-light: #ebeeef;
 	--color-teal-dark: #18737b;
 	--color-teal-light: #25b0bc;
 	--color-pink-dark: #94195d;
 	--color-pink-light: #ee9fcb;
-	--color-light: #ebeeef;
+
 	--color-shadow: rgba(2, 10, 40, .25);
 
 	--height-header: 56px;
@@ -30,14 +31,28 @@
 	--color-blue-dark: #125663;
 	--color-purple-dark: #722999;
 	--color-grey-dark: #4a4b64;
+
+	--color-font: light-dark(var(--color-dark), var(--color-light));
+	--color-bg: light-dark(var(--color-light), var(--color-dark));
+
+	--color-teal: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	--color-pink: light-dark(var(--color-pink-dark), var(--color-pink-light));
+
+	--color-red: light-dark(var(--color-red-dark), var(--color-red-light));
+	--color-orange: light-dark(var(--color-orange-dark), var(--color-orange-light));
+	--color-yellow: light-dark(var(--color-yellow-dark), var(--color-yellow-light));
+	--color-green: light-dark(var(--color-green-dark), var(--color-green-light));
+	--color-blue: light-dark(var(--color-blue-dark), var(--color-blue-light));
+	--color-purple: light-dark(var(--color-purple-dark), var(--color-purple-light));
+	--color-grey: light-dark(var(--color-grey-dark), var(--color-grey-light));
 }
 
 body, h1, h2, h3, h4, h5, h6,
 p, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  color: light-dark(var(--color-dark), var(--color-light));
-  background-color: light-dark(var(--color-light), var(--color-dark));
+  color: var(--color-font);
+  background-color: var(--color-bg);
 }
 
 /* Headings */
@@ -46,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 	line-height: 1.25;
 	text-rendering: optimizeLegibility;
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-teal);
 	scroll-margin-top: var(--height-header-offset);
 }
 
@@ -120,11 +135,11 @@ dd {
   Links
 */
 a {
-	color: light-dark(var(--color-dark), var(--color-light));
+	color: var(--color-font);
   text-decoration: underline;
   text-decoration-style: solid;
   text-decoration-thickness: .25rem;
-  text-decoration-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+  text-decoration-color: var(--color-teal);
   transition: text-decoration-thickness .5s;
 	padding: 0 .2rem; /* These stop the focus outline from covering text */
 	margin: 0 .1rem;
@@ -133,7 +148,7 @@ a {
 a:focus {
 	text-decoration: none;
 	border-radius: 1rem;
-	outline: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	outline: .25rem solid var(--color-teal);
 }
 
 @media (any-hover: hover) {
@@ -148,23 +163,23 @@ a:active {
 
 /* Buttons */
 button {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	background-color: light-dark(var(--color-light), var(--color-dark));
+	color: var(--color-pink);
+	background-color: var(--color-bg);
 }
 
 @media (any-hover: hover) {
 	button:hover {
-		color: light-dark(var(--color-light), var(--color-dark));
-		background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-		outline: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+		color: var(--color-bg);
+		background-color: var(--color-pink);
+		outline: solid var(--color-teal);
 		outline-offset: 2px;
 	}
 }
 
 button:focus {
-	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	outline: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-bg);
+	background-color: var(--color-pink);
+	outline: solid var(--color-teal);
 	outline-offset: 2px;
 }
 
@@ -183,13 +198,13 @@ blockquote,
 blockquote p,
 blockquote ol,
 blockquote ul {
-	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-bg);
+	background-color: var(--color-teal);
 }
 
 blockquote a {
-	color: light-dark(var(--color-light), var(--color-dark));
-	text-decoration-color: light-dark(var(--color-light), var(--color-dark));
+	color: var(--color-bg);
+	text-decoration-color: var(--color-bg);
 }
 
 /**
@@ -202,7 +217,7 @@ table {
 }
 
 table, th, td {
-	border: 1px solid light-dark(var(--color-dark), var(--color-light));
+	border: 1px solid var(--color-font);
 }
 th, td {
 	padding: 15px;
@@ -213,14 +228,14 @@ th, td {
 * Times
 */
 time {
-	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
+	color: var(--color-grey);
 }
 
 /* hr */
 
 hr {
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-teal);
+	border: .25rem solid var(--color-teal);
 }
 
 /*
@@ -266,24 +281,24 @@ Tags
 	left: 0;
 	transition: top .1s ease-in, left .1s ease-in;
 	text-decoration: none;
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-teal);
 	padding: 0 .5rem;
 	border-radius: 1rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
-	border: .08rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: .08rem solid var(--color-teal);
 }
 
 .tag:focus {
 	outline: none;
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: var(--color-teal);
+	color: var(--color-bg);
 }
 
 @media (any-hover: hover) {
 	.tag:hover {
 		outline: none;
-		background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-		color: light-dark(var(--color-light), var(--color-dark));
+		background-color: var(--color-teal);
+		color: var(--color-bg);
 	}
 }
 
