@@ -1,3 +1,8 @@
+#featured-posts-container {
+	position: relative;
+	left: -.175rem;
+}
+
 .featured-post {
 	position: relative;
 	top: 0;
@@ -16,6 +21,14 @@
 .featured-post:focus,
 .featured-post:hover {
 	outline: none;
+}
+
+@media (forced-colors: active) {
+	.featured-post:focus,
+	.featured-post:hover {
+		outline-offset: .25rem;
+		outline: .25rem solid;
+	}
 }
 
 .featured-post:active {
@@ -100,7 +113,8 @@ article:nth-child(even) .featured-post:hover h2 {
 
 .featured-post img {
 	grid-area: img;
-	max-width: 100%;
+	max-width: min(100%, 1200px);
+	margin: 0 auto;
 }
 
 .featured-tags {
@@ -168,8 +182,8 @@ Pagination
 }
 
 .pagination-active {
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 }
 
 .pagination-active:hover,
@@ -179,6 +193,15 @@ Pagination
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	outline: none;
 	border-radius: 2rem;
+}
+
+
+@media (forced-colors: active) {
+	.pagination-active:focus,
+	.pagination-active:hover {
+		outline-offset: .25rem;
+		outline: .25rem solid;
+	}
 }
 
 .pagination-active:active {

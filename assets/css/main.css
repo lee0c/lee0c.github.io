@@ -63,7 +63,7 @@ h2 {
 }
 h3 {
 	margin-top: 1.5rem;
-	font-size: 1.6rem;
+	font-size: 1.4rem;
 }
 h4, h5, h6 {
 	margin-top: 1rem;
@@ -226,6 +226,8 @@ time {
 	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
 }
 
+/* hr */
+
 hr {
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
@@ -286,6 +288,14 @@ Tags
 	outline: none;
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	color: light-dark(var(--color-light), var(--color-dark));
+}
+
+@media (forced-colors: active) {
+	.tag:focus,
+	.tag:hover {
+		outline-offset: .08rem;
+		outline: .08rem solid;
+	}
 }
 
 .tag:active {

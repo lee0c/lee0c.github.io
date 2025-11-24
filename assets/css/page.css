@@ -8,7 +8,8 @@
 
 .page-content img,
 .post-content img {
-	max-width: 100%;
+	max-width: min(100%, 1200px);
+	margin: 0 auto;
 }
 
 .post-content {
@@ -39,7 +40,7 @@
 .featured-image img {
 	margin: 5px auto 25px;
 	display: block;
-	max-width: 60vw;
+	max-width: min(60vw, 1200px);
 }
 
 @media (max-width: 600px) {
@@ -64,6 +65,7 @@
 	top: 0;
 	left: 0;
 	transition: top .1s ease-in, left .1s ease-in;
+	padding: 0 .5rem;
 }
 
 .section-anchor:hover,
@@ -71,6 +73,14 @@
 	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	color: light-dark(var(--color-light), var(--color-dark));
 	outline: none;
+}
+
+@media (forced-colors: active) {
+	.section-anchor:focus,
+	.section-anchor:hover {
+		outline-offset: .1rem;
+		outline: .1rem solid;
+	}
 }
 
 .section-anchor:active {

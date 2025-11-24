@@ -9,3 +9,9 @@ Primarily intended for art purposes, and possibly learning a little about front-
 - [Install Jekyll](https://jekyllrb.com/docs/installation/)
 - Install dependencies with `bundle install`
 - Run with `bundle exec jekyll serve` or just `jekyll serve`
+
+## resize images
+
+`sudo apt install imagemagick` if necessary
+
+`mogrify -resize 1200x *` from `assets/img`

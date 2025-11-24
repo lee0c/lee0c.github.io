@@ -5,9 +5,9 @@ title: home
 
 <h1>home</h1>
 
-<p>to see some of my current favorite projects, check out the <a href="/tag/highlight">highlights tag</a>.</p>
+<p>to see some of my current favorite projects, check out the <a class="tag" href="/tag/highlight">highlights</a>.</p>
 
-<div>
+<div id="featured-posts-container">
   {% for post in paginator.posts %}
     {% include featured-post.html %}
   {% endfor %}

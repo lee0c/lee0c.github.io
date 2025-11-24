@@ -27,9 +27,7 @@
 	height: auto;
 	overflow: auto;
 	margin: calc((var(--height-header) - 1.2rem - .5rem) / 2) 10%;
-	border-radius: 1rem;
 	z-index: 999;
-	outline: none;
 }
 
 #menu ul {
@@ -52,8 +50,8 @@
 	left: 0;
 	transition: top .05s ease-in, left .05s ease-in;
 	border-radius: 1rem;
-	border: .125rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: .125rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	text-decoration: none;
 	padding: 0 .25rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
@@ -68,6 +66,14 @@
 	outline: none;
 }
 
+@media (forced-colors: active) {
+	.site-header a:focus,
+	.site-header a:hover {
+		outline-offset: .125rem;
+		outline: .125rem solid;
+	}
+}
+
 .site-header a:active {
 	top: .1rem;
 	left: .1rem;
@@ -75,8 +81,8 @@
 }
 
 .site-header i {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	padding-left: .05rem;
+	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	padding-left: .25rem;
 }
 
 .site-header a:hover i,
