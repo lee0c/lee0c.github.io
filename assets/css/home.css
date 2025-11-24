@@ -23,6 +23,14 @@
 	outline: none;
 }
 
+@media (forced-colors: active) {
+	.featured-post:focus,
+	.featured-post:hover {
+		outline-offset: .25rem;
+		outline: .25rem solid;
+	}
+}
+
 .featured-post:active {
 	box-shadow: none;
 	top: .2rem;
@@ -184,6 +192,15 @@ Pagination
 	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
 	outline: none;
 	border-radius: 2rem;
+}
+
+
+@media (forced-colors: active) {
+	.pagination-active:focus,
+	.pagination-active:hover {
+		outline-offset: .25rem;
+		outline: .25rem solid;
+	}
 }
 
 .pagination-active:active {

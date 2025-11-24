@@ -288,6 +288,14 @@ Tags
 	color: light-dark(var(--color-light), var(--color-dark));
 }
 
+@media (forced-colors: active) {
+	.tag:focus,
+	.tag:hover {
+		outline-offset: .08rem;
+		outline: .08rem solid;
+	}
+}
+
 .tag:active {
 	top: .1rem;
 	left: .1rem;

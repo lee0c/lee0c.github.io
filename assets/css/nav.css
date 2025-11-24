@@ -68,6 +68,14 @@
 	outline: none;
 }
 
+@media (forced-colors: active) {
+	.site-header a:focus,
+	.site-header a:hover {
+		outline-offset: .125rem;
+		outline: .125rem solid;
+	}
+}
+
 .site-header a:active {
 	top: .1rem;
 	left: .1rem;

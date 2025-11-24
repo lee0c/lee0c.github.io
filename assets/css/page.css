@@ -73,6 +73,14 @@
 	outline: none;
 }
 
+@media (forced-colors: active) {
+	.section-anchor:focus,
+	.section-anchor:hover {
+		outline-offset: .1rem;
+		outline: .1rem solid;
+	}
+}
+
 .section-anchor:active {
 	box-shadow: .05rem .05rem var(--color-shadow);
 	top: .1rem;
