@@ -132,5 +132,5 @@
 .footer-description {
 	display: block;
 	color: light-dark(var(--color-dark), var(--color-light));
-	font-size: 0.8rem;
+	font-size: .9rem;
 }
