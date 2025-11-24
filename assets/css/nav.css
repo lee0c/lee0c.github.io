@@ -82,7 +82,7 @@
 
 .site-header i {
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	padding-left: .05rem;
+	padding-left: .25rem;
 }
 
 .site-header a:hover i,
