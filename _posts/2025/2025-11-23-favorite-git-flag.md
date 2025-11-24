@@ -39,20 +39,20 @@ every hunk `-p` shows you comes with the following single-character choices:
 
 ### y and n
 
-**y**es and **n**o respectively. either add the hunk, or don't.
+**yes** and **no** respectively. either add the hunk, or don't.
 
 ### q
 
-**q**uit. exit the whole `-p` process.
+**quit**. exit the whole `-p` process.
 
 ### a and d
 
-I rarely use these two. that said, I try to remember these two as **a**ll and **d**one. stage all of the hunks in the current file, or be done with the current file.
+I rarely use these two. that said, I try to remember these two as **all** and **done**. stage all of the hunks in the current file, or be done with the current file.
 
 ### s
 
-only shows up sometimes, because it lets you **s**plit the current hunk. if unsplittable, you won't see this option.
+only shows up sometimes, because it lets you **split** the current hunk. if unsplittable, you won't see this option.
 
 ### e
 
-**e**dit. [read the documentation for manually editing](https://git-scm.com/docs/git-add#_editing_patches){:target="_blank"} if curious because I don't use this and can't advise on it.
+**edit**. [read the documentation for manually editing](https://git-scm.com/docs/git-add#_editing_patches){:target="_blank"} if curious because I don't use this and can't advise on it.
