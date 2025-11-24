@@ -27,9 +27,7 @@
 	height: auto;
 	overflow: auto;
 	margin: calc((var(--height-header) - 1.2rem - .5rem) / 2) 10%;
-	border-radius: 1rem;
 	z-index: 999;
-	outline: none;
 }
 
 #menu ul {

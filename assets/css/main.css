@@ -226,6 +226,8 @@ time {
 	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
 }
 
+/* hr */
+
 hr {
 	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	border: .25rem solid light-dark(var(--color-teal-dark), var(--color-teal-light));
