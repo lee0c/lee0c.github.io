@@ -107,11 +107,11 @@ grep -E "^module " "$file" \
    | cut -d "'" -f 2 -
 ```
 
-These calls are a little opaque. `-d` sets a **d**elimiter (what to split on). `-f` picks a **f**ield to return, numbered from 1.
+These calls are a little opaque. `-d` sets a **delimiter** (what to split on). `-f` picks a **field** to return, numbered from 1.
 
 ### mapfile
 
-We'll save these values to variables. `mapfile` reads a file, putting each line into a new array element. `-t` **t**rims newline characters. The `<`s do some redirection, and yes, the space between them *matters*.
+We'll save these values to variables. `mapfile` reads a file, putting each line into a new array element. `-t` **trims** newline characters. The `<`s do some redirection, and yes, the space between them *matters*.
 
 ```sh
 mapfile -t resources < <(grep -E "^resource " "$file" \
@@ -140,7 +140,7 @@ get_resources () {
 
 A lot just happened there besides `dirname`. `{modules[@]}` is all the array elements (as opposed to just `$modules`, which evaluates to the first element). `${#modules[@]}`, on the other hand - note the pound sign - is the number of elements in the array.
 
-Additionally, `mapfile` usually writes from index 0 onwards. But with the `-O` argument, we can specify an **o**rigin. By setting the starting point to the length of the array, we append to the array rather than writing over existing data.
+Additionally, `mapfile` usually writes from index 0 onwards. But with the `-O` argument, we can specify an **origin**. By setting the starting point to the length of the array, we append to the array rather than writing over existing data.
 
 Finally, we got some recursion going! `get_resources` calls `get_resources` for every module found.
 
@@ -226,7 +226,7 @@ resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
 
 Okay, we can get locations. How do we handle finding their intersection?
 
-`comm` to the rescue. It finds **comm**on lines between two *sorted* files. Its default output is three columns - lines only in file 1, lines only in file 2, and lines common to both. We can suppress the first two columns with `-12`.
+`comm` to the rescue. It finds **common** lines between two *sorted* files. Its default output is three columns - lines only in file 1, lines only in file 2, and lines common to both. We can suppress the first two columns with `-12`.
 
 `comm` expects files, so we'll reuse our redirection `<(someCommand)` from earlier.
 
