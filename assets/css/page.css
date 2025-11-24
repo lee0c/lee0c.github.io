@@ -8,7 +8,8 @@
 
 .page-content img,
 .post-content img {
-	max-width: 100%;
+	max-width: min(100%, 1200px);
+	margin: 0 auto;
 }
 
 .post-content {
@@ -39,7 +40,7 @@
 .featured-image img {
 	margin: 5px auto 25px;
 	display: block;
-	max-width: 60vw;
+	max-width: min(60vw, 1200px);
 }
 
 @media (max-width: 600px) {
