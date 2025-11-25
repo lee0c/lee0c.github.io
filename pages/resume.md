@@ -125,7 +125,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2023-12">December 2023</time> – Present</p>
 </div>
 
-<p>Creates and runs a global event for zine artists on the fediverse (Mastodon), now in its second year with plans for a third. Coordinates website, physical material shipping and logistics, payment, and marketing for a 40–50 person project.</p>
+<p>Created and ran a global event for zine artists on the fediverse (Mastodon) for two years. Coordinated website, physical material shipping and logistics, payment, and marketing for a 40–50 person project.</p>
 </div>
 
 <div class="spacer"></div>
