@@ -3,7 +3,7 @@
 	display: block;
 	margin: 10px auto 10px;
 	padding: 0px 10px 10px;
-	color: light-dark(var(--color-dark), var(--color-light));
+	color: var(--color-font);
 }
 
 .page-content img,
@@ -20,7 +20,7 @@
 
 .post-content h1 {
 	margin-bottom: .25rem;
-	border-bottom: .25rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-bottom: .25rem solid var(--color-pink);
 }
 
 .post-date {
@@ -28,7 +28,7 @@
 	margin-bottom: 0;
 	margin-top: .5rem;
 	font-weight: unset;
-	color: light-dark(var(--color-grey-dark), var(--color-grey-light));
+	color: var(--color-grey);
 	font-size: .85rem;
 }
 
@@ -57,9 +57,9 @@
 .section-anchor {
 	font-size: .6em;
 	vertical-align: middle;
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-teal);
 	border-radius: 1rem;
-	border: solid .1rem light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border: solid .1rem var(--color-teal);
 	box-shadow: .15rem .15rem var(--color-shadow);
 	position: relative;
 	top: 0;
@@ -68,18 +68,31 @@
 	padding: 0 .5rem;
 }
 
-.section-anchor:hover,
 .section-anchor:focus {
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: var(--color-teal);
+	color: var(--color-bg);
 	outline: none;
 }
 
-@media (forced-colors: active) {
-	.section-anchor:focus,
+@media (any-hover: hover) {
 	.section-anchor:hover {
+		background-color: var(--color-teal);
+		color: var(--color-bg);
+		outline: none;
+	}
+}
+
+@media (forced-colors: active) {
+	.section-anchor:focus {
 		outline-offset: .1rem;
 		outline: .1rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.section-anchor:hover {
+			outline-offset: .1rem;
+			outline: .1rem solid;
+		}
 	}
 }
 
@@ -111,7 +124,7 @@
 
 .spacer {
 	height: 1rem;
-	border-top: solid light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-top: solid var(--color-teal);
 }
 
 .job-details p {

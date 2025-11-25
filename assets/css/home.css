@@ -9,7 +9,7 @@
 	left: 0;
 	transition: top .05s ease-in, left .05s ease-in;
 	display: grid;
-	background-color: light-dark(var(--color-light), var(--color-dark));
+	background-color: var(--color-bg);
 	margin: 2rem 0;
 	padding: 0;
 	border: .25rem solid;
@@ -18,16 +18,21 @@
 	text-decoration: none;
 }
 
-.featured-post:focus,
-.featured-post:hover {
+.featured-post:focus{
 	outline: none;
 }
 
 @media (forced-colors: active) {
-	.featured-post:focus,
-	.featured-post:hover {
+	.featured-post:focus {
 		outline-offset: .25rem;
 		outline: .25rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.featured-post:hover {
+			outline-offset: .25rem;
+			outline: .25rem solid;
+		}
 	}
 }
 
@@ -44,12 +49,17 @@ article:nth-child(odd) .featured-post {
 		'img tags'
 		'img .';
 	grid-template-columns: 45% auto;
-	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	border-color: var(--color-teal);
 }
 
-article:nth-child(odd) .featured-post:hover,
 article:nth-child(odd) .featured-post:focus {
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	background-color: var(--color-teal);
+}
+
+@media (any-hover: hover) {
+	article:nth-child(odd) .featured-post:hover {
+		background-color: var(--color-teal);
+	}
 }
 
 article:nth-child(even) .featured-post {
@@ -58,12 +68,17 @@ article:nth-child(even) .featured-post {
 		'tags img'
 		'. img';
 	grid-template-columns: auto 45%;
-	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-color: var(--color-pink);
 }
 
-article:nth-child(even) .featured-post:hover,
 article:nth-child(even) .featured-post:focus {
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	background-color: var(--color-pink);
+}
+
+@media (any-hover: hover) {
+	article:nth-child(even) .featured-post:hover {
+		background-color: var(--color-pink);
+	}
 }
 
 @media (max-width: 650px) {
@@ -88,27 +103,39 @@ article:nth-child(even) .featured-post:focus {
 	text-transform: uppercase;
 	font-size: 1.5rem;
 	border-radius: 1rem 1rem 0 0;
-	border-bottom: .25rem solid light-dark(var(--color-pink-dark), var(--color-pink-light));
+	border-bottom: .25rem solid var(--color-pink);
 }
 
 article:nth-child(even) .featured-post h2 {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	border-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+	color: var(--color-pink);
+	border-color: var(--color-teal);
 	text-align: right;
 }
 
-article:nth-child(odd) .featured-post:focus h2,
-article:nth-child(odd) .featured-post:hover h2 {
-	color: light-dark(var(--color-light), var(--color-dark));
-	border-color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
+article:nth-child(odd) .featured-post:focus h2 {
+	color: var(--color-bg);
+	border-color: var(--color-bg);
+	background-color: var(--color-teal);
 }
 
-article:nth-child(even) .featured-post:focus h2,
-article:nth-child(even) .featured-post:hover h2 {
-	color: light-dark(var(--color-light), var(--color-dark)); /* Can't dedupe these because of specificity rules */
-	border-color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+article:nth-child(even) .featured-post:focus h2 {
+	color: var(--color-bg); /* Can't dedupe these because of specificity rules */
+	border-color: var(--color-bg);
+	background-color: var(--color-pink);
+}
+
+@media (any-hover: hover) {
+	article:nth-child(odd) .featured-post:hover h2 {
+		color: var(--color-bg);
+		border-color: var(--color-bg);
+		background-color: var(--color-teal);
+	}
+
+	article:nth-child(even) .featured-post:hover h2 {
+		color: var(--color-bg); /* Can't dedupe these because of specificity rules */
+		border-color: var(--color-bg);
+		background-color: var(--color-pink);
+	}
 }
 
 .featured-post img {
@@ -128,32 +155,45 @@ article:nth-child(odd) .featured-tags {
 
 .featured-tags p {
 	display: inline;
-	background-color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	color: light-dark(var(--color-light), var(--color-dark));
+	background-color: var(--color-teal);
+	color: var(--color-bg);
 	padding: 0 .5rem;
 	border-radius: 1rem;
 }
 
 article:nth-child(even) .featured-tags p {
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	background-color: var(--color-pink);
 }
 
-/* also tags just the focus lands on the post obj */
-.featured-post:focus p,
-.featured-post:hover p {
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+/* also tags (same as .featured-tags) just the focus lands on the post obj */
+.featured-post:focus p {
+	background-color: var(--color-pink);
 }
 
-article:nth-child(odd) .featured-post:focus p,
-article:nth-child(odd) .featured-post:hover p {
-	color: light-dark(var(--color-teal-dark), var(--color-teal-light));
-	background-color: light-dark(var(--color-light), var(--color-dark));
+article:nth-child(odd) .featured-post:focus p {
+	color: var(--color-teal);
+	background-color: var(--color-bg);
 }
 
-article:nth-child(even) .featured-post:focus p,
-article:nth-child(even) .featured-post:hover p {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	background-color: light-dark(var(--color-light), var(--color-dark));
+article:nth-child(even) .featured-post:focus p {
+	color: var(--color-pink);
+	background-color: var(--color-bg);
+}
+
+@media (any-hover: hover) {
+	.featured-post:hover p {
+		background-color: var(--color-pink);
+	}
+
+	article:nth-child(odd) .featured-post:hover p {
+		color: var(--color-teal);
+		background-color: var(--color-bg);
+	}
+
+	article:nth-child(even) .featured-post:hover p {
+		color: var(--color-pink);
+		background-color: var(--color-bg);
+	}
 }
 
 /*
@@ -166,7 +206,7 @@ Pagination
 
 .pagination-button {
 	border-radius: 2rem;
-	border: .25rem solid light-dark(var(--color-grey-dark), var(--color-grey-light));
+	border: .25rem solid var(--color-grey);
 	padding: .75rem 3rem;
 	margin: .5rem .25rem;
 	display: inline-block;
@@ -182,25 +222,39 @@ Pagination
 }
 
 .pagination-active {
-	color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: var(--color-pink);
+	border-color: var(--color-pink);
 }
 
-.pagination-active:hover,
 .pagination-active:focus {
-	color: light-dark(var(--color-light), var(--color-dark));
-	background-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
-	border-color: light-dark(var(--color-pink-dark), var(--color-pink-light));
+	color: var(--color-bg);
+	background-color: var(--color-pink);
+	border-color: var(--color-pink);
 	outline: none;
 	border-radius: 2rem;
 }
 
+@media (any-hover: hover) {
+	.pagination-active:hover {
+		color: var(--color-bg);
+		background-color: var(--color-pink);
+		border-color: var(--color-pink);
+		outline: none;
+		border-radius: 2rem;
+	}
+}
 
 @media (forced-colors: active) {
-	.pagination-active:focus,
-	.pagination-active:hover {
+	.pagination-active:focus {
 		outline-offset: .25rem;
 		outline: .25rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.pagination-active:hover {
+			outline-offset: .25rem;
+			outline: .25rem solid;
+		}
 	}
 }
 
