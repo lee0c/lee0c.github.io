@@ -80,8 +80,8 @@ Maintains website, storefront, and inventory for a diverse set of artistic goods
 
 <ul>
 <li>Designs and creates art/crafts in a variety of mediums ranging from visual to functional.</li>
-<li>Presents work in several art shows in and around Seattle.</li>
-<li>Runs booths at art fairs and hosts a studio for VIVA Art Studio Tours.</li>
+<li>Presents work in art shows in and around Seattle.</li>
+<li>Runs booths at art fairs and hosts a studio for Vashon Island Visual Artists Art Studio Tours.</li>
 </ul>
 </div>
 
