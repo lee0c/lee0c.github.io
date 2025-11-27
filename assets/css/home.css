@@ -214,16 +214,16 @@ Pagination
 	font-weight: bold;
 	line-height: 1;
 	text-decoration: none;
-	box-shadow: .25rem .25rem var(--color-shadow);
-	position: relative;
-	top: 0;
-	left: 0;
-	transition: top .1s ease-in, left .1s ease-in;
 }
 
 .pagination-active {
 	color: var(--color-pink);
 	border-color: var(--color-pink);
+	box-shadow: .25rem .25rem var(--color-shadow);
+	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .1s ease-in, left .1s ease-in;
 }
 
 .pagination-active:focus {
