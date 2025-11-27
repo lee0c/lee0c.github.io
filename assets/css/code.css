@@ -88,7 +88,7 @@ pre {
 	margin-top: 0;
 	margin-bottom: 1rem;
 	padding: 1rem;
-	font-size: .8rem;
+	font-size: .85rem;
 	line-height: 1.4;
 	white-space: pre;
 	white-space: pre-wrap;
@@ -126,7 +126,7 @@ pre code {
 	background-color: transparent;
 }
 .gist .gist-file .gist-data {
-	font-size: .8rem !important;
+	font-size: .85rem !important;
 	line-height: 1.4;
 }
 .gist code {
