@@ -32,7 +32,7 @@
 
 #menu ul {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: center;
 	gap: 2%;
 	margin: 0 1rem;
 }
@@ -94,17 +94,40 @@
 	box-shadow: .05rem .05rem var(--color-shadow);
 }
 
+#current-page a {
+	border-color: var(--color-teal);
+	color: var(--color-teal);
+}
+
+#current-page a:focus {
+	color: var(--color-bg);
+	background-color: var(--color-teal);
+}
+
+@media (any-hover: hover) {
+	#current-page a:hover {
+		color: var(--color-bg);
+		background-color: var(--color-teal);
+	}
+}
+
 .site-header i {
 	color: var(--color-teal);
 	padding-left: .25rem;
 }
 
-.site-header a:focus i {
+#current-page i {
+	color: var(--color-pink);
+}
+
+.site-header a:focus i,
+#current-page a:focus i {
 	color: var(--color-bg);
 }
 
 @media (any-hover: hover) {
-	.site-header a:hover i {
+	.site-header a:hover i,
+	#current-page a:hover i {
 		color: var(--color-bg);
 	}
 }
