@@ -4,7 +4,7 @@ title: attribution
 permalink: /attribution
 ---
 
-This site is based on [Millennial](https://lenpaul.github.io/Millennial/){:target="_blank"}, a minimalist Jekyll theme for running a blog or publication by Paul Le.
+This site is based on, though long diverged from, [Millennial](https://lenpaul.github.io/Millennial/){:target="_blank"}, a minimalist Jekyll theme for running a blog or publication by Paul Le.
 
 The font is [Atkinson Hyperlegible](https://brailleinstitute.org/freefont){:target="_blank"}, specifically designed for low-vision readers to improve character recognition.
 
