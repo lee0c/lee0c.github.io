@@ -12,7 +12,7 @@ permalink: /contact
     <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or text (no phone calls!)</dt>
     <dd>seven seven four, two four nine, zero five eight six</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
-    <dd>inherentlee#5139</dd>
+    <dd>inherentlee</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> snail mail</dt>
     <dd>message me for address!</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-signature"></i> guestbook?</dt>
