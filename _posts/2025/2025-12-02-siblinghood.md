@@ -11,7 +11,7 @@ tags:
 
 welcome to the siblinghood of the traveling greeting card.
 
-originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard hashtag](https://flipping.rocks/tags/siblinghoodOfTheTravelingGreetingCard){:target="_blank"} - with original idea credited to [noctiluca@scholar.social](https://scholar.social/@noctiluca){:target="_blank"}
+originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard hashtag](https://flipping.rocks/tags/siblinghoodOfTheTravelingGreetingCard){:target="_blank"} - with original idea thanks to [noctiluca@scholar.social](https://scholar.social/@noctiluca){:target="_blank"}
 
 ## objective
 
