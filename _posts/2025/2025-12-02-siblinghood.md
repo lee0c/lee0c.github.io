@@ -71,3 +71,5 @@ this is, at the end of the day, pretty flexible, but what I would *really, reall
 read all that? too long, didn't bother? either way.
 
 [sign up for the siblinghood of the traveling greeting card here](https://airtable.com/appdoHZsRDUzgYu9q/pagsr9LVAqKx29gDl/form){:target="_blank"}
+
+(if airtable is for any reason inaccessible to you, please [reach out directly](/contact))
