@@ -6,6 +6,7 @@ image:
     name: wax-seals.jpg
     alt: "Two envelopes with wax seals. The top envelope is cream with a copper-and-white swirled seal depicting a yelling possum holding mail. The bottom envelope is marbled blue, black, and gold, with a white-and-blue swirled seal depicting an octopus holding a fountain pen."
 tags:
+    - stationery
 ---
 
 Wax seals pictured from [boygirlparty](https://hello.boygirlparty.com){:target="_blank"}.

@@ -6,6 +6,7 @@ image:
     name: rockery.jpg
     alt: "Image unrelated to post. A surprisingly neat pile of rounded beach rocks, mainly speckly grey-white-bluish ones, with trees in the background."
 tags:
+    - stationery
 ---
 
 welcome to the siblinghood of the traveling greeting card.
