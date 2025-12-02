@@ -20,6 +20,8 @@ from a group of participants, a random list will be formed. every person is give
 
 this continues on to the last person, who finally signs and sends back to the first, closing the loop and ending the adventure. the first person gets to keep the card they originally sent out.
 
+if we want to, this can be easily re-run - add folks who want to be added, drop folks who want to be dropped, scramble the list, and start again.
+
 ### participants
 
 Any number, but in the case of signups reaching 26 or greater people, the cohort will be split. Why 26? I'd like this to not run significantly longer than a year, and I'm *very loosely* estimating that each person will add 2 weeks to the timeline.
