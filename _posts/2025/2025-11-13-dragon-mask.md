@@ -7,6 +7,7 @@ image:
     alt: "lee (a white person with glasses and a side shave) holds up a leather dragon mask in black and dark green. ze sticks hir tongue out at it."
 tags:
     - leather
+    - highlight
 ---
 
 pattern by [PaintYee](https://www.etsy.com/listing/831499316/pdf-pattern-leather-dragon-mask){:target="_blank"}
