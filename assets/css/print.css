@@ -9,7 +9,13 @@
 
   a {
     text-decoration-style: dotted;
-    text-decoration-thickness: 1px;
+    text-decoration-thickness: .1rem;
+  }
+
+  @media (any-hover: hover) {
+    a:hover {
+      text-decoration-thickness: .2rem;
+    }
   }
 
   a::after{
