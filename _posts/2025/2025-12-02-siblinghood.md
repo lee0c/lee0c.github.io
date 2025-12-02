@@ -10,6 +10,8 @@ tags:
 
 welcome to the siblinghood of the traveling greeting card.
 
+originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard hashtag](https://flipping.rocks/tags/siblinghoodOfTheTravelingGreetingCard){:target="_blank"}.
+
 ## objective
 
 send a greeting card around the world. maybe more than one. we'll see.
