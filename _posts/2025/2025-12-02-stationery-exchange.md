@@ -21,6 +21,8 @@ similar to a Secret Santa (but not holiday-oriented), each participant is assign
 
 because of international shipping prices, participants will opt in to broad location categories that they are able to ship to (US, EU, and rest of world). You are encouraged to provide more detail about your shipping abilities in a free text field following the opt-in question - if you'd like to check where you are unable to send mail to, try [postcrossing's postal monitor](https://www.postcrossing.com/postal-monitor){:target="_blank"}. I will do my absolute best to accommodate shipping restrictions and needs. If you are unable to be matched with a gifter and/or a giftee I will reach out.
 
+**CAVEAT:** this can only occur if we get enough people. 'enough' is rather unquantifiable here, as it depends on the shipping needs of the recipients. As long as gift assignments are possible, we will get this off the ground!
+
 ### timeline
 
 this is **tentative** at current. Stay tuned for more surety once a poll closes.
@@ -43,4 +45,6 @@ in the event of a drop-out or other issue, I will be providing one or two backup
 
 ## let's do it!
 
-a sign-up form is in progress. Until it is published (eta Dec 5th at the latest), follow the [stationeryExchange hashtag](https://flipping.rocks/tags/stationeryExchange){:target="_blank"}.
+[sign up for the stationery exchange](https://airtable.com/appdTQoPQRBcMTPk7/pagT8xLSSk6XPC6eJ/form){:target="_blank"}
+
+(if airtable is for any reason inaccessible to you, please [reach out directly](/contact))
