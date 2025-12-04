@@ -66,6 +66,20 @@ this is, at the end of the day, pretty flexible, but what I would *really, reall
 - 2 emails, one on receipt and one on re-sending. This allows me to check in on progress and ensure the card doesn't get too stalled, or lost.
 - more optionally, but fun for seeing how things are going: a picture of the card (**not** the envelope!)
 
+## what I'll send participants
+
+### guidelines
+
+all guidelines (which you can always find here!) will be repeated over email so you have a local copy. They may *additionally* be ported over to a standalone site if we find we want somewhere not-on-this-website for pictures and travel deets (don't worry, no addresses. Nothing more specific than country or state).
+
+### recipient and loop order assignment
+
+each participant will be sent the name and address of the next person in the loop. They will *also* be sent their place in the loop, numbered from 1.
+
+### reminders
+
+I'll be doing my level best to track the card's movement, so as it is sent around (assuming I get check-ins from y'all! please help me out here!) I will send out reminders to folks to either check their mail or make sure the card gets sent out again. Some folks have specifically asked for this support and I don't want to let them down, so more communication is always better.
+
 ## i want in!
 
 read all that? too long, didn't bother? either way.
