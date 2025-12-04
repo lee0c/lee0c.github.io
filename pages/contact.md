@@ -25,7 +25,7 @@ permalink: /contact
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
-    <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a></dd>
+    <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a> (largely unused)</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i> twitch</dt>
     <dd><a href="https://twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
