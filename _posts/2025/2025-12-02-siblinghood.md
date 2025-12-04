@@ -13,6 +13,25 @@ welcome to the siblinghood of the traveling greeting card.
 
 originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard hashtag](https://flipping.rocks/tags/siblinghoodOfTheTravelingGreetingCard){:target="_blank"} - with original idea thanks to [noctiluca@scholar.social](https://scholar.social/@noctiluca){:target="_blank"}
 
+## table of contents
+
+- [objective](#objective)
+- [outline](#outline)
+  - [timeline](#timeline)
+  - [participants](#participants)
+  - [on randomization](#on-randomization)
+  - [card guidelines](#card-guidelines)
+  - [address privacy](#address-privacy)
+- [what I'll need from participants](#what-ill-need-from-participants)
+  - [signing the card](#signing-the-card)
+  - [mailing it back out](#mailing-it-back-out)
+  - [status checks](#status-checks)
+- [what I'll send participants](#what-ill-send-participants)
+  - [guidelines](#guidelines)
+  - [recipient and loop order assignment](#recipient-and-loop-order-assignment)
+  - [reminders](#reminders)
+- [I want in!](#i-want-in)  
+
 ## objective
 
 send a greeting card around the world. maybe more than one. we'll see.
@@ -88,7 +107,7 @@ each participant will be sent the name and address of the next person in the loo
 
 I'll be doing my level best to track the card's movement, so as it is sent around (assuming I get check-ins from y'all! please help me out here!) I will send out reminders to folks to either check their mail or make sure the card gets sent out again. Some folks have specifically asked for this support and I don't want to let them down, so more communication is always better.
 
-## i want in!
+## I want in!
 
 read all that? too long, didn't bother? either way.
 
