@@ -35,6 +35,8 @@ your marching orders (recipient address, order in loop) will arrive by email no 
 
 any number, but in the case of signups reaching 26 or greater people, the cohort will be split. Why 26? I'd like this to not run significantly longer than a year, and I'm *very loosely* estimating that each person will add 2 weeks to the timeline.
 
+**update:** we are currently at 27 participants and will be running two loops! Don't worry, that doesn't change what you as participants do.
+
 ### on randomization
 
 I will edit the list as needed to accommodate any mailing restrictions. I will also re-roll if I am placed first on the list.
