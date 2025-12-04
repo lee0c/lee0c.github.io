@@ -7,9 +7,11 @@ permalink: /contact
 ## contact me
 
 <dl>
+    <dt><i aria-hidden="true" class="fa-brands fa-signal-messenger"></i> signal</dt>
+    <dd>inherentlee.13</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or text (no phone calls!)</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> text (no phone calls!)</dt>
     <dd>seven seven four, two four nine, zero five eight six</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
     <dd>inherentlee</dd>
