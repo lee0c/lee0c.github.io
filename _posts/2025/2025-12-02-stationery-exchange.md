@@ -17,7 +17,7 @@ originated on the fediverse - see the [#stationeryExchange hashtag](https://flip
 
 ## outline
 
-similar to a Secret Santa (but not holiday-oriented), each participant is assigned a recipient. Participants assemble an envelope or package (estimate around $20-25 in value, but you are *highly encouraged* to pull from your own supplies, thrift, or make things yourself before buying new) and send to their recipients.
+similar to a Secret Santa (but not holiday-oriented), each participant is assigned a recipient. Participants assemble an envelope or package (estimate around $20-25 in value (not incl. shipping), but you are *highly encouraged* to pull from your own supplies, thrift, or make things yourself before buying new) and send to their recipients.
 
 because of international shipping prices, participants will opt in to broad location categories that they are able to ship to (US, EU, and rest of world). You are encouraged to provide more detail about your shipping abilities in a free text field following the opt-in question - if you'd like to check where you are unable to send mail to, try [postcrossing's postal monitor](https://www.postcrossing.com/postal-monitor){:target="_blank"}. I will do my absolute best to accommodate shipping restrictions and needs. If you are unable to be matched with a gifter and/or a giftee I will reach out.
 
