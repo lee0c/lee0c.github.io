@@ -25,9 +25,15 @@ this continues on to the last person, who finally signs and sends back to the fi
 
 if we want to, this can be easily re-run - add folks who want to be added, drop folks who want to be dropped, scramble the list, and start again.
 
+### timeline
+
+accepting new applications for this first round until **December 15th, 2025**. After the 15th, you may still put in for future rounds, but be aware future rounds are not confirmed yet and will not be confirmed for at least 6 months most likely.
+
+your marching orders (recipient address, order in loop) will arrive by email no later than **January 1st, 2026**.
+
 ### participants
 
-Any number, but in the case of signups reaching 26 or greater people, the cohort will be split. Why 26? I'd like this to not run significantly longer than a year, and I'm *very loosely* estimating that each person will add 2 weeks to the timeline.
+any number, but in the case of signups reaching 26 or greater people, the cohort will be split. Why 26? I'd like this to not run significantly longer than a year, and I'm *very loosely* estimating that each person will add 2 weeks to the timeline.
 
 ### on randomization
 
