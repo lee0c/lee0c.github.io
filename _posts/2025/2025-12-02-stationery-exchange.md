@@ -23,9 +23,9 @@ because of international shipping prices, participants will opt in to broad loca
 
 ### timeline
 
-this is **tentative** at current. Stay tuned for more surety once a poll closes.
+sign up form will close on **December 15th, 2025**. Participants will receive their giftee's details by **January 1st, 2026**.
 
-ship-by date of the end of January. Packages will be expected to arrive at some point in February. If any recipient hasn't received a package by end of February, I will follow up with their designated gifter.
+ship-by date of **February 15th, 2026**, giving participants **1 and a half months** to prepare and send their package. Packages will be expected to arrive by **March 15th, 2026**. If any recipient hasn't received a package by that time, I will follow up with their designated gifter.
 
 reach out if you need flexibility regarding timeline!
 
