@@ -7,9 +7,11 @@ permalink: /contact
 ## contact me
 
 <dl>
+    <dt><i aria-hidden="true" class="fa-brands fa-signal-messenger"></i> signal</dt>
+    <dd>inherentlee.13</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> signal or text (no phone calls!)</dt>
+    <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> text (no phone calls!)</dt>
     <dd>seven seven four, two four nine, zero five eight six</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-discord"></i> discord</dt>
     <dd>inherentlee</dd>
@@ -23,7 +25,7 @@ permalink: /contact
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-mastodon"></i> the fediverse/mastodon</dt>
-    <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a></dd>
+    <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a> (largely unused)</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i> twitch</dt>
     <dd><a href="https://twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
@@ -43,8 +45,6 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 <dl>
     <dt><i aria-hidden="true" class="fa-regular fa-square"></i> square</dt>
     <dd><a href="https://riverside-refuge.square.site/" target="_blank">Riverside Refuge Studio</a></dd>
-    <dt><i aria-hidden="true" class="fa-solid fa-egg"></i> artisans cooperative</dt>
-    <dd><a href="https://artisans.coop/pages/seller-profiles/riverside-refuge-studio" target="_blank">Riverside Refuge Studio</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-store"></i> faire (wholesale)</dt>
     <dd><a href="https://faire.com/direct/riversiderefugestudio" target="_blank">Riverside Refuge Studio</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-mug-saucer"></i> kofi (now the home of <a href="https://fedizinefest.fyi">FediZineFest 2025</a> and <a href="https://rescue-trans-rescue.glitch.me" target="_blank">Rescue Trans Rescue</a>)</dt>
@@ -63,6 +63,12 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 ---
 
 ## in physical stores!
+
+### Colorado
+
+#### Denver
+
+- [(dis)obedience](https://www.disobediencedenver.com){:target="_blank"}: stickers, pins, cards
 
 ### Oregon
 
