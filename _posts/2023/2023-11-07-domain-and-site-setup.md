@@ -5,6 +5,8 @@ category: reference
 image: 
     name: crinkly-mushrooms.jpg
     alt: "Picture unrelated to post. Some crinkly brown-orange mushrooms in vibrant green grass."
+tags:
+    - software
 ---
 
 This was written as a skill share for the Artisans Cooperative blog.
