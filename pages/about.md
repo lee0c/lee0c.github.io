@@ -41,8 +41,3 @@ this site is a member of:
     <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?rnd" target="_blank">rand</a>|
     <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?nxt&s=lee" target="_blank">next &gt;</a>
 </div>
-
-
-## this is a test
-
-write something
