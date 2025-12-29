@@ -4,8 +4,6 @@ title: resume
 permalink: /resume
 ---
 
-[view the pdf version](assets/pdf/resume.pdf) - there may be small discrepancies in wording between versions
-
 ---
 
 <h2 class="centered upper">Lee Cattarin</h2>
@@ -121,11 +119,22 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>Solstice Market (<a href="https://beall-greenhouses-market.pages.dev" target="_blank">beall-greenhouses-market.pages.dev</a>)</h4>
-<p class="col2"><time datetime="2023-12">October 2025</time> – Present</p>
+<h4>Siblinghood of the Traveling Greeting Card</h4>
+<p class="col2"><time datetime="2025-11">November 2025</time> – Present</p>
 </div>
 
-<p>Created logo and maintains website for an art market featuring 8 artists including self.</p>
+<p>Created logo, develops and maintains website, and manages communication and logistics for a ~30 person global community building project.</p>
+</div>
+
+<div class="spacer"></div>
+
+<div class="job">
+<div class="two-col job-details">
+<h4>Solstice Market (<a href="https://beall-greenhouses-market.pages.dev" target="_blank">beall-greenhouses-market.pages.dev</a>)</h4>
+<p class="col2"><time datetime="2025-10">October 2025</time> – Present</p>
+</div>
+
+<p>Created logo, develops and maintains website, and manages artist information for an art market featuring 8 artists including self.</p>
 </div>
 
 <div class="spacer"></div>
@@ -133,7 +142,7 @@ Developed a chatbot add-on for the Azure Android application.
 <div class="job">
 <div class="two-col job-details">
 <h4>FediZineFest (<a href="https://fedizinefest.fyi" target="_blank">fedizinefest.fyi</a>)</h4>
-<p class="col2"><time datetime="2023-12">December 2023</time> – Present</p>
+<p class="col2"><time datetime="2023-12">December 2023</time> – <time datetime="2025-07">July 2025</time></p>
 </div>
 
 <p>Created and ran a global event for zine artists on the fediverse (Mastodon) for two years. Coordinated website, physical material shipping and logistics, payment, and marketing for a 40–50 person project.</p>
