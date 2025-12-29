@@ -8,7 +8,6 @@ image:
 tags:
     - shirt
     - print
-    - patch
 ---
 
 Learn more about [Artisans Cooperative](https://artisans.coop/){:target="_blank"}, a new platform for makers and supporters.

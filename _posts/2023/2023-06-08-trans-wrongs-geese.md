@@ -7,7 +7,6 @@ image:
     alt: "Two Canada geese and their reflections in the water. One is calmly swimming away, while the over leans over towards them and HONKS! Both have speech bubbles; the calm goose says 'trans rights!' while the honking goose says 'trans wrongs!'"
 tags:
     - print
-    - patch
     - shirt
     - gender
 ---

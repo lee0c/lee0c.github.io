@@ -7,7 +7,6 @@ image:
     alt: "A print of a nonbinary flag waving, with yellow, white (uninked), purple, and black stripes."
 tags:
     - print
-    - patch
     - card
     - gender
 ---

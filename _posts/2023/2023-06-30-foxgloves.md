@@ -7,7 +7,6 @@ image:
     alt: "A print of a cluster of foxgloves. The background is inked in green, with negative space and pink details making up the foxgloves."
 tags:
     - print
-    - patch
     - card
     - shirt
 ---

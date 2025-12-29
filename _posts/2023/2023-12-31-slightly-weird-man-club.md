@@ -7,7 +7,6 @@ image:
     alt: "A print that reads 'slightly weird man club' in a nonbinary flag colored gradient"
 tags:
     - print
-    - patch
     - shirt
     - gender
 ---

@@ -54,7 +54,7 @@ your marching orders (recipient address, order in loop) will arrive by email no 
 
 any number, but in the case of signups reaching 26 or greater people, the cohort will be split. Why 26? I'd like this to not run significantly longer than a year, and I'm *very loosely* estimating that each person will add 2 weeks to the timeline.
 
-**update:** we are currently at 27 participants and will be running two loops! Don't worry, that doesn't change what you as participants do.
+**update:** we closed signups at 32 participants and will be running two loops! Don't worry, that doesn't change what you as participants do.
 
 ### on randomization
 
@@ -101,7 +101,7 @@ all guidelines (which you can always find here!) will be repeated over email so 
 
 ### recipient and loop order assignment
 
-each participant will be sent the name and address of the next person in the loop. They will *also* be sent their place in the loop, numbered from 1.
+each participant will be sent the name and address of the next person in the loop. They will *also* be sent their place in the loop, numbered from **0**.
 
 ### reminders
 

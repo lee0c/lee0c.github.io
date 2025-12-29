@@ -150,7 +150,7 @@ a {
 	margin: 0 .1rem;
 }
 
-a:focus {
+a:focus-visible {
 	text-decoration: none;
 	border-radius: 1rem;
 	outline: .25rem solid var(--color-teal);
@@ -181,7 +181,7 @@ button {
 	}
 }
 
-button:focus {
+button:focus-visible {
 	color: var(--color-bg);
 	background-color: var(--color-pink);
 	outline: solid var(--color-teal);
@@ -293,7 +293,7 @@ Tags
 	border: .08rem solid var(--color-teal);
 }
 
-.tag:focus {
+.tag:focus-visible {
 	outline: none;
 	background-color: var(--color-teal);
 	color: var(--color-bg);
@@ -308,7 +308,7 @@ Tags
 }
 
 @media (forced-colors: active) {
-	.tag:focus {
+	.tag:focus-visible {
 		outline-offset: .08rem;
 		outline: .08rem solid;
 	}

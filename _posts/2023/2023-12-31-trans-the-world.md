@@ -7,7 +7,6 @@ image:
     alt: "A print that reads 'trans the world' surrounding an image of a globe and a trans symbol. It's in a ping-to-blue gradient."
 tags:
     - print
-    - patch
     - shirt
     - gender
 ---

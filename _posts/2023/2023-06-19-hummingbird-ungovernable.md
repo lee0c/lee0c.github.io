@@ -7,7 +7,6 @@ image:
     alt: "A block print in black and orange ink of a rufous hummingbird, tail flared, hovering in midair. Clutched in eir tiny claws is a banner that waves in the wind and reads 'become ungovernable'"
 tags:
     - print
-    - patch
     - card
     - shirt
 ---

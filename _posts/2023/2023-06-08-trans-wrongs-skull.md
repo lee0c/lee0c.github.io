@@ -7,7 +7,6 @@ image:
     alt: "A smiling skull with devil horns and a little spiked tail, and a speech bubble reading 'trans wrongs!'"
 tags:
     - print
-    - patch
     - card
     - sticker
     - pin
