@@ -7,7 +7,6 @@ image:
     alt: "A print of a small shrimp with slender little leggies in orange ink."
 tags:
     - print
-    - patch
     - card
     - sticker
     - pin

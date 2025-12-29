@@ -7,7 +7,6 @@ image:
     alt: "A block print of a tiger swallowtail butterfly dangling from Japanese snowdrops, a white drooping flower."
 tags:
     - print
-    - patch
     - card
     - shirt
 ---

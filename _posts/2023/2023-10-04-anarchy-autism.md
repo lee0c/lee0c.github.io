@@ -7,10 +7,8 @@ image:
     alt: "A print in rainbow ink that says autism with the anarchy A."
 tags:
     - print
-    - patch
     - sticker
     - shirt
-    - card
     - pin
 ---
 

@@ -8,7 +8,6 @@ image:
 tags:
     - print
     - patch
-    - card
     - gender
 ---
 

@@ -7,7 +7,6 @@ image:
     alt: "A print of a stellar's jay, a beautiful black and blue bird, about to take off from a branch"
 tags:
     - print
-    - patch
     - card
     - shirt
 ---

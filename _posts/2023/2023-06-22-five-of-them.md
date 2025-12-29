@@ -7,8 +7,6 @@ image:
     alt: "A block print of five mule deer grazing in a dark green field. The deer are partially negative space and partially brown ink detailing."
 tags:
     - print
-    - patch
-    - card
     - shirt
 ---
 

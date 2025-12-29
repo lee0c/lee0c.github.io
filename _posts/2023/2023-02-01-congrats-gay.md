@@ -7,7 +7,6 @@ image:
     alt: "A greeting card reading, in black. 'Congrats on the,' and then, in rainbow, 'Gay!'"
 tags:
     - print
-    - patch
     - card
     - gender
 ---

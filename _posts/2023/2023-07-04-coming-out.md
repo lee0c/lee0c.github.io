@@ -7,7 +7,6 @@ image:
     alt: "A card and print in the same design - a chick and a broken eggshell, and a simple font reading 'congrats on coming out of your shell'"
 tags:
     - print
-    - patch
     - card
     - gender
 ---

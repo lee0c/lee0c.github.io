@@ -7,7 +7,6 @@ image:
     alt: "A print of two chanterelle mushrooms inked in a dark-to-light yellow gradient."
 tags:
     - print
-    - patch
     - card
 ---
 

@@ -7,7 +7,6 @@ image:
     alt: "A card and print in the same design - a bouncy, cheery font reading 'happy biHRTday'"
 tags:
     - print
-    - patch
     - card
     - gender
 ---
