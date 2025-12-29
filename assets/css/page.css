@@ -68,7 +68,7 @@
 	padding: 0 .5rem;
 }
 
-.section-anchor:focus {
+.section-anchor:focus-visible {
 	background-color: var(--color-teal);
 	color: var(--color-bg);
 	outline: none;
@@ -83,7 +83,7 @@
 }
 
 @media (forced-colors: active) {
-	.section-anchor:focus {
+	.section-anchor:focus-visible {
 		outline-offset: .1rem;
 		outline: .1rem solid;
 	}

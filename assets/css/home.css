@@ -23,7 +23,7 @@
 }
 
 @media (forced-colors: active) {
-	.featured-post:focus {
+	.featured-post:focus-visible {
 		outline-offset: .25rem;
 		outline: .25rem solid;
 	}
@@ -52,7 +52,7 @@ article:nth-child(odd) .featured-post {
 	border-color: var(--color-teal);
 }
 
-article:nth-child(odd) .featured-post:focus {
+article:nth-child(odd) .featured-post:focus-visible {
 	background-color: var(--color-teal);
 }
 
@@ -71,7 +71,7 @@ article:nth-child(even) .featured-post {
 	border-color: var(--color-pink);
 }
 
-article:nth-child(even) .featured-post:focus {
+article:nth-child(even) .featured-post:focus-visible {
 	background-color: var(--color-pink);
 }
 
@@ -112,13 +112,13 @@ article:nth-child(even) .featured-post h2 {
 	text-align: right;
 }
 
-article:nth-child(odd) .featured-post:focus h2 {
+article:nth-child(odd) .featured-post:focus-visible h2 {
 	color: var(--color-bg);
 	border-color: var(--color-bg);
 	background-color: var(--color-teal);
 }
 
-article:nth-child(even) .featured-post:focus h2 {
+article:nth-child(even) .featured-post:focus-visible h2 {
 	color: var(--color-bg); /* Can't dedupe these because of specificity rules */
 	border-color: var(--color-bg);
 	background-color: var(--color-pink);
@@ -166,16 +166,16 @@ article:nth-child(even) .featured-tags p {
 }
 
 /* also tags (same as .featured-tags) just the focus lands on the post obj */
-.featured-post:focus p {
+.featured-post:focus-visible p {
 	background-color: var(--color-pink);
 }
 
-article:nth-child(odd) .featured-post:focus p {
+article:nth-child(odd) .featured-post:focus-visible p {
 	color: var(--color-teal);
 	background-color: var(--color-bg);
 }
 
-article:nth-child(even) .featured-post:focus p {
+article:nth-child(even) .featured-post:focus-visible p {
 	color: var(--color-pink);
 	background-color: var(--color-bg);
 }
@@ -226,7 +226,7 @@ Pagination
 	transition: top .1s ease-in, left .1s ease-in;
 }
 
-.pagination-active:focus {
+.pagination-active:focus-visible {
 	color: var(--color-bg);
 	background-color: var(--color-pink);
 	border-color: var(--color-pink);
@@ -245,7 +245,7 @@ Pagination
 }
 
 @media (forced-colors: active) {
-	.pagination-active:focus {
+	.pagination-active:focus-visible {
 		outline-offset: .25rem;
 		outline: .25rem solid;
 	}
