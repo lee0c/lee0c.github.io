@@ -20,6 +20,7 @@ Wax seals pictured from [boygirlparty](https://hello.boygirlparty.com){:target="
 - [Saturn Press](https://www.saturnpress.us){:target="_blank"}
 - [Shaven Raven Designs](https://www.shavenravendesigns.com){:target="_blank"}
 - [Worthwhile Paper](https://worthwhilepaper.com/){:target="_blank"}
+- [Embossed Graphics](https://www.embossedgraphics.com){:target="_blank"} 
 
 ## Mediocre
 
