@@ -9,7 +9,7 @@ tags:
     - stationery
 ---
 
-welcome to the siblinghood of the traveling greeting card.
+welcome to the siblinghood of the traveling greeting card. it now has a home at [siblinghood.quest](https://siblinghood.quest){:target="_blank"}.
 
 originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard hashtag](https://flipping.rocks/tags/siblinghoodOfTheTravelingGreetingCard){:target="_blank"} - with original idea thanks to [noctiluca@scholar.social](https://scholar.social/@noctiluca){:target="_blank"}
 
