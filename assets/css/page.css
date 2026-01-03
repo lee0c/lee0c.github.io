@@ -131,6 +131,10 @@
 	margin: 0;
 }
 
+.job-details a {
+	font-size: 1rem;
+}
+
 .job p {
 	margin-top: 0;
 }

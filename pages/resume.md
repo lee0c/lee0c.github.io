@@ -11,7 +11,7 @@ permalink: /resume
 <p class="centered">
 he/him or ze/hir • Vashon, WA 98070
 <br/>
-<a href="mailto:lee.cattarin@gmail.com">lee.cattarin@gmail.com</a> • <a href="/">this very website</a> • <a href="https://linkedin.com/in/lee-cattarin" target="_blank">linkedin.com/in/lee-cattarin</a>
+<a href="mailto:lee.cattarin@gmail.com?subject=Resume%20inquiry">lee.cattarin@gmail.com</a> • <a href="/">this very website</a> • <a href="https://linkedin.com/in/lee-cattarin" target="_blank">linkedin.com/in/lee-cattarin</a>
 </p>
 
 <h3 class="centered upper">Platforms Engineer</h3>
@@ -79,7 +79,7 @@ Maintains website, storefront, and inventory for a diverse set of artistic goods
 <ul>
 <li>Designs and creates art/crafts in a variety of mediums ranging from visual to functional.</li>
 <li>Presents work in art shows in and around Seattle.</li>
-<li>Runs booths at art fairs and hosts a studio for Vashon Island Visual Artists Art Studio Tours.</li>
+<li>Runs booths or studio space at art fairs and markets.</li>
 </ul>
 </div>
 
@@ -119,7 +119,7 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>Siblinghood of the Traveling Greeting Card</h4>
+<h4>Siblinghood of the Traveling Greeting Card (<a href="https://siblinghood.quest" target="_blank">siblinghood.quest</a>)</h4>
 <p class="col2"><time datetime="2025-11">November 2025</time> – Present</p>
 </div>
 
@@ -134,7 +134,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2025-10">October 2025</time> – Present</p>
 </div>
 
-<p>Created logo, develops and maintains website, and manages artist information for an art market featuring 8 artists including self.</p>
+<p>Created logo, develops and maintains website, and manages artist information for the Beall Greenhouses artist studios.</p>
 </div>
 
 <div class="spacer"></div>
@@ -152,7 +152,7 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>Rescue Trans Rescue</h4>
+<h4>Rescue Trans Rescue (<a href="https://rescue-trans-rescue.quest" target="_blank">rescue-trans-rescue.quest</a>)</h4>
 <p class="col2"><time datetime="2024">2024</time></p>
 </div>
 
