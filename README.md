@@ -10,8 +10,10 @@ Primarily intended for art purposes, and possibly learning a little about front-
 - Install dependencies with `bundle install`
 - Run with `bundle exec jekyll serve` or just `jekyll serve`
 
-## resize images
+## Resize images
 
-`sudo apt install imagemagick` if necessary
+this script will only resize images with width greater than 1200
 
-`mogrify -resize 1200x *` from `assets/img`
+```sh
+./mogrify.sh # from base dir
+```
