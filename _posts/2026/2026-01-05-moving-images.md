@@ -45,7 +45,7 @@ IMAGE_LINE=$(cat $FILE | grep -E "name:.+jpg|png$")
 
 that output gets us the full line of text that includes the image filename. Let's trim out what we actually want.
 
-below, `-d` sets a delimiter, and `-f` chooses what field we want to return. Because there's 4 spaces before `name` (my next task: converting spaces to tabs in all my files), our field index is actually pretty high - `cut` is creating 4 empty strings.
+below, `-d` sets a delimiter, and `-f` chooses what field we want to return. Because there's 4 spaces before `name`, our field index is actually pretty high - `cut` is creating 4 empty strings.
 
 ```sh
 IMAGE=$(echo $IMAGE_LINE | cut -d ' ' -f 6 -)
