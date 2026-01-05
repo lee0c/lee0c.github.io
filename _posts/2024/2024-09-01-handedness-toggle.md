@@ -161,7 +161,7 @@ Now, the menu should re-orient itself when we interact with the toggle. However,
 
 (Forgive the lack of continuity with the header image.)
 
-![the navbar of this site in dark mode. from left to right, there's pink and blue icons of: a hand pointing right, images, file folder, user/person, opened mail, and a lightbulb.](assets/img/handedness-toggle-1.png)
+![the navbar of this site in dark mode. from left to right, there's pink and blue icons of: a hand pointing right, images, file folder, user/person, opened mail, and a lightbulb.](assets/img/2024/handedness-toggle-1.png)
 
 ### moving the button
 
@@ -183,7 +183,7 @@ function setAlignLeft() {
 
 Cool! Now we have a menu that re-aligns itself *and* repositions the alignment button.
 
-![The same navbar, now with elements reordered. The hand pointing right now lands at the end of the menu. Incidentally, the theme button has also been swapped and is at the start of the menu but that's not relevant.](assets/img/handedness-toggle-2.png)
+![The same navbar, now with elements reordered. The hand pointing right now lands at the end of the menu. Incidentally, the theme button has also been swapped and is at the start of the menu but that's not relevant.](assets/img/2024/handedness-toggle-2.png)
 
 ### keyboard navigation
 
@@ -228,7 +228,7 @@ function toggleAlign(event) {
 
 Now we should only replace visible focus for keyboard interactions.
 
-![Navbar showing handedness toggle in focus, pointing right. It has a bright blue outline, pink background, and dark icon image.](assets/img/handedness-toggle-3.png)
+![Navbar showing handedness toggle in focus, pointing right. It has a bright blue outline, pink background, and dark icon image.](assets/img/2024/handedness-toggle-3.png)
 
 ## thanks for reading
 
