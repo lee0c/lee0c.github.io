@@ -29,8 +29,8 @@ param resourceGroupName string = 'myResourceGroup'
 param location string = "westus2"
 
 resource resourceGroup 'Microsoft.Resources/resourceGroups@2022-09-01' = {
-  name: resourceGroupName
-  location: location
+    name: resourceGroupName
+    location: location
 }
 ```
 
@@ -98,13 +98,13 @@ From there, let's use `cut` to strip off the parts we don't want.
 # this gets us strings like
 # Microsoft.Resources/resourceGroups
 grep -E "^resource " "$file" \
-   | cut -d "'" -f 2 - \
-   | cut -d "@" -f 1 -
+    | cut -d "'" -f 2 - \
+    | cut -d "@" -f 1 -
 
 # this gets us strings like
 # ../../modules/vm/main.bicep
 grep -E "^module " "$file" \
-   | cut -d "'" -f 2 -
+    | cut -d "'" -f 2 -
 ```
 
 These calls are a little opaque. `-d` sets a **delimiter** (what to split on). `-f` picks a **field** to return, numbered from 1.
@@ -115,10 +115,10 @@ We'll save these values to variables. `mapfile` reads a file, putting each line 
 
 ```sh
 mapfile -t resources < <(grep -E "^resource " "$file" \
-   | cut -d "'" -f 2 - \
-   | cut -d "@" -f 1 -)
+    | cut -d "'" -f 2 - \
+    | cut -d "@" -f 1 -)
 mapfile -t modules < <(grep -E "^module " "$file" \
-   | cut -d "'" -f 2 -)
+    | cut -d "'" -f 2 -)
 ```
 
 ### dirname (& more)
@@ -127,14 +127,14 @@ We can't just stop there. We need to search each module in turn. Using `dirname`
 
 ```sh
 get_resources () {
-  # ... grep, cut, etc ...
+    # ... grep, cut, etc ...
 
-  directory=$(dirname "$file")
+    directory=$(dirname "$file")
 
-  for module in "${modules[@]}"
-  do
-    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
-  done
+    for module in "${modules[@]}"
+    do
+        mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
+    done
 }
 ```
 
@@ -150,20 +150,20 @@ So far, our code looks like this:
 
 ```sh
 get_resources () {
-  mapfile -t resources < <(grep -E "^resource " "$file" \
-    | cut -d "'" -f 2 - \
-    | cut -d "@" -f 1 -)
-  mapfile -t modules < <(grep -E "^module " "$file" \
-    | cut -d "'" -f 2 -)
+    mapfile -t resources < <(grep -E "^resource " "$file" \
+        | cut -d "'" -f 2 - \
+        | cut -d "@" -f 1 -)
+    mapfile -t modules < <(grep -E "^module " "$file" \
+        | cut -d "'" -f 2 -)
 
-  directory=$(dirname "$file")
+    directory=$(dirname "$file")
 
-  for module in "${modules[@]}"
-  do
-    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
-  done
+    for module in "${modules[@]}"
+    do
+        mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
+    done
 
-  for resource in "${resources[@]}"; do; echo "$resource"; done
+    for resource in "${resources[@]}"; do; echo "$resource"; done
 }
 ```
 
@@ -193,15 +193,15 @@ We'll use `az` to list *all* the locations - just to give ourselves a starting p
 
 ```sh
 mapfile -t locations < <(az account list-locations --query "[].displayName" \
-  --out tsv)
+    --out tsv)
 ```
 
 We can then use an `az` command to find available locations for a given resource type:
 
 ```sh
 mapfile -t newLocations < <(az provider show --namespace "$namespace" \
-  --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
-  --out tsv)
+    --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
+    --out tsv)
 ```
 
 `--out tsv` means we will get a list with no decoration whatsoever - it's vital for programmatic handling of `az` command output.
@@ -232,8 +232,8 @@ Okay, we can get locations. How do we handle finding their intersection?
 
 ```sh
 mapfile -t locations < <(comm -12 \
-  <(for location in "${locations[@]}"; do echo "$location"; done) \
-  <(for location in "${newLocations[@]}"; do echo "$location"; done) )
+    <(for location in "${locations[@]}"; do echo "$location"; done) \
+    <(for location in "${newLocations[@]}"; do echo "$location"; done) )
 ```
 
 `comm` also likes newline-delimited input, so we're again looping through the array rather than echoing all values at once.
@@ -245,7 +245,7 @@ With functionality as it is, many deployments will come back with 0 locations av
 ```sh
 if [[ ${#newLocations[@]} -eq 0 ]]
 then
-   # handle
+    # handle
 fi
 ```
 
@@ -269,21 +269,21 @@ mapfile -t locations < <(az account list-locations --query "[].displayName" \
 
 for resource in "${resources[@]}"
 do
-  namespace=$(echo "$resource" | cut -d "/" -f 1 -)
-  resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
+    namespace=$(echo "$resource" | cut -d "/" -f 1 -)
+    resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
 
-  mapfile -t newLocations < <(az provider show --namespace "$namespace" \
-    --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
-    --out tsv)
+    mapfile -t newLocations < <(az provider show --namespace "$namespace" \
+        --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
+        --out tsv)
 
-  if [[ ${#newLocations[@]} -eq 0 ]]
-  then
-    continue
-  fi
+    if [[ ${#newLocations[@]} -eq 0 ]]
+    then
+        continue
+    fi
 
-  mapfile -t locations < <(comm -12 \
-    <(for location in "${locations[@]}"; do echo "$location"; done) \
-    <(for location in "${newLocations[@]}"; do echo "$location"; done) )
+    mapfile -t locations < <(comm -12 \
+        <(for location in "${locations[@]}"; do echo "$location"; done) \
+        <(for location in "${newLocations[@]}"; do echo "$location"; done) )
 done
 
 for location in "${locations[@]}"; do echo "$location"; done | tee locations.txt
@@ -298,45 +298,45 @@ Here's our final script:
 ```sh
 # Recursively crawls bicep files to find all referenced resources
 get_resources () {
-  mapfile -t resources < <(grep -E "^resource " "$file" \
-    | cut -d "'" -f 2 - \
-    | cut -d "@" -f 1 -)
-  mapfile -t modules < <(grep -E "^module " "$file" \
-    | cut -d "'" -f 2 -)
+    mapfile -t resources < <(grep -E "^resource " "$file" \
+        | cut -d "'" -f 2 - \
+        | cut -d "@" -f 1 -)
+    mapfile -t modules < <(grep -E "^module " "$file" \
+        | cut -d "'" -f 2 -)
 
-  directory=$(dirname "$file")
+    directory=$(dirname "$file")
 
-  for module in "${modules[@]}"
-  do
-    mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
-  done
+    for module in "${modules[@]}"
+    do
+        mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
+    done
 
-  for resource in "${resources[@]}"; do echo "$resource"; done
+    for resource in "${resources[@]}"; do echo "$resource"; done
 }
 
 # Execution starts here
 mapfile -t resources < <(get_resources "main.bicep" | sort -u)
 
 mapfile -t locations < <(az account list-locations --query "[].displayName" \
-  --out tsv)
+    --out tsv)
 
 for resource in "${resources[@]}"
 do
-  namespace=$(echo "$resource" | cut -d "/" -f 1 -)
-  resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
+    namespace=$(echo "$resource" | cut -d "/" -f 1 -)
+    resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
 
-  mapfile -t newLocations < <(az provider show --namespace "$namespace" \
-    --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
-    --out tsv)
+    mapfile -t newLocations < <(az provider show --namespace "$namespace" \
+        --query "resourceTypes[?resourceType=='$resourceType'].locations | [0]" \
+        --out tsv)
 
-  if [[ ${#newLocations[@]} -eq 0 ]]
-  then
-    continue
-  fi
+    if [[ ${#newLocations[@]} -eq 0 ]]
+    then
+        continue
+    fi
 
-  mapfile -t locations < <(comm -12 \
-    <(for location in "${locations[@]}"; do echo "$location"; done) \
-    <(for location in "${newLocations[@]}"; do echo "$location"; done) )
+    mapfile -t locations < <(comm -12 \
+        <(for location in "${locations[@]}"; do echo "$location"; done) \
+        <(for location in "${newLocations[@]}"; do echo "$location"; done) )
 done
 
 for location in "${locations[@]}"; do echo "$location"; done | tee locations.txt
