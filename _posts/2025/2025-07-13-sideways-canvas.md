@@ -3,7 +3,7 @@ layout: post
 title: sideways canvas shirt
 category: gallery
 image:
-    name: sideways-canvas.jpg
+    name: 2025/sideways-canvas.jpg
     alt: "someone's torso in a knitted short sleeve shirt. the front is teal, and the bit of back we can see is mustard yellow. looking closely, it's notable that the stitches are turned 90 degrees from a standard knit garment."
 tags:
     - knit

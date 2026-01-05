@@ -3,7 +3,7 @@ layout: post
 title: backend accessibility
 category: reference
 image: 
-    name: camelCase-print.jpg
+    name: 2023/camelCase-print.jpg
     alt: "A carved stamp next to its print. The print reads '#camelCase' in a slightly formal-looking italic font."
 tags:
     - software

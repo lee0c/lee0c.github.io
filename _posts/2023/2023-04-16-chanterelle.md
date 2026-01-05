@@ -3,7 +3,7 @@ layout: post
 title: chanterelle
 category: gallery
 image: 
-    name: chanterelle-print.jpg
+    name: 2023/chanterelle-print.jpg
     alt: "A print of two chanterelle mushrooms inked in a dark-to-light yellow gradient."
 tags:
     - print

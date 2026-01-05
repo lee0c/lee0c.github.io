@@ -3,7 +3,7 @@ layout: post
 title: lined notebook
 category: gallery
 image:
-    name: lined-notebook.jpg
+    name: 2022/lined-notebook.jpg
     alt: 'A three panel collage showing a the endpapers, cover, and pages of a small hardbound notebook.'
 tags:
     - book

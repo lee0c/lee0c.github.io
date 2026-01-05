@@ -3,7 +3,7 @@ layout: post
 title: azure locations and file crawling
 category: reference
 image:
-    name: azure-locations.jpg
+    name: 2025/azure-locations.jpg
     alt: "A Linux terminal. There is a fun rainbow flag in ascii art at the top, and then the user has called a command asking Azure for a list of resources applicable to a specific resource type"
 tags:
     - software

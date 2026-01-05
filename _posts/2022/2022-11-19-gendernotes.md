@@ -3,7 +3,7 @@ layout: post
 title: gender?
 category: reference
 image:
-    name: gender-notes.png
+    name: 2022/gender-notes.png
     alt: 'A page of handwritten notes with some loosely drawn charts, described further in the post.'
 tags:
     - gender

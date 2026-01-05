@@ -3,7 +3,7 @@ layout: post
 title: stampede journal
 category: gallery
 image:
-    name: stampede-journal.jpg
+    name: 2023/stampede-journal.jpg
     alt: "A 4-part collage of a hardcover book, showing a coloring page with 'stampede!' written across it."
 tags:
     - book

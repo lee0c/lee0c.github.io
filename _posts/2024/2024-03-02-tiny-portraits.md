@@ -3,7 +3,7 @@ layout: post
 title: tiny portraits
 category: gallery
 image: 
-    name: tiny-portrait-stamps.jpg
+    name: 2024/tiny-portrait-stamps.jpg
     alt: "A collage showing various small (around an inch) stamps that depict people or animals."
 tags:
     - print

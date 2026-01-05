@@ -3,7 +3,7 @@ layout: post
 title: shrimp
 category: gallery
 image: 
-    name: shrimp-print.jpg
+    name: 2023/shrimp-print.jpg
     alt: "A print of a small shrimp with slender little leggies in orange ink."
 tags:
     - print

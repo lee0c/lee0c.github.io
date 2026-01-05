@@ -3,7 +3,7 @@ layout: post
 title: striped journal
 category: gallery
 image:
-    name: striped-journal.jpg
+    name: 2022/striped-journal.jpg
     alt: 'A three panel collage showcasing a journal with a striped cover.'
 tags:
     - book

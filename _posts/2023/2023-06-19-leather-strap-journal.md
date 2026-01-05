@@ -3,7 +3,7 @@ layout: post
 title: leather strap journal
 category: gallery
 image:
-    name: leather-strap-journal.jpg
+    name: 2023/leather-strap-journal.jpg
     alt: "A 3-part collage showing a blue journal with leather straps woven into the covers."
 tags:
     - book

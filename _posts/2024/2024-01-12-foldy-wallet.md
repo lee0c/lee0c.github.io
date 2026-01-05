@@ -3,7 +3,7 @@ layout: post
 title: foldy wallet
 category: gallery
 image: 
-    name: foldy-wallet.jpg
+    name: 2024/foldy-wallet.jpg
     alt: "A four part collage showing a single piece of deep red leather folding up to become a card wallet."
 tags:
     - leather

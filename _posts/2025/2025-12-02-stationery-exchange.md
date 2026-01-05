@@ -3,7 +3,7 @@ layout: post
 title: stationery exchange
 category: reference
 image:
-    name: clustered-brown-mushrooms.jpg
+    name: 2025/clustered-brown-mushrooms.jpg
     alt: "Picture unrelated to post. A tight close-up on a cluster of tannish brown mushrooms."
 tags:
     - stationery

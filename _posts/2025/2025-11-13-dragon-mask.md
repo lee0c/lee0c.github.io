@@ -3,7 +3,7 @@ layout: post
 title: dragon mask
 category: gallery
 image:
-    name: dragon-mask.jpg
+    name: 2025/dragon-mask.jpg
     alt: "lee (a white person with glasses and a side shave) holds up a leather dragon mask in black and dark green. ze sticks hir tongue out at it."
 tags:
     - leather

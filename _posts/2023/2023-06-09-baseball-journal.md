@@ -3,7 +3,7 @@ layout: post
 title: baseball journal
 category: gallery
 image:
-    name: baseball-journal.jpg
+    name: 2023/baseball-journal.jpg
     alt: "A 3-part collage of a leather-covered book with baseball-style stitching across the spine."
 tags:
     - book

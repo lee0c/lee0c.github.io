@@ -3,7 +3,7 @@ layout: post
 title: give to trans orgs and people
 category: reference
 image:
-    name: bouquet.jpg
+    name: 2025/bouquet.jpg
     alt: "Image unrelated to post. A close up on a flower bouquet in shades of purple, pink, and white. Centered is a large, almost soft-looking pink flower that is still partially closed up."
 tags:
     - gender

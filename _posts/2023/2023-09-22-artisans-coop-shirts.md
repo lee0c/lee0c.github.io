@@ -3,7 +3,7 @@ layout: post
 title: artisans cooperative shirts
 category: gallery
 image: 
-    name: artisans-coop-shirt.jpg
+    name: 2023/artisans-coop-shirt.jpg
     alt: "A black tank top laid on a desk. In white ink it reads 'Artisans Cooperative' with a print of some chickens and a quail."
 tags:
     - shirt

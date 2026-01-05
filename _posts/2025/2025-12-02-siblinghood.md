@@ -3,7 +3,7 @@ layout: post
 title: siblinghood of the traveling greeting card
 category: reference
 image:
-    name: rockery.jpg
+    name: 2025/rockery.jpg
     alt: "Image unrelated to post. A surprisingly neat pile of rounded beach rocks, mainly speckly grey-white-bluish ones, with trees in the background."
 tags:
     - stationery

@@ -3,7 +3,7 @@ layout: post
 title: networks of trans care
 category: reference
 image:
-    name: mushrooms-and-moss.jpg
+    name: 2025/mushrooms-and-moss.jpg
     alt: "Image unrelated to post. Close up on a cluster of orange-brown mushrooms on a mossy tree trunk."
 tags:
     - gender

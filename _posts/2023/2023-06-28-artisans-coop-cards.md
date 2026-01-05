@@ -3,7 +3,7 @@ layout: post
 title: artisans cooperative cards
 category: gallery
 image:
-    name: artisans-coop-cards.jpg
+    name: 2023/artisans-coop-cards.jpg
     alt: "2 white greeting cards with the Artisans Cooperative logo, a chicken. One card has a single print of the chicken in black ink, and the other has two overlapping prints in blue and red ink"
 tags:
     - print

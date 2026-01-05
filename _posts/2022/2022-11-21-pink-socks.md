@@ -3,7 +3,7 @@ layout: post
 title: pink socks
 category: gallery
 image:
-    name: pink-socks.jpg
+    name: 2022/pink-socks.jpg
     alt: 'Feet propped up on a car dashboard, with a desert landscape beyond. The feet are in salmon-colored socks with black flecks, and decorative lines running down the socks.'
 tags:
     - knit

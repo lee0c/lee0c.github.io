@@ -3,7 +3,7 @@ layout: post
 title: luminescent
 category: gallery
 image: 
-    name: luminescent-print.jpg
+    name: 2024/luminescent-print.jpg
     alt: "A print of a tattooed woman in bright highlighter yellow underwear."
 tags:
     - print

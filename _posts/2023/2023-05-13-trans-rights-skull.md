@@ -3,7 +3,7 @@ layout: post
 title: trans rights skull
 category: gallery
 image: 
-    name: trans-rights-print.jpg
+    name: 2023/trans-rights-print.jpg
     alt: "A print in mostly black ink of a smiling skull with a speech bubble. In pink and blue, the speech bubble reads 'trans rights!'"
 tags:
     - print

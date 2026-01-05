@@ -3,7 +3,7 @@ layout: post
 title: redirections
 category: reference
 image:
-    name: angle-brackets-uwu.jpg
+    name: 2025/angle-brackets-uwu.jpg
     alt: "Ascii art of an emoticon with pinched eyes and a small mouth made with two angle brackets."
 tags:
     - software

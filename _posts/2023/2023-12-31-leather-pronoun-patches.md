@@ -3,7 +3,7 @@ layout: post
 title: tooled leather patches
 category: gallery
 image: 
-    name: pronoun-patch-scroll.jpg
+    name: 2023/pronoun-patch-scroll.jpg
     alt: "two tooled leather patches. they have scrolls tooled on them that read various pronoun sets."
 tags:
     - leather

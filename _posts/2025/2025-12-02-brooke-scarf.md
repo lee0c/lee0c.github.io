@@ -3,7 +3,7 @@ layout: post
 title: brooke's scarf
 category: gallery
 image:
-    name: brooke-scarf.jpg
+    name: 2025/brooke-scarf.jpg
     alt: "A diaphanous knit lacework scarf draped over the back of a chair. It is split down the long way into two colors - one tinted orange and one tinted mint blue. Both colors, the orange and the blue, are held double with the same variegated gray, making the piece more cohesive. The yarn overs in the lacework create airy repeating holes."
 tags:
     - knit

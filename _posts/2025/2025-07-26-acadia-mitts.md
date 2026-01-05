@@ -3,7 +3,7 @@ layout: post
 title: acadia mitts
 category: gallery
 image:
-    name: acadia-mitts.jpg
+    name: 2025/acadia-mitts.jpg
     alt: "a hand wearing a knitted fingerless mitten. it's knit in a slubby, almost tweedy yarn, with the body being blue grey stockinette and the cuffs and tips a vibrant green rib."
 tags:
     - knit

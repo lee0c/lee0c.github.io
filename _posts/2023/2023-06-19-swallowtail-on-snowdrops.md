@@ -3,7 +3,7 @@ layout: post
 title: swallowtail on snowdrops
 category: gallery
 image: 
-    name: swallowtail-on-snowdrops-print.jpg
+    name: 2023/swallowtail-on-snowdrops-print.jpg
     alt: "A block print of a tiger swallowtail butterfly dangling from Japanese snowdrops, a white drooping flower."
 tags:
     - print

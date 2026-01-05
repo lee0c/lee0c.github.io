@@ -3,7 +3,7 @@ layout: post
 title: printmaking paper notes
 category: reference
 image: 
-    name: killdeer.jpg
+    name: 2024/killdeer.jpg
     alt: "Image unrelated to post. A very fluffed up killdeer stands on a rocky beach."
 tags:
     - prints

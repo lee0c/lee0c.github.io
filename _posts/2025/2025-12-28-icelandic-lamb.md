@@ -3,7 +3,7 @@ layout: post
 title: icelandic lamb handspun
 category: gallery
 image:
-    name: icelandic-lamb.jpg
+    name: 2025/icelandic-lamb.jpg
     alt: "a skein of black handspun yarn"
 tags:
     - yarn

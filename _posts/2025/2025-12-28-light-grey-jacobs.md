@@ -3,7 +3,7 @@ layout: post
 title: light grey jacobs handspun
 category: gallery
 image:
-    name: light-grey-jacobs.jpg
+    name: 2025/light-grey-jacobs.jpg
     alt: "a skein of light grey handspun yarn"
 tags:
     - yarn

@@ -3,7 +3,7 @@ layout: post
 title: gender in data models
 category: reference
 image: 
-    name: peony.jpg
+    name: 2023/peony.jpg
     alt: "Image unrelated to post. A light pink peony in full bloom, close up."
 tags:
   - gender

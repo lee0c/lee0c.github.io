@@ -3,7 +3,7 @@ layout: post
 title: o-ring bracelet
 category: gallery
 image: 
-    name: oring-bracelet.jpg
+    name: 2024/oring-bracelet.jpg
     alt: "A green leather bracelet, stitched along the edges with dark blue thread, holds an ouroborous o-ring in place with two black snaps."
 tags:
     - leather

@@ -3,7 +3,7 @@ layout: post
 title: in the news
 category: reference
 image: 
-    name: shrimp-knitting.jpg
+    name: 2023/shrimp-knitting.jpg
     alt: "Picture unrelated to post. Lee, sitting in a chair and seen in profile, looks up and smiles. Ze is holding and working on a partially knit shrimp."
 tags:
     - gender

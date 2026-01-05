@@ -3,7 +3,7 @@ layout: post
 title: foxgloves
 category: gallery
 image: 
-    name: foxgloves-print.jpg
+    name: 2023/foxgloves-print.jpg
     alt: "A print of a cluster of foxgloves. The background is inked in green, with negative space and pink details making up the foxgloves."
 tags:
     - print

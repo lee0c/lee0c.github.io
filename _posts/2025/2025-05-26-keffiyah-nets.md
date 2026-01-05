@@ -3,7 +3,7 @@ layout: post
 title: keffiyah fishing net pattern
 category: reference
 image:
-    name: keffiyah-nets.jpg
+    name: 2025/keffiyah-nets.jpg
     alt: "a knitted swatch. it's mostly white yarn, but a grid of dark red- purple- green yarn that looks like a chain link fence is built into it. the diagonal lines are achieved with floats of yarn from one row, then picked up and knit into several rows later."
 tags:
     - knit

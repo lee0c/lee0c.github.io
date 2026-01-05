@@ -3,7 +3,7 @@ layout: post
 title: zipper bifold
 category: gallery
 image: 
-    name: zipper-bifold.jpg
+    name: 2023/zipper-bifold.jpg
     alt: "A collage showing a hand-stitched leather bifold with a zippered coin pocket on one exterior side."
 tags:
     - leather

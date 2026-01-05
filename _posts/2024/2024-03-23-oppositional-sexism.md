@@ -3,7 +3,7 @@ layout: post
 title: fd signifier & oppositional sexism
 category: reference
 image: 
-    name: sheep.jpg
+    name: 2024/sheep.jpg
     alt: "Image unrelated to post. A mama sheep with two babies curled up next to her in a grassy field."
 tags:
     - gender 

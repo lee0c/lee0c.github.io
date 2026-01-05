@@ -3,7 +3,7 @@ layout: post
 title: spotted towhee
 category: gallery
 image: 
-    name: spotted-towhee-print.jpg
+    name: 2023/spotted-towhee-print.jpg
     alt: "A block print of a spotted towhee mid-leap."
 tags:
     - print

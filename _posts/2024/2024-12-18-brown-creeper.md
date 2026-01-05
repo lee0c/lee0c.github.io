@@ -3,7 +3,7 @@ layout: post
 title: brown creeper
 category: gallery
 image:
-    name: brown-creeper-print.jpg
+    name: 2024/brown-creeper-print.jpg
     alt: "2 copies of the same print side by side. In yellow, black, and purple ink, a brown creeper, a small bird, is depicted, well camouflaged against a tree trunk."
 tags:
     - print

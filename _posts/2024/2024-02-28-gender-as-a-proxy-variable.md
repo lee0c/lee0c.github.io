@@ -3,7 +3,7 @@ layout: post
 title: gender as a proxy variable
 category: reference
 image: 
-    name: gender-zine-cover.png
+    name: 2024/gender-zine-cover.png
     alt: "Part of a scan of the cover of my zine, Gender as a Proxy Variable. It shows the title and a bit of handsewn binding."
 tags:
     - gender

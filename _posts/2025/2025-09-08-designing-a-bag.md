@@ -3,7 +3,7 @@ layout: post
 title: designing a bag
 category: reference
 image:
-    name: shoelace-bag.jpg
+    name: 2025/shoelace-bag.jpg
     alt: "a 3-image collage showcasing a leather crossbody bag. the leather body is brown and fairly simple. up the narrow sides, rope is laced through grommets in a style resembling a shoe lacing. the rope forms the handle and loops seamlessly through the other side of the bag, joining in one point in a figure-8 follow-through knot. At the bottom corners, there are small diagonal lines of stitching to give the bag a small lip around the base and ensure small objects don't slide out."
 tags:
     - leather

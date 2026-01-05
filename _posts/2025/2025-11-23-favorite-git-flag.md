@@ -3,7 +3,7 @@ layout: post
 title: my favorite git flag
 category: reference
 image:
-    name: shelf-mushrooms.jpg
+    name: 2025/shelf-mushrooms.jpg
     alt: "Picture unrelated to post. Creamy beige shelf mushrooms on a mossy tree trunk."
 tags:
     - software
