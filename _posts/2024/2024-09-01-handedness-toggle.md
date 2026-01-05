@@ -2,7 +2,7 @@
 layout: post
 title: handedness toggle
 category: reference
-image: 
+image:
     name: 2024/handedness-toggle-0.png
     alt: "A screenshot of the rescue trans rescue navbar centered on a button that shows a hand pointing left."
 tags:

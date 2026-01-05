@@ -2,7 +2,7 @@
 layout: post
 title: leather chest harness
 category: gallery
-image: 
+image:
     name: 2023/leather-chest-harness.jpg
     alt: "Someone from chin to mid-torso, wearing a dark teal leather chest harness with matte black fittings over a t shirt."
 tags:

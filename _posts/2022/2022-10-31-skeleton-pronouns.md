@@ -2,7 +2,7 @@
 layout: post
 title: pronoun patches
 category: gallery
-image: 
+image:
     name: 2022/pronoun-patch.jpg
     alt: "Rows of the same design, a skull with a speech bubble announcing varied pronoun sets, repeat in multiple colors along a stretch of off-white fabric."
 tags:

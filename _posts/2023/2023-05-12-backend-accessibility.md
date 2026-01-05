@@ -2,7 +2,7 @@
 layout: post
 title: backend accessibility
 category: reference
-image: 
+image:
     name: 2023/camelCase-print.jpg
     alt: "A carved stamp next to its print. The print reads '#camelCase' in a slightly formal-looking italic font."
 tags:
@@ -27,7 +27,7 @@ Rely on existing standards where possible. Style guides, spell checkers, linters
 
 - Abbreviations/initialisms: can stall anyone unfamiliar with them. Spell them out when they're first introduced, and add the abbreviation in parentheses.
 - Jargon: avoid it as much as possible. Keep a friendly tone.
-- Neologisms: tech loves em! Often compound words or portmanteaus. For compound words (or, at times, hashtags), use camelCase or another style that distinguishes between words. This helps visually as well as improving screen reader pronunciation. 
+- Neologisms: tech loves em! Often compound words or portmanteaus. For compound words (or, at times, hashtags), use camelCase or another style that distinguishes between words. This helps visually as well as improving screen reader pronunciation.
 
 ### I want to quickly scan a page for the information I need
 
@@ -74,9 +74,9 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 ### Alt text/image descriptions
 
 - [How to write an image description](https://uxdesign.cc/how-to-write-an-image-description-2f30d3bf5546){:target="_blank"}
-- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"} 
+- [How to write alt text and image descriptions for the visually impaired — Perkins School for the Blind](https://www.perkins.org/resource/how-write-alt-text-and-image-descriptions-visually-impaired/){:target="_blank"}
 - [An attempted guide to writing effective alt and descriptive text for art](https://mannequinrentals.help/2024/03/21/an-attempted-guide-to-writing-effective-alt-and-descriptive-text-for-art/){:target="_blank"}
-- [Alt text as poetry](https://alt-text-as-poetry.net/){:target="_blank"}  
+- [Alt text as poetry](https://alt-text-as-poetry.net/){:target="_blank"}
 - [Writing alt text for a scientific figure - Kristin Briney](http://dataabinitio.com/?p=1161){:target="_blank"}
 - [My approach to alt text - Adrian Roselli](https://adrianroselli.com/2024/05/my-approach-to-alt-text.html)
 

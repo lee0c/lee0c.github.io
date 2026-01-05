@@ -2,7 +2,7 @@
 layout: post
 title: kniphofia
 category: gallery
-image: 
+image:
     name: 2024/kniphofia-print.jpg
     alt: "A print of a brightly colored flower in 4 layers of color"
 tags:

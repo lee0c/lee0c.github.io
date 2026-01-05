@@ -2,7 +2,7 @@
 layout: post
 title: happy biHRTday
 category: gallery
-image: 
+image:
     name: 2023/happy-bihrtday-card-print.jpg
     alt: "A card and print in the same design - a bouncy, cheery font reading 'happy biHRTday'"
 tags:

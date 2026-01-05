@@ -2,7 +2,7 @@
 layout: post
 title: fat raccoon
 category: gallery
-image: 
+image:
     name: 2023/fat-raccoon-print.jpg
     alt: "A block print in black ink of a rotund raccoon raising a welcoming paw towards the viewer."
 tags:

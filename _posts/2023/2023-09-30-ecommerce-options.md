@@ -2,7 +2,7 @@
 layout: post
 title: ecommerce options
 category: reference
-image: 
+image:
     name: 2023/loon.jpg
     alt: "Image unrelated to post. A loon rearing up with eir wings spread on a calm lake."
 ---

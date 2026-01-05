@@ -2,7 +2,7 @@
 layout: post
 title: knit shrimp
 category: gallery
-image: 
+image:
     name: 2023/knit-shrimp.jpg
     alt: "Four knitted shrimp in various shades of pink. They are all somewhere around hand-sized, and have little yarn antennae and leggies."
 tags:

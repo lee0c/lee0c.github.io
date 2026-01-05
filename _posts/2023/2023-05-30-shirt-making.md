@@ -2,7 +2,7 @@
 layout: post
 title: shirt making notes
 category: reference
-image: 
+image:
     name: 2023/shirt-wip.jpg
     alt: "A shirt laid out on my desk after being printed with my jay and flicker prints. There are ink pads and other tools scattered around."
 ---

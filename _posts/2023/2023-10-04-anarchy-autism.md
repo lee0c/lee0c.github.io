@@ -2,7 +2,7 @@
 layout: post
 title: anarchy autism
 category: gallery
-image: 
+image:
     name: 2023/anarchy-autism-rainbow-print.jpg
     alt: "A print in rainbow ink that says autism with the anarchy A."
 tags:

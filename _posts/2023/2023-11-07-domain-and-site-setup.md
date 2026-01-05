@@ -2,7 +2,7 @@
 layout: post
 title: domain and site setup
 category: reference
-image: 
+image:
     name: 2023/crinkly-mushrooms.jpg
     alt: "Picture unrelated to post. Some crinkly brown-orange mushrooms in vibrant green grass."
 tags:

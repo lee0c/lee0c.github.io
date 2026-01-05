@@ -2,7 +2,7 @@
 layout: post
 title: fountain pen-friendly stationery
 category: reference
-image: 
+image:
     name: 2024/wax-seals.jpg
     alt: "Two envelopes with wax seals. The top envelope is cream with a copper-and-white swirled seal depicting a yelling possum holding mail. The bottom envelope is marbled blue, black, and gold, with a white-and-blue swirled seal depicting an octopus holding a fountain pen."
 tags:
@@ -20,7 +20,7 @@ Wax seals pictured from [boygirlparty](https://hello.boygirlparty.com){:target="
 - [Saturn Press](https://www.saturnpress.us){:target="_blank"}
 - [Shaven Raven Designs](https://www.shavenravendesigns.com){:target="_blank"}
 - [Worthwhile Paper](https://worthwhilepaper.com/){:target="_blank"}
-- [Embossed Graphics](https://www.embossedgraphics.com){:target="_blank"} 
+- [Embossed Graphics](https://www.embossedgraphics.com){:target="_blank"}
 
 ## Mediocre
 

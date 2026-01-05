@@ -52,7 +52,7 @@ If you are listed here and would like to be removed, just [get in touch with me]
 ### héctor
 
 - [ko-fi/binomech](https://ko-fi.com/binomech){:target="_blank"}
-  
+
 ### Luke Orion
 
 - [hyperfollow/LukeOrion](https://hyperfollow.com/LukeOrion){:target="_blank"}
@@ -73,4 +73,3 @@ Thank you to these wonderful folks (and many more who chose to remain uncredited
 - [a.tony](https://wenotfreeyet.itch.io){:target="_blank"}
 - [mika](https://birdon.social/@sqrl_23){:target="_blank"}
 - [Nora](https://nora.zone){:target="_blank"}
-  

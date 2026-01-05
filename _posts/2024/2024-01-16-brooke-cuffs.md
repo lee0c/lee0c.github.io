@@ -2,7 +2,7 @@
 layout: post
 title: brooke's cuff bracelets
 category: gallery
-image: 
+image:
     name: 2024/brooke-cuffs.jpg
     alt: "Olive green leather cuffs with silver spikes and a shearling lining."
 tags:

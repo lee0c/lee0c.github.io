@@ -2,7 +2,7 @@
 layout: post
 title: coming out
 category: gallery
-image: 
+image:
     name: 2023/coming-out-card-print.jpg
     alt: "A card and print in the same design - a chick and a broken eggshell, and a simple font reading 'congrats on coming out of your shell'"
 tags:

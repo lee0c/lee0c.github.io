@@ -2,7 +2,7 @@
 layout: post
 title: leather long-stitch journals
 category: gallery
-image: 
+image:
     name: 2024/long-stitch-journals.jpg
     alt: "A stack of hand-bound journals showing long stitches aligned with the spines. They are leather bound and have tie closures."
 tags:

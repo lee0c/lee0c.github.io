@@ -2,7 +2,7 @@
 layout: post
 title: vix collar
 category: gallery
-image: 
+image:
     name: 2023/vix-collar.jpg
     alt: "A collar rests on a leather-wrapped lighter. It is lined with shearling and built of two other layers of leather - a wider mustard yellow layer and a thinner teal layer over that. the teal layer holds a heart shaped o-ring in place."
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: nonbinary flag
 category: gallery
-image: 
+image:
     name: 2023/nonbinary-flag-print.jpg
     alt: "A print of a nonbinary flag waving, with yellow, white (uninked), purple, and black stripes."
 tags:

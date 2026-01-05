@@ -2,7 +2,7 @@
 layout: post
 title: rachel's bracelets
 category: gallery
-image: 
+image:
     name: 2024/rachel-bracelets.jpg
     alt: "Two pink leather bracelets with stainless steel hardware and aqua stitching."
 tags:

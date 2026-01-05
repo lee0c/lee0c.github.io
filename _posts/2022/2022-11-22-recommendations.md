@@ -6,7 +6,7 @@ image:
     name: 2022/metal-curl.jpg
     alt: 'Photo unrelated to content of post. A metal sculpture rises up and curls into itself, with similar sculptures around it. Looking through the very center of the curve, an any-gender bathroom sign is visible.'
 tags:
-    - highlight 
+    - highlight
 ---
 
 ## Articles
@@ -29,7 +29,7 @@ tags:
 
 ## Comics
 
-- [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe 
+- [Ten Thousand](https://xkcd.com/1053/){:target="_blank"} by Randall Munroe
 
 ## Short fiction
 

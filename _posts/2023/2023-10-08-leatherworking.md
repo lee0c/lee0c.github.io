@@ -2,7 +2,7 @@
 layout: post
 title: leatherworking favorites
 category: reference
-image: 
+image:
     name: 2023/leather-harness-wip.jpg
     alt: "two pieces of a chest harness sitting on a messy workbench. both pieces are about 8 inches long total and consist of two large o-rings joined by a dark teal leather strap. the o rings and rivets are matte black."
 ---

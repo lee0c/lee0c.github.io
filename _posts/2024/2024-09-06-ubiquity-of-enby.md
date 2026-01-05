@@ -2,7 +2,7 @@
 layout: post
 title: on the ubiquity of 'enby'
 category: reference
-image: 
+image:
     name: 2024/gender-census.jpg
     alt: "A screenshot of part of the Gender Census reports page, showing the header bar and a title that reads 'Gender Census 2023 Worldwide Report'"
 tags:

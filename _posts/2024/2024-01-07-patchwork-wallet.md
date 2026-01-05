@@ -2,7 +2,7 @@
 layout: post
 title: patchwork wallet
 category: gallery
-image: 
+image:
     name: 2024/patchwork-wallet.jpg
     alt: "A collage showing a wallet in a patchwork style, with different colors of leather all stitched together to make up the exterior and the top interior pockets. Other pockets inside are dyed various colors."
 tags:

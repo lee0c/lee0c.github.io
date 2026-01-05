@@ -81,7 +81,7 @@ Okay, let's backtrack. From a given Bicep file, we want:
 Resources and modules both have patterns in how they are declared. Thankfully, they're pretty simple regexes. `grep` will spit out lines in a file that match a given regex.
 
 ```sh
-# this gets us strings like 
+# this gets us strings like
 # resource resourceGroup 'Microsoft.Resources/resourceGroups@2022-09-01' = {
 grep -E "^resource " "$file"
 
@@ -95,7 +95,7 @@ grep -E "^module " "$file"
 From there, let's use `cut` to strip off the parts we don't want.
 
 ```sh
-# this gets us strings like 
+# this gets us strings like
 # Microsoft.Resources/resourceGroups
 grep -E "^resource " "$file" \
    | cut -d "'" -f 2 - \
@@ -128,7 +128,7 @@ We can't just stop there. We need to search each module in turn. Using `dirname`
 ```sh
 get_resources () {
   # ... grep, cut, etc ...
-  
+
   directory=$(dirname "$file")
 
   for module in "${modules[@]}"
@@ -162,8 +162,8 @@ get_resources () {
   do
     mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/$module")
   done
-  
-  for resource in "${resources[@]}"; do; echo "$resource"; done 
+
+  for resource in "${resources[@]}"; do; echo "$resource"; done
 }
 ```
 
@@ -233,7 +233,7 @@ Okay, we can get locations. How do we handle finding their intersection?
 ```sh
 mapfile -t locations < <(comm -12 \
   <(for location in "${locations[@]}"; do echo "$location"; done) \
-  <(for location in "${newLocations[@]}"; do echo "$location"; done) ) 
+  <(for location in "${newLocations[@]}"; do echo "$location"; done) )
 ```
 
 `comm` also likes newline-delimited input, so we're again looping through the array rather than echoing all values at once.
@@ -267,7 +267,7 @@ mapfile -t resources < <(get_resources "main.bicep" | sort -u)
 mapfile -t locations < <(az account list-locations --query "[].displayName" \
   --out tsv)
 
-for resource in "${resources[@]}" 
+for resource in "${resources[@]}"
 do
   namespace=$(echo "$resource" | cut -d "/" -f 1 -)
   resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
@@ -280,7 +280,7 @@ do
   then
     continue
   fi
-  
+
   mapfile -t locations < <(comm -12 \
     <(for location in "${locations[@]}"; do echo "$location"; done) \
     <(for location in "${newLocations[@]}"; do echo "$location"; done) )
@@ -310,8 +310,8 @@ get_resources () {
   do
     mapfile -t -O "${#resources[@]}" resources < <(get_resources "$directory/module")
   done
-  
-  for resource in "${resources[@]}"; do echo "$resource"; done 
+
+  for resource in "${resources[@]}"; do echo "$resource"; done
 }
 
 # Execution starts here
@@ -320,7 +320,7 @@ mapfile -t resources < <(get_resources "main.bicep" | sort -u)
 mapfile -t locations < <(az account list-locations --query "[].displayName" \
   --out tsv)
 
-for resource in "${resources[@]}" 
+for resource in "${resources[@]}"
 do
   namespace=$(echo "$resource" | cut -d "/" -f 1 -)
   resourceType=$(echo "$resource" | cut -d "/" -f 2 -)
@@ -333,7 +333,7 @@ do
   then
     continue
   fi
-  
+
   mapfile -t locations < <(comm -12 \
     <(for location in "${locations[@]}"; do echo "$location"; done) \
     <(for location in "${newLocations[@]}"; do echo "$location"; done) )

@@ -2,7 +2,7 @@
 layout: post
 title: butch hands pattern
 category: reference
-image: 
+image:
     name: 2023/butch-hands.jpg
     alt: "Hands wearing a pair of pink and grey gloves with convertable mitten tops."
 tags:

@@ -2,7 +2,7 @@
 layout: post
 title: no politics (wip)
 category: reference
-image: 
+image:
     name: 2024/mushroom-on-fence.jpg
     alt: "Picture unrelated to post. A small orange mushroom grows from the center of a fence post."
 tags:

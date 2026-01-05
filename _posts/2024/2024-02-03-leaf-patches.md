@@ -2,7 +2,7 @@
 layout: post
 title: leaf patches
 category: gallery
-image: 
+image:
     name: 2024/leaf-patches-oak.jpg
     alt: "Several oak-leaf-shaped leather patches with stitching holes punched around the edges."
 tags:

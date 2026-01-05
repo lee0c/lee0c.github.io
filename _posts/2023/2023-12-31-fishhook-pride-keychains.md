@@ -2,7 +2,7 @@
 layout: post
 title: fishhook pride keychains
 category: gallery
-image: 
+image:
     name: 2023/fishhook-keychain-nonbinary.jpg
     alt: "a keychain with an iridescent fishhook style attachment linked via leather to an iridescent keyring. the leather is stitched with nonbinary flag colors."
 tags:

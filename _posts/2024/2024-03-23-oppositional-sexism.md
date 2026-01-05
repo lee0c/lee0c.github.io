@@ -2,11 +2,11 @@
 layout: post
 title: fd signifier & oppositional sexism
 category: reference
-image: 
+image:
     name: 2024/sheep.jpg
     alt: "Image unrelated to post. A mama sheep with two babies curled up next to her in a grassy field."
 tags:
-    - gender 
+    - gender
 ---
 
 This is in response to an F.D Signifier video, [How to get RICH off weak men!](https://www.youtube.com/watch?v=1QNjwM2a87g){:target="_blank"} (go follow him!). It is written as a response video and the script has not been changed to fit this format.

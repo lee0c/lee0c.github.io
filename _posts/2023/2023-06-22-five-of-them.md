@@ -2,7 +2,7 @@
 layout: post
 title: five of them
 category: gallery
-image: 
+image:
     name: 2023/five-of-them-print.jpg
     alt: "A block print of five mule deer grazing in a dark green field. The deer are partially negative space and partially brown ink detailing."
 tags:

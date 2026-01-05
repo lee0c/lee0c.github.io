@@ -2,7 +2,7 @@
 layout: post
 title: trans wrongs skull
 category: gallery
-image: 
+image:
     name: 2023/trans-wrongs-print.jpg
     alt: "A smiling skull with devil horns and a little spiked tail, and a speech bubble reading 'trans wrongs!'"
 tags:

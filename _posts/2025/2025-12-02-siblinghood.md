@@ -30,7 +30,7 @@ originated on the fediverse - see the [#siblinghoodOfTheTravelingGreetingCard ha
   - [guidelines](#guidelines)
   - [recipient and loop order assignment](#recipient-and-loop-order-assignment)
   - [reminders](#reminders)
-- [I want in!](#i-want-in)  
+- [I want in!](#i-want-in)
 
 ## objective
 

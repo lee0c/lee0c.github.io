@@ -2,7 +2,7 @@
 layout: post
 title: congrats on the gay
 category: gallery
-image: 
+image:
     name: 2023/congrats-on-the-gay.jpg
     alt: "A greeting card reading, in black. 'Congrats on the,' and then, in rainbow, 'Gay!'"
 tags:

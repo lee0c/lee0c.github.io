@@ -2,7 +2,7 @@
 layout: post
 title: printing press notes
 category: reference
-image: 
+image:
     name: 2023/printing-press.jpg
     alt: "An open Speedball Model B printing press, which uses a lever handle to put even pressure on a 6 by 8 inch top plate."
 ---

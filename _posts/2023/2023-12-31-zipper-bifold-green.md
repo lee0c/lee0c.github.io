@@ -2,7 +2,7 @@
 layout: post
 title: zipper bifold (green)
 category: gallery
-image: 
+image:
     name: 2023/zipper-bifold-green.jpg
     alt: "A collage showing a green leather wallet with a zippered pocket built into one external side."
 tags:

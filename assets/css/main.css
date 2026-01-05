@@ -1,6 +1,6 @@
 :root {
 	color-scheme: light dark;
-	
+
 	--font-family: 'Atkinson Hyperlegible', sans-serif;
 	--font-family-code: 'Source Code Pro', monospace;
 	--color-dark: #2e303e;
@@ -274,7 +274,6 @@ Site container
 .content-wrapper h1 {
 	margin: 20px 0px 20px;
 }
-
 
 /*
 Tags

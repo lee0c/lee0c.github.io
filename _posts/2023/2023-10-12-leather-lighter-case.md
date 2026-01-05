@@ -2,7 +2,7 @@
 layout: post
 title: leather lighter case
 category: gallery
-image: 
+image:
     name: 2023/leather-lighter-case.jpg
     alt: "A bic lighter wrapped in leather and hand-stitched up one side."
 tags:

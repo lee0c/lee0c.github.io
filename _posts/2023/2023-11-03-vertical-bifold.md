@@ -2,7 +2,7 @@
 layout: post
 title: vertical bifold
 category: gallery
-image: 
+image:
     name: 2023/vertical-bifold.jpg
     alt: "A collage showing a hand-stitched leather vertical bifold wallet with 6 card pockets, 2 hidden pockets, and 1 bill pocket."
 tags:

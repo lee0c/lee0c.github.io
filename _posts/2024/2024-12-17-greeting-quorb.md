@@ -2,7 +2,7 @@
 layout: post
 title: greeting quorbs
 category: gallery
-image: 
+image:
     name: 2024/greeting-quorbs.jpg
     alt: "A pile of hand-printed A2 size greeting cards. Only the front is visible, showing a particularly round quail."
 tags:

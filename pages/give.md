@@ -32,7 +32,7 @@ This is a non-exhaustive list of charities I give to, in case you want suggestio
 - [Trans Lifeline](https://translifeline.org/){:target="_blank"}
 - [The Venture Out Project](https://www.ventureoutproject.com/){:target="_blank"}
 - [Vera House](https://www.verahouse.org/){:target="_blank"}
-- [Washington Building Leaders of Change (WA-BLOC)](https://www.wa-bloc.org/){:target="_blank"} 
+- [Washington Building Leaders of Change (WA-BLOC)](https://www.wa-bloc.org/){:target="_blank"}
 
 <!--
 - [](){:target="_blank"}

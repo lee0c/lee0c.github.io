@@ -2,7 +2,7 @@
 layout: post
 title: moss harness
 category: gallery
-image: 
+image:
     name: 2023/moss-harness.jpg
     alt: "A nylon webbing harness in bright teal laid out on a desk."
 tags:

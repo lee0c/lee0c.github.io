@@ -27,5 +27,3 @@ A green journal with a blue leather spine. The coloring pages are from the book 
 
 - graph paper in multiple grid sizes, vellum graph paper, Color Acadia pages
 - 50 pages (40 graph paper, 10 Color Acadia)
-
-

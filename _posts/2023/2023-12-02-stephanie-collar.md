@@ -2,7 +2,7 @@
 layout: post
 title: stephanie collar
 category: gallery
-image: 
+image:
     name: 2023/stephanie-collar.jpg
     alt: "A white woman with a shaved side cut wearing a black leather collar with a large dangling o-ring."
 tags:
