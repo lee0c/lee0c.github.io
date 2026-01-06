@@ -42,7 +42,7 @@ Narrowing down a TLD isn't the only choice - you also need to decide what goes i
 - **distinct:** Is it unique? Avoid domains that are only a character off from more commonly visited websites or that sound particularly generic.
 - **constant:** While you *can* change domains frequently if you wish (and might want to if you're tight on cash - again, year 1 offers are cheap!), reprinting all your marketing materials is no fun. Aim to pick something that has staying power, like your own or your business' name.
 
-In my case, I went with [leecat.art](https://leecat.art). The ".art" TLD was cheaper than the ".gay" option long-term, and I shortened my full, somewhat hard to spell name to a quick two syllables, 3 characters each.
+In my case, I went with [leecat.art](/). The ".art" TLD was cheaper than the ".gay" option long-term, and I shortened my full, somewhat hard to spell name to a quick two syllables, 3 characters each.
 
 ### Buy your domain
 
