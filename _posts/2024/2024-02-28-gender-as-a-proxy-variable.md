@@ -233,14 +233,14 @@ Here’s some additional positive patterns that can be appended to many of the e
 
 ## Sources
 
-This zine draws from material I gathered for a longer blog post: [https://leecat.art/gender-in-data](/gender-in-data)
+This zine draws from material I gathered for a longer blog post: [leecat.art/gender-in-data](/gender-in-data)
 
 Linked in that blog post are numerous sources; the most heavily relied on here was from Drupal’s documentation and is found under the section headed “Do you need gender data?”
 
 ## Author
 
-Lee Cattarin is a transgender software developer and artist based out of Vashon, WA, USA. All hir creative work can be found at [https://leecat.art](/)
+Lee Cattarin is a transgender software developer and artist based out of Vashon, WA, USA. All hir creative work can be found at [leecat.art](/)
 
-Get in touch with hir via any of the methods listed on [https://leecat.art/contact](/contact)
+Get in touch with hir via any of the methods listed on [leecat.art/contact](/contact)
 
 ![A small stamp depicting Lee's face next to a speech bubble in handwritten text that reads 'Thanks for reading!'. Below that, the word 'editors' in quotes, and stamps of a fluffy dog and 6 variously-patterned ducklings](assets/img/2024/gender-zine-stamps.png)
