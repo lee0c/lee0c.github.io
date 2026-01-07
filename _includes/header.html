@@ -1,63 +1,63 @@
 <header class="site-header">
-  <a id="skip-nav" href="#main" title="skip to main content" aria-label="skip to main content">
-    <i class="fa-solid fa-forward" aria-hidden="true"></i> skip
-  </a>
-  <nav id="menu">
-    <ul>
-      {% if page.url == "/reference" %}
-      <li id="current-page">
-      {% else %}
-      <li>
-      {% endif %}
-        <a href="/reference" title="reference" aria-label="reference">
-          <i class="fa-regular fa-folder-open" aria-hidden="true"></i>
-          <span class="header-text"> reference</span>
-        </a>
-      </li>
+	<a id="skip-nav" href="#main" title="skip to main content" aria-label="skip to main content">
+		<i class="fa-solid fa-forward" aria-hidden="true"></i> skip
+	</a>
+	<nav id="menu">
+		<ul>
+			{% if page.url == "/reference" %}
+			<li id="current-page">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="/reference" title="reference" aria-label="reference">
+					<i class="fa-regular fa-folder-open" aria-hidden="true"></i>
+					<span class="header-text"> reference</span>
+				</a>
+			</li>
 
-      {% if page.url == "/gallery" %}
-      <li id="current-page">
-      {% else %}
-      <li>
-      {% endif %}
-        <a href="/gallery" title="art gallery" aria-label="art gallery">
-          <i class="fa-regular fa-images" aria-hidden="true"></i>
-          <span class="header-text"> gallery</span>
-        </a>
-      </li>
+			{% if page.url == "/gallery" %}
+			<li id="current-page">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="/gallery" title="art gallery" aria-label="art gallery">
+					<i class="fa-regular fa-images" aria-hidden="true"></i>
+					<span class="header-text"> gallery</span>
+				</a>
+			</li>
 
-      {% if page.url == "/" %}
-      <li id="current-page">
-      {% else %}
-      <li>
-      {% endif %}
-        <a href="/" title="home" aria-label="home">
-          <i class="fa fa-solid fa-crow" aria-hidden="true"></i>
-          <span class="header-text"> home</span>
-        </a>
-      </li>
+			{% if page.url == "/" %}
+			<li id="current-page">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="/" title="home" aria-label="home">
+					<i class="fa fa-solid fa-crow" aria-hidden="true"></i>
+					<span class="header-text"> home</span>
+				</a>
+			</li>
 
-      {% if page.url == "/about" %}
-      <li id="current-page">
-      {% else %}
-      <li>
-      {% endif %}
-        <a href="/about" title="about Lee" aria-label="about Lee">
-          <i class="fa-regular fa-user" aria-hidden="true"></i>
-          <span class="header-text"> about</span>
-        </a>
-      </li>
+			{% if page.url == "/about" %}
+			<li id="current-page">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="/about" title="about Lee" aria-label="about Lee">
+					<i class="fa-regular fa-user" aria-hidden="true"></i>
+					<span class="header-text"> about</span>
+				</a>
+			</li>
 
-      {% if page.url == "/contact" %}
-      <li id="current-page">
-      {% else %}
-      <li>
-      {% endif %}
-        <a href="/contact" title="contact/shops" aria-label="contact/shops">
-          <i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
-          <span class="header-text"> contact</span>
-        </a>
-      </li>
-    </ul>
-  </nav>
+			{% if page.url == "/contact" %}
+			<li id="current-page">
+			{% else %}
+			<li>
+			{% endif %}
+				<a href="/contact" title="contact/shops" aria-label="contact/shops">
+					<i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
+					<span class="header-text"> contact</span>
+				</a>
+			</li>
+		</ul>
+	</nav>
 </header>

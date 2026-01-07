@@ -1,32 +1,32 @@
 <head>
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
-  {% if page.image %}
-    <meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image.name }}" />
-    <meta property="og:image:alt" content="{{ page.image.alt }}" />
-  {% endif %}
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta charset="utf-8">
-  <!-- CSS -->
-  <link rel="stylesheet" href="../assets/css/main.css">
-  <link rel="stylesheet" href="../assets/css/nav.css">
-  <link rel="stylesheet" href="../assets/css/home.css">
-  <link rel="stylesheet" href="../assets/css/page.css">
-  <link rel="stylesheet" href="../assets/css/code.css">
-  <link rel="stylesheet" href="../assets/css/print.css">
-  <!-- Use Atom -->
-  {% feed_meta %}
-  <!-- RSS-v2.0 -->
-  <link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
-  <!-- Font -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible|Source+Code+Pro">
-  <!-- Icons -->
-  <script src="https://kit.fontawesome.com/884dded219.js" crossorigin="anonymous"></script>  
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+	<title>
+		{% if page.title == "Home" %}
+			{{ site.title }} | {{ site.description }}
+		{% else %}
+			{{ page.title }} | {{ site.title }}
+		{% endif %}
+	</title>
+	{% if page.image %}
+		<meta property="og:image" content="{{ site.github.url }}/assets/img/{{ page.image.name }}" />
+		<meta property="og:image:alt" content="{{ page.image.alt }}" />
+	{% endif %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<!-- CSS -->
+	<link rel="stylesheet" href="../assets/css/main.css">
+	<link rel="stylesheet" href="../assets/css/nav.css">
+	<link rel="stylesheet" href="../assets/css/home.css">
+	<link rel="stylesheet" href="../assets/css/page.css">
+	<link rel="stylesheet" href="../assets/css/code.css">
+	<link rel="stylesheet" href="../assets/css/print.css">
+	<!-- Use Atom -->
+	{% feed_meta %}
+	<!-- RSS-v2.0 -->
+	<link href="{{ site.github.url }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+	<!-- Font -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atkinson+Hyperlegible|Source+Code+Pro">
+	<!-- Icons -->
+	<script src="https://kit.fontawesome.com/884dded219.js" crossorigin="anonymous"></script>
+	<!-- Use Jekyll SEO plugin -->
+	{% seo %}
 </head>

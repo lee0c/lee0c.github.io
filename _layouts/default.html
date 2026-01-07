@@ -1,20 +1,20 @@
 <!doctype html>
 <html lang="en">
-  {% include head.html %}
-  <body>
-    <div class="container">
-      {% include header.html %}
-      <main class="content-wrapper" id="main">
-        {% include anchor_headings.html
-            html=content
-            anchorBody='<i class="fa-solid fa-anchor" aria-hidden="true"></i>'
-            anchorClass="section-anchor"
-            anchorTitle="permalink to section: %heading%"
-            anchorAttrs='aria-label="permalink to section: %heading%"'
-            beforeHeading=true
-            headerAttrs='class="anchored-header"' %}
-      </main>
-      {% include footer.html %}
-    </div>
-  </body>
+	{% include head.html %}
+	<body>
+		<div class="container">
+			{% include header.html %}
+			<main class="content-wrapper" id="main">
+				{% include anchor_headings.html
+						html=content
+						anchorBody='<i class="fa-solid fa-anchor" aria-hidden="true"></i>'
+						anchorClass="section-anchor"
+						anchorTitle="permalink to section: %heading%"
+						anchorAttrs='aria-label="permalink to section: %heading%"'
+						beforeHeading=true
+						headerAttrs='class="anchored-header"' %}
+			</main>
+			{% include footer.html %}
+		</div>
+	</body>
 </html>

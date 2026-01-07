@@ -49,10 +49,10 @@
 
 body, h1, h2, h3, h4, h5, h6,
 p, pre, hr, dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0;
-  color: var(--color-font);
-  background-color: var(--color-bg);
+	margin: 0;
+	padding: 0;
+	color: var(--color-font);
+	background-color: var(--color-bg);
 }
 
 /* Headings */
@@ -89,6 +89,7 @@ h4, h5, h6 {
 body {
 	font-family: var(--font-family);
 }
+
 body img {
 	margin: 5px auto auto auto;
 	display: block;
@@ -141,11 +142,11 @@ dd {
 */
 a {
 	color: var(--color-font);
-  text-decoration: underline;
-  text-decoration-style: solid;
-  text-decoration-thickness: .25rem;
-  text-decoration-color: var(--color-teal);
-  transition: text-decoration-thickness .5s;
+	text-decoration: underline;
+	text-decoration-style: solid;
+	text-decoration-thickness: .25rem;
+	text-decoration-color: var(--color-teal);
+	transition: text-decoration-thickness .5s;
 	padding: 0 .2rem; /* These stop the focus outline from covering text */
 	margin: 0 .1rem;
 }

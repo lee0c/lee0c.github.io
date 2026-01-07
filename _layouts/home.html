@@ -8,39 +8,39 @@ title: home
 <p>to see some of my current favorite projects, check out the <a class="tag" href="/tag/highlight">highlights</a>.</p>
 
 <div id="featured-posts-container">
-  {% for post in paginator.posts %}
-    {% include featured-post.html %}
-  {% endfor %}
+	{% for post in paginator.posts %}
+		{% include featured-post.html %}
+	{% endfor %}
 </div>
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="older posts">&lt; older</a>
-  {% else %}
-    <p class="pagination-button">&lt; older</p>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="newer posts">newer &gt;</a>
-  {% else %}
-    <p class="pagination-button">newer &gt;</p>
-  {% endif %}
+	{% if paginator.next_page %}
+		<a class="pagination-button pagination-active" href="{{ paginator.next_page_path }}" aria-label="older posts">&lt; older</a>
+	{% else %}
+		<p class="pagination-button">&lt; older</p>
+	{% endif %}
+	{% if paginator.previous_page %}
+		<a class="pagination-button pagination-active" href="{{ paginator.previous_page_path }}" aria-label="newer posts">newer &gt;</a>
+	{% else %}
+		<p class="pagination-button">newer &gt;</p>
+	{% endif %}
 </div>
 
 <p><b>all tags:</b>
-  <a class="tag" href="/tag/book">book</a>
-  <a class="tag" href="/tag/card">card</a>
-  <a class="tag" href="/tag/gender">gender</a>
-  <a class="tag" href="/tag/highlight">highlight</a>
-  <a class="tag" href="/tag/knit">knit</a>
-  <a class="tag" href="/tag/leather">leather</a>
-  <a class="tag" href="/tag/patch">patch</a>
-  <a class="tag" href="/tag/pin">pin</a>
-  <a class="tag" href="/tag/print">print</a>
-  <a class="tag" href="/tag/shirt">shirt</a>
-  <a class="tag" href="/tag/software">software</a>
-  <a class="tag" href="/tag/sticker">sticker</a>
-  <a class="tag" href="/tag/yarn">yarn</a>
-  <a class="tag" href="/tag/zine">zine</a>
+	<a class="tag" href="/tag/book">book</a>
+	<a class="tag" href="/tag/card">card</a>
+	<a class="tag" href="/tag/gender">gender</a>
+	<a class="tag" href="/tag/highlight">highlight</a>
+	<a class="tag" href="/tag/knit">knit</a>
+	<a class="tag" href="/tag/leather">leather</a>
+	<a class="tag" href="/tag/patch">patch</a>
+	<a class="tag" href="/tag/pin">pin</a>
+	<a class="tag" href="/tag/print">print</a>
+	<a class="tag" href="/tag/shirt">shirt</a>
+	<a class="tag" href="/tag/software">software</a>
+	<a class="tag" href="/tag/sticker">sticker</a>
+	<a class="tag" href="/tag/yarn">yarn</a>
+	<a class="tag" href="/tag/zine">zine</a>
 </p>
 
