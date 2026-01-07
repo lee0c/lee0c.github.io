@@ -4,6 +4,10 @@ Lee Cattarin's personal website.
 
 Primarily intended for art purposes, and possibly learning a little about front-end along the way.
 
+## Editing
+
+This project has an [`.editorconfig` file](.editorconfig). To utilize this in VSCode, install the ["Editorconfig" extension](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig).
+
 ## Build locally
 
 - [Install Jekyll](https://jekyllrb.com/docs/installation/)
