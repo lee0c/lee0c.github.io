@@ -56,22 +56,20 @@ and finally, 3 **ethical and trustworthiness** qualities:
 |---|---|---|---|---|---|
 | VSCode | **yes**[1] | **yes** | **yes** | **yes** | **yes** |
 | Zed | **yes** | **yes** | **yes** | **yes** | **yes** |
-| Kate | **yes** | **yes** | no[2] | no[3] | no |
-| Lapce | no | **yes** | no[4] | **yes** | no |
-| Pulsar | no | **yes** | no[4] | **yes** | **yes** |
-| Sublime Text | **yes** | **yes** | no[4][5] | **yes** | no[6] |
+| Kate | **yes** | **yes** | no[2] | **yes** | no |
+| Lapce | no | **yes** | no[3] | **yes** | no |
+| Pulsar | no | **yes** | no[3] | **yes** | **yes** |
+| Sublime Text | **yes** | **yes** | no[3][4] | **yes** | no[5] |
 
 [1] extension needed.
 
 [2] I could open a WSL directory in Kate, but couldn't see any files. I confirmed that opening a Windows directory worked as expected.
 
-[3] [it sounds like someone worked on this...once.](https://blog.svenbrauch.de/2017/07/23/preview-multi-cursor-support-in-the-kate-text-editor/){:target="_blank"}
+[3] opening the project worked fine, but I couldn't delete files. In Sublime Text's case, they were deleted but still shown in the file view.
 
-[4] opening the project worked fine, but I couldn't delete files. In Sublime Text's case, they were deleted but still shown in the file view.
+[4] saving a new file opens the save menu in the Windows File Explorer, which frankly makes me a bit afraid. Touching your WSL files from Windows is generally a bad idea.
 
-[5] saving a new file opens the save menu in the Windows File Explorer, which frankly makes me a bit afraid. Touching your WSL files from Windows is generally a bad idea.
-
-[6] I explored two different add-on packages for Markdown preview support. [Markdown Live Preview](https://packagecontrol.io/packages/MarkdownLivePreview){:target="_blank"} and [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview){:target="_blank"}. Markdown Live Preview opened a whole new window scoped only to the specific `.md` file. MarkdownPreview previewed in browser. Neither of these match the behavior I am looking for.
+[5] I explored two different add-on packages for Markdown preview support. [Markdown Live Preview](https://packagecontrol.io/packages/MarkdownLivePreview){:target="_blank"} and [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview){:target="_blank"}. Markdown Live Preview opened a whole new window scoped only to the specific `.md` file. MarkdownPreview previewed in browser. Neither of these match the behavior I am looking for.
 
 ### aesthetic qualities
 
@@ -116,3 +114,7 @@ this is my best guess based on searching online and reviewing the settings; it's
 I'll be honest, I just don't know. The functionality is not something I can easily compromise on. TBH, I figured I had pretty basic needs as a developer, but it seems that's not the case! The only editors that meet my functionality needs across the board are *also* the worst offenders on the LLM front.
 
 at the end of the day, I might just have to keep looking... but regardless, I wanted to publish what I found to help anyone else with similar needs.
+
+## edits
+
+- corrected Kate -> multi-edit: now **yes**
