@@ -11,6 +11,8 @@ tags:
 
 I'm fucking depressed. No, not like mental health depressed (okay, look, that too, but that's not relevant here). Looking to switch text editors, I reviewed 6 different options...and what I found didn't thrill me.
 
+> this post contains comparison tables that are far more viewable on desktop
+
 ## the editors
 
 the editors I reviewed, in no particular order, are:
@@ -47,8 +49,6 @@ and finally, 3 **ethical and trustworthiness** qualities:
 (in other words: no LLMs).
 
 ## the comparison charts
-
-> these charts are likely far more viewable on desktop
 
 ### functional qualities
 
