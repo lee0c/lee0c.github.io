@@ -115,6 +115,6 @@ I'll be honest, I just don't know. The functionality is not something I can easi
 
 at the end of the day, I might just have to keep looking... but regardless, I wanted to publish what I found to help anyone else with similar needs.
 
-## edits
+## corrections
 
-- corrected Kate -> multi-edit: now **yes**
+- Kate *does* have multi-edit
