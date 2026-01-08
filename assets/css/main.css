@@ -120,14 +120,15 @@ ul, ol, dl {
 	font-family: var(--font-family);
 }
 
-ol li {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	margin-left: 1.5rem;
+li,
+li ul {
+	margin-top: .65rem;
+	margin-bottom: .65rem;
 }
 
 li {
-	margin-bottom: .5rem;
+	margin-left: 1.5rem;
+	line-height: 1.25;
 }
 
 dt {
@@ -144,27 +145,27 @@ a {
 	color: var(--color-font);
 	text-decoration: underline;
 	text-decoration-style: solid;
-	text-decoration-thickness: .25rem;
+	text-decoration-thickness: .2rem;
 	text-decoration-color: var(--color-teal);
 	transition: text-decoration-thickness .5s;
-	padding: 0 .2rem; /* These stop the focus outline from covering text */
+	padding: 0 .1rem; /* These stop the focus outline from covering text */
 	margin: 0 .1rem;
 }
 
 a:focus-visible {
 	text-decoration: none;
 	border-radius: 1rem;
-	outline: .25rem solid var(--color-teal);
+	outline: .2rem solid var(--color-teal);
 }
 
 @media (any-hover: hover) {
 	a:hover {
-		text-decoration-thickness: .5rem;
+		text-decoration-thickness: .4rem;
 	}
 }
 
 a:active {
-	text-decoration-thickness: .5rem;
+	text-decoration-thickness: .4rem;
 }
 
 /* Buttons */
