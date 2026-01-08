@@ -30,8 +30,8 @@ I reviewed looking for 5 major **functional** qualities that I considered to be 
 
 - `.editorconfig` support
 - find and replace with regex support
-- WSL support (including, because apparently this is an issue, the ability to delete files from inside the editor)
-- multi-edit (e.g. ability to select multiple instances of a word and edit them all)
+- WSL support (including, because apparently this is an issue, the ability to delete files from inside the editor) (this is the highest priority - I do *all* work in WSL)
+- multi-edit (e.g. ability to select multiple instances of a word and edit them all) (this is the most discardable functionality, as it can be replaced with find-and-replace)
 - markdown preview
 
 3 less important, but preferred, **aesthetic** qualities:
