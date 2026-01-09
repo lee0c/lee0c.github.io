@@ -11,7 +11,7 @@ tags:
 
 I'm fucking depressed. No, not like mental health depressed (okay, look, that too, but that's not relevant here). Looking to switch text editors, I reviewed 6 different options...and what I found didn't thrill me.
 
-> this post contains comparison tables that are far more viewable on desktop
+> this post contains comparison tables that are far more viewable on desktop/tablet
 
 ## the editors
 
