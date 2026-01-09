@@ -9,7 +9,9 @@ title: home
 
 <div id="featured-posts-container">
 	{% for post in paginator.posts %}
-		{% include featured-post.html %}
+		{% if post.tag != 'draft' %}
+			{% include featured-post.html %}
+		{% endif %}
 	{% endfor %}
 </div>
 
@@ -43,4 +45,3 @@ title: home
 	<a class="tag" href="/tag/yarn">yarn</a>
 	<a class="tag" href="/tag/zine">zine</a>
 </p>
-
