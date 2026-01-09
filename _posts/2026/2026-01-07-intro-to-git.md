@@ -425,7 +425,7 @@ this may seem unhelpful if we're thinking about this project as something only w
 
 if we're working alone and *from one machine*, we'll pretty much never have to use `git fetch` or `git pull`! If we happen to do our work on multiple machines - for example, I do some work on my PC and some on my fruitpad (using an app called [Working Copy](https://workingcopy.app/){:target="_blank"}) - we'll probably update the remote from one machine, then need to pull that work down onto the other machine.
 
-for our use case, we can pretty safely stick to `git pull`, but if you're working in a larger collaborative project, `git fetch` is your friend!
+for our use case, we can pretty safely stick to `git pull` (if we ever even need to use it!), but if you're working in a larger collaborative project, `git fetch` is your friend!
 
 ### git push, take one
 
