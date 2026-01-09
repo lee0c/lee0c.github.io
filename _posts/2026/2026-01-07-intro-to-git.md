@@ -106,7 +106,7 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
     - note that I don't have a Mac and have never used one. I can't guarantee that everything operates the same over there - there may be discrepancies I don't know about
 - on Windows, there's two options
 	- I use [Windows Subsystem for Linux, or WSL](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}, which gives you a Linux distribution within Windows. It's pretty smooth sailing at this point, but there's some idiosyncracies to conquer - like the fact that your *Windows* files and your *Linux* files are stored in different places. If choosing WSL, [see my usage notes below](#wsl)
-	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. If choosing git for Windows, [see my installation instructions below](#git-for-windows)
+	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. If choosing `git` for Windows, [see my installation instructions below](#git-for-windows)
 - both of the Windows options listed work with [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701){:target="_blank"} which offers a nicer-looking terminal experience than the basic command prompt. If you're going to keep working with what you set up today, I recommend it!
 	- with `git` for Windows, there's a setting to create a Windows Terminal profile when running the installer
 
