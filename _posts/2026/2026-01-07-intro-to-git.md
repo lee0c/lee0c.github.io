@@ -105,8 +105,8 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
 - on Linux or Mac, you should have one built in! This is the easy path, congrats :) Even better, `git` generally ships with these systems, so there's no installation required
     - note that I don't have a Mac and have never used one. I can't guarantee that everything operates the same over there - there may be discrepancies I don't know about
 - on Windows, there's not just one option
-	- I use [Windows Subsystem for Linux, or WSL](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}, which gives you a Linux distribution within Windows. It's pretty smooth sailing at this point, but there's some idiosyncracies to conquer - like the fact that your *Windows* files and your *Linux* files are stored in different places. I recommend this over the next option
-	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. I find that the installation of this is a little overwhelming - it asks you several configuration questions that require you to understand `git` concepts already
+	- I use [Windows Subsystem for Linux, or WSL](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}, which gives you a Linux distribution within Windows. It's pretty smooth sailing at this point, but there's some idiosyncracies to conquer - like the fact that your *Windows* files and your *Linux* files are stored in different places. If choosing WSL, [see my usage notes below](#wsl)
+	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. If choosing git for Windows, [see my installation instructions below](#git-for-windows)
 - both of the Windows options listed work with [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701){:target="_blank"} which offers a nicer-looking terminal experience than the basic command prompt. You may have this installed already!
 	- with `git` for Windows, there's a setting to create a Windows Terminal profile when running the installer
 
@@ -122,16 +122,16 @@ you'll also need to be careful of a few things regarding text editors to make th
 
 1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
 1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal as noted
-    - there's also a single setting in Zed to disable all AI settings: **Settings > AI > General > Disable AI**
+    - there's a single setting in Zed to disable all AI settings: **Settings > AI > General > Disable AI**
 1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above
 
 you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
 ### git for Windows
 
-if installing git for windows, you'll be asked to choose some things by the installer. Here's my recommendations:
+during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
 
-1. **Default editor:** *don't use vim.* Pick something you have installed - it can even just be Notepad
+1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad
 1. **Initial branch name:** choose the "Override" option and leave it set to "main"
 1. **Everything else:** keep the recommended choices
 
