@@ -127,7 +127,7 @@ you'll also need to be careful of a few things regarding text editors to make th
 
 you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
-### git for Windows
+#### git for Windows
 
 during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
 
