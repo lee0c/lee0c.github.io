@@ -78,7 +78,7 @@ and finally, 3 **ethical and trustworthiness** qualities:
 | VSCode | **yes** | **yes** | **yes**[1] |
 | Zed | **yes** | **yes** | **yes**[2] |
 | Kate | no | **yes** | **yes**[2] |
-| Lapce | **yes** | no | no[3] |
+| Lapce | **yes** | no | **yes**[3] |
 | Pulsar | **yes** | no | **yes**[1] |
 | Sublime Text | **yes** | **yes** | **yes** |
 
@@ -86,7 +86,7 @@ and finally, 3 **ethical and trustworthiness** qualities:
 
 [2] several color schemes available.
 
-[3] only light and dark schemes available.
+[3] only light and dark schemes available. Further plugins available.
 
 ### ethical qualities
 
@@ -118,3 +118,4 @@ at the end of the day, I might just have to keep looking... but regardless, I wa
 ## corrections
 
 - Kate *does* have multi-edit
+- Lapce has plugins for further color schemes
