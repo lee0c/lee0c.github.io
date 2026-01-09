@@ -384,7 +384,7 @@ let's try a new command: `git remote`. Hmm, nothing happened... what's a "remote
 
 remember how I said we could use `git clone` to work on an existing project? If we did that, we'd be getting that project from a *remote* server - not our *local* machine.
 
-the world of git servers is vast - hell, you can run your own! - but we're going to just mention a few major hosts: GitHub, GitLab, and Codeberg. For this walkthrough, we're going to work with Codeberg, but you'll find that the UI is pretty similar across all three, so if you've got a GitHub or Codeberg account feel free to use that.
+the world of git servers is vast - hell, you can run your own! - but we're going to just mention a few major hosts: GitHub, GitLab, and Codeberg. For this walkthrough, we're going to work with Codeberg, but you'll find that the UI is pretty similar across all three, so if you've got a GitHub or GitLab account feel free to use that.
 
 let's head on over to [Codeberg](https://codeberg.org/){:target="_blank"} First off, we'll make an account.
 
