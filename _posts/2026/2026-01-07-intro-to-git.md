@@ -21,6 +21,7 @@ alrighty, this one's a real doozy. Strap in.
 - [what is git?](#what-is-git)
 	- [where can I use git?](#where-can-i-use-git)
 	- [where can I use a CLI?](#where-can-i-use-a-cli)
+        - [aside: WSL](#aside-wsl)
 		- [aside: a few terminal operations](#aside-a-few-terminal-operations)
         - [aside: edit files](#aside-edit-files)
 - [git version](#git-version)
@@ -88,7 +89,7 @@ that all said, let's get (git?) into it!
 
 many, many tools interact with `git`:
 
-- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"}, or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
+- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
 - there are [standalone `git` GUIs](https://git-scm.com/tools/guis){:target="_blank"}
 - and of course, many `git` users use the command line interface (CLI), which is fully text-based
 
@@ -106,6 +107,14 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
 - both of the Windows options listed work with [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701){:target="_blank"} which offers a nicer-looking terminal experience than the basic command prompt. You may have this installed already!
 	- with `git` for Windows, there's a setting to create a Windows Terminal profile when running the installer
 
+#### aside: WSL
+
+while *installing* WSL is a single command, here's a couple notes about getting started:
+
+- `Ctrl+C` and `Ctrl+V` won't work like they do on Windows. If you want to paste, right-click
+- don't be concerned that you can't see anything when you type or paste your password! Since it's sensitive information, this is intentional. You'll notice this pattern a couple of times while following this walkthrough
+- if you're downloading a text editor like the ones mentioned above, you'll still follow the *Windows* instructions
+
 #### aside: a few terminal operations
 
 here's two vital terminal commands:
@@ -119,7 +128,7 @@ these two commands will get us far.
 
 we'll want to edit files, right? How do we open our editor from the terminal?
 
-there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`; for Sublime Text, `subl`. If we want to open the *current directory* in our editor of choice, we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
+there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`. If we want to open the *current directory* in our editor of choice, we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
 
 ## git version
 
@@ -403,8 +412,6 @@ git push -u gitlab main
 ### authentication
 
 when we call `git push`, we're prompted for our GitLab username and password.
-
-> tip: don't be concerned that you can't see anything when you type or paste your password! since it's sensitive information, this is intentional
 
 personally, I find constantly authenticating tremendously annoying! There's a couple of ways to handle this.
 
