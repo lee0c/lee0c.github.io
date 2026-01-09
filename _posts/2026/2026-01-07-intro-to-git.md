@@ -129,6 +129,8 @@ you *must* start your editor of choice *within your WSL directory*. Don't use th
 
 #### git for Windows
 
+on the "Releases" page, scroll down to "Assets" and pick the `.exe` file.
+
 during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
 
 1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad
