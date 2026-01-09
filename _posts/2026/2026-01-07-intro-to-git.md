@@ -120,8 +120,10 @@ while *installing* WSL is a single command, here's a couple notes about getting 
 you'll also need to be careful of a few things regarding text editors to make them work with WSL:
 
 1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
-1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal if it doesn't do that by default
+1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal as noted
 1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above
+
+you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
 #### aside: a few terminal operations
 
@@ -136,7 +138,7 @@ these two commands will get us far.
 
 we'll want to edit files, right? How do we open our editor from the terminal?
 
-there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`. If we want to open the *current directory* in our editor of choice, we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
+there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`. If we want to open the *current directory* in our editor of choice (and we do!), we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
 
 ## git version
 
