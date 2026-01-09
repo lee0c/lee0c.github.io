@@ -22,7 +22,7 @@ alrighty, this one's a real doozy. Strap in.
 	- [where can I use git?](#where-can-i-use-git)
 	- [where can I use a CLI?](#where-can-i-use-a-cli)
 		- [aside: a few terminal operations](#aside-a-few-terminal-operations)
-- [aside: edit files](#aside-edit-files)
+        - [aside: edit files](#aside-edit-files)
 - [git version](#git-version)
 	- [a couple handy settings](#a-couple-handy-settings)
 - [git going](#git-going)
@@ -114,7 +114,7 @@ here's two vital terminal commands:
 
 these two commands will get us far.
 
-## aside: edit files
+#### aside: edit files
 
 we'll want to edit files, right? How do we open our editor from the terminal?
 
