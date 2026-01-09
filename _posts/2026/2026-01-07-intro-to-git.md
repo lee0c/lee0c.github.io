@@ -179,8 +179,8 @@ git config --global init.defaultbranch main
 
 # this sets our information
 # if we don't set this, git will prompt us to set it later
-git config --global user.name <our-name>
-git config --global user.email <our-email>
+git config --global user.name <your-name>
+git config --global user.email <your-email>
 ```
 
 ## git going
