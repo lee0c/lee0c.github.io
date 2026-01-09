@@ -449,7 +449,7 @@ personally, I find constantly authenticating tremendously annoying! There's a co
 	- `git config --global credential.helper cache` will store our username and password in memory. You'll be re-prompted every 15 minutes. I work in long enough sessions that this is still a pain for me, but it may work for you
 	- `git config --global credential.helper store` will save our username and password in a file on our machine, and only re-prompt if we change either value. **Importantly,** this method does *not* encrypt our password in any way! While it's convenient, it's not very secure
 	- on Mac, `git config --global credential.helper osxkeychain` is a secure method for saving credentials
-1. if we installed `git` for Windows, one of the options lets us install Git Credential Manager (GCM)
+1. if we installed `git` for Windows, we should have Git Credential Manager (GCM)
 1. in *any* terminal environment, we can use an SSH key. This is my preferred method! I find it's a good balance between *never* logging in and *constantly* logging in - I do it once after opening the terminal, and them I'm good for that work session
 
 ### SSH keys
@@ -512,7 +512,7 @@ open the `.bashrc` file again for editing, and add the above function to the bot
 
 #### SSH keys and the remote
 
-when we [added a remote](#git-remote), we used the HTTPS URL. Let's update to using the SSH URL - just as with the HTTPS URL, you can find this on the main project page under the `Code` dropdown.
+when we [added a remote](#git-remote), we used the HTTPS URL. Let's update to using the SSH URL - you can find this on the main project page under the dropdown button that reads `Code`.
 
 ```sh
 git remote set-url codeberg <new-url>
