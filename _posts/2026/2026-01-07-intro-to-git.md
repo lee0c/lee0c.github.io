@@ -121,6 +121,7 @@ you'll also need to be careful of a few things regarding text editors to make th
 
 1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
 1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal as noted
+    - there's also a single setting in Zed to disable all AI settings: **Settings > AI > General > Disable AI**
 1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above
 
 you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
@@ -372,9 +373,9 @@ let's try a new command: `git remote`. Hmm, nothing happened... what's a "remote
 
 remember how I said we could use `git clone` to work on an existing project? If we did that, we'd be getting that project from a *remote* server - not our *local* machine.
 
-the world of git servers is vast - hell, you can run your own! - but we're going to just mention a few major hosts: GitHub, GitLab, and Codeberg. For this walkthrough, we're going to work with GitLab, but you'll find that the UI is pretty similar across all three, so if you've got a GitHub or Codeberg account feel free to use that.
+the world of git servers is vast - hell, you can run your own! - but we're going to just mention a few major hosts: GitHub, GitLab, and Codeberg. For this walkthrough, we're going to work with Codeberg, but you'll find that the UI is pretty similar across all three, so if you've got a GitHub or Codeberg account feel free to use that.
 
-let's head on over to [GitLab](https://gitlab.com/){:target="_blank} First off, we'll make an account.
+let's head on over to [Codeberg](https://codeberg.org/){:target="_blank"} First off, we'll make an account.
 
 now we'll make a new project using the `+` in the upper right. Choose a blank project, set a name, and pick a "namespace" - our username. Visibility level is up to you. Uncheck the option to create a README file; we'll be adding our own files in a moment.
 
