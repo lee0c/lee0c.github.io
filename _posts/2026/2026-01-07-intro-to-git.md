@@ -21,9 +21,10 @@ alrighty, this one's a real doozy. Strap in.
 - [what is git?](#what-is-git)
 	- [where can I use git?](#where-can-i-use-git)
 	- [where can I use a CLI?](#where-can-i-use-a-cli)
-        - [aside: WSL](#aside-wsl)
-		- [aside: a few terminal operations](#aside-a-few-terminal-operations)
-        - [aside: edit files](#aside-edit-files)
+        - [WSL](#wsl)
+        - [git for Windows](#git-for-windows)
+		- [a couple terminal operations](#a-couple-terminal-operations)
+        - [edit files](#edit-files)
 - [git version](#git-version)
 	- [a couple handy settings](#a-couple-handy-settings)
 - [git going](#git-going)
@@ -109,7 +110,7 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
 - both of the Windows options listed work with [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701){:target="_blank"} which offers a nicer-looking terminal experience than the basic command prompt. You may have this installed already!
 	- with `git` for Windows, there's a setting to create a Windows Terminal profile when running the installer
 
-#### aside: WSL
+#### WSL
 
 while *installing* WSL is a single command, here's a couple notes about getting started once *inside* WSL:
 
@@ -126,7 +127,15 @@ you'll also need to be careful of a few things regarding text editors to make th
 
 you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
-#### aside: a few terminal operations
+### git for Windows
+
+if installing git for windows, you'll be asked to choose some things by the installer. Here's my recommendations:
+
+1. **Default editor:** *don't use vim.* Pick something you have installed - it can even just be Notepad
+1. **Initial branch name:** choose the "Override" option and leave it set to "main"
+1. **Everything else:** keep the recommended choices
+
+#### a couple terminal operations
 
 here's two vital terminal commands:
 
@@ -135,11 +144,11 @@ here's two vital terminal commands:
 
 these two commands will get us far.
 
-#### aside: edit files
+#### edit files
 
 we'll want to edit files, right? How do we open our editor from the terminal?
 
-there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`. If we want to open the *current directory* in our editor of choice (and we do!), we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
+there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`. If we want to open the *current directory* in our editor of choice (and we do!), we'll write `<editor command> .` (note the `.`), where `.` means "the current directory."
 
 ## git version
 
@@ -150,6 +159,7 @@ let's check that you have git installed with `git version`. You might see someth
 before we really start, we're going to set a few basics to make it easier for ourselves.
 
 ```sh
+# skip this one if you installed git for windows
 # this means that if git wants us to edit something,
 # it'll open in the built-in terminal editor 'nano'
 # the default is vim, which can be pretty unfriendly to newcomers
@@ -162,6 +172,7 @@ git config --global core.editor nano
 # so 10 => 1 second
 git config --global help.autocorrect 10
 
+# skip this one if you installed git for windows
 # the default branch name is "master" due to older computer terminology
 # older language used to explain some computing relationships as master/slave
 # some people consider this outdated and harmful, so "main" is a more common these days
