@@ -77,6 +77,8 @@ this walkthrough is best suited for people who want to use `git` in single-perso
 
 this walkthrough also focuses on the "happy path," without much discussion of troubleshooting. I may write more on the topic in the future, but we're already over *4,000 words*, so we're calling it a day.
 
+finally, I wrote this walkthrough primarily with knowledge from using **WSL** [more on this later] on **Windows** and with **Zed** as my text editor. While I've tried to cover my bases with other OSes and options, there's a solid chance I'm missing things!
+
 that all said, let's get (git?) into it!
 
 ## what is git?
@@ -89,7 +91,7 @@ that all said, let's get (git?) into it!
 
 many, many tools interact with `git`:
 
-- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
+- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this, and what I recommend for following this walkthrough), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
 - there are [standalone `git` GUIs](https://git-scm.com/tools/guis){:target="_blank"}
 - and of course, many `git` users use the command line interface (CLI), which is fully text-based
 
@@ -119,6 +121,7 @@ you'll also need to be careful of a few things regarding text editors to make th
 
 1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
 1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal if it doesn't do that by default
+1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above
 
 #### aside: a few terminal operations
 
@@ -463,7 +466,7 @@ navigate to the home directory (`cd`) and open your `.bashrc` file in your edito
 alias sshcat="cat $HOME/.ssh/id_rsa.pub"
 ```
 
-> tip: don't be alarmed if you can't use this right away! Your `.bashrc` file takes effect when the terminal starts up. If you want to test it, either close and re-open your terminal, or type `source $HOME/.bashrc`
+> tip: don't be alarmed if you can't use this right away! Your `.bashrc` file takes effect when the terminal starts up. If you want to test it, either restart your terminal, or type `source $HOME/.bashrc`
 
 #### and a function
 
