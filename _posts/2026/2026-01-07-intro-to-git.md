@@ -118,7 +118,7 @@ these two commands will get us far.
 
 we'll want to edit files, right? How do we open our editor from the terminal?
 
-there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`; for Sublime Text, `subl`. If we want to open the *current directory* in our editor of choice, we'll usually write `<editor command> .`, where `.` means "the current directory."
+there's usually a terminal command for the editor. For VSCode, it's `code`; for Zed, it's `zed`; for Sublime Text, `subl`. If we want to open the *current directory* in our editor of choice, we'll usually write `<editor command> .` (note the `.`), where `.` means "the current directory."
 
 ## git version
 
