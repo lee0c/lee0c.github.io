@@ -388,24 +388,29 @@ the world of git servers is vast - hell, you can run your own! - but we're going
 
 let's head on over to [Codeberg](https://codeberg.org/){:target="_blank"} First off, we'll make an account.
 
-now we'll make a new project using the `+` in the upper right. Choose a blank project, set a name, and pick a "namespace" - our username. Visibility level is up to you. Uncheck the option to create a README file; we'll be adding our own files in a moment.
+now we'll make a new project using the `+` in the upper right. Choose 'New repository,' then pick a repository name. You can leave the other settings be.
 
-with the project created, GitLab will tell us a *lot* of things we can now do. None of them quite fit our scenario, it turns out, so we'll do our own thing.
+with the project created, Codeberg will tell us three things we can do: clone the repository, create a new repository, or push an existing repository. We'll push an existing one.
+
+```sh
+git remote add origin https://codeberg.org/inherentlee/testing.git
+git push -u origin main
+```
 
 first, we'll add a remote. Across from the project title, we should see a button that says `Code` with a dropdown indicator. It'll offer a few choices, the first two being SSH and HTTPS. I'll talk about SSH in a bit, but let's try HTTPS first. Copy that URL; we're about to use it in a command.
 
-> tip: the remote can be named whatever you want! Traditionally, it's called `origin`, but if it's easier for you to remember, you might call it `gitlab` or maybe `remote`
+> tip: the remote can be named whatever you want! Traditionally, it's called `origin`, but if it's easier for you to remember, you might call it `codeberg` or maybe `remote`
 
 ```sh
 git remote add <remote-name> <url>
 ```
-for this walkthrough, we'll call our remote `gitlab`.
+for this walkthrough, we'll call our remote `codeberg`.
 
-there's no feedback, but that's ok. Re-running `git remote` shows that we have a remote now: `gitlab`. That really doesn't tell us much, does it! Let's try a more talkative command: `git remote --verbose` or, more simply, `git remote -v`. Now it tells us the following:
+there's no feedback, but that's ok. Re-running `git remote` shows that we have a remote now: `codeberg`. That really doesn't tell us much, does it! Let's try a more talkative command: `git remote --verbose` or, more simply, `git remote -v`. Now it tells us the following:
 
 ```txt
-gitlab  https://gitlab.com/inherentlee/git-intro.git (fetch)
-gitlab  https://gitlab.com/inherentlee/git-intro.git (push)
+codeberg  https://codeberg.org/inherentlee/git-intro.git (fetch)
+codeberg  https://codeberg.org/inherentlee/git-intro.git (push)
 ```
 
 cool! we have a remote set up. What does "fetch" and "push" mean?
@@ -429,14 +434,14 @@ for our use case, we can pretty safely stick to `git pull`, but if you're workin
 the first time we use it on any given branch, we'll want to set what's called the **upstream** - the remote branch that our local branch is connected to by default. We can do this with the following command:
 
 ```sh
-git push --set-upstream gitlab main
+git push --set-upstream codeberg main
 # or, for brevity
-git push -u gitlab main
+git push -u codeberg main
 ```
 
 ### authentication
 
-when we call `git push`, we're prompted for our GitLab username and password.
+when we call `git push`, we're prompted for our Codeberg username and password.
 
 personally, I find constantly authenticating tremendously annoying! There's a couple of ways to handle this.
 
@@ -510,12 +515,12 @@ open the `.bashrc` file again for editing, and add the above function to the bot
 when we [added a remote](#git-remote), we used the HTTPS URL. Let's update to using the SSH URL - just as with the HTTPS URL, you can find this on the main project page under the `Code` dropdown.
 
 ```sh
-git remote set-url gitlab <new-url>
+git remote set-url codeberg <new-url>
 ```
 
 we'll notice that the SSH URL starts with `git@`, whereas the HTTPS URL started with `https://`.
 
-in order for all this to be useful, we need to tell GitLab about our SSH key. In GitLab, navigate to [preferences, then find the left-hand tab for SSH keys](https://gitlab.com/-/user_settings/ssh_keys){:target="_blank"}. Choose 'Add a new key' and paste in the **public** key (if you set up that `sshcat` alias, use it now to output your key for ease of copying). Save and we'll now be set up to authenticate with SSH!
+in order for all this to be useful, we need to tell Codeberg about our SSH key. In Codeberg, navigate to [settings, then find the left-hand tab for SSH keys](https://codeberg.org/user/settings/keys){:target="_blank"}. Choose 'Add key' and paste in the **public** key (if you set up that `sshcat` alias, use it now to output your key for ease of copying). Save and we'll now be set up to authenticate with SSH!
 
 ### git push, take two
 
@@ -532,7 +537,7 @@ let's talk about what we've done.
 1. used `git add` to add new files or file changes to a commit
 1. created commits with `git commit`
 1. undid a commit using `git revert`
-1. talked about remotes, making a new GitLab project, and using `git remote` to link that project to our local work
+1. talked about remotes, making a new Codeberg project, and using `git remote` to link that project to our local work
 1. talked about `git fetch` and `git pull`
 1. added our local work to the remote project using `git push`
 1. and finally, set up some kind of credential management so we don't have to log in for *every* `git push`!
