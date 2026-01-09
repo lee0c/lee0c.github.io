@@ -54,14 +54,14 @@ and finally, 3 **ethical and trustworthiness** qualities:
 
 | | `.editorconfig` | find-and-replace | WSL | multi-edit | `.md` preview |
 |---|---|---|---|---|---|
-| VSCode | **yes**[1] | **yes** | **yes** | **yes** | **yes** |
+| VSCode | **yes**[1] | **yes** | **yes**[1] | **yes** | **yes** |
 | Zed | **yes** | **yes** | **yes** | **yes** | **yes** |
 | Kate | **yes** | **yes** | no[2] | **yes** | no |
 | Lapce | no | **yes** | no[3] | **yes** | no |
 | Pulsar | no | **yes** | no[3] | **yes** | **yes** |
 | Sublime Text | **yes** | **yes** | no[3][4] | **yes** | no[5] |
 
-[1] extension needed.
+[1] extension needed: [VSCode `.editorconfig`](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig){:target="_blank"}, [VSCode WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
 
 [2] I could open a WSL directory in Kate, but couldn't see any files. I confirmed that opening a Windows directory worked as expected.
 
@@ -119,3 +119,4 @@ at the end of the day, I might just have to keep looking... but regardless, I wa
 
 - Kate *does* have multi-edit
 - Lapce has plugins for further color schemes
+- VSCode WSL support requires an extension
