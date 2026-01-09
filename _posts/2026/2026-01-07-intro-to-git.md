@@ -115,6 +115,11 @@ while *installing* WSL is a single command, here's a couple notes about getting 
 - don't be concerned that you can't see anything when you type or paste your password! Since it's sensitive information, this is intentional. You'll notice this pattern a couple of times while following this walkthrough
 - if you're downloading a text editor like the ones mentioned above, you'll still follow the *Windows* instructions
 
+you'll also need to be careful of a few things regarding text editors to make them work with WSL:
+
+1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
+1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal if it doesn't do that by default
+
 #### aside: a few terminal operations
 
 here's two vital terminal commands:
