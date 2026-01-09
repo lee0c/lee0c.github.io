@@ -142,8 +142,6 @@ here's two vital terminal commands:
 - `cd` lets us **change directories**. If we type *only* `cd`, we'll be brought back to the home directory; if we provide a directory path, we'll be taken to the provided directory
 - `ls` **lists** files in the current directory (including other directories)
 
-these two commands will get us far.
-
 #### edit files
 
 we'll want to edit files, right? How do we open our editor from the terminal?
