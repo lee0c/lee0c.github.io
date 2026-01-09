@@ -123,7 +123,7 @@ you'll also need to be careful of a few things regarding text editors to make th
 1. if you install VSCode, you'll need to add the [remote development extension pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack){:target="_blank"}
 1. if you install Zed, you'll need to check "Add to PATH (requires shell restart)" in the installer, then restart your terminal as noted
     - there's a single setting in Zed to disable all AI settings: **Settings > AI > General > Disable AI**
-1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above
+1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above, and I found when I [reviewed editors](/comparing-text-editors) that it struggled with some file operations in WSL
 
 you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
