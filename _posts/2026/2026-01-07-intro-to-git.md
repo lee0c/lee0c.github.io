@@ -99,6 +99,7 @@ today we're going to talk about the CLI... technically. But **don't let that sca
 if you want to use a CLI, you'll need a terminal. You've got a couple options here:
 
 - on Linux or Mac, you should have one built in! This is the easy path, congrats :) Even better, `git` generally ships with these systems, so there's no installation required
+    - note that I don't have a Mac and have never used one. I can't guarantee that everything operates the same over there - there may be discrepancies I don't know about
 - on Windows, there's not just one option
 	- I use [Windows Subsystem for Linux, or WSL](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}, which gives you a Linux distribution within Windows. It's pretty smooth sailing at this point, but there's some idiosyncracies to conquer - like the fact that your *Windows* files and your *Linux* files are stored in different places
 	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. I find that the installation of this is a little overwhelming - it asks you several configuration questions that require you to understand `git` concepts already
