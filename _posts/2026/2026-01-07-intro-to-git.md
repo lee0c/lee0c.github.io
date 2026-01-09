@@ -150,11 +150,8 @@ before we really start, we're going to set a few basics to make it easier for ou
 
 ```sh
 # this means that if git wants us to edit something,
-# it'll open in the built-in terminal editor 'nano'
-# the default is vim, which can be pretty unfriendly to newcomers
-# nano, on the other hand, will tell you how to do basic
-# operations at the bottom of the editor
-git config --global core.editor nano
+# it'll open in the editor we want to use
+git config --global core.editor <editor-command> # e.g. code, zed, subl
 
 # this uses the autocorrect
 # the value specifies how many *tenths* of a second
