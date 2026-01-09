@@ -115,8 +115,12 @@ I'll be honest, I just don't know. The functionality is not something I can easi
 
 at the end of the day, I might just have to keep looking... but regardless, I wanted to publish what I found to help anyone else with similar needs.
 
-## corrections
+## corrections and edits
 
 - Kate *does* have multi-edit
 - Lapce has plugins for further color schemes
 - VSCode WSL support requires an extension
+
+### WSL2 and Linux GUIs
+
+I learned that [WSL2 can support GUI apps](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps){:target="_blank"} so I tried this for a few. Pulsar did not work; Sublime Text worked but the UI scale was *teensy* and was not affected by the `ui_scale` setting.
