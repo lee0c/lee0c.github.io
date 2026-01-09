@@ -114,8 +114,8 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
 
 while *installing* WSL is a single command, here's a couple notes about getting started once *inside* WSL:
 
-- `Ctrl+C` and `Ctrl+V` won't work like they do on Windows. If you want to copy/paste, right-click (there won't be a context menu, it'll just happen)
 - don't be concerned that you can't see anything when you type or paste your password! Since it's sensitive information, this is intentional. You'll notice this pattern a couple of times while following this walkthrough
+- `Ctrl+C` and `Ctrl+V` won't work like they do on Windows. If you want to copy/paste, right-click (there won't be a context menu, it'll just happen)
 - if you're downloading a text editor like the ones mentioned above, you'll still follow the *Windows* instructions
 
 you'll also need to be careful of a few things regarding text editors to make them work with WSL:
