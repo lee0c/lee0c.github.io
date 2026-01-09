@@ -111,7 +111,7 @@ if you want to use a CLI, you'll need a terminal. You've got a couple options he
 
 #### aside: WSL
 
-while *installing* WSL is a single command, here's a couple notes about getting started:
+while *installing* WSL is a single command, here's a couple notes about getting started once *inside* WSL:
 
 - `Ctrl+C` and `Ctrl+V` won't work like they do on Windows. If you want to paste, right-click
 - don't be concerned that you can't see anything when you type or paste your password! Since it's sensitive information, this is intentional. You'll notice this pattern a couple of times while following this walkthrough
