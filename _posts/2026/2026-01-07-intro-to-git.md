@@ -8,7 +8,7 @@ image:
 tag: draft
 ---
 
-> this post is a *draft*. if you're reading it, you're probably subscribed to my Atom/RSS feed. congrats u get a secret post!
+> this post is a **draft**. if you're reading it, you're probably subscribed to my Atom/RSS feed. congrats u get a secret post!
 
 alrighty, this one's a real doozy. Strap in.
 
