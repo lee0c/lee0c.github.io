@@ -76,7 +76,7 @@ I started writing this to help a friend. She's getting started with a website, a
 
 this walkthrough is best suited for people who want to use `git` in single-person projects, or perhaps with one or two other close collaborators. There's quite a few topics it doesn't cover that are vitally important in large collaborative projects, such as branching and merging.
 
-this walkthrough also focuses on the "happy path," without much discussion of troubleshooting. I may write more on the topic in the future, but we're already over *4,000 words*, so we're calling it a day.
+this walkthrough also focuses on the "happy path," without much discussion of troubleshooting. I may write more on the topic in the future, but we're already over *4,500 words*, so we're calling it a day.
 
 finally, I wrote this walkthrough primarily with knowledge from using **WSL** [more on this later] on **Windows** and with **Zed** as my text editor. While I've tried to cover my bases with other OSes and options, there's a solid chance I'm missing things!
 
