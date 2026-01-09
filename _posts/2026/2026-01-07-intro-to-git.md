@@ -92,7 +92,7 @@ that all said, let's get (git?) into it!
 
 many, many tools interact with `git`:
 
-- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this, and what I recommend for following this walkthrough), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
+- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
 - there are [standalone `git` GUIs](https://git-scm.com/tools/guis){:target="_blank"}
 - and of course, many `git` users use the command line interface (CLI), which is fully text-based
 
