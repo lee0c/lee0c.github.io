@@ -20,7 +20,7 @@ the editors I reviewed, in no particular order, are:
 - [VSCode](https://code.visualstudio.com/){:target="_blank"} (my current daily driver which I've been wanting to leave behind for a while now)
 - [Zed](https://zed.dev/){:target="_blank"} (an editor I've been tentatively interested in)
 - [Kate](https://kate-editor.org/){:target="_blank"} (recommended to me semi-recently on the fediverse, but one I quickly wrote off at the time because of clunkiness)
-- [Lapce](https://lap.dev/lapce/){:target="_blank"} (recommended by this [no-AI OSS chart](https://codeberg.org/gen-ai-transparency/open-slopware){:target="_blank"})
+- [Lapce](https://lap.dev/lapce/){:target="_blank"} (recommended via fedi)
 - [Pulsar](https://pulsar-edit.dev/){:target="_blank"} (a fork of the discontinued Atom editor, recommended again by fedi, in the course of this review)
 - and finally, [Sublime Text](https://www.sublimetext.com/){:target="_blank"} (my daily driver back in college)
 
