@@ -20,13 +20,14 @@ alrighty, this one's a real doozy. Strap in.
 - [problem statement](#problem-statement)
 - [what is git?](#what-is-git)
 	- [where can I use git?](#where-can-i-use-git)
-	- [where can I use a CLI?](#where-can-i-use-a-cli)
-        - [WSL](#wsl)
+        - [what is a CLI?](#what-is-a-cli)
+	- [where can I use the git CLI?](#where-can-i-use-the-git-cli)
         - [git for Windows](#git-for-windows)
-		- [a couple terminal operations](#a-couple-terminal-operations)
+        - [WSL](#wsl)
+		- [a few terminal operations](#a-few-terminal-operations)
         - [edit files](#edit-files)
 - [git version](#git-version)
-	- [a couple handy settings](#a-couple-handy-settings)
+	- [a few handy settings](#a-few-handy-settings)
 - [git going](#git-going)
 	- [git init](#git-init)
 	- [git clone](#git-clone)
@@ -74,7 +75,7 @@ or, websites. Maybe you're building something in Squarespace and find out that [
 
 I started writing this to help a friend. She's getting started with a website, and we're using the static site generator [11ty](https://www.11ty.dev/){:target="_blank"} as she wants to have a lot of easy-to-write posts. She needs a single-user workflow that allows her to publish her website without hosting it herself, and that's the use case where this was born.
 
-this walkthrough is best suited for people who want to use `git` in single-person projects, or perhaps with one or two other close collaborators. There's quite a few topics it doesn't cover that are vitally important in large collaborative projects, such as branching and merging.
+this walkthrough is best suited for people who want to use `git` in single-person projects, or perhaps with one or two other close collaborators. There's quite a few topics it doesn't cover that are vitally important in large collaborative projects, such as **branching** and **merging**.
 
 this walkthrough also focuses on the "happy path," without much discussion of troubleshooting. I may write more on the topic in the future, but we're already over *4,500 words*, so we're calling it a day.
 
@@ -92,23 +93,39 @@ that all said, let's get (git?) into it!
 
 many, many tools interact with `git`:
 
-- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"} (what I used while writing this), or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
+- a lot of modern text editors have graphical user interfaces (GUIs) that let you perform `git` operations, like [VSCode](https://code.visualstudio.com/docs/sourcecontrol/overview){:target="_blank"}, [Zed](https://zed.dev/docs/git){:target="_blank"}, or [Sublime Text](https://www.sublimetext.com/docs/git_integration.html){:target="_blank"}
 - there are [standalone `git` GUIs](https://git-scm.com/tools/guis){:target="_blank"}
-- and of course, many `git` users use the command line interface (CLI), which is fully text-based
+- and many `git` users use the `git` command line interface (CLI), which is fully text-based
 
-today we're going to talk about the CLI... technically. But **don't let that scare you** - we'll talk about *concepts* and *actions* that can be applied to other `git` interfaces as well.
+today we're going to talk about the `git` CLI... technically. But **don't let that scare you** - we'll talk about *concepts* and *actions* that can be applied to other `git` interfaces as well.
 
-### where can I use a CLI?
+#### what is a CLI?
 
-if you want to use a CLI, you'll need a terminal. You've got a couple options here:
+a CLI a way to interact with your computer and with software in text-only form. Rather than using the mouse and clicking on things, you type in commands and see output.
+
+### where can I use the git CLI?
+
+if you want to use the `git` CLI, you'll need a terminal. You've got a couple options here:
 
 - on Linux or Mac, you should have one built in! This is the easy path, congrats :) Even better, `git` generally ships with these systems, so there's no installation required
     - note that I don't have a Mac and have never used one. I can't guarantee that everything operates the same over there - there may be discrepancies I don't know about
 - on Windows, there's two options
+	- [`git` for Windows](https://gitforwindows.org/){:target="_blank"} packages a Linux-like terminal with a `git` GUI. This may be slightly friendlier for people who aren't at all familiar with Linux. If choosing `git` for Windows, [see my installation instructions below](#git-for-windows)
 	- I use [Windows Subsystem for Linux, or WSL](https://learn.microsoft.com/en-us/windows/wsl/install){:target="_blank"}, which gives you a Linux distribution within Windows. It's pretty smooth sailing at this point, but there's some idiosyncracies to conquer - like the fact that your *Windows* files and your *Linux* files are stored in different places. If choosing WSL, [see my usage notes below](#wsl)
-	- there's also [`git` for Windows](https://gitforwindows.org/){:target="_blank"}, which packages a Linux-like terminal with a `git` GUI. If choosing `git` for Windows, [see my installation instructions below](#git-for-windows)
 - both of the Windows options listed work with [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701){:target="_blank"} which offers a nicer-looking terminal experience than the basic command prompt. If you're going to keep working with what you set up today, I recommend it!
-	- with `git` for Windows, there's a setting to create a Windows Terminal profile when running the installer
+
+#### git for Windows
+
+on the "Releases" page, scroll down to "Assets" and pick the `.exe` file.
+
+during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
+
+1. If choosing to install Windows Terminal, check 'Add a Git Bash Profile to Windows Terminal' on the first options page
+1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad
+1. **Initial branch name:** choose the "Override" option and leave it set to "main"
+1. **Everything else:** keep the recommended choices
+
+you can open `git` for Windows via the start menu by searching for 'git bash.' If you chose to install Windows Terminal, one of the dropdown options will be for a new tab will be 'Git Bash.'
 
 #### WSL
 
@@ -125,21 +142,17 @@ you'll also need to be careful of a few things regarding text editors to make th
     - there's a single setting in Zed to disable all AI settings: **Settings > AI > General > Disable AI**
 1. I don't recommend installing Sublime Text if using WSL, because summoning it from within WSL is a little more complicated than either of the two above, and I found when I [reviewed editors](/comparing-text-editors) that it struggled with some file operations in WSL
 
-you *must* start your editor of choice *within your WSL directory*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
+you *must* start your editor of choice *within WSL*. Don't use the Windows start menu! Instead, you'll type `code .` or `zed .` (note the `.`) while in WSL.
 
-#### git for Windows
+you can open WSL via the start menu by searching for 'WSL.' If you chose to install Windows Terminal, one of the dropdown options for a new tab will be your WSL distribution, usually 'Ubuntu.'
 
-on the "Releases" page, scroll down to "Assets" and pick the `.exe` file.
+#### a few terminal operations
 
-during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
+here's three vital terminal commands:
 
-1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad
-1. **Initial branch name:** choose the "Override" option and leave it set to "main"
-1. **Everything else:** keep the recommended choices
+- `pwd` **prints the working (current) directory**. A lot of terminals will just *show* you what your current directory on every line, but if they don't, try `pwd`.
 
-#### a couple terminal operations
-
-here's two vital terminal commands:
+> tip: directory is just another word for folder
 
 - `cd` lets us **change directories**. If we type *only* `cd`, we'll be brought back to the home directory; if we provide a directory path, we'll be taken to the provided directory
 - `ls` **lists** files in the current directory (including other directories)
@@ -154,7 +167,7 @@ there's usually a terminal command for the editor. For VSCode, it's `code`; for 
 
 let's check that you have git installed with `git version`. You might see something like `git version 2.34.1` printed out in response. If you don't get a version number, but instead get an error saying you don't have `git`, [install `git`](https://git-scm.com/install){:target="_blank"}.
 
-### a couple handy settings
+### a few handy settings
 
 before we really start, we're going to set a few basics to make it easier for ourselves.
 
