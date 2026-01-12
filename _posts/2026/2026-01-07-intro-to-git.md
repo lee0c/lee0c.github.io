@@ -121,7 +121,7 @@ on the "Releases" page, scroll down to "Assets" and pick the `.exe` file.
 during installation, you'll be asked to choose some things by the installer. Here's my recommendations:
 
 1. If choosing to install Windows Terminal, check 'Add a Git Bash Profile to Windows Terminal' on the first options page
-1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad
+1. **Default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad - or you can use `nano,` an in-terminal editor
 1. **Initial branch name:** choose the "Override" option and leave it set to "main"
 1. **Everything else:** keep the recommended choices
 
