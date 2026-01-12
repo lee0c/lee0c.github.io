@@ -122,7 +122,7 @@ during installation, you'll be asked to choose some things by the installer. Her
 
 1. if choosing to install Windows Terminal, check 'Add a Git Bash Profile to Windows Terminal' on the first options page
 1. **default editor:** *don't use vim.* Pick something you have installed - it can just be Notepad - or you can use `nano,` an in-terminal editor
-1. **initial branch name:** choose the "Override" option and leave it set to "main"
+1. **initial branch name:** choose the 'Override' option and leave it set to "main"
 1. **everything else:** keep the recommended choices
 
 you can open `git` for Windows via the start menu by searching for 'git bash.' If you chose to install Windows Terminal, one of the dropdown options will be for a new tab will be 'Git Bash.'
