@@ -107,7 +107,7 @@ a CLI a way to interact with your computer and with software in text-only form. 
 
 if you want to use the `git` CLI, you'll need a terminal. You've got a couple options here:
 
-- on Linux or Mac, you should have one built in! This is the easy path, congrats :) Even better, `git` generally ships with these systems, so there's no installation required
+- on Linux or Mac, you should have one built in! This is the easy path, congrats :) Even better, `git` generally ships with these systems, so there's no installation required. Search for an application called 'Terminal' or similar
     - note that I don't have a Mac and have never used one. I can't guarantee that everything operates the same over there - there may be discrepancies I don't know about
 - on Windows, there's two options
 	- [`git` for Windows](https://gitforwindows.org/){:target="_blank"} packages a Linux-like terminal with a `git` GUI. This may be slightly friendlier for people who aren't at all familiar with Linux. If choosing `git` for Windows, [see my installation instructions below](#git-for-windows)
