@@ -4,7 +4,7 @@ title: spinning plants
 category: reference
 image:
     name: 2026/plant-handspun.jpg
-    alt: "4 small skeins of handspun yarn, each made from a different plant fiber. from top, we have flax (medium brown, rough); what is probably lotus (golden, shiny and soft); banana (white and shiny); hemp (light brown, rough)"
+    alt: "5 small skeins of handspun yarn, each made from a different plant fiber. from top, we have flax (medium brown, rough); what is probably lotus (golden, shiny and soft); banana (white and semi shiny); hemp (light brown, rough); tencel (white and very shiny)"
 tags:
     - yarn
 ---
@@ -16,6 +16,7 @@ in picture, from top:
 - (probably) lotus
 - banana
 - hemp
+- tencel
 
 notes on handspinning various plant fibers. Fibers were purchased as a [sample pack from Hearthside Fibers](https://www.etsy.com/listing/1141552359/plant-based-fiber-top-sampler-pack-vegan){:target="_blank"}. Unfortunately, I spun the first sample - flax - in 2023, so don't have thoughts on that left in my head. I also received a mystery sample along with the 12 named samples that *may* have been lotus - it's the smallest skein in the image. The lotus was also spun in 2023.
 
@@ -41,7 +42,7 @@ I am estimating this via yards per gram of fiber. Other than the flax (can't pro
 | flax | 33 | 27 | 1.22 |
 | hemp | 41 | 26 | 1.58 |
 | rose | 61\* | | |
-| tencel | 31 | | |
+| tencel | 31 | 29 | 1.07 |
 
 \* I need to re-spin the ply on the rose as it is too loose. This number will change.
 
