@@ -29,7 +29,7 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 
 ### banana
 
-- felt a bit wear-y on the hands - that may have mostly been the silk I spun earlier that day though
+- felt a bit wear-y on the hands - that may have been the silk I spun earlier that day though
 - a bit hard to draft, quite liked to stick to itself and clump, but once moving was *quite* slippery 
 - softish, not wildly soft but pleasant to the touch
 
