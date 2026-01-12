@@ -15,21 +15,15 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 
 ## ease of spinning
 
-from easiest to hardest, ranked as best I can.
-
-1. flax? This is a guess
-1. hemp
-1. banana
-1. rose
+- **easy:** flax, hemp
+- **middling:** banana
+- **hard:** rose
 
 ## texture (of final yarn)
 
-from best to worst, ranked as best I can.
-
-1. rose
-1. banana
-1. flax
-1. hemp   
+- **softest:** rose
+- **pleasant:** banana
+- **itchy:** hemp, flax   
 
 ## per-fiber breakdown
 
