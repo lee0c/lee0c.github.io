@@ -16,16 +16,34 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 ## ease of spinning
 
 - **easy:** flax, hemp
-- **middling:** banana
+- **middling:** banana, tencel
 - **hard:** rose
 
 ## texture (of final yarn)
 
 - **softest:** rose
-- **pleasant:** banana
+- **pleasant:** banana, tencel
 - **itchy:** hemp, flax   
 
+## density
+
+I am estimating this via yards per gram of fiber. Other than the flax (can't promise anything there), I aimed for my average spin with all of these and spun them on the same tool (Wheeliam, an Ashford Kiwi 3). Per-fiber notes mention whether they spun thick or thin if relevant.
+
+| fiber | yards | grams | yds/g |
+|---|---|---|---|
+| banana | 33 | 22 | 1.5 |
+| flax | 33 | 27 | 1.22 |
+| hemp | 41 | | |
+| rose | | | |
+| tencel | | | |
+
+
 ## per-fiber breakdown
+
+- overall, these are broadly more slippery than wool
+- most if not all of these benefitted from pre-drafting moreso than I usually do for wool
+
+written up in order of spinning. 
 
 ### banana
 
@@ -36,12 +54,24 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 ### hemp
 
 - awful feeling. awful awful awful. hate.
-- easy to spin, quite grippy, easy joins
+- easy to spin
+- quite grippy
+- easy joins
 - difficult to tell apart from stray plant matter
 
 ### rose
 
-- incredibly soft. shiny and very pretty
-- quite difficult to spin. wanted to go thin. joins were tough, it's quite slippery
+- incredibly soft; shiny and very pretty
+- quite difficult to spin
+- wanted to go thin
+- joins were tough, it's quite slippery
 - needed slow and careful drafting because of the above - I brought my wheel down to a lower ratio which is rare
+
+### tencel
+
+- also felt a bit wear-y like banana
+- spun a bit thick and liked to clump
+- not as bad as rose on the slippery front
+- very shiny, almost glittery in spots
+- dense and spun up fast
  
