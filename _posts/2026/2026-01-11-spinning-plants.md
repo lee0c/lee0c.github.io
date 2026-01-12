@@ -27,15 +27,15 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 
 ## density
 
-I am estimating this via yards per gram of fiber. Other than the flax (can't promise anything there), I aimed for my average spin with all of these and spun them on the same tool (Wheeliam, an Ashford Kiwi 3). Per-fiber notes mention whether they spun thick or thin if relevant.
+I am estimating this via yards per gram of fiber. Other than the flax (can't promise anything there), I aimed for my average spin with all of these and spun them on the same tool (Wheeliam, an Ashford Kiwi 3). Per-fiber notes mention whether they spun thick or thin if notable.
 
 | fiber | yards | grams | yds/g |
 |---|---|---|---|
 | banana | 33 | 22 | 1.5 |
 | flax | 33 | 27 | 1.22 |
 | hemp | 41 | | |
-| rose | | | |
-| tencel | | | |
+| rose | 61 | | |
+| tencel | 31 | | |
 
 
 ## per-fiber breakdown
