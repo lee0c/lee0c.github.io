@@ -55,7 +55,7 @@ and finally, 3 **ethical and trustworthiness** qualities:
 | | `.editorconfig` | find-and-replace | WSL | multi-edit | `.md` preview |
 |---|---|---|---|---|---|
 | VSCode | **yes**[1] | **yes** | **yes**[1] | **yes** | **yes** |
-| Zed | **yes[1]** | **yes** | **yes** | **yes** | **yes** |
+| Zed | **yes**[1] | **yes** | **yes** | **yes** | **yes** |
 | Kate | **yes** | **yes** | no[2] | **yes** | no |
 | Lapce | no | **yes** | no[3] | **yes** | no |
 | Pulsar | no | **yes** | no[3] | **yes** | **yes** |
