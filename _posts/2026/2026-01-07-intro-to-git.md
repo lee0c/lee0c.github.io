@@ -5,10 +5,9 @@ category: reference
 image:
     name: 2026/goldeneye-tail.jpg
     alt: "Image unrelated to post. The tail of a diving duck pokes out from the water with a small splash."
-tag: draft
+tags:
+    - software
 ---
-
-> this post is a **draft**. if you're reading it, you're probably subscribed to my Atom/RSS feed. congrats u get a secret post!
 
 alrighty, this one's a real doozy. Strap in.
 
