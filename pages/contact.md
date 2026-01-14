@@ -8,7 +8,7 @@ permalink: /contact
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-signal-messenger"></i> signal</dt>
-    <dd>inherentlee.13</dd>
+    <dd><a href="https://signal.me/#eu/PcJ86iNQeAbC-SFbxqI00gFQb6zL4Y6QDCsFDU2mokM4K40djsdNYa3hJAee79ll">inherentlee.13</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-envelope"></i> email</dt>
     <dd><a href="mailto:lee.cattarin@gmail.com" target="_blank">lee dot cattarin at gmail dot com</a></dd>
     <dt><i aria-hidden="true" class="fa-solid fa-mobile-retro"></i> text (no phone calls!)</dt>
