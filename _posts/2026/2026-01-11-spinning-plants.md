@@ -18,7 +18,8 @@ in picture, from top:
 1. banana
 1. hemp
 1. tencel
-
+1. rose
+ 
 notes on handspinning various plant fibers. Fibers were purchased as a [sample pack from Hearthside Fibers](https://www.etsy.com/listing/1141552359/plant-based-fiber-top-sampler-pack-vegan){:target="_blank"}. Unfortunately, I spun the first sample - flax - in 2023, so don't have thoughts on that left in my head. I also received a mystery sample along with the 12 named samples that *may* have been lotus - it's the smallest skein in the image. The lotus was also spun in 2023.
 
 - overall, these are broadly more slippery than wool
@@ -70,7 +71,7 @@ written up in order of spinning.
 
 - incredibly soft; shiny and very pretty
 - quite difficult to spin
-- wanted to go thin
+- wanted to spin thin
 - joins were tough, it's quite slippery
 - needed slow and careful drafting because of the above - I brought my wheel down to a lower ratio which is rare
 
