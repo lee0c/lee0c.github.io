@@ -10,7 +10,7 @@ I'm a programmer ([are you looking for a resume?](/resume)), artist&crafter - kn
 
 ![A koi pond in fall afternoon light. A slender white person in a knitted dark teal sweater crouches in front of the pond and extends hir hand towards the surface of the water. Several curious koi are arriving to see what the matter is, and one white koi has stuck its face a bit out of the water to reach toward hir hand.](assets/img/about/koi-pond.jpg)
 
-As of November 2023, my wife Brooke Osment and I have a art store: Riverside Refuge Studio. You can find various store links, or other ways to connect, on my [contact page](contact). We're based out of Vashon, WA, USA, and ship to the US.
+As of November 2023, my wife Brooke Osment and I have a art store: Riverside Refuge Studio. You can find various store links, or other ways to connect, on my [contact page](contact). We're based out of Vashon, WA, USA, and ship to the US (though if you want something *flat* shipped internationally, ping me! 3D shipping has gotten rather prohibitive, but flats are still pretty straightforward).
 
 ## pets
 
