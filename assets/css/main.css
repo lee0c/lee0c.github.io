@@ -120,6 +120,12 @@ ul, ol, dl {
 	font-family: var(--font-family);
 }
 
+@media (max-width: 650px) {
+	ul, ol, dl {
+		margin-left: 0;
+	}
+}
+
 li,
 li ul {
 	margin-top: .65rem;
@@ -135,6 +141,7 @@ dt {
 	font-weight: bold;
 }
 dd {
+	margin-left: 2rem;
 	margin-bottom: .5rem;
 }
 
@@ -150,6 +157,10 @@ a {
 	transition: text-decoration-thickness .5s;
 	padding: 0 .1rem; /* These stop the focus outline from covering text */
 	margin: 0 .1rem;
+}
+
+a.section-anchor {
+	margin: 0;
 }
 
 a:focus-visible {
