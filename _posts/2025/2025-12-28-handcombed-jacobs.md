@@ -4,7 +4,7 @@ title: handcombed jacobs handspun
 category: gallery
 image:
     name: 2025/handcombed-jacobs.jpg
-    alt: "2 skeins of dark grey handspun yarn"
+    alt: "a skein of dark grey handspun yarn"
 tags:
     - yarn
 ---
