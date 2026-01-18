@@ -18,7 +18,9 @@ permalink: /contact
     <dt><i aria-hidden="true" class="fa-solid fa-envelopes-bulk"></i> snail mail</dt>
     <dd>message me for address!</dd>
     <dt><i aria-hidden="true" class="fa-solid fa-signature"></i> guestbook?</dt>
-    <dd><a href="guestbook">guestbook.</a></dd>
+    <dd><a href="/guestbook">guestbook.</a></dd>
+    <dt><i aria-hidden="true" class="fa-solid fa-calendar-days"></i> book a meeting with me via tidycal</dt>
+    <dd><a href="https://tidycal.com/leecattarin">leecattarin</a></dd>
 </dl>
 
 ## socials
