@@ -9,4 +9,4 @@ tags:
     - yarn
 ---
 
-Fiber from Paradise Fibers. 70% Blue-Faced Leicester 30% tussah silk.
+Fiber from [Woolgatherings](https://woolgatherings.com){:target="_blank"}. 70% Blue-Faced Leicester 30% tussah silk.
