@@ -29,7 +29,7 @@ notes on handspinning various plant fibers. Fibers were purchased as a [sample p
 
 - **easy:** flax, hemp
 - **middling:** banana, tencel
-- **hard:** rose
+- **hard:** rose, ramie
 
 ## texture (of final yarn)
 
@@ -49,6 +49,7 @@ I am estimating this via yards per gram of fiber. Other than the flax and lotus 
 | lotus | 16 | 12 | 1.33 |
 | rose | 60 | 29 | 2.07 |
 | tencel | 31 | 29 | 1.07 |
+| ramie | 7.5 | 5 | 1.5 |
 
 ## per-fiber breakdown
 
@@ -82,4 +83,11 @@ written up in order of spinning.
 - not as bad as rose on the slippery front
 - very shiny, almost glittery in spots
 - dense and spun up fast
+
+### ramie
+
+- hate this hate hate hate
+- slippery af
+- **constantly** splitting all over the place so I couldn't keep the fibers aligned in the slightest
+- stopped after 5g because it sucked and I didn't care to finish it
  
