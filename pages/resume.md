@@ -130,7 +130,7 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>Solstice Market (<a href="https://beall-greenhouses-market.pages.dev" target="_blank">beall-greenhouses-market.pages.dev</a>)</h4>
+<h4>Beall Greenhouses (<a href="https://beall-greenhouses-market.pages.dev" target="_blank">beall-greenhouses-market.pages.dev</a>)</h4>
 <p class="col2"><time datetime="2025-10">October 2025</time> – Present</p>
 </div>
 
