@@ -4,7 +4,7 @@ title: rambouillet handspun
 category: gallery
 image:
     name: 2026/rambouillet-handspun.jpg
-    alt: "loose loops of yarn that has been dyed a teal and green blend in many shades and tints."
+    alt: "1 large and 2 small skeins of handspun yarn in a sport or DK weight that has been dyed in light and dark teal, green, and rusty green-gold."
 tags:
     - yarn
 ---
