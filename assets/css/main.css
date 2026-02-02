@@ -103,7 +103,7 @@ p {
 	margin-bottom: 1em;
 	margin-left: 0;
 	margin-right: 0;
-	line-height: 1.65;
+	line-height: 1.25;
 	font-family: var(--font-family);
 }
 
@@ -209,7 +209,7 @@ blockquote {
 	margin: 10px 20px;
 	padding: 0px 15px;
 	border-radius: 1rem;
-	line-height: 1.5;
+	line-height: 1.25;
 }
 
 blockquote,
