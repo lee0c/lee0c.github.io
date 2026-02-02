@@ -123,7 +123,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2025-11">November 2025</time> – Present</p>
 </div>
 
-<p>Created logo, develops and maintains website, and manages communication and logistics for a ~30 person global community building project.</p>
+<p>Created logo, develops and maintains website, and manages communication and logistics for a ~40 person global community building project.</p>
 </div>
 
 <div class="spacer"></div>
