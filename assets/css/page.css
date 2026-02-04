@@ -148,7 +148,7 @@
 
 .color {
 	border: .125rem solid var(--color-font);
-	border-radius: 1rem;
+	border-radius: 2rem;
 	padding: .5rem;
 	text-align: center;
 	width: 65%;
