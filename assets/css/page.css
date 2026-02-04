@@ -143,3 +143,34 @@
 	margin: 0;
 	line-height: 1.65;
 }
+
+/* Palette page */
+
+.color {
+	border: .125rem solid var(--color-font);
+	border-radius: 1rem;
+	padding: .5rem;
+	text-align: center;
+	width: 65%;
+	margin: 1rem auto;
+	font-weight: bold;
+}
+
+#dark,
+#teal-dark,
+#pink-dark {
+	color: var(--color-light);
+}
+
+#light,
+#teal-light,
+#pink-light {
+	color: var(--color-dark);
+}
+
+#dark { background-color: var(--color-dark); }
+#light { background-color: var(--color-light); }
+#teal-dark { background-color: var(--color-teal-dark); }
+#teal-light { background-color: var(--color-teal-light); }
+#pink-dark { background-color: var(--color-pink-dark); }
+#pink-light { background-color: var(--color-pink-light); }
