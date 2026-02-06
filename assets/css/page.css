@@ -21,6 +21,7 @@
 .post-content h1 {
 	margin-bottom: .25rem;
 	border-bottom: .25rem solid var(--color-pink);
+	margin-bottom: .5rem;
 }
 
 .post-date {
