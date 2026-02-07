@@ -123,7 +123,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2026-02">February 2026</time> – Present</p>
 </div>
 
-<p>Designed logo and develops and maintains website for a just-launching project to build community and help people find support.</p>
+<p>Designed logo and develops and maintains Eleventy-based website for a just-launching project to build community and help people find support.</p>
 </div>
 
 <div class="spacer"></div>
