@@ -119,11 +119,22 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
+<h4>Spoonfairies (<a href="https://inherentlee.codeberg.page/spoonfairies" target="_blank">inherentlee.codeberg.page/spoonfairies</a>)</h4>
+<p class="col2"><time datetime="2026-02">February 2026</time> – Present</p>
+</div>
+
+<p>Designed logo and develops and maintains Eleventy-based website for a just-launching project to build community and help people find support.</p>
+</div>
+
+<div class="spacer"></div>
+
+<div class="job">
+<div class="two-col job-details">
 <h4>Siblinghood of the Traveling Greeting Card (<a href="https://siblinghood.quest" target="_blank">siblinghood.quest</a>)</h4>
 <p class="col2"><time datetime="2025-11">November 2025</time> – Present</p>
 </div>
 
-<p>Created logo, develops and maintains website, and manages communication and logistics for a ~40 person global community building project.</p>
+<p>Designed logo, develops and maintains website, and manages communication and logistics for a ~40 person global community building project.</p>
 </div>
 
 <div class="spacer"></div>
@@ -134,7 +145,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2025-10">October 2025</time> – Present</p>
 </div>
 
-<p>Created logo, develops and maintains website, and manages artist information for the Beall Greenhouses artist studios.</p>
+<p>Designed logo, develops and maintains website, and manages artist information for the Beall Greenhouses artist studios.</p>
 </div>
 
 <div class="spacer"></div>
