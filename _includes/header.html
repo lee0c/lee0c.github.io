@@ -4,56 +4,56 @@
 	</a>
 	<nav id="menu">
 		<ul>
-			{% if page.url == "/reference" %}
-			<li id="current-page">
-			{% else %}
 			<li>
-			{% endif %}
+			{% if page.url == "/reference" %}
+				<a aria-current="page" href="/reference" title="reference" aria-label="reference">
+			{% else %}
 				<a href="/reference" title="reference" aria-label="reference">
+			{% endif %}
 					<i class="fa-regular fa-folder-open" aria-hidden="true"></i>
 					<span class="header-text"> reference</span>
 				</a>
 			</li>
 
-			{% if page.url == "/gallery" %}
-			<li id="current-page">
-			{% else %}
 			<li>
-			{% endif %}
+			{% if page.url == "/gallery" %}
+				<a aria-current="page" href="/gallery" title="art gallery" aria-label="art gallery">
+			{% else %}
 				<a href="/gallery" title="art gallery" aria-label="art gallery">
+			{% endif %}
 					<i class="fa-regular fa-images" aria-hidden="true"></i>
 					<span class="header-text"> gallery</span>
 				</a>
 			</li>
 
-			{% if page.url == "/" %}
-			<li id="current-page">
-			{% else %}
 			<li>
-			{% endif %}
+			{% if page.url == "/" %}
+				<a aria-current="page" href="/" title="home" aria-label="home">
+			{% else %}
 				<a href="/" title="home" aria-label="home">
+			{% endif %}
 					<i class="fa fa-solid fa-crow" aria-hidden="true"></i>
 					<span class="header-text"> home</span>
 				</a>
 			</li>
 
-			{% if page.url == "/about" %}
-			<li id="current-page">
-			{% else %}
 			<li>
-			{% endif %}
+			{% if page.url == "/about" %}
+				<a aria-current="page" href="/about" title="about Lee" aria-label="about Lee">
+			{% else %}
 				<a href="/about" title="about Lee" aria-label="about Lee">
+			{% endif %}
 					<i class="fa-regular fa-user" aria-hidden="true"></i>
 					<span class="header-text"> about</span>
 				</a>
 			</li>
 
-			{% if page.url == "/contact" %}
-			<li id="current-page">
-			{% else %}
 			<li>
-			{% endif %}
+			{% if page.url == "/contact" %}
+				<a aria-current="page" href="/contact" title="contact/shops" aria-label="contact/shops">
+			{% else %}
 				<a href="/contact" title="contact/shops" aria-label="contact/shops">
+			{% endif %}
 					<i class="fa-solid fa-envelope-open-text" aria-hidden="true"></i>
 					<span class="header-text"> contact</span>
 				</a>
