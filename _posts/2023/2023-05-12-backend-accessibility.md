@@ -84,3 +84,4 @@ These are bits of feedback or further thoughts that have yet to be integrated in
 
 - [Tabs vs. spaces - Adam Tuttle](https://adamtuttle.codes/blog/2021/tabs-vs-spaces-its-an-accessibility-issue/){:target="_blank"}
 - [Accessible numbers](https://accessiblenumbers.com){:target="_blank"}
+- [Chartability](https://chartability.fizz.studio){:target="_blank"} (data visualization)
