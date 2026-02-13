@@ -94,18 +94,18 @@
 	box-shadow: .05rem .05rem var(--color-shadow);
 }
 
-#current-page a {
+a[aria-current="page"] {
 	border-color: var(--color-teal);
 	color: var(--color-teal);
 }
 
-#current-page a:focus-visible {
+a[aria-current="page"]:focus-visible {
 	color: var(--color-bg);
 	background-color: var(--color-teal);
 }
 
 @media (any-hover: hover) {
-	#current-page a:hover {
+	a[aria-current="page"]:hover {
 		color: var(--color-bg);
 		background-color: var(--color-teal);
 	}
@@ -116,18 +116,18 @@
 	padding-left: .25rem;
 }
 
-#current-page i {
+a[aria-current="page"] i {
 	color: var(--color-pink);
 }
 
 .site-header a:focus-visible i,
-#current-page a:focus-visible i {
+a[aria-current="page"] a:focus-visible i {
 	color: var(--color-bg);
 }
 
 @media (any-hover: hover) {
 	.site-header a:hover i,
-	#current-page a:hover i {
+	a[aria-current="page"] a:hover i {
 		color: var(--color-bg);
 	}
 }
@@ -136,7 +136,7 @@
 	.header-text {
 		display: none;
 	}
-	
+
 	.site-header a {
 		padding: .15rem .5rem;
 	}
