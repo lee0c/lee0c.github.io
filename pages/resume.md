@@ -119,11 +119,22 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
+<h4>Lessons (<a href="https://inherentlee.codeberg.page/lessons" target="_blank">inherentlee.codeberg.page/lessons</a>)</h4>
+<p class="col2"><time datetime="2026-02">February 2026</time> – Present</p>
+</div>
+
+<p>Designs, develops, and maintains Eleventy-based website that details lessons learned while building with Eleventy.</p>
+</div>
+
+<div class="spacer"></div>
+
+<div class="job">
+<div class="two-col job-details">
 <h4>Spoonfairies (<a href="https://inherentlee.codeberg.page/spoonfairies" target="_blank">inherentlee.codeberg.page/spoonfairies</a>)</h4>
 <p class="col2"><time datetime="2026-02">February 2026</time> – Present</p>
 </div>
 
-<p>Designed logo and develops and maintains Eleventy-based website for a just-launching project to build community and help people find support.</p>
+<p>Designs, develops, and maintains Eleventy-based website for a just-launching project to build community and help people find support.</p>
 </div>
 
 <div class="spacer"></div>
@@ -134,7 +145,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2025-11">November 2025</time> – Present</p>
 </div>
 
-<p>Designed logo, develops and maintains website, and manages communication and logistics for a ~40 person global community building project.</p>
+<p>Designs, develops, and maintains website. Manages communication and logistics for a ~40 person global community building project.</p>
 </div>
 
 <div class="spacer"></div>
@@ -145,7 +156,7 @@ Developed a chatbot add-on for the Azure Android application.
 <p class="col2"><time datetime="2025-10">October 2025</time> – Present</p>
 </div>
 
-<p>Designed logo, develops and maintains website, and manages artist information for the Beall Greenhouses artist studios.</p>
+<p>Created logo. Designs, develops, and maintains website. Manages artist information for the Beall Greenhouses artist studios.</p>
 </div>
 
 <div class="spacer"></div>
