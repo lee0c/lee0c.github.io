@@ -1,8 +1,8 @@
 :root {
 	color-scheme: light dark;
 
-	--font-family: 'Atkinson Hyperlegible', sans-serif;
-	--font-family-code: 'Source Code Pro', monospace;
+	--font-family: 'Atkinson Hyperlegible Next', sans-serif;
+	--font-family-code: 'Atkinson Hyperlegible Mono', monospace;
 	--color-dark: #2e303e;
 	--color-light: #ebeeef;
 	--color-teal-dark: #18737b;
