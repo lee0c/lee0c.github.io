@@ -1,8 +1,8 @@
 .page-content {
 	max-width: 800px;
 	display: block;
-	margin: 10px auto 10px;
-	padding: 0px 10px 10px;
+	margin: .5rem auto 0;
+	padding: 0 .5rem;
 	color: var(--color-font);
 }
 
@@ -54,30 +54,30 @@
 }
 
 /* anchor links */
-
 .section-anchor {
 	font-size: .6em;
 	vertical-align: middle;
-	color: var(--color-teal);
+	color: var(--color-pink);
 	border-radius: 1rem;
-	border: solid .1rem var(--color-teal);
+	border: solid .1rem;
 	box-shadow: .15rem .15rem var(--color-shadow);
 	position: relative;
 	top: 0;
 	left: 0;
 	transition: top .1s ease-in, left .1s ease-in;
 	padding: 0 .5rem;
+	margin: 0;
 }
 
 .section-anchor:focus-visible {
-	background-color: var(--color-teal);
+	background-color: var(--color-pink);
 	color: var(--color-bg);
 	outline: none;
 }
 
 @media (any-hover: hover) {
 	.section-anchor:hover {
-		background-color: var(--color-teal);
+		background-color: var(--color-pink);
 		color: var(--color-bg);
 		outline: none;
 	}
@@ -103,8 +103,56 @@
 	left: .1rem;
 }
 
-/* Resume page only! */
+/* Tags */
+.tag {
+	position: relative;
+	top: 0;
+	left: 0;
+	transition: top .1s ease-in, left .1s ease-in;
+	text-decoration: none;
+	color: var(--color-teal);
+	padding: 0 .5rem;
+	border-radius: 1rem;
+	box-shadow: .15rem .15rem var(--color-shadow);
+	border: .08rem solid var(--color-teal);
+	line-height: 2;
+}
 
+.tag:focus-visible {
+	outline: none;
+	background-color: var(--color-teal);
+	color: var(--color-bg);
+}
+
+@media (any-hover: hover) {
+	.tag:hover {
+		outline: none;
+		background-color: var(--color-teal);
+		color: var(--color-bg);
+	}
+}
+
+@media (forced-colors: active) {
+	.tag:focus-visible {
+		outline-offset: .08rem;
+		outline: .08rem solid;
+	}
+
+	@media (any-hover: hover) {
+		.tag:hover {
+			outline-offset: .08rem;
+			outline: .08rem solid;
+		}
+	}
+}
+
+.tag:active {
+	top: .1rem;
+	left: .1rem;
+	box-shadow: .05rem .05rem var(--color-shadow);
+}
+
+/* Resume page only! */
 .two-col {
 	display: flex;
 	flex-flow: row wrap;
@@ -158,19 +206,23 @@
 }
 
 #dark,
+#dark-alt,
 #teal-dark,
 #pink-dark {
 	color: var(--color-light);
 }
 
 #light,
+#light-alt,
 #teal-light,
 #pink-light {
 	color: var(--color-dark);
 }
 
 #dark { background-color: var(--color-dark); }
+#dark-alt { background-color: var(--color-dark-alt); }
 #light { background-color: var(--color-light); }
+#light-alt { background-color: var(--color-light-alt); }
 #teal-dark { background-color: var(--color-teal-dark); }
 #teal-light { background-color: var(--color-teal-light); }
 #pink-dark { background-color: var(--color-pink-dark); }

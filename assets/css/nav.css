@@ -149,19 +149,41 @@ a[aria-current="page"] a:focus-visible i {
 .footer {
 	position: relative;
 	top: var(--height-header-offset);
+	display: flex;
+	justify-content: center;
 	text-align: center;
 	line-height: 3rem;
 	width: 100%;
 	min-height: 2rem;
+	padding: 1rem 0;
+	gap: .35rem;
 }
 
 .footer p {
-	color: var(--color-pink);
+	margin: 0;
+	font-size: .9rem;
 	font-weight: bold;
 }
 
+.footer p:nth-child(2)::before,
+.footer p:nth-child(2)::after {
+	content: " ● " / "";
+	color: var(--color-teal);
+	font-weight: 900;
+}
+
+@media (max-width: 650px) {
+	.footer {
+		flex-flow: column;
+	}
+	.footer p:nth-child(2)::before,
+	.footer p:nth-child(2)::after {
+		content: none;
+	}
+}
+
+
 .footer a {
-	padding: 0 .5rem;
 	border-radius: 1rem;
 	text-decoration-color: var(--color-pink);
 	text-decoration-thickness: .175rem;
@@ -175,12 +197,6 @@ a[aria-current="page"] a:focus-visible i {
 	.footer a:hover {
 		text-decoration-thickness: .35rem;
 	}
-}
-
-.footer-description {
-	display: block;
-	color: var(--color-font);
-	font-size: .9rem;
 }
 
 /* webring  navigation */

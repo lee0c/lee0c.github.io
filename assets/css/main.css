@@ -4,7 +4,9 @@
 	--font-family: 'Atkinson Hyperlegible Next', sans-serif;
 	--font-family-code: 'Atkinson Hyperlegible Mono', monospace;
 	--color-dark: #2e303e;
+	--color-dark-alt: #3c3f52;
 	--color-light: #ebeeef;
+	--color-light-alt: #dbe1e3;
 	--color-teal-dark: #18737b;
 	--color-teal-light: #25b0bc;
 	--color-pink-dark: #94195d;
@@ -34,6 +36,9 @@
 
 	--color-font: light-dark(var(--color-dark), var(--color-light));
 	--color-bg: light-dark(var(--color-light), var(--color-dark));
+
+	--color-font-alt: light-dark(var(--color-dark-alt), var(--color-light-alt));
+	--color-bg-alt: light-dark(var(--color-light-alt), var(--color-dark-alt));
 
 	--color-teal: light-dark(var(--color-teal-dark), var(--color-teal-light));
 	--color-pink: light-dark(var(--color-pink-dark), var(--color-pink-light));
@@ -70,6 +75,7 @@ main {
 }
 
 h1 {
+	margin-top: 3rem;
 	font-size: 3.5rem;
 }
 h2 {
@@ -113,15 +119,21 @@ b {
 }
 
 /* Lists */
+::marker {
+	color: var(--color-pink);
+}
+
 ul, ol, dl {
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	margin-left: 1.5rem;
-	font-family: var(--font-family);
+	margin: 1rem 0 1rem 1.5rem;
+}
+
+li ul, li ol, li dl {
+	margin-left: .5rem;
 }
 
 @media (max-width: 650px) {
-	ul, ol, dl {
+	ul, ol, dl,
+	li ul, li ol, li dl {
 		margin-left: 0;
 	}
 }
@@ -138,8 +150,9 @@ li {
 }
 
 dt {
-	font-weight: bold;
+	font-weight: 900;
 }
+
 dd {
 	margin-left: 2rem;
 	margin-bottom: .5rem;
@@ -159,10 +172,6 @@ a {
 	margin: 0 .1rem;
 }
 
-a.section-anchor {
-	margin: 0;
-}
-
 a:focus-visible {
 	text-decoration: none;
 	border-radius: 1rem;
@@ -179,7 +188,7 @@ a:active {
 	text-decoration-thickness: .4rem;
 }
 
-/* Buttons */
+/* Buttons (none used at current) */
 button {
 	color: var(--color-pink);
 	background-color: var(--color-bg);
@@ -206,41 +215,48 @@ Blockquote
 */
 
 blockquote {
-	margin: 10px 20px;
-	padding: 0px 15px;
-	border-radius: 1rem;
+	margin: .5rem 1rem;
+	padding: 0 1rem;
+	border-radius: .25rem 1rem 1rem .25rem;
 	line-height: 1.25;
+	border-left: .5rem solid var(--color-pink);
 }
 
 blockquote,
 blockquote p,
 blockquote ol,
 blockquote ul {
-	color: var(--color-bg);
-	background-color: var(--color-teal);
-}
-
-blockquote a {
-	color: var(--color-bg);
-	text-decoration-color: var(--color-bg);
+	background-color: var(--color-bg-alt);
+	padding: .5rem;
+	margin: 0;
 }
 
 /**
 * Tables
 */
 table {
-	border-collapse: collapse;
 	margin-bottom: 30px;
 	width: 100%;
+	border-spacing: 0; /* border collapse doesn't play nice with radii */
+	border-radius: .3rem;
+	border: thin solid var(--color-pink);
 }
 
-table, th, td {
-	border: 1px solid var(--color-font);
+th {
+	color: var(--color-bg);
+	background-color: var(--color-pink);
 }
+
 th, td {
-	padding: 15px;
+	padding: .5rem;
 	text-align: left;
 }
+
+tr:nth-child(even) { background-color: var(--color-bg-alt); }
+th:not(:first-child) { border-left: thin solid var(--color-bg); }
+th:first-child { border-top-left-radius: .25rem; }
+th:last-child { border-top-right-radius: .25rem; }
+td:not(:first-child) { border-left: thin solid var(--color-pink); }
 
 /**
 * Times
@@ -250,16 +266,18 @@ time {
 }
 
 /* hr */
-
 hr {
 	color: var(--color-teal);
 	border: .25rem solid var(--color-teal);
+	margin: 2rem 0;
+}
+hr:last-child {
+	margin-bottom: 0;
 }
 
 /*
 Site container
 */
-
 .container {
 	width: 95vw;
 	height: 100vh;
@@ -284,58 +302,3 @@ Site container
 		width: 65vw;
 	}
 }
-.content-wrapper h1 {
-	margin: 20px 0px 20px;
-}
-
-/*
-Tags
-*/
-
-.tag {
-	position: relative;
-	top: 0;
-	left: 0;
-	transition: top .1s ease-in, left .1s ease-in;
-	text-decoration: none;
-	color: var(--color-teal);
-	padding: 0 .5rem;
-	border-radius: 1rem;
-	box-shadow: .15rem .15rem var(--color-shadow);
-	border: .08rem solid var(--color-teal);
-}
-
-.tag:focus-visible {
-	outline: none;
-	background-color: var(--color-teal);
-	color: var(--color-bg);
-}
-
-@media (any-hover: hover) {
-	.tag:hover {
-		outline: none;
-		background-color: var(--color-teal);
-		color: var(--color-bg);
-	}
-}
-
-@media (forced-colors: active) {
-	.tag:focus-visible {
-		outline-offset: .08rem;
-		outline: .08rem solid;
-	}
-
-	@media (any-hover: hover) {
-		.tag:hover {
-			outline-offset: .08rem;
-			outline: .08rem solid;
-		}
-	}
-}
-
-.tag:active {
-	top: .1rem;
-	left: .1rem;
-	box-shadow: .05rem .05rem var(--color-shadow);
-}
-
