@@ -17,7 +17,7 @@ update: in [gender census' 2025 report](https://www.gendercensus.com/results/202
 
 ---
 
-in 2024, ~60% of respondents use "nonbinary." ~29% use "enby."
+update: in 2024, ~60% of respondents use "nonbinary." ~29% use "enby."
 
 ---
 
@@ -30,6 +30,6 @@ source: [gender census - identity words](https://www.gendercensus.com/results/20
 
 we don't know the overlap - it could be that half of nonbinary people also use enby, or that bunches of people use enby who don't call themselves nonbinary
 
-either way, there's a big chunk of nonbinary folks who don't call themselves enby - at least half of us
+either way, there's a big chunk of nonbinary folks who don't call themselves enbies - at least half of us
 
 **if you're talking about the entire community or the gender category:** please consider just saying nonbinary
