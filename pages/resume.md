@@ -79,7 +79,7 @@ Maintains website, storefront, and inventory for a diverse set of artistic goods
 <ul>
 <li>Designs and creates art/crafts in a variety of mediums ranging from visual to functional.</li>
 <li>Presents work in art shows in and around Seattle.</li>
-<li>Runs booths or studio space at <a href="/art-shows">art fairs and markets.</a></li>
+<li>Runs booths or studio space at art fairs and markets.</li>
 </ul>
 </div>
 
@@ -157,6 +157,17 @@ Developed a chatbot add-on for the Azure Android application.
 </div>
 
 <p>Created logo. Designs, develops, and maintains website. Manages artist information for the Beall Greenhouses artist studios.</p>
+</div>
+
+<div class="spacer"></div>
+
+<div class="job">
+<div class="two-col job-details">
+<h4>leecat.art (you are here!) (<a href="/">leecat.art</a>)</h4>
+<p class="col2"><time datetime="2022-10">October 2022</time> – Present</p>
+</div>
+
+<p>Designs, maintains, and creates all content.</p>
 </div>
 
 <div class="spacer"></div>
