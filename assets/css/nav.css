@@ -182,3 +182,19 @@ a[aria-current="page"] a:focus-visible i {
 	color: var(--color-font);
 	font-size: .9rem;
 }
+
+/* webring  navigation */
+.webring ul {
+	display: flex;
+	list-style: none;
+	justify-content: center;
+	gap: .35rem;
+}
+.webring li {
+	margin-left: 0;
+}
+.webring li:nth-child(2)::before,
+.webring li:nth-child(2)::after {
+	content: " ● " / "";
+	color: var(--color-pink);
+}

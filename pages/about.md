@@ -24,20 +24,32 @@ We have a dog...
 
 ## webrings
 
-this site is a member of:
+<nav class="css-joy-webring webring" aria-labelledby="css-joy-webring">
+  <h3 id="css-joy-webring">CSS Joy webring</h3>
+  <p>This site is a member of the <a rel="external" target="_blank" href="https://cs.sjoy.lol/">CSS Joy webring</a>. Navigate through the webring:</p>
+  <ul>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://webri.ng/webring/cssjoy/previous?via=https://leecat.art" target="_blank" title="CSS Joy webring - previous website">< prev</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://webri.ng/webring/cssjoy/random?via=https://leecat.art" target="_blank" title="CSS Joy webring - random website">rand</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://webri.ng/webring/cssjoy/next?via=https://leecat.art" target="_blank" title="CSS Joy webring - next website">next ></a></li>
+  </ul>
+</nav>
 
-- the [CSS Joy webring](https://cs.sjoy.lol/){:target="_blank"}. Navigate through the webring:
+<nav class="a11y-webring-club webring" aria-labelledby="a11y-webring-club">
+  <h3 id="a11y-webring-club">a11y-webring.club</h3>
+  <p>This site is a member of the <a rel="external" target="_blank" href="https://a11y-webring.club/">a11y-webring.club</a>. Navigate through the webring:</p>
+  <ul>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/prev" target="_blank" title="a11y-webring.club - previous website">< prev</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/random" target="_blank" title="a11y-webring.club - random website">rand</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://a11y-webring.club/next" target="_blank" title="a11y-webring.club - next website">next ></a></li>
+  </ul>
+</nav>
 
-<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/previous?via=https://leecat.art" target="_blank">&lt; prev</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/random?via=https://leecat.art" target="_blank">rand</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://webri.ng/webring/cssjoy/next?via=https://leecat.art" target="_blank">next &gt;</a>
-</div>
-
-- the [No AI webring](https://baccyflap.com/noai/){:target="_blank"}. Navigate through the webring:
-
-<div style="display: flex; justify-content: center; margin-bottom: 2rem;">
-    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?prv&s=lee" target="_blank">&lt; prev</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?rnd" target="_blank">rand</a>|
-    <a style="margin: 0; padding: 0 1rem;" href="https://baccyflap.com/noai/?nxt&s=lee" target="_blank">next &gt;</a>
-</div>
+<nav class="no-ai-webring webring" aria-labelledby="no-ai-webring">
+  <h3 id="no-ai-webring">No AI webring</h3>
+  <p>This site is a member of the <a rel="external" target="_blank" href="https://baccyflap.com/noai/">No AI webring</a>. Navigate through the webring:</p>
+  <ul>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://baccyflap.com/noai/?prv&s=lee" target="_blank" title="No AI webring - previous website">< prev</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://baccyflap.com/noai/?rnd" target="_blank" title="No AI webring - random website">rand</a></li>
+    <li><a rel="external" referrerpolicy="strict-origin" href="https://baccyflap.com/noai/?nxt&s=lee" target="_blank" title="No AI webring - next website">next ></a></li>
+  </ul>
+</nav>
