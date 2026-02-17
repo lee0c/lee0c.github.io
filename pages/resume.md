@@ -119,7 +119,7 @@ Developed a chatbot add-on for the Azure Android application.
 
 <div class="job">
 <div class="two-col job-details">
-<h4>Lessons (<a href="https://inherentlee.codeberg.page/lessons" target="_blank">inherentlee.codeberg.page/lessons</a>)</h4>
+<h4>11ty Lessons (<a href="https://inherentlee.codeberg.page/lessons" target="_blank">inherentlee.codeberg.page/lessons</a>)</h4>
 <p class="col2"><time datetime="2026-02">February 2026</time> – Present</p>
 </div>
 
