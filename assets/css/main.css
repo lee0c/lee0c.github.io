@@ -99,11 +99,11 @@ body img {
 
 p {
 	display: block;
-	margin-top: 1em;
-	margin-bottom: 1em;
+	margin-top: 1.25em;
+	margin-bottom: 1.25em;
 	margin-left: 0;
 	margin-right: 0;
-	line-height: 1.25;
+	line-height: 1.4;
 	font-family: var(--font-family);
 }
 
