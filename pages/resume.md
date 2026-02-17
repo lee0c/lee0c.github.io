@@ -79,7 +79,7 @@ Maintains website, storefront, and inventory for a diverse set of artistic goods
 <ul>
 <li>Designs and creates art/crafts in a variety of mediums ranging from visual to functional.</li>
 <li>Presents work in art shows in and around Seattle.</li>
-<li>Runs booths or studio space at art fairs and markets.</li>
+<li>Runs booths or studio space at <a href="/art-shows">art fairs and markets.</a></li>
 </ul>
 </div>
 
