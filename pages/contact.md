@@ -28,6 +28,8 @@ permalink: /contact
     <dd><a rel="me" href="https://flipping.rocks/@inherentlee" target="_blank">@inherentlee@flipping.rocks</a> | <a rel="me" href="https://weirder.earth/@inherentlee" target="_blank">@inherentlee@weirder.earth</a> (largely unused)</dd>
     <dt><i aria-hidden="true" class="fa-brands fa-twitch"></i> twitch</dt>
     <dd><a href="https://twitch.tv/inherentlee" target="_blank">inherentlee</a></dd>
+    <dt><i aria-hidden="true" class="fa-solid fa-icicles"></i> codeberg</dt>
+    <dd><a href="https://codeberg.org/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-github"></i> github</dt>
     <dd><a href="https://github.com/lee0c" target="_blank">lee0c</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-ravelry"></i> ravelry</dt>
@@ -104,7 +106,7 @@ if pricing is an issue for you, reach out and we can work out sliding scale opti
 
 <dl>
     <dt><i aria-hidden="true" class="fa-brands fa-linkedin"></i> linkedin</dt>
-    <dd><a href="https://www.linkedin.com/in/lee-cattarin-5a0b39128/" target="_blank">Lee Cattarin</a></dd>
+    <dd><a href="https://www.linkedin.com/in/lee-cattarin/" target="_blank">Lee Cattarin</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-instagram"></i> instagram</dt>
     <dd><a href="https://instagram.com/inherentlee" target="_blank">inherentlee</a></dd>
     <dt><i aria-hidden="true" class="fa-brands fa-facebook"></i> facebook</dt>
