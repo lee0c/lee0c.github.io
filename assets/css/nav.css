@@ -108,6 +108,7 @@ a[aria-current="page"]:focus-visible {
 	a[aria-current="page"]:hover {
 		color: var(--color-bg);
 		background-color: var(--color-teal);
+		border-color: var(--color-teal);
 	}
 }
 
