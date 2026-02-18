@@ -101,6 +101,7 @@ a[aria-current="page"] {
 
 a[aria-current="page"]:focus-visible {
 	color: var(--color-bg);
+	border-color: var(--color-teal);
 	background-color: var(--color-teal);
 }
 
