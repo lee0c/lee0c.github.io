@@ -6,16 +6,18 @@ layout: default
 	<h1>
 		{{ page.title }}
 	</h1>
-	{% if page.tags.size > 0 %}
-		<p class="tag-block">
-			{% for tag in page.tags %}
-				<a class="tag" href="/tag/{{ tag }}">{{ tag }}</a>
-			{% endfor %}
-		</p>
-	{% endif %}
-	{% if site.hide_post_date != true %}
-		{% include post-date.html %}
-	{% endif %}
+	<div class="post-metadata">
+		{% if site.hide_post_date != true %}
+			{% include post-date.html %}
+		{% endif %}
+		{% if page.tags.size > 0 %}
+			<ul class="taglist-post">
+				{% for tag in page.tags %}
+					<li><a class="tag" href="/tag/{{ tag }}">{{ tag }}</a></li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+	</div>
 	{% if page.image %}
 		<div class="featured-image">
 			<img src="{{ site.github.url }}/assets/img/{{ page.image.name }}" alt="{{ page.image.alt }}">

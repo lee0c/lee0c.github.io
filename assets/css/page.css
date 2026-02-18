@@ -24,17 +24,34 @@
 	margin-bottom: .5rem;
 }
 
-.post-date {
-	display: block;
-	margin-bottom: 0;
-	margin-top: .5rem;
-	font-weight: unset;
-	color: var(--color-grey);
-	font-size: .85rem;
+.post-metadata {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	align-items: center;
+	margin: .5rem 0;
+	row-gap: .5rem;
 }
 
-.tag-block {
-	text-align: right;
+.post-date {
+	display: block;
+	margin: 0;
+	font-weight: unset;
+	color: var(--color-grey);
+	font-size: .9rem;
+}
+
+.taglist-post {
+	margin: 0;
+	list-style: none;
+	flex-grow: 10;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-end;
+	gap: .5rem;
+}
+
+.taglist-post li {
 	margin: 0;
 }
 
