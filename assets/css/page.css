@@ -152,6 +152,26 @@
 	box-shadow: .05rem .05rem var(--color-shadow);
 }
 
+.tag-intro {
+	text-align: center;
+	font-weight: 900;
+	margin-bottom: 0;
+}
+
+.taglist {
+	display: flex;
+	flex-flow: row wrap;
+	list-style: none;
+	margin-left: 0;
+	gap: .5rem;
+	justify-content: center;
+}
+
+.taglist li {
+	margin: 0;
+	font-size: 1.1rem;
+}
+
 /* Resume page only! */
 .two-col {
 	display: flex;
