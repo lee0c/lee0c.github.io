@@ -205,6 +205,7 @@ a[aria-current="page"] a:focus-visible i {
 	list-style: none;
 	justify-content: center;
 	gap: .35rem;
+	margin-left: 0;
 }
 .webring li {
 	margin-left: 0;

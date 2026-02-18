@@ -280,7 +280,7 @@ Site container
 */
 .container {
 	width: 95vw;
-	height: 100vh;
+	height: calc(100vh - var(--height-header-offset));
 	margin: auto;
 }
 .content-wrapper {
@@ -288,7 +288,7 @@ Site container
 	top: var(--height-header-offset);
 	margin: auto;
 	display: block;
-	width: 95vw;
+	width: 92vw;
 }
 
 @media (min-width: 800px) {
